@@ -14,3 +14,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 13,2026-07-14T00:04:39.308987+00:00,ATP,ATP Bastad Round Of 32,Clay,2026-07-12T11:00:00Z,Hugo Gaston,Daniel Altmaier,Daniel Altmaier,0.652,0.617,1.62,5.7,9.2,5.75,open,,
 14,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-12T11:00:00Z,Stan Wawrinka,Jaime Faria,Stan Wawrinka,0.385,0.366,2.73,5.1,2.9,1.81,open,,
 15,2026-07-14T06:38:08.338897+00:00,ATP,ATP Umag Round Of 32,Clay,2026-07-14T17:00:00Z,Marco Cecchinato,Roman Andres Burruchaga,Roman Andres Burruchaga,0.621,0.587,1.7,5.8,8.2,5.12,open,,
+16,2026-07-14T08:54:21.920163+00:00,ATP,ATP Bastad Round Of 32,Clay,2026-07-12T11:00:00Z,Dalibor Svrcina,Grigor Dimitrov,Grigor Dimitrov,0.678,0.637,1.57,6.5,11.4,7.12,open,,
