@@ -1,5 +1,5 @@
 id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_prob,kalshi_prob,odds,edge_pct,kelly_pct,stake,status,settled_ts,pnl
-1,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-12T11:00:00Z,Aleksandr Shevchenko,Alexandre Muller,Alexandre Muller,0.536,0.397,2.52,35.2,23.1,14.44,open,,
+1,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-12T11:00:00Z,Aleksandr Shevchenko,Alexandre Muller,Alexandre Muller,0.536,0.397,2.52,35.2,23.1,14.44,lost,2026-07-14T16:54:02.930984+00:00,-14.44
 2,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-14T11:30:00Z,Quentin Halys,Federico Cina,Quentin Halys,0.663,0.537,1.86,23.3,27.1,16.94,won,2026-07-14T16:28:06.626409+00:00,14.57
 3,2026-07-14T00:04:39.308987+00:00,ATP,ATP Bastad Round Of 32,Clay,2026-07-14T13:10:00Z,Botic Van de Zandschulp,Taro Daniel,Botic Van de Zandschulp,0.751,0.617,1.62,21.7,35.0,21.88,won,2026-07-14T16:28:06.626409+00:00,13.57
 4,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-12T11:00:00Z,Pedro Martinez,Yannick Hanfmann,Pedro Martinez,0.313,0.263,3.8,18.9,6.8,4.25,lost,2026-07-14T16:28:06.626409+00:00,-4.25
@@ -10,10 +10,12 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 9,2026-07-14T00:04:39.308987+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-13T11:00:00Z,Tamara Zidansek,Emiliana Arango,Tamara Zidansek,0.538,0.498,2.01,8.1,8.1,5.06,won,2026-07-14T16:28:06.626409+00:00,5.11
 10,2026-07-14T00:04:39.308987+00:00,ATP,ATP Bastad Round Of 32,Clay,2026-07-12T11:00:00Z,Moise Kouame,Nuno Borges,Moise Kouame,0.282,0.263,3.8,7.3,2.6,1.63,lost,2026-07-14T16:28:06.626409+00:00,-1.63
 11,2026-07-14T00:04:39.308987+00:00,ATP,ATP Umag Round Of 32,Clay,2026-07-12T18:00:00Z,Valentin Royer,Alex Molcan,Alex Molcan,0.67,0.627,1.6,6.9,11.6,7.25,won,2026-07-14T16:28:06.626409+00:00,4.35
-12,2026-07-14T00:04:39.308987+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-13T11:00:00Z,Anhelina Kalinina,Paula Badosa,Anhelina Kalinina,0.455,0.427,2.34,6.4,4.8,3.0,open,,
+12,2026-07-14T00:04:39.308987+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-13T11:00:00Z,Anhelina Kalinina,Paula Badosa,Anhelina Kalinina,0.455,0.427,2.34,6.4,4.8,3.0,lost,2026-07-14T16:54:02.930984+00:00,-3.0
 13,2026-07-14T00:04:39.308987+00:00,ATP,ATP Bastad Round Of 32,Clay,2026-07-12T11:00:00Z,Hugo Gaston,Daniel Altmaier,Daniel Altmaier,0.652,0.617,1.62,5.7,9.2,5.75,won,2026-07-14T16:28:06.626409+00:00,3.57
 14,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-12T11:00:00Z,Stan Wawrinka,Jaime Faria,Stan Wawrinka,0.385,0.366,2.73,5.1,2.9,1.81,open,,
 15,2026-07-14T16:04:00.273930+00:00,ATP,ATP Umag Round Of 32,Clay,2026-07-14T17:00:00Z,Camilo Ugo Carabelli,Marko ToPo,Camilo Ugo Carabelli,0.695,0.457,2.19,52.0,43.8,25.0,open,,
 16,2026-07-14T16:04:00.273930+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-15T11:30:00Z,Valentin Vacherot,Yannick Hanfmann,Valentin Vacherot,0.614,0.437,2.29,40.5,31.4,3.86,open,,
 17,2026-07-14T16:28:06.626409+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-14T11:00:00Z,Panna Udvardy,Leyre Romero Gormaz,Leyre Romero Gormaz,0.454,0.325,3.08,39.7,19.1,14.9,open,,
 18,2026-07-14T16:28:06.626409+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Tamara Zidansek,Anna Bondar,Tamara Zidansek,0.377,0.345,2.9,9.0,4.7,3.67,open,,
+19,2026-07-14T16:54:02.930984+00:00,WTA,WTA Athens Round Of 32,Clay,2026-07-13T17:30:00Z,Clara Tauson,Nao Hibino,Clara Tauson,0.786,0.695,1.44,13.0,29.6,21.8,open,,
+20,2026-07-14T16:54:02.930984+00:00,WTA,WTA Athens Round Of 32,Clay,2026-07-13T13:00:00Z,Carole Monnet,Rebeka Masarova,Carole Monnet,0.386,0.366,2.73,5.4,3.1,2.28,open,,
