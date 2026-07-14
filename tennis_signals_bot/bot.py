@@ -579,4 +579,11 @@ fill('histtab', D.closed.map(p=>{
 el('histcount').textContent = D.closed.length ? `(${D.wins}–${D.losses})` : '';
 </script>
 </body>
-</html>
+</html>"""
+
+
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser(description="Bot de senales de tenis (Kalshi) con banca en paper.")
+    ap.add_argument("--open", action="store_true", help="abre dashboard.html al terminar")
+    args = ap.parse_args()
+    sys.exit(run(open_browser=args.open))
