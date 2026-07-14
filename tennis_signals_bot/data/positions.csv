@@ -13,3 +13,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 12,2026-07-14T00:04:39.308987+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-13T11:00:00Z,Anhelina Kalinina,Paula Badosa,Anhelina Kalinina,0.455,0.427,2.34,6.4,4.8,3.0,open,,
 13,2026-07-14T00:04:39.308987+00:00,ATP,ATP Bastad Round Of 32,Clay,2026-07-12T11:00:00Z,Hugo Gaston,Daniel Altmaier,Daniel Altmaier,0.652,0.617,1.62,5.7,9.2,5.75,open,,
 14,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-12T11:00:00Z,Stan Wawrinka,Jaime Faria,Stan Wawrinka,0.385,0.366,2.73,5.1,2.9,1.81,open,,
+15,2026-07-14T15:43:51.100983+00:00,ATP,ATP Umag Round Of 32,Clay,2026-07-14T17:00:00Z,Camilo Ugo Carabelli,Marko ToPo,Camilo Ugo Carabelli,0.695,0.253,3.96,174.9,59.2,25.0,open,,
+16,2026-07-14T15:43:51.100983+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-14T11:00:00Z,Panna Udvardy,Leyre Romero Gormaz,Leyre Romero Gormaz,0.454,0.253,3.96,79.6,26.9,3.86,open,,
