@@ -44,6 +44,8 @@ KELLY_FRAC = 0.25        # 1/4 de Kelly
 MAX_STAKE_FRAC = 0.10    # tope de 10% de la banca por apuesta (seguridad)
 MAX_EXPOSURE_FRAC = 0.60  # tope de banca total en juego a la vez
 MIN_STAKE = 1.0          # apuesta minima en $
+EDGE_CAP = 0.15          # #1 topa el edge para dimensionar (edges enormes = el modelo se equivoca)
+MIN_VOLUME = 500         # #4 ignora mercados de Kalshi con poco volumen (precios viejos = edges falsos)
 MAX_ODDS = config.MAX_ODDS_SIM   # tope de cuota (guarda favorito-longshot)
 # ---------------------------------------------------------------------------
 
@@ -55,7 +57,8 @@ DASH = HERE / "dashboard.html"
 
 POS_COLS = ["id", "opened_ts", "tour", "tournament", "surface", "commence_time",
             "player_a", "player_b", "pick", "model_prob", "kalshi_prob", "odds",
-            "edge_pct", "kelly_pct", "stake", "status", "settled_ts", "pnl"]
+            "edge_pct", "kelly_pct", "stake", "status", "settled_ts", "pnl",
+            "close_odds", "clv_pct"]
 
 if sys.platform == "win32":
     for _s in (sys.stdout, sys.stderr):
@@ -169,6 +172,24 @@ def run(open_browser=False):
     now_iso = now.isoformat()
     positions = _load_positions()
 
+    # 0) CLV: refresca el ULTIMO precio visto en Kalshi de cada apuesta abierta.
+    # Cuando el partido cierra deja de aparecer, y ese ultimo precio queda como el cierre.
+    try:
+        cur = {_match_key(m["player_a"], m["player_b"]): m for m in kalshi.matches(min_volume=0)}
+    except Exception:
+        cur = {}
+    for p in positions:
+        if str(p.get("status")) != "open":
+            continue
+        m = cur.get(_match_key(p["player_a"], p["player_b"]))
+        if not m:
+            continue
+        pk = _lastname(p["pick"])
+        if _lastname(m["player_a"]) == pk:
+            p["close_odds"] = m["odds_a"]
+        elif _lastname(m["player_b"]) == pk:
+            p["close_odds"] = m["odds_b"]
+
     # 1) resultados frescos de ESPN y liquidar apuestas abiertas
     tennis_results.refresh_if_stale(minutes=15)
     res = tennis_results.load_results()
@@ -176,6 +197,13 @@ def run(open_browser=False):
         if str(p.get("status")) != "open":
             continue
         r = _settle_pick(p["pick"], p["player_a"], p["player_b"], p.get("commence_time"), res)
+        if r in ("won", "lost"):
+            co = p.get("close_odds")
+            try:
+                if co not in (None, "") and float(co) > 1:
+                    p["clv_pct"] = round((float(p["odds"]) / float(co) - 1) * 100, 1)
+            except (TypeError, ValueError):
+                pass
         if r == "won":
             p["status"] = "won"
             p["pnl"] = round(float(p["stake"]) * (float(p["odds"]) - 1), 2)
@@ -201,7 +229,7 @@ def run(open_browser=False):
 
     # 2) senales actuales (modelo vs Kalshi), dimensionadas a la banca de hoy
     try:
-        sigs = kalshi_signals.signals(min_edge=MIN_EDGE, bankroll=equity)
+        sigs = kalshi_signals.signals(min_edge=MIN_EDGE, bankroll=equity, min_volume=MIN_VOLUME)
     except Exception as e:
         print(f"  (no se pudieron leer senales de Kalshi: {e})")
         sigs = []
@@ -227,7 +255,9 @@ def run(open_browser=False):
         k = _match_key(s["player_a"], s["player_b"])
         if k in open_keys or k in decided:
             continue
-        f = float(s["kelly_pct"]) / 100.0
+        edge = float(s["edge_pct"]) / 100.0
+        o_net = float(s["odds"])
+        f = min(edge, EDGE_CAP) / (o_net - 1) if o_net > 1 else 0.0   # Kelly con edge topado (#1)
         stake = round(equity * min(f * KELLY_FRAC, MAX_STAKE_FRAC), 2)
         if stake < MIN_STAKE:
             continue
@@ -243,7 +273,7 @@ def run(open_browser=False):
             "player_a": s["player_a"], "player_b": s["player_b"], "pick": s["pick"],
             "model_prob": s["p_model"], "kalshi_prob": s["kalshi_prob"], "odds": s["odds"],
             "edge_pct": s["edge_pct"], "kelly_pct": s["kelly_pct"], "stake": stake,
-            "status": "open", "settled_ts": "", "pnl": "",
+            "status": "open", "settled_ts": "", "pnl": "", "close_odds": "", "clv_pct": "",
         })
         open_keys.add(k)
         exposure = round(exposure + stake, 2)
@@ -290,6 +320,16 @@ def run(open_browser=False):
 # ---------- dashboard HTML autonomo ----------------------------------------
 def _write_dashboard(equity, cash, at_risk, realized, wins, losses,
                      open_pos, settled, sigs, eq_hist, mc, now_iso, placed):
+    clvs = []
+    for p in settled:
+        c = p.get("clv_pct")
+        try:
+            if c not in (None, "") and pd.notna(c):
+                clvs.append(float(c))
+        except (TypeError, ValueError):
+            pass
+    clv_avg = round(sum(clvs) / len(clvs), 1) if clvs else None
+    clv_beat = round(100.0 * sum(1 for c in clvs if c > 0) / len(clvs)) if clvs else None
     payload = {
         "start": START, "equity": equity, "cash": cash, "at_risk": at_risk,
         "realized": round(realized, 2), "wins": wins, "losses": losses,
@@ -301,6 +341,7 @@ def _write_dashboard(equity, cash, at_risk, realized, wins, losses,
         "closed": [_pos_view(p) for p in sorted(settled, key=lambda x: str(x.get("settled_ts", "")), reverse=True)],
         "signals": [_sig_view(s) for s in sigs],
         "mc": mc,
+        "clv_avg": clv_avg, "clv_beat": clv_beat, "clv_n": len(clvs),
     }
     html = _DASHBOARD_TEMPLATE.replace("/*DATA*/", json.dumps(payload, ensure_ascii=False))
     with open(DASH, "w", encoding="utf-8", newline="") as f:
@@ -418,6 +459,8 @@ canvas{max-height:230px}
 
   <div class="sub" style="margin:2px 0 -8px">Cuota = precio de mercado (Kalshi) · Fee = comisión · Neta = cuota después del fee (a la que apuesta el bot).</div>
 
+  <div class="sub" id="clvline" style="margin:8px 0 -8px"></div>
+
   <h2>Senales de hoy <span id="sigcount"></span></h2>
   <div class="scroll"><table id="sigtab">
     <thead><tr><th>Tour</th><th>Torneo</th><th>Fecha (Perú)</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th><th class="right">Fee</th><th class="right">Neta</th>
@@ -481,6 +524,17 @@ if(D.mc){
   el('mcbox').innerHTML = '<div class="empty">Sin apuestas abiertas para proyectar.</div>';
 }
 
+// clv (marcador honesto)
+(function(){
+  const e = el('clvline'); if(!e) return;
+  if(D.clv_n){
+    const pos = D.clv_avg>=0;
+    e.innerHTML = 'CLV medio ('+D.clv_n+' liquidadas): <b class="'+(pos?'up':'down')+'">'+(pos?'+':'')+D.clv_avg+'%</b> · '+D.clv_beat+'% batió el cierre — <span style="color:var(--dim)">si sigue negativo, no hay edge real</span>';
+  } else {
+    e.textContent = 'CLV: aún sin datos (se calcula cuando cierran los mercados de Kalshi).';
+  }
+})();
+
 // equity curve
 (function(){
   const c = D.equity_curve;
@@ -525,11 +579,4 @@ fill('histtab', D.closed.map(p=>{
 el('histcount').textContent = D.closed.length ? `(${D.wins}–${D.losses})` : '';
 </script>
 </body>
-</html>"""
-
-
-if __name__ == "__main__":
-    ap = argparse.ArgumentParser(description="Bot de senales de tenis (Kalshi) con banca en paper.")
-    ap.add_argument("--open", action="store_true", help="abre dashboard.html al terminar")
-    args = ap.parse_args()
-    sys.exit(run(open_browser=args.open))
+</html>
