@@ -13,7 +13,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 12,2026-07-14T00:04:39.308987+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-13T11:00:00Z,Anhelina Kalinina,Paula Badosa,Anhelina Kalinina,0.455,0.427,2.34,6.4,4.8,3.0,lost,2026-07-14T16:54:02.930984+00:00,-3.0
 13,2026-07-14T00:04:39.308987+00:00,ATP,ATP Bastad Round Of 32,Clay,2026-07-12T11:00:00Z,Hugo Gaston,Daniel Altmaier,Daniel Altmaier,0.652,0.617,1.62,5.7,9.2,5.75,won,2026-07-14T16:28:06.626409+00:00,3.57
 14,2026-07-14T00:04:39.308987+00:00,ATP,ATP Gstaad Round Of 32,Clay,2026-07-12T11:00:00Z,Stan Wawrinka,Jaime Faria,Stan Wawrinka,0.385,0.366,2.73,5.1,2.9,1.81,open,,
-15,2026-07-14T16:04:00.273930+00:00,ATP,ATP Umag Round Of 32,Clay,2026-07-14T17:00:00Z,Camilo Ugo Carabelli,Marko ToPo,Camilo Ugo Carabelli,0.695,0.457,2.19,52.0,43.8,25.0,open,,
+15,2026-07-14T16:04:00.273930+00:00,ATP,ATP Umag Round Of 32,Clay,2026-07-14T17:00:00Z,Camilo Ugo Carabelli,Marko ToPo,Camilo Ugo Carabelli,0.695,0.457,2.19,52.0,43.8,25.0,won,2026-07-14T17:16:27.476449+00:00,29.75
 16,2026-07-14T16:04:00.273930+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-15T11:30:00Z,Valentin Vacherot,Yannick Hanfmann,Valentin Vacherot,0.614,0.437,2.29,40.5,31.4,3.86,open,,
 17,2026-07-14T16:28:06.626409+00:00,WTA,WTA Iasi Round Of 32,Clay,2026-07-14T11:00:00Z,Panna Udvardy,Leyre Romero Gormaz,Leyre Romero Gormaz,0.454,0.325,3.08,39.7,19.1,14.9,open,,
 18,2026-07-14T16:28:06.626409+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Tamara Zidansek,Anna Bondar,Tamara Zidansek,0.377,0.345,2.9,9.0,4.7,3.67,open,,
