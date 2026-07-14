@@ -2,7 +2,7 @@ name: Tennis Signals Bot
 
 on:
   schedule:
-    - cron: "0 * * * *"      # cada 3 horas (hora UTC)
+    - cron: "0 * * * *"      # cada hora (hora UTC)
   workflow_dispatch: {}          # boton para correrlo a mano
 
 permissions:
