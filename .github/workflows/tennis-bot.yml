@@ -25,6 +25,9 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
+      - name: Forzar resultados frescos de ESPN
+        run: rm -f ml/outputs/tennis_results.csv
+
       - name: Correr el bot
         run: python tennis_signals_bot/bot.py
 
@@ -34,6 +37,6 @@ jobs:
           cp tennis_signals_bot/dashboard.html docs/index.html
           git config user.name "tennis-signals-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add tennis_signals_bot/data tennis_signals_bot/dashboard.html docs/index.html ml/outputs/tennis_results.csv 2>/dev/null || true
+          git add tennis_signals_bot/data tennis_signals_bot/dashboard.html docs/index.html 2>/dev/null || true
           git commit -m "bot: $(date -u +%FT%TZ)" || echo "sin cambios que commitear"
           git push
