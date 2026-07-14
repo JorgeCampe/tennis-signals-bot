@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bot de Senales — Tenis (Kalshi)</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{
+  --bg:#0b0f16; --card:#141b26; --card2:#1b2432; --line:#243040; --txt:#e6edf5;
+  --dim:#8b97a8; --up:#22c55e; --down:#ef4444; --accent:#37d3a4; --accent2:#3b82f6;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+.wrap{max-width:1120px;margin:0 auto;padding:22px 18px 60px;}
+.top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:18px;}
+.brand{display:flex;align-items:center;gap:12px;font-weight:700;font-size:19px;}
+.brand .dot{width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 10px var(--accent);}
+.fresh{color:var(--dim);font-size:13px;}
+.hero{display:grid;grid-template-columns:1.15fr 1fr;gap:16px;margin-bottom:16px;}
+@media(max-width:820px){.hero{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;}
+.bankroll{font-size:44px;font-weight:800;letter-spacing:-1px;line-height:1;}
+.sub{color:var(--dim);font-size:13px;margin-top:6px;}
+.pill{display:inline-block;padding:3px 10px;border-radius:999px;font-weight:700;font-size:13px;}
+.up{color:var(--up)} .down{color:var(--down)}
+.pill.up{background:rgba(34,197,94,.13)} .pill.down{background:rgba(239,68,68,.13)}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:4px 0 18px;}
+@media(max-width:820px){.kpis{grid-template-columns:repeat(2,1fr)}}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;}
+.kpi .l{color:var(--dim);font-size:12px;text-transform:uppercase;letter-spacing:.4px;}
+.kpi .v{font-size:23px;font-weight:800;margin-top:6px;}
+h2{font-size:15px;margin:26px 0 10px;color:var(--txt);}
+h2 span{color:var(--dim);font-weight:500;font-size:13px;}
+table{width:100%;border-collapse:collapse;font-size:13.5px;}
+th,td{padding:9px 10px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap;}
+th{color:var(--dim);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.3px;}
+tr:last-child td{border-bottom:none}
+.tag{font-size:11px;padding:2px 7px;border-radius:6px;background:var(--card2);color:var(--dim);}
+.tag.atp{color:#7dd3fc}.tag.wta{color:#f0abfc}
+.badge{font-weight:700;padding:2px 8px;border-radius:6px;font-size:12px;}
+.badge.win{background:rgba(34,197,94,.15);color:var(--up)}
+.badge.lose{background:rgba(239,68,68,.15);color:var(--down)}
+.badge.open{background:rgba(59,130,246,.15);color:#93c5fd}
+.badge.void{background:rgba(139,151,168,.15);color:var(--dim)}
+.mc{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:6px}
+@media(max-width:820px){.mc{grid-template-columns:repeat(2,1fr)}}
+.mc .v{font-size:20px;font-weight:800;margin-top:4px}
+.note{color:var(--dim);font-size:12.5px;line-height:1.5;margin-top:10px;
+  border-left:3px solid var(--line);padding-left:10px;}
+.right{text-align:right}
+.empty{color:var(--dim);padding:16px 4px;font-size:14px;}
+.scroll{overflow-x:auto;border:1px solid var(--line);border-radius:14px;}
+.scroll table th,.scroll table td{border-bottom:1px solid var(--line)}
+canvas{max-height:230px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="brand"><span class="dot"></span>Bot de Senales · Tenis <span style="color:var(--dim);font-weight:500">Kalshi</span></div>
+    <div class="fresh" id="fresh"></div>
+  </div>
+
+  <div class="hero">
+    <div class="card">
+      <div class="sub">Banca simulada (paper)</div>
+      <div class="bankroll" id="bankroll">—</div>
+      <div class="sub" id="roiline"></div>
+      <canvas id="curve" style="margin-top:14px"></canvas>
+    </div>
+    <div class="card">
+      <div class="sub" style="margin-bottom:6px">Proyeccion Monte Carlo · apuestas abiertas</div>
+      <div id="mcbox"></div>
+      <div class="note">Simula 5.000 escenarios asumiendo que la probabilidad del <b>modelo</b> es correcta.
+        Es una proyeccion, no resultado real. La banca de arriba solo se mueve con partidos ya liquidados por ESPN.</div>
+    </div>
+  </div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <h2>Senales de hoy <span id="sigcount"></span></h2>
+  <div class="scroll"><table id="sigtab">
+    <thead><tr><th>Tour</th><th>Torneo</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
+      <th class="right">Modelo</th><th class="right">Kalshi</th><th class="right">Ventaja</th><th class="right">Stake</th></tr></thead>
+    <tbody></tbody></table></div>
+
+  <h2>Posiciones abiertas <span id="opencount"></span></h2>
+  <div class="scroll"><table id="opentab">
+    <thead><tr><th>Tour</th><th>Torneo</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
+      <th class="right">Modelo</th><th class="right">Ventaja</th><th class="right">Stake</th></tr></thead>
+    <tbody></tbody></table></div>
+
+  <h2>Historial liquidado <span id="histcount"></span></h2>
+  <div class="scroll"><table id="histtab">
+    <thead><tr><th>Resultado</th><th>Torneo</th><th>Pick</th><th class="right">Cuota</th>
+      <th class="right">Stake</th><th class="right">P&L</th></tr></thead>
+    <tbody></tbody></table></div>
+</div>
+
+<script>
+const D = {"start": 250.0, "equity": 250.0, "cash": 128.86, "at_risk": 121.14, "realized": 0, "wins": 0, "losses": 0, "roi": 0.0, "min_edge": 5, "kelly_frac": 0.25, "updated": "2026-07-14T00:04:39.308987+00:00", "placed": 14, "equity_curve": [{"ts": "2026-07-14T00:04:39.308987+00:00", "equity": 250.0}], "open": [{"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Alexandre Muller", "rival": "Aleksandr Shevchenko", "odds": 2.52, "model": 53.6, "edge": 35.2, "stake": 14.44, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Quentin Halys", "rival": "Federico Cina", "odds": 1.86, "model": 66.3, "edge": 23.3, "stake": 16.94, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Botic Van de Zandschulp", "rival": "Taro Daniel", "odds": 1.62, "model": 75.1, "edge": 21.7, "stake": 21.88, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Pedro Martinez", "rival": "Yannick Hanfmann", "odds": 3.8, "model": 31.3, "edge": 18.9, "stake": 4.25, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "WTA", "tournament": "WTA Athens Round Of 32", "surface": "Clay", "pick": "Ann Li", "rival": "Maria Timofeeva", "odds": 1.68, "model": 69.5, "edge": 16.3, "stake": 15.12, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Nikoloz Basilashvili", "rival": "Jan Choinski", "odds": 2.46, "model": 47.2, "edge": 16.1, "stake": 6.88, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Stefanos Tsitsipas", "rival": "Ignacio Buse", "odds": 2.29, "model": 49.9, "edge": 14.2, "stake": 6.88, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "WTA", "tournament": "WTA Iasi Round Of 32", "surface": "Clay", "pick": "Elina Avanesyan", "rival": "Moyuka Uchijima", "odds": 1.76, "model": 63.8, "edge": 12.5, "stake": 10.25, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "WTA", "tournament": "WTA Iasi Round Of 32", "surface": "Clay", "pick": "Tamara Zidansek", "rival": "Emiliana Arango", "odds": 2.01, "model": 53.8, "edge": 8.1, "stake": 5.06, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Moise Kouame", "rival": "Nuno Borges", "odds": 3.8, "model": 28.2, "edge": 7.3, "stake": 1.63, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Umag Round Of 32", "surface": "Clay", "pick": "Alex Molcan", "rival": "Valentin Royer", "odds": 1.6, "model": 67.0, "edge": 6.9, "stake": 7.25, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "WTA", "tournament": "WTA Iasi Round Of 32", "surface": "Clay", "pick": "Anhelina Kalinina", "rival": "Paula Badosa", "odds": 2.34, "model": 45.5, "edge": 6.4, "stake": 3.0, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Daniel Altmaier", "rival": "Hugo Gaston", "odds": 1.62, "model": 65.2, "edge": 5.7, "stake": 5.75, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Stan Wawrinka", "rival": "Jaime Faria", "odds": 2.73, "model": 38.5, "edge": 5.1, "stake": 1.81, "status": "open", "pnl": "", "opened": "2026-07-14T00:04:39.308987+00:00", "settled": ""}], "closed": [], "signals": [{"tour": "WTA", "tournament": "WTA Iasi Round Of 32", "surface": "Clay", "pick": "Katarzyna Kawa", "odds": 2.9, "model": 53.1, "kalshi": 34.5, "edge": 53.7, "stake": 17.72, "volume": 1255.63, "rival": "Simona Waltert"}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Alexandre Muller", "odds": 2.52, "model": 53.6, "kalshi": 39.7, "edge": 35.2, "stake": 14.45, "volume": 12002.52, "rival": "Aleksandr Shevchenko"}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Quentin Halys", "odds": 1.86, "model": 66.3, "kalshi": 53.7, "edge": 23.3, "stake": 16.91, "volume": 5634.56, "rival": "Federico Cina"}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Botic Van de Zandschulp", "odds": 1.62, "model": 75.1, "kalshi": 61.7, "edge": 21.7, "stake": 21.88, "volume": 6864.84, "rival": "Taro Daniel"}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Pedro Martinez", "odds": 3.8, "model": 31.3, "kalshi": 26.3, "edge": 18.9, "stake": 4.23, "volume": 11790.62, "rival": "Yannick Hanfmann"}, {"tour": "WTA", "tournament": "WTA Athens Round Of 32", "surface": "Clay", "pick": "Ann Li", "odds": 1.68, "model": 69.5, "kalshi": 59.7, "edge": 16.3, "stake": 15.12, "volume": 9235.45, "rival": "Maria Timofeeva"}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Nikoloz Basilashvili", "odds": 2.46, "model": 47.2, "kalshi": 40.7, "edge": 16.1, "stake": 6.88, "volume": 9233.52, "rival": "Jan Choinski"}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Stefanos Tsitsipas", "odds": 2.29, "model": 49.9, "kalshi": 43.7, "edge": 14.2, "stake": 6.88, "volume": 62249.99, "rival": "Ignacio Buse"}, {"tour": "WTA", "tournament": "WTA Iasi Round Of 32", "surface": "Clay", "pick": "Elina Avanesyan", "odds": 1.76, "model": 63.8, "kalshi": 56.7, "edge": 12.5, "stake": 10.22, "volume": 874.85, "rival": "Moyuka Uchijima"}, {"tour": "WTA", "tournament": "WTA Iasi Round Of 32", "surface": "Clay", "pick": "Tamara Zidansek", "odds": 2.01, "model": 53.8, "kalshi": 49.8, "edge": 8.1, "stake": 5.04, "volume": 8661.34, "rival": "Emiliana Arango"}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Moise Kouame", "odds": 3.8, "model": 28.2, "kalshi": 26.3, "edge": 7.3, "stake": 1.64, "volume": 6981.47, "rival": "Nuno Borges"}, {"tour": "ATP", "tournament": "ATP Umag Round Of 32", "surface": "Clay", "pick": "Alex Molcan", "odds": 1.6, "model": 67.0, "kalshi": 62.7, "edge": 6.9, "stake": 7.27, "volume": 2580.34, "rival": "Valentin Royer"}, {"tour": "WTA", "tournament": "WTA Iasi Round Of 32", "surface": "Clay", "pick": "Anhelina Kalinina", "odds": 2.34, "model": 45.5, "kalshi": 42.7, "edge": 6.4, "stake": 3.0, "volume": 2315.17, "rival": "Paula Badosa"}, {"tour": "ATP", "tournament": "ATP Bastad Round Of 32", "surface": "Clay", "pick": "Daniel Altmaier", "odds": 1.62, "model": 65.2, "kalshi": 61.7, "edge": 5.7, "stake": 5.73, "volume": 2128.6, "rival": "Hugo Gaston"}, {"tour": "ATP", "tournament": "ATP Gstaad Round Of 32", "surface": "Clay", "pick": "Stan Wawrinka", "odds": 2.73, "model": 38.5, "kalshi": 36.6, "edge": 5.1, "stake": 1.83, "volume": 14449.07, "rival": "Jaime Faria"}], "mc": {"expected": 272.06, "p5": 211.57, "p50": 273.0, "p95": 329.04, "prob_profit": 73.1, "n_bets": 14, "stake_total": 121.14}};
+const money = v => (v<0?'-$':'$') + Math.abs(v).toFixed(2);
+const el = id => document.getElementById(id);
+
+// freshness
+(function(){
+  const t = new Date(D.updated), s = Math.max(0,(Date.now()-t)/60000);
+  const ago = s<1?'recien':(s<60?Math.round(s)+' min':Math.round(s/60)+' h');
+  el('fresh').textContent = 'Actualizado hace ' + ago + '  ·  edge min ' + D.min_edge + '%  ·  ¼ Kelly';
+})();
+
+// bankroll + roi
+el('bankroll').textContent = money(D.equity);
+const up = D.roi>=0;
+el('roiline').innerHTML = '<span class="pill '+(up?'up':'down')+'">'+(up?'▲ ':'▼ ')+D.roi+'%</span>'
+  + ' &nbsp;vs inicio $'+D.start.toFixed(0)+' &nbsp;·&nbsp; realizado '
+  + '<span class="'+(D.realized>=0?'up':'down')+'">'+money(D.realized)+'</span>';
+
+// kpis
+const total = D.wins + D.losses;
+const wr = total ? (100*D.wins/total).toFixed(0)+'%' : '—';
+const kpis = [
+  ['En juego', money(D.at_risk), D.open.length+' abiertas'],
+  ['Cash libre', money(D.cash), ''],
+  ['Record', D.wins+'–'+D.losses, 'aciertos '+wr],
+  ['Senales hoy', String(D.signals.length), D.placed+' apostadas'],
+];
+el('kpis').innerHTML = kpis.map(k=>`<div class="kpi"><div class="l">${k[0]}</div><div class="v">${k[1]}</div><div class="sub">${k[2]}</div></div>`).join('');
+
+// montecarlo
+if(D.mc){
+  const m = D.mc, pu = m.prob_profit>=50;
+  el('mcbox').innerHTML = `<div class="mc">
+    <div><div class="l" style="color:var(--dim);font-size:12px">Esperada</div><div class="v">${money(m.expected)}</div></div>
+    <div><div class="l" style="color:var(--dim);font-size:12px">Prob. ganar</div><div class="v ${pu?'up':'down'}">${m.prob_profit}%</div></div>
+    <div><div class="l" style="color:var(--dim);font-size:12px">Malo (P5)</div><div class="v down">${money(m.p5)}</div></div>
+    <div><div class="l" style="color:var(--dim);font-size:12px">Bueno (P95)</div><div class="v up">${money(m.p95)}</div></div>
+  </div><div class="sub" style="margin-top:8px">${m.n_bets} apuestas abiertas · $${m.stake_total.toFixed(2)} en juego</div>`;
+} else {
+  el('mcbox').innerHTML = '<div class="empty">Sin apuestas abiertas para proyectar.</div>';
+}
+
+// equity curve
+(function(){
+  const c = D.equity_curve;
+  const labels = c.map(p=>{const d=new Date(p.ts);return (d.getMonth()+1)+'/'+d.getDate()+' '+String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0');});
+  const data = c.map(p=>p.equity);
+  if(data.length===1){labels.unshift('inicio');data.unshift(D.start);}
+  const ctx = el('curve');
+  new Chart(ctx,{type:'line',
+    data:{labels,datasets:[{data,borderColor:'#37d3a4',backgroundColor:'rgba(55,211,164,.10)',
+      fill:true,tension:.25,pointRadius:data.length>30?0:2,borderWidth:2}]},
+    options:{plugins:{legend:{display:false}},
+      scales:{x:{grid:{color:'#1b2432'},ticks:{color:'#8b97a8',maxTicksLimit:8}},
+              y:{grid:{color:'#1b2432'},ticks:{color:'#8b97a8',callback:v=>'$'+v}}}}});
+})();
+
+// tables
+function tourTag(t){return `<span class="tag ${(''+t).toLowerCase()}">${t}</span>`;}
+function fill(id,rows,cols){
+  const tb = el(id).querySelector('tbody');
+  if(!rows.length){tb.innerHTML=`<tr><td colspan="${cols}" class="empty">Nada por ahora.</td></tr>`;return;}
+  tb.innerHTML = rows.join('');
+}
+fill('sigtab', D.signals.map(s=>`<tr>
+  <td>${tourTag(s.tour)}</td><td>${s.tournament}</td><td><b>${s.pick}</b></td><td style="color:var(--dim)">${s.rival}</td>
+  <td class="right">${s.odds.toFixed(2)}</td><td class="right">${s.model}%</td><td class="right">${s.kalshi}%</td>
+  <td class="right up">+${s.edge}%</td><td class="right">${money(s.stake)}</td></tr>`), 9);
+el('sigcount').textContent = D.signals.length ? `(${D.signals.length})` : '';
+
+fill('opentab', D.open.map(p=>`<tr>
+  <td>${tourTag(p.tour)}</td><td>${p.tournament}</td><td><b>${p.pick}</b></td><td style="color:var(--dim)">${p.rival}</td>
+  <td class="right">${(+p.odds).toFixed(2)}</td><td class="right">${p.model}%</td>
+  <td class="right up">+${p.edge}%</td><td class="right">${money(+p.stake)}</td></tr>`), 8);
+el('opencount').textContent = D.open.length ? `(${D.open.length})` : '';
+
+fill('histtab', D.closed.map(p=>{
+  const st = p.status, pnl = (p.pnl===''||p.pnl==null)?0:+p.pnl;
+  const badge = st==='won'?'<span class="badge win">GANO</span>':st==='lost'?'<span class="badge lose">PERDIO</span>':'<span class="badge void">ANUL.</span>';
+  return `<tr><td>${badge}</td><td>${p.tournament}</td><td><b>${p.pick}</b></td>
+    <td class="right">${(+p.odds).toFixed(2)}</td><td class="right">${money(+p.stake)}</td>
+    <td class="right ${pnl>=0?'up':'down'}">${money(pnl)}</td></tr>`;
+}), 6);
+el('histcount').textContent = D.closed.length ? `(${D.wins}–${D.losses})` : '';
+</script>
+</body>
+</html>

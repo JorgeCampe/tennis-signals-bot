@@ -1,0 +1,39 @@
+name: Tennis Signals Bot
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"      # cada 3 horas (hora UTC)
+  workflow_dispatch: {}          # boton para correrlo a mano
+
+permissions:
+  contents: write                # para guardar el estado (banca, posiciones)
+
+concurrency:
+  group: tennis-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el bot
+        run: python tennis_signals_bot/bot.py
+
+      - name: Publicar dashboard y guardar estado
+        run: |
+          mkdir -p docs
+          cp tennis_signals_bot/dashboard.html docs/index.html
+          git config user.name "tennis-signals-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add tennis_signals_bot/data tennis_signals_bot/dashboard.html docs/index.html ml/outputs/tennis_results.csv 2>/dev/null || true
+          git commit -m "bot: $(date -u +%FT%TZ)" || echo "sin cambios que commitear"
+          git push

@@ -1,0 +1,717 @@
+date,tour,tournament,winner,loser,w_games,l_games
+2026-06-22,ATP,Wimbledon,Jaime Faria,Hugo Grenier,12,6
+2026-06-22,ATP,Wimbledon,Shintaro Mochizuki,Vitaliy Sachko,13,9
+2026-06-22,ATP,Wimbledon,Moez Echargui,Edas Butvilas,16,14
+2026-06-22,ATP,Wimbledon,Daniel Evans,Juan Carlos Prado Angelo,13,9
+2026-06-22,ATP,Wimbledon,Kyrian Jacquet,Pedro Boscardin Dias,13,7
+2026-06-22,ATP,Wimbledon,Timofey Skatov,Alex Barrena,13,9
+2026-06-22,ATP,Wimbledon,Stefanos Sakellaridis,Yu Hsiou Hsu,12,6
+2026-06-22,ATP,Wimbledon,Oliver Tarvet,Alex Bolt,14,11
+2026-06-22,ATP,Wimbledon,Arthur Gea,Raul Brancaccio,13,8
+2026-06-22,ATP,Wimbledon,Tristan Schoolkate,Johannus Monday,13,8
+2026-06-22,ATP,Wimbledon,Andrea Guerrieri,David Goffin,16,13
+2026-06-22,ATP,Wimbledon,Harold Mayot,Nicolas Moreno De Alboran,12,4
+2026-06-22,ATP,Wimbledon,Gauthier Onclin,Lorenzo Giustino,13,8
+2026-06-22,ATP,Wimbledon,Keegan Smith,Juan Pablo Ficovich,13,7
+2026-06-22,ATP,Wimbledon,Elias Ymer,Nikoloz Basilashvili,15,15
+2026-06-22,ATP,Wimbledon,Alejandro Moro Canas,Francisco Comesana,17,16
+2026-06-22,ATP,Wimbledon,Bu Yunchaokete,Hugo Dellien,12,4
+2026-06-22,ATP,Wimbledon,Borna Gojo,Chak Lam Coleman Wong,13,8
+2026-06-22,ATP,Wimbledon,Federico Cina,Gianluca Cadenasso,12,5
+2026-06-22,ATP,Wimbledon,Roman Safiullin,James McCabe,13,9
+2026-06-22,ATP,Wimbledon,Aziz Dougaz,Clement Chidekh,12,8
+2026-06-22,ATP,Wimbledon,Luka Pavlovic,Mark Lajal,12,8
+2026-06-22,ATP,Wimbledon,Colton Smith,Andy Andrade,16,12
+2026-06-22,ATP,Wimbledon,Michael Zheng,Henri Squire,13,8
+2026-06-22,ATP,Wimbledon,Hugo Gaston,Lautaro Midon,16,13
+2026-06-22,ATP,Wimbledon,Clement Tabur,Federico Agustin Gomez,12,7
+2026-06-22,ATP,Wimbledon,Kimmer Coppejans,Daniil Glinka,12,7
+2026-06-22,ATP,Wimbledon,Laslo Djere,Max Houkes,13,9
+2026-06-22,ATP,Wimbledon,Rei Sakamoto,Anton Matusevich,16,15
+2026-06-22,ATP,Wimbledon,SoonWoo Kwon,Nikolas Sanchez Izquierdo,13,9
+2026-06-22,ATP,Wimbledon,Darwin Blanch,Filip Cristian Jianu,13,10
+2026-06-22,ATP,Wimbledon,Pablo Llamas Ruiz,Dan Added,12,6
+2026-06-22,ATP,Wimbledon,Jerome Kym,Gonzalo Bueno,17,12
+2026-06-22,ATP,Wimbledon,Tom Gentzsch,Zdenek Kolar,12,6
+2026-06-22,ATP,Wimbledon,Mackenzie McDonald,Felipe Meligeni Alves,18,12
+2026-06-22,ATP,Wimbledon,Paul Jubb,Pierre-Hugues Herbert,14,11
+2026-06-22,ATP,Wimbledon,Bernard Tomic,Kaichi Uchida,12,5
+2026-06-22,ATP,Wimbledon,Christopher O'Connell,Joel Josef Schwaerzler,13,10
+2026-06-22,ATP,Wimbledon,Vilius Gaubas,Michael Mmoh,16,11
+2026-06-22,ATP,Wimbledon,Roberto Carballes Baena,Mark Ceban,12,6
+2026-06-22,ATP,Wimbledon,Henry Searle,Zhang Zhizhen,12,7
+2026-06-22,ATP,Wimbledon,Dusan Lajovic,Lukas Neumayer,12,8
+2026-06-22,ATP,Wimbledon,Remy Bertola,Liam Draxl,15,13
+2026-06-22,ATP,Wimbledon,Gustavo Heide,Chun-Hsin Tseng,13,10
+2026-06-22,ATP,Wimbledon,Jurij Rodionov,Oliver Crawford,12,8
+2026-06-22,ATP,Wimbledon,Matej Dodig,Frederico Ferreira Silva,17,18
+2026-06-22,ATP,Wimbledon,Tomas Barrios Vera,Marco Cecchinato,13,9
+2026-06-22,ATP,Wimbledon,Chris Rodesch,Florent Bax,18,12
+2026-06-22,ATP,Wimbledon,Nicolas Mejia,Henrique Rocha,18,13
+2026-06-22,ATP,Wimbledon,Luca Nardi,Rio Noguchi,12,5
+2026-06-22,ATP,Wimbledon,Max Basing,Francesco Maestrelli,17,16
+2026-06-22,ATP,Wimbledon,Federico Coria,Oliver Bonding,13,8
+2026-06-22,ATP,Wimbledon,Dane Sweeny,Franco Roncadelli,12,6
+2026-06-22,ATP,Wimbledon,Pol Martin Tiffon,Gilles Arnaud Bailly,12,8
+2026-06-22,ATP,Wimbledon,August Holmgren,Liam Broady,18,17
+2026-06-22,ATP,Wimbledon,Tristan Boyer,Genaro Alberto Olivieri,12,5
+2026-06-22,ATP,Wimbledon,Alexis Galarneau,Facundo Diaz Acosta,12,4
+2026-06-22,ATP,Wimbledon,Stefano Travaglia,Luka Mikrut,14,11
+2026-06-22,ATP,Wimbledon,Andrea Pellegrino,Jay Clarke,15,16
+2026-06-22,ATP,Wimbledon,Otto Virtanen,Pedro Martinez,13,11
+2026-06-22,ATP,Wimbledon,Nicolai Budkov Kjaer,Joao Lucas Reis Da Silva,18,12
+2026-06-22,ATP,Wimbledon,Zhou Yi,Guy Den Ouden,12,8
+2026-06-22,ATP,Wimbledon,Billy Harris,Stefano Napolitano,12,4
+2026-06-22,ATP,Wimbledon,Zsombor Piros,Ivan Ivanov,12,4
+2026-06-23,ATP,Wimbledon,Polina Iatcenko,Leyre Romero Gormaz,12,3
+2026-06-23,ATP,Wimbledon,Suzan Lamens,Amelia Rajecki,13,8
+2026-06-23,ATP,Wimbledon,Lucia Bronzetti,Maddison Inglis,15,13
+2026-06-23,ATP,Wimbledon,Erika Andreeva,Ma YeXin,12,3
+2026-06-23,ATP,Wimbledon,Katarzyna Kawa,Susan Bandecchi,12,4
+2026-06-23,ATP,Wimbledon,Kayla Day,Cadence Brace,12,7
+2026-06-23,ATP,Wimbledon,Emerson Jones,Linda Fruhvirtova,12,3
+2026-06-23,ATP,Wimbledon,Lucrezia Stefanini,Luisina Giovannini,14,12
+2026-06-23,ATP,Wimbledon,Justina Mikulskyte,Carol Zhao,13,9
+2026-06-23,ATP,Wimbledon,Claire Liu,Despina Papamichail,12,3
+2026-06-23,ATP,Wimbledon,Kaitlin Quevedo,Sayaka Ishii,12,3
+2026-06-23,ATP,Wimbledon,Anastasia Gasanova,Varvara Lepchenko,15,13
+2026-06-23,ATP,Wimbledon,Darja Semenistaja,Anna Siskova,15,17
+2026-06-23,ATP,Wimbledon,Caroline Werner,Alice Rame,17,12
+2026-06-23,ATP,Wimbledon,Jil Teichmann,Rebeka Masarova,13,10
+2026-06-23,ATP,Wimbledon,Ekaterine Gorgodze,Vendula Valdmannova,13,8
+2026-06-23,ATP,Wimbledon,Storm Hunter,Sofia Costoulas,13,9
+2026-06-23,ATP,Wimbledon,Lina Gjorcheska,Angela Fita Boluda,12,6
+2026-06-23,ATP,Wimbledon,Nao Hibino,Priscilla Hon,12,4
+2026-06-23,ATP,Wimbledon,Elena Pridankina,Alice Tubello,12,2
+2026-06-23,ATP,Wimbledon,Mananchaya Sawangkaew,Anouk Koevermans,13,13
+2026-06-23,ATP,Wimbledon,Andrea Lazaro Garcia,Nuria Brancaccio,12,7
+2026-06-23,ATP,Wimbledon,Alina Korneeva,Alexandra Shubladze,15,15
+2026-06-23,ATP,Wimbledon,Julia Riera,Daniella Britton,14,12
+2026-06-23,ATP,Wimbledon,Harmony Tan,Mia Pohankova,15,13
+2026-06-23,ATP,Wimbledon,Lulu Sun,Linda Klimovicova,14,11
+2026-06-23,ATP,Wimbledon,Tyra Caterina Grant,Taylah Preston,14,11
+2026-06-23,ATP,Wimbledon,Greet Minnen,Fiona Ferro,12,4
+2026-06-23,ATP,Wimbledon,Iryna Shymanovich,Dominika Salkova,16,16
+2026-06-23,ATP,Wimbledon,Noma Noha Akugue,Lisa Pigato,13,9
+2026-06-23,ATP,Wimbledon,Oceane Dodin,Laura Pigossi,13,9
+2026-06-23,ATP,Wimbledon,Mary Stoiana,Kayla Cross,12,7
+2026-06-23,ATP,Wimbledon,Esther Adeshina,Moyuka Uchijima,16,12
+2026-06-23,ATP,Wimbledon,Joanna Garland,Celine Naef,16,15
+2026-06-23,ATP,Wimbledon,Fiona Crawley,Himeno Sakatsume,18,17
+2026-06-23,ATP,Wimbledon,Katherine Sebov,Jazmin Ortenzi,16,11
+2026-06-23,ATP,Wimbledon,Francisca Jorge,Dalma Galfi,13,9
+2026-06-23,ATP,Wimbledon,Ashlyn Krueger,Gabriela Knutson,14,10
+2026-06-23,ATP,Wimbledon,Bai Zhuoxuan,Tamara Zidansek,13,7
+2026-06-23,ATP,Wimbledon,Veronika Podrez,Arantxa Rus,12,8
+2026-06-23,ATP,Wimbledon,Jeline Vandromme,Yuan Yue,16,8
+2026-06-23,ATP,Wimbledon,Tiantsoa Rakotomanga Rajaonah,Carol Young Suh Lee,16,13
+2026-06-23,ATP,Wimbledon,Hayu Kinoshita,Viktoriya Tomova,13,8
+2026-06-23,ATP,Wimbledon,Elvina Kalieva,Ella McDonald,16,16
+2026-06-23,ATP,Wimbledon,Wang Xiyu,Guo Hanyu,13,9
+2026-06-23,ATP,Wimbledon,Maria Lourdes Carle,Lucie Havlickova,18,16
+2026-06-23,ATP,Wimbledon,Katie Volynets,Laura Samson,13,7
+2026-06-23,ATP,Wimbledon,Zhu Lin,Mona Barthel,12,7
+2026-06-23,ATP,Wimbledon,Maria Timofeeva,Whitney Osuigwe,12,5
+2026-06-23,ATP,Wimbledon,Clervie Ngounoue,Anna-Lena Friedsam,13,8
+2026-06-23,ATP,Wimbledon,Mariam Bolkvadze,Julia Grabher,13,10
+2026-06-23,ATP,Wimbledon,Leolia Jeanjean,You Xiaodi,16,11
+2026-06-23,ATP,Wimbledon,Heather Watson,Mayar Sherif,12,4
+2026-06-23,ATP,Wimbledon,Rebecca Sramkova,Viktoria Hruncakova,14,12
+2026-06-23,ATP,Wimbledon,Polina Kudermetova,Jessika Ponchet,13,11
+2026-06-23,ATP,Wimbledon,Bianca Andreescu,Polona Hercog,12,6
+2026-06-23,ATP,Wimbledon,Elizara Yaneva,Yuriko Lily Miyazaki,12,6
+2026-06-23,ATP,Wimbledon,Robin Montgomery,Caroline Dolehide,13,10
+2026-06-23,ATP,Wimbledon,Alina Charaeva,Elizabeth Mandlik,12,6
+2026-06-23,ATP,Wimbledon,Aliaksandra Sasnovich,Katy Dunne,13,11
+2026-06-23,ATP,Wimbledon,Marina Bassols Ribera,Lola Radivojevic,19,15
+2026-06-23,ATP,Wimbledon,Tatiana Prozorova,Carole Monnet,12,6
+2026-06-23,ATP,Wimbledon,Teodora Kostovic,Yeonwoo Ku,12,5
+2026-06-23,ATP,Wimbledon,Mai Hontama,Akasha Urhobo,13,9
+2026-06-24,ATP,Wimbledon,Jaime Faria,Luka Pavlovic,12,8
+2026-06-24,ATP,Wimbledon,Pablo Llamas Ruiz,Pol Martin Tiffon,12,6
+2026-06-24,ATP,Wimbledon,Dusan Lajovic,Chris Rodesch,12,6
+2026-06-24,ATP,Wimbledon,Tristan Boyer,Andrea Pellegrino,12,3
+2026-06-24,ATP,Wimbledon,Timofey Skatov,Elias Ymer,12,5
+2026-06-24,ATP,Wimbledon,SoonWoo Kwon,Arthur Gea,17,14
+2026-06-24,ATP,Wimbledon,Leolia Jeanjean,Ekaterine Gorgodze,12,5
+2026-06-24,ATP,Wimbledon,Kyrian Jacquet,Andrea Guerrieri,13,10
+2026-06-24,ATP,Wimbledon,Alejandro Moro Canas,Harold Mayot,13,9
+2026-06-24,ATP,Wimbledon,Rei Sakamoto,Aziz Dougaz,12,8
+2026-06-24,ATP,Wimbledon,Nicolai Budkov Kjaer,Matej Dodig,13,8
+2026-06-24,ATP,Wimbledon,Aliaksandra Sasnovich,Storm Hunter,18,13
+2026-06-24,ATP,Wimbledon,Darja Semenistaja,Nao Hibino,13,12
+2026-06-24,ATP,Wimbledon,Vilius Gaubas,Henry Searle,14,12
+2026-06-24,ATP,Wimbledon,Lucia Bronzetti,Justina Mikulskyte,12,6
+2026-06-24,ATP,Wimbledon,Iryna Shymanovich,Greet Minnen,12,6
+2026-06-24,ATP,Wimbledon,Lina Gjorcheska,Francisca Jorge,17,10
+2026-06-24,ATP,Wimbledon,Oceane Dodin,Lulu Sun,14,12
+2026-06-24,ATP,Wimbledon,Otto Virtanen,Luca Nardi,12,8
+2026-06-24,ATP,Wimbledon,Anastasia Gasanova,Emerson Jones,17,14
+2026-06-24,ATP,Wimbledon,Katarzyna Kawa,Lucrezia Stefanini,14,12
+2026-06-24,ATP,Wimbledon,Elena Pridankina,Suzan Lamens,17,14
+2026-06-24,ATP,Wimbledon,Kayla Day,Erika Andreeva,12,4
+2026-06-24,ATP,Wimbledon,Alina Korneeva,Andrea Lazaro Garcia,19,14
+2026-06-24,ATP,Wimbledon,Fiona Crawley,Julia Riera,16,14
+2026-06-24,ATP,Wimbledon,Claire Liu,Kaitlin Quevedo,12,8
+2026-06-24,ATP,Wimbledon,Katherine Sebov,Noma Noha Akugue,18,16
+2026-06-24,ATP,Wimbledon,Mananchaya Sawangkaew,Mary Stoiana,15,15
+2026-06-24,ATP,Wimbledon,Tyra Caterina Grant,Joanna Garland,12,8
+2026-06-24,ATP,Wimbledon,Harmony Tan,Esther Adeshina,12,4
+2026-06-24,ATP,Wimbledon,Zhu Lin,Tiantsoa Rakotomanga Rajaonah,12,5
+2026-06-24,ATP,Wimbledon,Moez Echargui,Keegan Smith,16,16
+2026-06-24,ATP,Wimbledon,Christopher O'Connell,Bernard Tomic,12,8
+2026-06-24,ATP,Wimbledon,Michael Zheng,Laslo Djere,13,8
+2026-06-24,ATP,Wimbledon,Clement Tabur,Bu Yunchaokete,18,17
+2026-06-24,ATP,Wimbledon,Billy Harris,Zsombor Piros,12,8
+2026-06-24,ATP,Wimbledon,Zhou Yi,Stefano Travaglia,13,10
+2026-06-24,ATP,Wimbledon,Remy Bertola,Jurij Rodionov,17,14
+2026-06-24,ATP,Wimbledon,Bianca Andreescu,Jil Teichmann,18,12
+2026-06-24,ATP,Wimbledon,Katie Volynets,Elizara Yaneva,12,5
+2026-06-24,ATP,Wimbledon,Teodora Kostovic,Rebecca Sramkova,17,16
+2026-06-24,ATP,Wimbledon,Heather Watson,Tatiana Prozorova,18,15
+2026-06-24,ATP,Wimbledon,Ashlyn Krueger,Mai Hontama,17,13
+2026-06-24,ATP,Wimbledon,Jeline Vandromme,Maria Lourdes Carle,18,14
+2026-06-24,ATP,Wimbledon,Robin Montgomery,Elvina Kalieva,12,4
+2026-06-24,ATP,Wimbledon,Polina Kudermetova,Clervie Ngounoue,12,3
+2026-06-24,ATP,Wimbledon,Marina Bassols Ribera,Wang Xiyu,13,7
+2026-06-24,ATP,Wimbledon,Roman Safiullin,Kimmer Coppejans,14,11
+2026-06-24,ATP,Wimbledon,Maria Timofeeva,Veronika Podrez,12,6
+2026-06-24,ATP,Wimbledon,Polina Iatcenko,Bai Zhuoxuan,13,8
+2026-06-24,ATP,Wimbledon,Mariam Bolkvadze,Hayu Kinoshita,12,5
+2026-06-24,ATP,Wimbledon,Oliver Tarvet,Alexis Galarneau,13,7
+2026-06-24,ATP,Wimbledon,Stefanos Sakellaridis,Federico Coria,12,7
+2026-06-24,ATP,Wimbledon,Alina Charaeva,Caroline Werner,17,11
+2026-06-24,ATP,Wimbledon,Hugo Gaston,Federico Cina,13,9
+2026-06-24,ATP,Wimbledon,Colton Smith,Borna Gojo,12,8
+2026-06-24,ATP,Wimbledon,Mackenzie McDonald,Roberto Carballes Baena,12,8
+2026-06-24,ATP,Wimbledon,Dane Sweeny,Darwin Blanch,13,12
+2026-06-24,ATP,Wimbledon,Tomas Barrios Vera,Paul Jubb,15,11
+2026-06-24,ATP,Wimbledon,Shintaro Mochizuki,Gauthier Onclin,16,11
+2026-06-24,ATP,Wimbledon,Tristan Schoolkate,Daniel Evans,13,5
+2026-06-24,ATP,Wimbledon,Jerome Kym,August Holmgren,12,7
+2026-06-24,ATP,Wimbledon,Max Basing,Tom Gentzsch,13,7
+2026-06-24,ATP,Wimbledon,Nicolas Mejia,Gustavo Heide,12,7
+2026-06-25,ATP,Wimbledon,Shintaro Mochizuki,Clement Tabur,22,21
+2026-06-25,ATP,Wimbledon,Dane Sweeny,Tomas Barrios Vera,23,24
+2026-06-25,ATP,Wimbledon,Billy Harris,Zhou Yi,20,17
+2026-06-25,ATP,Wimbledon,Mackenzie McDonald,Christopher O'Connell,18,11
+2026-06-25,ATP,Wimbledon,Tristan Boyer,Pablo Llamas Ruiz,26,21
+2026-06-25,ATP,Wimbledon,Roman Safiullin,Jerome Kym,27,28
+2026-06-25,ATP,Wimbledon,Michael Zheng,Colton Smith,22,15
+2026-06-25,ATP,Wimbledon,Max Basing,Remy Bertola,24,23
+2026-06-25,ATP,Wimbledon,Kayla Day,Katarzyna Kawa,13,7
+2026-06-25,ATP,Wimbledon,Lina Gjorcheska,Lucia Bronzetti,12,3
+2026-06-25,ATP,Wimbledon,Robin Montgomery,Marina Bassols Ribera,15,8
+2026-06-25,ATP,Wimbledon,Bianca Andreescu,Aliaksandra Sasnovich,13,9
+2026-06-25,ATP,Wimbledon,Leolia Jeanjean,Katie Volynets,12,7
+2026-06-25,ATP,Wimbledon,Maria Timofeeva,Heather Watson,15,9
+2026-06-25,ATP,Wimbledon,Mariam Bolkvadze,Jeline Vandromme,16,13
+2026-06-25,ATP,Wimbledon,Alina Korneeva,Fiona Crawley,12,2
+2026-06-25,ATP,Wimbledon,Anastasia Gasanova,Darja Semenistaja,12,6
+2026-06-25,ATP,Wimbledon,Oliver Tarvet,Stefanos Sakellaridis,19,11
+2026-06-25,ATP,Wimbledon,Polina Kudermetova,Alina Charaeva,16,11
+2026-06-25,ATP,Wimbledon,Claire Liu,Elena Pridankina,16,9
+2026-06-25,ATP,Wimbledon,Mananchaya Sawangkaew,Oceane Dodin,18,13
+2026-06-25,ATP,Wimbledon,Iryna Shymanovich,Katherine Sebov,17,15
+2026-06-25,ATP,Wimbledon,Tyra Caterina Grant,Harmony Tan,13,10
+2026-06-25,ATP,Wimbledon,Ashlyn Krueger,Polina Iatcenko,13,7
+2026-06-25,ATP,Wimbledon,Nicolas Mejia,Tristan Schoolkate,18,12
+2026-06-25,ATP,Wimbledon,Teodora Kostovic,Zhu Lin,12,7
+2026-06-25,ATP,Wimbledon,Vilius Gaubas,Dusan Lajovic,24,23
+2026-06-25,ATP,Wimbledon,Kyrian Jacquet,Timofey Skatov,19,14
+2026-06-25,ATP,Wimbledon,Jaime Faria,Rei Sakamoto,23,19
+2026-06-25,ATP,Wimbledon,SoonWoo Kwon,Alejandro Moro Canas,19,13
+2026-06-25,ATP,Wimbledon,Otto Virtanen,Nicolai Budkov Kjaer,23,19
+2026-06-25,ATP,Wimbledon,Hugo Gaston,Moez Echargui,23,14
+2026-06-29,ATP,Wimbledon,Claire Liu,Hanne Vandewinkel,16,13
+2026-06-29,ATP,Wimbledon,Antonia Ruzic,Darja Semenistaja,15,12
+2026-06-29,ATP,Wimbledon,Alycia Parks,Alicia Dudeney,12,6
+2026-06-29,ATP,Wimbledon,Zhang Shuai,Bianca Andreescu,14,12
+2026-06-29,ATP,Wimbledon,Felix Auger-Aliassime,Aleksandr Shevchenko,18,8
+2026-06-29,ATP,Wimbledon,Novak Djokovic,Wu Yibing,23,19
+2026-06-29,ATP,Wimbledon,Zeynep Sonmez,Ann Li,14,15
+2026-06-29,ATP,Wimbledon,Naomi Osaka,Elsa Jacquemot,13,6
+2026-06-29,ATP,Wimbledon,Mananchaya Sawangkaew,Maja Chwalinska,15,13
+2026-06-29,ATP,Wimbledon,Jessica Pegula,Darja Vidmanova,13,8
+2026-06-29,ATP,Wimbledon,Jelena Ostapenko,Harriet Dart,15,13
+2026-06-29,ATP,Wimbledon,Wang Xinyu,Elisabetta Cocciaretto,14,11
+2026-06-29,ATP,Wimbledon,Lanlana Tararudee,Lilli Tagger,18,17
+2026-06-29,ATP,Wimbledon,Janice Tjen,Leylah Fernandez,13,7
+2026-06-29,ATP,Wimbledon,Jessica Bouzas Maneiro,Anastasia Potapova,12,5
+2026-06-29,ATP,Wimbledon,Diane Parry,Francesca Jones,12,8
+2026-06-29,ATP,Wimbledon,Anastasia Gasanova,Emiliana Arango,12,4
+2026-06-29,ATP,Wimbledon,Coco Gauff,Tamara Korpatsch,12,3
+2026-06-29,ATP,Wimbledon,Ekaterina Alexandrova,Panna Udvardy,12,6
+2026-06-29,ATP,Wimbledon,Karolina Muchova,Anastasia Zakharova,12,5
+2026-06-29,ATP,Wimbledon,Katerina Siniakova,Zheng Qinwen,12,8
+2026-06-29,ATP,Wimbledon,Mirra Andreeva,Magda Linette,13,9
+2026-06-29,ATP,Wimbledon,Solana Sierra,Anna Bondar,18,15
+2026-06-29,ATP,Wimbledon,Dayana Yastremska,Aoi Ito,18,17
+2026-06-29,ATP,Wimbledon,McCartney Kessler,Oleksandra Oliynykova,12,0
+2026-06-29,ATP,Wimbledon,Anna Kalinskaya,Magdalena Frech,13,10
+2026-06-29,ATP,Wimbledon,Barbora Krejcikova,Hannah Klugman,12,5
+2026-06-29,ATP,Wimbledon,Aryna Sabalenka,Teodora Kostovic,12,5
+2026-06-29,ATP,Wimbledon,Daria Kasatkina,Mimi Xu,15,10
+2026-06-29,ATP,Wimbledon,Nikola Bartunkova,Peyton Stearns,16,15
+2026-06-29,ATP,Wimbledon,Sara Sorribes Tormo,Victoria Jimenez Kasintseva,12,5
+2026-06-29,ATP,Wimbledon,Tatjana Maria,Yulia Putintseva,12,8
+2026-06-29,ATP,Wimbledon,Belinda Bencic,Mika Stojsavljevic,12,3
+2026-06-29,ATP,Wimbledon,Alejandro Davidovich Fokina,Juan Manuel Cerundolo,19,14
+2026-06-29,ATP,Wimbledon,Nicolas Mejia,Adolfo Daniel Vallejo,24,21
+2026-06-29,ATP,Wimbledon,Daniil Medvedev,Marin Cilic,18,7
+2026-06-29,ATP,Wimbledon,Fabian Marozsan,Thiago Agustin Tirante,19,12
+2026-06-29,ATP,Wimbledon,Iva Jovic,Jaqueline Cristian,13,6
+2026-06-29,ATP,Wimbledon,SoonWoo Kwon,Martin Landaluce,18,10
+2026-06-29,ATP,Wimbledon,Jan-Lennard Struff,Sebastian Baez,26,24
+2026-06-29,ATP,Wimbledon,Ethan Quinn,Luciano Darderi,20,13
+2026-06-29,ATP,Wimbledon,Dino Prizmic,Adam Walton,23,18
+2026-06-29,ATP,Wimbledon,Arthur Rinderknech,Oliver Tarvet,25,23
+2026-06-29,ATP,Wimbledon,Nuno Borges,Tristan Boyer,20,13
+2026-06-29,ATP,Wimbledon,Joao Fonseca,Roberto Bautista Agut,19,13
+2026-06-29,ATP,Wimbledon,Jannik Sinner,Miomir Kecmanovic,28,21
+2026-06-29,ATP,Wimbledon,Sebastian Ofner,Hamad Medjedovic,23,21
+2026-06-29,ATP,Wimbledon,Hubert Hurkacz,Casper Ruud,19,12
+2026-06-29,ATP,Wimbledon,Stefanos Tsitsipas,Hugo Gaston,18,7
+2026-06-29,ATP,Wimbledon,Daniel Merida,Camilo Ugo Carabelli,16,14
+2026-06-29,ATP,Wimbledon,Rafael Jodar,Felix Gill,19,11
+2026-06-29,ATP,Wimbledon,Pablo Carreno Busta,Denis Shapovalov,13,9
+2026-06-29,ATP,Wimbledon,Jenson Brooksby,Aleksandar Vukic,19,8
+2026-06-29,ATP,Wimbledon,Martin Damm,Marco Trungelliti,27,25
+2026-06-29,ATP,Wimbledon,Botic Van De Zandschulp,Aleksandar Kovacevic,24,14
+2026-06-29,ATP,Wimbledon,Ignacio Buse,Emilio Nava,23,17
+2026-06-29,ATP,Wimbledon,Roman Safiullin,Andrey Rublev,28,26
+2026-06-29,ATP,Wimbledon,Marton Fucsovics,Luca Van Assche,10,3
+2026-06-29,ATP,Wimbledon,Shintaro Mochizuki,Max Basing,18,3
+2026-06-29,ATP,Wimbledon,Tommy Paul,Alexandre Muller,18,4
+2026-06-29,ATP,Wimbledon,Michael Zheng,Cameron Norrie,31,25
+2026-06-29,ATP,Wimbledon,Learner Tien,Dalibor Svrcina,24,15
+2026-06-30,ATP,Wimbledon,Mariam Bolkvadze,Ajla Tomljanovic,14,12
+2026-06-30,ATP,Wimbledon,Iga Swiatek,Taylor Townsend,14,10
+2026-06-30,ATP,Wimbledon,Daria Snigur,Elina Svitolina,13,7
+2026-06-30,ATP,Wimbledon,Elise Mertens,Laura Siegemund,12,6
+2026-06-30,ATP,Wimbledon,Oksana Selekhmeteva,Sinja Kraus,13,6
+2026-06-30,ATP,Wimbledon,Catherine McNally,Elena-Gabriela Ruse,13,8
+2026-06-30,ATP,Wimbledon,Leolia Jeanjean,Veronika Erjavec,17,16
+2026-06-30,ATP,Wimbledon,Maria Timofeeva,Beatriz Haddad Maia,12,5
+2026-06-30,ATP,Wimbledon,Kimberly Birrell,Alina Korneeva,12,11
+2026-06-30,ATP,Wimbledon,Viktorija Golubic,Iryna Shymanovich,14,9
+2026-06-30,ATP,Wimbledon,Jasmine Paolini,Robin Montgomery,13,15
+2026-06-30,ATP,Wimbledon,Sofia Kenin,Petra Marcinko,13,10
+2026-06-30,ATP,Wimbledon,Karolina Pliskova,Tereza Valentova,12,7
+2026-06-30,ATP,Wimbledon,Katie Swan,Irina-Camelia Begu,12,8
+2026-06-30,ATP,Wimbledon,Madison Keys,Kayla Day,18,14
+2026-06-30,ATP,Wimbledon,Kamilla Rakhimova,Anhelina Kalinina,17,15
+2026-06-30,ATP,Wimbledon,Alexandra Eala,Renata Zarazua,12,3
+2026-06-30,ATP,Wimbledon,Tyra Caterina Grant,Katie Boulter,12,6
+2026-06-30,ATP,Wimbledon,Marie Bouzkova,Talia Gibson,15,9
+2026-06-30,ATP,Wimbledon,Maria Sakkari,Clara Tauson,12,6
+2026-06-30,ATP,Wimbledon,Emma Navarro,Paula Badosa,17,14
+2026-06-30,ATP,Wimbledon,Amanda Anisimova,Lina Gjorcheska,12,5
+2026-06-30,ATP,Wimbledon,Sorana Cirstea,Sara Bejlek,13,7
+2026-06-30,ATP,Wimbledon,Jakub Mensik,Toby Samuel,27,25
+2026-06-30,ATP,Wimbledon,Linda Noskova,Ella Seidel,12,7
+2026-06-30,ATP,Wimbledon,Zizou Bergs,Ugo Humbert,26,22
+2026-06-30,ATP,Wimbledon,Brandon Nakashima,Jack Pinnington Jones,20,14
+2026-06-30,ATP,Wimbledon,Kyrian Jacquet,Vilius Gaubas,19,13
+2026-06-30,ATP,Wimbledon,Jaume Munar,Francisco Cerundolo,18,8
+2026-06-30,ATP,Wimbledon,Elena Rybakina,Lois Boisson,13,13
+2026-06-30,ATP,Wimbledon,Karen Khachanov,Billy Harris,23,16
+2026-06-30,ATP,Wimbledon,Alexander Bublik,Thanasi Kokkinakis,28,23
+2026-06-30,ATP,Wimbledon,Patrick Kypson,Mackenzie McDonald,21,15
+2026-06-30,ATP,Wimbledon,Marcos Giron,Corentin Moutet,23,19
+2026-06-30,ATP,Wimbledon,Alexander Zverev,Alexander Blockx,26,23
+2026-06-30,ATP,Wimbledon,Arthur Fils,Raphael Collignon,19,9
+2026-06-30,ATP,Wimbledon,James Duckworth,Tallon Griekspoor,23,19
+2026-06-30,ATP,Wimbledon,Matteo Berrettini,Stan Wawrinka,27,25
+2026-06-30,ATP,Wimbledon,Grigor Dimitrov,Dane Sweeny,20,14
+2026-06-30,ATP,Wimbledon,Lorenzo Sonego,Tomas Martin Etcheverry,25,21
+2026-06-30,ATP,Wimbledon,Jiri Lehecka,Alexei Popyrin,18,10
+2026-06-30,ATP,Wimbledon,Taylor Fritz,Dusan Lajovic,18,10
+2026-06-30,ATP,Wimbledon,Gabriel Diallo,Benjamin Bonzi,21,22
+2026-06-30,ATP,Wimbledon,Maya Joint,Serena Williams,18,13
+2026-06-30,ATP,Wimbledon,Camila Osorio,Simona Waltert,12,3
+2026-06-30,ATP,Wimbledon,Marta Kostyuk,Nadia Podoroska,12,3
+2026-06-30,ATP,Wimbledon,Jaime Faria,Sho Shimabukuro,25,19
+2026-06-30,ATP,Wimbledon,Valentin Royer,Harry Wendelken,22,15
+2026-06-30,ATP,Wimbledon,Kamil Majchrzak,Alejandro Tabilo,20,13
+2026-06-30,ATP,Wimbledon,Zachary Svajda,Pablo Llamas Ruiz,18,7
+2026-06-30,ATP,Wimbledon,Yannick Hanfmann,Giovanni Mpetshi Perricard,25,18
+2026-06-30,ATP,Wimbledon,Ashlyn Krueger,Donna Vekic,16,16
+2026-06-30,ATP,Wimbledon,Jacob Fearnley,Alex Michelsen,25,19
+2026-06-30,ATP,Wimbledon,Alex de Minaur,Roman Andres Burruchaga,19,7
+2026-06-30,ATP,Wimbledon,Quentin Halys,Matteo Arnaldi,22,16
+2026-06-30,ATP,Wimbledon,Arthur Fery,Damir Dzumhur,21,11
+2026-06-30,ATP,Wimbledon,Jesper de Jong,Rinky Hijikata,27,26
+2026-06-30,ATP,Wimbledon,Adrian Mannarino,Titouan Droguet,18,7
+2026-06-30,ATP,Wimbledon,Jan Choinski,Vit Kopriva,19,10
+2026-06-30,ATP,Wimbledon,Otto Virtanen,Ben Shelton,28,25
+2026-06-30,ATP,Wimbledon,Anna Blinkova,Yuliia Starodubtseva,18,12
+2026-06-30,ATP,Wimbledon,Diana Shnaider,Eva Lys,13,6
+2026-06-30,ATP,Wimbledon,Liudmila Samsonova,Polina Kudermetova,12,6
+2026-07-01,ATP,Wimbledon,Jelena Ostapenko,Antonia Ruzic,12,2
+2026-07-01,ATP,Wimbledon,Mananchaya Sawangkaew,Alycia Parks,13,5
+2026-07-01,ATP,Wimbledon,Daria Kasatkina,Janice Tjen,18,12
+2026-07-01,ATP,Wimbledon,Naomi Osaka,Anastasia Gasanova,12,5
+2026-07-01,ATP,Wimbledon,Claire Liu,Zeynep Sonmez,13,8
+2026-07-01,ATP,Wimbledon,Aryna Sabalenka,McCartney Kessler,13,7
+2026-07-01,ATP,Wimbledon,Jessica Bouzas Maneiro,Dayana Yastremska,18,12
+2026-07-01,ATP,Wimbledon,Karolina Muchova,Zhang Shuai,12,5
+2026-07-01,ATP,Wimbledon,Anna Kalinskaya,Diane Parry,16,16
+2026-07-01,ATP,Wimbledon,Nikola Bartunkova,Katerina Siniakova,12,6
+2026-07-01,ATP,Wimbledon,Barbora Krejcikova,Mirra Andreeva,17,15
+2026-07-01,ATP,Wimbledon,Jessica Pegula,Sara Sorribes Tormo,13,7
+2026-07-01,ATP,Wimbledon,Iva Jovic,Tatjana Maria,12,3
+2026-07-01,ATP,Wimbledon,Belinda Bencic,Wang Xinyu,13,5
+2026-07-01,ATP,Wimbledon,Ekaterina Alexandrova,Lanlana Tararudee,14,10
+2026-07-01,ATP,Wimbledon,Hubert Hurkacz,Sebastian Ofner,19,14
+2026-07-01,ATP,Wimbledon,Tommy Paul,SoonWoo Kwon,19,11
+2026-07-01,ATP,Wimbledon,Coco Gauff,Solana Sierra,16,15
+2026-07-01,ATP,Wimbledon,Jenson Brooksby,Ignacio Buse,18,7
+2026-07-01,ATP,Wimbledon,Flavio Cobolli,Mariano Navone,21,21
+2026-07-01,ATP,Wimbledon,Alejandro Davidovich Fokina,Fabian Marozsan,18,6
+2026-07-01,ATP,Wimbledon,Jannik Sinner,Nuno Borges,20,16
+2026-07-01,ATP,Wimbledon,Roman Safiullin,Botic Van De Zandschulp,26,21
+2026-07-01,ATP,Wimbledon,Arthur Rinderknech,Martin Damm,19,13
+2026-07-01,ATP,Wimbledon,Daniil Medvedev,Daniel Merida,22,16
+2026-07-01,ATP,Wimbledon,Joao Fonseca,Jesper de Jong,19,10
+2026-07-01,ATP,Wimbledon,Frances Tiafoe,Terence Atmane,23,17
+2026-07-01,ATP,Wimbledon,Shintaro Mochizuki,Ethan Quinn,20,13
+2026-07-01,ATP,Wimbledon,Felix Auger-Aliassime,Dino Prizmic,20,14
+2026-07-01,ATP,Wimbledon,Novak Djokovic,Stefanos Tsitsipas,18,9
+2026-07-01,ATP,Wimbledon,Alex Molcan,Daniel Altmaier,22,17
+2026-07-01,ATP,Wimbledon,Michael Zheng,Nicolas Mejia,25,18
+2026-07-01,ATP,Wimbledon,Marton Fucsovics,Learner Tien,25,20
+2026-07-02,ATP,Wimbledon,Daria Snigur,Leolia Jeanjean,12,7
+2026-07-02,ATP,Wimbledon,Linda Noskova,Camila Osorio,16,11
+2026-07-02,ATP,Wimbledon,Elena Rybakina,Catherine McNally,12,3
+2026-07-02,ATP,Wimbledon,Sorana Cirstea,Kimberly Birrell,12,7
+2026-07-02,ATP,Wimbledon,Jasmine Paolini,Viktorija Golubic,13,10
+2026-07-02,ATP,Wimbledon,Elise Mertens,Maria Timofeeva,14,9
+2026-07-02,ATP,Wimbledon,Maria Sakkari,Kamilla Rakhimova,13,15
+2026-07-02,ATP,Wimbledon,Amanda Anisimova,Sofia Kenin,17,14
+2026-07-02,ATP,Wimbledon,Marta Kostyuk,Anna Blinkova,18,13
+2026-07-02,ATP,Wimbledon,Iga Swiatek,Karolina Pliskova,12,4
+2026-07-02,ATP,Wimbledon,Alexandra Eala,Maya Joint,15,8
+2026-07-02,ATP,Wimbledon,Madison Keys,Katie Swan,12,5
+2026-07-02,ATP,Wimbledon,Arthur Fery,Otto Virtanen,24,19
+2026-07-02,ATP,Wimbledon,Alex de Minaur,Adrian Mannarino,18,7
+2026-07-02,ATP,Wimbledon,Lorenzo Sonego,Gabriel Diallo,30,27
+2026-07-02,ATP,Wimbledon,Ashlyn Krueger,Mariam Bolkvadze,12,1
+2026-07-02,ATP,Wimbledon,Emma Navarro,Oksana Selekhmeteva,15,11
+2026-07-02,ATP,Wimbledon,Liudmila Samsonova,Diana Shnaider,16,12
+2026-07-02,ATP,Wimbledon,Zachary Svajda,Kamil Majchrzak,26,22
+2026-07-02,ATP,Wimbledon,Taylor Fritz,Patrick Kypson,19,9
+2026-07-02,ATP,Wimbledon,Marie Bouzkova,Tyra Caterina Grant,13,8
+2026-07-02,ATP,Wimbledon,Zizou Bergs,Jaime Faria,23,17
+2026-07-02,ATP,Wimbledon,Grigor Dimitrov,Jakub Mensik,24,20
+2026-07-02,ATP,Wimbledon,Jiri Lehecka,Alex Molcan,18,9
+2026-07-02,ATP,Wimbledon,Karen Khachanov,Yannick Hanfmann,18,11
+2026-07-02,ATP,Wimbledon,Flavio Cobolli,James Duckworth,23,19
+2026-07-02,ATP,Wimbledon,Matteo Berrettini,Arthur Fils,22,18
+2026-07-02,ATP,Wimbledon,Alexander Zverev,Valentin Royer,19,10
+2026-07-02,ATP,Wimbledon,Jaume Munar,Jacob Fearnley,19,14
+2026-07-02,ATP,Wimbledon,Marcos Giron,Quentin Halys,19,13
+2026-07-02,ATP,Wimbledon,Jan-Lennard Struff,Brandon Nakashima,31,31
+2026-07-02,ATP,Wimbledon,Rafael Jodar,Pablo Carreno Busta,22,22
+2026-07-02,ATP,Wimbledon,Frances Tiafoe,Jan Choinski,23,15
+2026-07-02,ATP,Wimbledon,Alexander Bublik,Kyrian Jacquet,19,13
+2026-07-03,ATP,Wimbledon,Belinda Bencic,Anna Kalinskaya,17,16
+2026-07-03,ATP,Wimbledon,Naomi Osaka,Daria Kasatkina,12,4
+2026-07-03,ATP,Wimbledon,Iva Jovic,Ekaterina Alexandrova,15,13
+2026-07-03,ATP,Wimbledon,Jessica Pegula,Jessica Bouzas Maneiro,12,4
+2026-07-03,ATP,Wimbledon,Barbora Krejcikova,Nikola Bartunkova,13,8
+2026-07-03,ATP,Wimbledon,Coco Gauff,Claire Liu,18,12
+2026-07-03,ATP,Wimbledon,Karolina Muchova,Mananchaya Sawangkaew,13,8
+2026-07-03,ATP,Wimbledon,Aryna Sabalenka,Jelena Ostapenko,12,8
+2026-07-03,ATP,Wimbledon,Novak Djokovic,Arthur Rinderknech,21,21
+2026-07-03,ATP,Wimbledon,Felix Auger-Aliassime,Michael Zheng,19,9
+2026-07-03,ATP,Wimbledon,Alejandro Davidovich Fokina,Marton Fucsovics,19,11
+2026-07-03,ATP,Wimbledon,Hubert Hurkacz,Tommy Paul,24,19
+2026-07-03,ATP,Wimbledon,Roman Safiullin,Joao Fonseca,18,9
+2026-07-03,ATP,Wimbledon,Jan-Lennard Struff,Daniil Medvedev,21,17
+2026-07-03,ATP,Wimbledon,Shintaro Mochizuki,Rafael Jodar,20,20
+2026-07-03,ATP,Wimbledon,Jannik Sinner,Jenson Brooksby,18,11
+2026-07-04,ATP,Wimbledon,Linda Noskova,Sorana Cirstea,15,15
+2026-07-04,ATP,Wimbledon,Jasmine Paolini,Maria Sakkari,12,3
+2026-07-04,ATP,Wimbledon,Alexandra Eala,Iga Swiatek,13,8
+2026-07-04,ATP,Wimbledon,Elise Mertens,Elena Rybakina,13,7
+2026-07-04,ATP,Wimbledon,Ashlyn Krueger,Daria Snigur,12,5
+2026-07-04,ATP,Wimbledon,Marie Bouzkova,Liudmila Samsonova,17,16
+2026-07-04,ATP,Wimbledon,Marta Kostyuk,Emma Navarro,16,9
+2026-07-04,ATP,Wimbledon,Alexander Bublik,Frances Tiafoe,28,27
+2026-07-04,ATP,Wimbledon,Madison Keys,Amanda Anisimova,15,11
+2026-07-04,ATP,Wimbledon,Taylor Fritz,Lorenzo Sonego,23,19
+2026-07-04,ATP,Wimbledon,Alexander Zverev,Marcos Giron,19,12
+2026-07-04,ATP,Wimbledon,Jiri Lehecka,Jaume Munar,22,18
+2026-07-04,ATP,Wimbledon,Arthur Fery,Zizou Bergs,25,29
+2026-07-04,ATP,Wimbledon,Flavio Cobolli,Karen Khachanov,25,23
+2026-07-04,ATP,Wimbledon,Alex de Minaur,Zachary Svajda,23,15
+2026-07-04,ATP,Wimbledon,Grigor Dimitrov,Matteo Berrettini,26,23
+2026-07-05,WTA,Grand Est Open 88,Lucie Nguyen Tan,Yana Morderger,12,2
+2026-07-05,WTA,Grand Est Open 88,Maria Sara Popa,Yara Bartashevich,13,7
+2026-07-05,WTA,Grand Est Open 88,Alicia Herrero Linana,Dune Vaissaud,17,8
+2026-07-05,WTA,Grand Est Open 88,Astrid Lew Yan Foon,Gina Dittmann,12,8
+2026-07-05,WTA,Grand Est Open 88,Diana Martynov,Michaela Bayerlova,12,5
+2026-07-05,WTA,Grand Est Open 88,Amandine Monnot,Jasmijn Gimbrere,13,9
+2026-07-05,WTA,Grand Est Open 88,Yelyzaveta Kotliar,Tayisiya Morderger,15,9
+2026-07-05,WTA,Grand Est Open 88,Liv Boulard,Polina Kudermetova,13,10
+2026-07-05,ATP,Wimbledon,Jessica Pegula,Iva Jovic,16,10
+2026-07-05,ATP,Wimbledon,Jan-Lennard Struff,Hubert Hurkacz,27,26
+2026-07-05,ATP,Wimbledon,Coco Gauff,Belinda Bencic,16,13
+2026-07-05,ATP,Wimbledon,Naomi Osaka,Aryna Sabalenka,13,8
+2026-07-05,ATP,Wimbledon,Karolina Muchova,Barbora Krejcikova,18,15
+2026-07-05,ATP,Wimbledon,Felix Auger-Aliassime,Alejandro Davidovich Fokina,31,24
+2026-07-05,ATP,Wimbledon,Novak Djokovic,Roman Safiullin,22,18
+2026-07-05,ATP,Wimbledon,Jannik Sinner,Shintaro Mochizuki,19,12
+2026-07-06,WTA,Grand Est Open 88,Francesca Curmi,Oceane Dodin,12,7
+2026-07-06,WTA,Grand Est Open 88,Caroline Werner,Dominika Salkova,13,6
+2026-07-06,WTA,Grand Est Open 88,Anna Blinkova,Erika Andreeva,14,11
+2026-07-06,WTA,Grand Est Open 88,Rebeka Masarova,Julia Grabher,18,17
+2026-07-06,WTA,Grand Est Open 88,Amandine Hesse,Barbora Palicova,12,6
+2026-07-06,ATP,Wimbledon,Linda Noskova,Madison Keys,13,10
+2026-07-06,WTA,Grand Est Open 88,Amandine Monnot,Maria Sara Popa,14,11
+2026-07-06,WTA,Grand Est Open 88,Yelyzaveta Kotliar,Liv Boulard,12,7
+2026-07-06,ATP,Wimbledon,Jasmine Paolini,Alexandra Eala,16,13
+2026-07-06,ATP,Wimbledon,Marta Kostyuk,Ashlyn Krueger,12,8
+2026-07-06,ATP,Wimbledon,Elise Mertens,Marie Bouzkova,12,8
+2026-07-06,WTA,Grand Est Open 88,Diana Martynov,Astrid Lew Yan Foon,17,14
+2026-07-06,WTA,Grand Est Open 88,Alicia Herrero Linana,Lucie Nguyen Tan,12,2
+2026-07-06,ATP,Nordea Open,Miriam Bulgaru,Valeriya Strakhova,12,4
+2026-07-06,ATP,Nordea Open,Emiliana Arango,Lea Nilsson,12,4
+2026-07-06,ATP,Nordea Open,Simona Waltert,Katarzyna Kawa,12,5
+2026-07-06,ATP,Nordea Open,Paula Badosa,Marina Bassols Ribera,12,5
+2026-07-06,ATP,Nordea Open,Kaitlin Quevedo,Tiana Tian Deng,12,5
+2026-07-06,ATP,Nordea Open,Irene Burillo,Noma Noha Akugue,15,13
+2026-07-06,ATP,Nordea Open,Moyuka Uchijima,Oleksandra Oliynykova,18,14
+2026-07-06,ATP,Nordea Open,Leyre Romero Gormaz,Darja Semenistaja,14,10
+2026-07-06,ATP,Wimbledon,Arthur Fery,Grigor Dimitrov,27,27
+2026-07-06,ATP,Wimbledon,Flavio Cobolli,Alex de Minaur,20,14
+2026-07-06,ATP,Wimbledon,Taylor Fritz,Alexander Bublik,19,14
+2026-07-06,ATP,Nordea Open,Yulia Putintseva,Martha Matoula,13,7
+2026-07-07,WTA,Grand Est Open 88,Alice Tubello,Ren Yufei,15,15
+2026-07-07,WTA,Grand Est Open 88,Francesca Jones,Alice Rame,13,7
+2026-07-07,WTA,Grand Est Open 88,Jeline Vandromme,Diana Martynov,12,6
+2026-07-07,WTA,Grand Est Open 88,Maria Lourdes Carle,Laura Pigossi,12,3
+2026-07-07,WTA,Grand Est Open 88,Leolia Jeanjean,Amandine Monnot,12,7
+2026-07-07,WTA,Grand Est Open 88,Alicia Herrero Linana,Elina Avanesyan,12,6
+2026-07-07,WTA,Grand Est Open 88,Aurora Zantedeschi,Elsa Jacquemot,12,3
+2026-07-07,WTA,Grand Est Open 88,Oksana Selekhmeteva,Yelyzaveta Kotliar,12,8
+2026-07-07,WTA,Grand Est Open 88,Clara Burel,Petra Marcinko,18,9
+2026-07-07,WTA,Grand Est Open 88,Lisa Pigato,Angela Fita Boluda,14,13
+2026-07-07,WTA,Grand Est Open 88,Mayar Sherif,Yasmine Kabbaj,12,6
+2026-07-07,ATP,Nordea Open,Caijsa Hennemann,June Bjork,12,5
+2026-07-07,ATP,Nordea Open,Varvara Lepchenko,Lisa Zaar,17,16
+2026-07-07,ATP,Nordea Open,Kajsa Rinaldo Persson,Dalma Galfi,13,10
+2026-07-07,ATP,Wimbledon,Coco Gauff,Jessica Pegula,16,12
+2026-07-07,ATP,Wimbledon,Alexander Zverev,Jiri Lehecka,23,21
+2026-07-07,ATP,Wimbledon,Jannik Sinner,Jan-Lennard Struff,20,14
+2026-07-07,ATP,Wimbledon,Novak Djokovic,Felix Auger-Aliassime,29,28
+2026-07-07,ATP,Nordea Open,Sinja Kraus,Claire Liu,13,5
+2026-07-07,ATP,Nordea Open,Lola Radivojevic,Mona Barthel,12,6
+2026-07-07,ATP,Nordea Open,Aneta Laboutkova,Grace Bernstein,12,2
+2026-07-07,ATP,Nordea Open,Tamara Korpatsch,Linea Bajraliu,12,5
+2026-07-07,ATP,Wimbledon,Karolina Muchova,Naomi Osaka,13,10
+2026-07-08,ATP,Nordea Open,Irene Burillo,Moyuka Uchijima,19,16
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Tatjana Maria,Olivia Lincer,12,5
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Kayla Cross,Sayaka Ishii,12,5
+2026-07-08,ATP,Nordea Open,Varvara Lepchenko,Tamara Korpatsch,12,3
+2026-07-08,ATP,Nordea Open,Paula Badosa,Emiliana Arango,12,5
+2026-07-08,ATP,Nordea Open,Leyre Romero Gormaz,Miriam Bulgaru,12,6
+2026-07-08,ATP,Nordea Open,Simona Waltert,Aneta Laboutkova,12,2
+2026-07-08,ATP,Wimbledon,Marta Kostyuk,Jasmine Paolini,12,5
+2026-07-08,WTA,Grand Est Open 88,Mayar Sherif,Amandine Hesse,13,8
+2026-07-08,WTA,Grand Est Open 88,Anna Blinkova,Maria Lourdes Carle,13,10
+2026-07-08,WTA,Grand Est Open 88,Alice Tubello,Caroline Werner,12,6
+2026-07-08,WTA,Grand Est Open 88,Francesca Curmi,Rebeka Masarova,12,8
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Madison Brengle,Ana Sofia Sanchez,13,8
+2026-07-08,ATP,Nordea Open,Yulia Putintseva,Lola Radivojevic,13,9
+2026-07-08,ATP,Nordea Open,Sinja Kraus,Caijsa Hennemann,12,6
+2026-07-08,ATP,Wimbledon,Linda Noskova,Elise Mertens,13,8
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Kylie Collins,Alana Smith,12,8
+2026-07-08,ATP,Nordea Open,Kaitlin Quevedo,Kajsa Rinaldo Persson,16,15
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Katie Volynets,Ariana Arseneault,15,8
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Lucrezia Stefanini,Carol Zhao,12,4
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Mananchaya Sawangkaew,Caroline Dolehide,12,7
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Elizabeth Mandlik,Momoko Kobori,12,5
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Reese Brantmeier,Sachia Vickery,12,5
+2026-07-08,ATP,Wimbledon,Arthur Fery,Flavio Cobolli,19,10
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Katherine Sebov,Cadence Brace,12,4
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Lea Ma,Clervie Ngounoue,12,10
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Mary Stoiana,Katrina Scott,12,4
+2026-07-08,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Iryna Shymanovich,Hayu Kinoshita,12,5
+2026-07-08,ATP,Wimbledon,Alexander Zverev,Taylor Fritz,18,10
+2026-07-09,ATP,Wimbledon,Karolina Muchova,Coco Gauff,14,14
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Madison Brengle,Kayla Cross,12,4
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Darja Vidmanova,Carolyn Ansari,12,4
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Anna Rogers,Sahaja Yamalapalli,13,10
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Mananchaya Sawangkaew,Lea Ma,12,5
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Mary Stoiana,Iryna Shymanovich,15,11
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Greet Minnen,Mei Yamaguchi,13,8
+2026-07-09,ATP,Wimbledon,Linda Noskova,Marta Kostyuk,12,8
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Elizabeth Mandlik,Reese Brantmeier,16,11
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Greet Minnen,Darja Vidmanova,17,13
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Katie Volynets,Kylie Collins,12,7
+2026-07-09,WTA,Grand Est Open 88,Leolia Jeanjean,Francesca Jones,14,15
+2026-07-09,WTA,Grand Est Open 88,Jeline Vandromme,Oksana Selekhmeteva,12,1
+2026-07-09,WTA,Grand Est Open 88,Alicia Herrero Linana,Clara Burel,16,12
+2026-07-09,WTA,Grand Est Open 88,Aurora Zantedeschi,Lisa Pigato,11,7
+2026-07-09,ATP,Nordea Open,Simona Waltert,Leyre Romero Gormaz,12,3
+2026-07-09,ATP,Nordea Open,Kaitlin Quevedo,Irene Burillo,16,14
+2026-07-09,ATP,Nordea Open,Paula Badosa,Varvara Lepchenko,14,11
+2026-07-09,ATP,Nordea Open,Yulia Putintseva,Sinja Kraus,12,5
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Lucrezia Stefanini,Anna Rogers,12,3
+2026-07-09,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Tatjana Maria,Katherine Sebov,12,6
+2026-07-10,ATP,Wimbledon,Alexander Zverev,Arthur Fery,19,12
+2026-07-10,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Tatjana Maria,Lucrezia Stefanini,12,1
+2026-07-10,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Greet Minnen,Madison Brengle,13,5
+2026-07-10,ATP,Wimbledon,Jannik Sinner,Novak Djokovic,18,12
+2026-07-10,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Katie Volynets,Elizabeth Mandlik,15,13
+2026-07-10,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Mananchaya Sawangkaew,Mary Stoiana,16,13
+2026-07-10,WTA,Grand Est Open 88,Jeline Vandromme,Francesca Curmi,12,3
+2026-07-10,WTA,Grand Est Open 88,Aurora Zantedeschi,Anna Blinkova,13,10
+2026-07-10,ATP,Nordea Open,Simona Waltert,Kaitlin Quevedo,13,7
+2026-07-10,ATP,Nordea Open,Paula Badosa,Yulia Putintseva,12,3
+2026-07-10,WTA,Grand Est Open 88,Mayar Sherif,Alicia Herrero Linana,12,5
+2026-07-10,WTA,Grand Est Open 88,Leolia Jeanjean,Alice Tubello,15,13
+2026-07-11,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Tatjana Maria,Mananchaya Sawangkaew,12,3
+2026-07-11,ATP,EFG Swiss Open Gstaad,Marc-Andrea Huesler,Edas Butvilas,12,7
+2026-07-11,ATP,EFG Swiss Open Gstaad,Clement Tabur,Hendrik Jebens,12,7
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Genaro Alberto Olivieri,Noa Vukadin,12,6
+2026-07-11,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Katie Volynets,Greet Minnen,12,5
+2026-07-11,ATP,EFG Swiss Open Gstaad,Calvin Hemery,Daniel Michalski,15,15
+2026-07-11,ATP,EFG Swiss Open Gstaad,Dylan Dietrich,Otto Virtanen,13,10
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Juan Carlos Prado Angelo,Marc Majdandzic,12,7
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Nikolas Sanchez Izquierdo,Norbert Gombos,13,8
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Lukas Neumayer,Mili Poljicak,16,14
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Federico Agustin Gomez,Raul Brancaccio,17,13
+2026-07-11,ATP,Nordea Open,Paula Badosa,Simona Waltert,14,10
+2026-07-11,ATP,EFG Swiss Open Gstaad,Thiago Monteiro,Pierre-Hugues Herbert,20,19
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Andrea Guerrieri,Luca Nardi,13,9
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Marco Cecchinato,Duje Ajdukovic,12,7
+2026-07-11,WTA,Grand Est Open 88,Jeline Vandromme,Aurora Zantedeschi,12,7
+2026-07-11,WTA,Grand Est Open 88,Mayar Sherif,Leolia Jeanjean,14,11
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Viktoria Morvayova,Franziska Sziedat,12,3
+2026-07-11,ATP,EFG Swiss Open Gstaad,Federico Cina,Patrick Zahraj,13,8
+2026-07-11,ATP,EFG Swiss Open Gstaad,Vitaliy Sachko,Manas Dhamne,12,5
+2026-07-11,ATP,Plava Laguna Croatia Open Umag,Marko Topo,Pol Martin Tiffon,6,4
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Anastasia Kulikova,Alexandra Panagiotidou,12,2
+2026-07-11,ATP,EFG Swiss Open Gstaad,Timofey Skatov,Anirudh Chandrasekar,12,6
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Ekaterina Yashina,Lina Glushko,16,14
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Elena Micic,Makoto Ninomiya,12,2
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Miriana Tona,Maria Rentoumi,12,2
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Yasmine Mansouri,Eleni  Tsetsou,14,11
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Mina Hodzic,Hao-Ching Chan,12,7
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Madison Sieg,Artemis Aslanisvili,12,3
+2026-07-11,ATP,Wimbledon,Linda Noskova,Karolina Muchova,17,12
+2026-07-11,WTA,Vanda Pharmaceuticals Athens Open,Elina Nepliy,Tang Qianhui,14,14
+2026-07-12,WTA,Enka Open,Priska Nugroho,Duru Soke,12,4
+2026-07-12,WTA,Generali Open Ladies Kitzbühel,Victoria Bosio,Karina Kovalchuk,12,7
+2026-07-12,WTA,Enka Open,Rina Saigo,Naoko Eto,12,0
+2026-07-12,WTA,Generali Open Ladies Kitzbühel,Martina Colmegna,Barbora Palicova,13,9
+2026-07-12,ATP,Wimbledon,Jannik Sinner,Alexander Zverev,25,20
+2026-07-12,WTA,Generali Open Ladies Kitzbühel,Dalila Jakupovic,Margaux Rouvroy,12,2
+2026-07-12,WTA,Enka Open,Weronika Falkowska,Daria Zelinskaya,12,6
+2026-07-12,WTA,Grand Est Open 88,Mayar Sherif,Jeline Vandromme,17,17
+2026-07-12,WTA,Generali Open Ladies Kitzbühel,Gina Feistel,Diletta Cherubini,12,4
+2026-07-12,WTA,Enka Open,Yujia Huang,Ayse Bal,13,8
+2026-07-12,WTA,Cerity Partners Hall of Fame Open for the Van Alen Cup Presented by the Margaret Fund,Tatjana Maria,Katie Volynets,12,6
+2026-07-12,WTA,Enka Open,Daria Khomutsianskaya,Saumya Vig,12,0
+2026-07-12,WTA,Vanda Pharmaceuticals Athens Open,Nao Hibino,Miriana Tona,12,4
+2026-07-12,WTA,Vanda Pharmaceuticals Athens Open,Viktoria Morvayova,Elina Nepliy,12,5
+2026-07-12,WTA,Vanda Pharmaceuticals Athens Open,Elena Micic,Anastasia Kulikova,15,13
+2026-07-12,WTA,Vanda Pharmaceuticals Athens Open,Mina Hodzic,Ekaterina Yashina,12,3
+2026-07-12,WTA,Unicredit Iasi Open,Zhibek Kulambayeva,Lisa Zaar,13,9
+2026-07-12,WTA,Unicredit Iasi Open,Leyre Romero Gormaz,Cristiana Nicoleta Todoni,12,3
+2026-07-12,WTA,Vanda Pharmaceuticals Athens Open,Lilli Tagger,Madison Sieg,12,3
+2026-07-12,WTA,Unicredit Iasi Open,Georgina Garcia Perez,Andreea Prisacariu,12,5
+2026-07-12,WTA,Enka Open,Varvara Panshina,Ilay Yoruk,12,3
+2026-07-12,WTA,Unicredit Iasi Open,Elena Pridankina,Eva Maria Ionescu,12,3
+2026-07-12,WTA,Unicredit Iasi Open,Elina Avanesyan,Emily Seibold,12,2
+2026-07-12,WTA,Unicredit Iasi Open,Irina Fetecau,Tatiana Pieri,17,12
+2026-07-12,WTA,Unicredit Iasi Open,Ipek Oz,Martina Okalova,12,3
+2026-07-12,WTA,Unicredit Iasi Open,Claire Liu,Maria Sara Popa,12,7
+2026-07-12,WTA,Unicredit Iasi Open,Ilinca Amariei,Caroline Werner,12,12
+2026-07-12,WTA,Unicredit Iasi Open,Alevtina Ibragimova,Mariia Kozyreva,12,2
+2026-07-12,WTA,Vanda Pharmaceuticals Athens Open,Aoi Ito,Yasmine Mansouri,12,4
+2026-07-12,ATP,Nordea Open,Martin Krumich,Frederico Ferreira Silva,12,6
+2026-07-12,ATP,Plava Laguna Croatia Open Umag,Federico Agustin Gomez,Andrea Guerrieri,12,8
+2026-07-12,ATP,Plava Laguna Croatia Open Umag,Marco Cecchinato,Genaro Alberto Olivieri,12,6
+2026-07-12,ATP,Plava Laguna Croatia Open Umag,Marko Topo,Lukas Neumayer,14,11
+2026-07-12,ATP,Plava Laguna Croatia Open Umag,Juan Carlos Prado Angelo,Nikolas Sanchez Izquierdo,13,9
+2026-07-12,ATP,EFG Swiss Open Gstaad,Dylan Dietrich,Thiago Monteiro,15,13
+2026-07-12,ATP,EFG Swiss Open Gstaad,Timofey Skatov,Vitaliy Sachko,12,6
+2026-07-12,ATP,Nordea Open,Igor Ribeiro Marcondes,Gonzalo Bueno,13,10
+2026-07-12,ATP,EFG Swiss Open Gstaad,Federico Cina,Calvin Hemery,12,7
+2026-07-12,ATP,Nordea Open,Carlos Sanchez Jover,Roberto Carballes Baena,9,3
+2026-07-12,ATP,Nordea Open,Miguel Damas,Nikola Slavic,12,5
+2026-07-12,ATP,Nordea Open,Thomas Faurel,Elmer Moller,12,7
+2026-07-12,ATP,Nordea Open,Taro Daniel,Federico Coria,12,2
+2026-07-12,ATP,Nordea Open,Francesco Passaro,Maks Kasnikowski,15,10
+2026-07-12,ATP,Nordea Open,Lautaro Midon,William Rejchtman Vinciguerra,13,9
+2026-07-12,ATP,EFG Swiss Open Gstaad,Clement Tabur,Marc-Andrea Huesler,13,10
+2026-07-12,WTA,Unicredit Iasi Open,Varvara Lepchenko,Maia Ilinca Burcescu,16,12
+2026-07-12,WTA,Unicredit Iasi Open,Carmen Andreea Herea,Ekaterina Kazionova,13,8
+2026-07-12,WTA,ATV Bancomat Tennis Open,Alessandra Mazzola,Francesca Gandolfi,12,7
+2026-07-12,WTA,Enka Open,Zhang Ying,Arina Arifullina,12,7
+2026-07-12,WTA,Enka Open,Isabella Shinikova,Doga Turkmen,12,1
+2026-07-12,WTA,ATV Bancomat Tennis Open,Yelyzaveta Kotliar,Amandine Hesse,17,13
+2026-07-12,WTA,ATV Bancomat Tennis Open,Elena Malygina,Viola Turini,18,17
+2026-07-12,WTA,ATV Bancomat Tennis Open,Noemi Basiletti,Anastasia Abbagnato,12,5
+2026-07-13,WTA,Enka Open,Kristina Penickova,Karman Thandi,16,16
+2026-07-13,ATP,Nordea Open,Jesper de Jong,Vilius Gaubas,14,11
+2026-07-13,ATP,Nordea Open,Miguel Damas,Thomas Faurel,16,16
+2026-07-13,ATP,Nordea Open,Taro Daniel,Carlos Sanchez Jover,14,10
+2026-07-13,ATP,Nordea Open,Martin Krumich,Francesco Passaro,12,7
+2026-07-13,WTA,Unicredit Iasi Open,Alina Charaeva,Victoria Jimenez Kasintseva,12,1
+2026-07-13,ATP,Nordea Open,Lautaro Midon,Igor Ribeiro Marcondes,14,11
+2026-07-13,WTA,Enka Open,Hanne Vandewinkel,Carol Young Suh Lee,12,6
+2026-07-13,WTA,Enka Open,Gabriela Knutson,Irem Kurt,16,10
+2026-07-13,WTA,Enka Open,Tatiana Prozorova,Bai Zhuoxuan,12,4
+2026-07-13,WTA,Enka Open,Lanlana Tararudee,Kyoka Okamura,12,3
+2026-07-13,WTA,Enka Open,Priska Nugroho,Rina Saigo,12,6
+2026-07-13,WTA,Enka Open,Weronika Falkowska,Varvara Panshina,12,8
+2026-07-13,ATP,EFG Swiss Open Gstaad,Clement Tabur,Jurij Rodionov,17,15
+2026-07-13,ATP,EFG Swiss Open Gstaad,Lorenzo Sonego,Joel Josef Schwaerzler,13,10
+2026-07-13,WTA,Enka Open,Anastasia Gasanova,Susan Bandecchi,13,10
+2026-07-13,ATP,EFG Swiss Open Gstaad,Miomir Kecmanovic,Kilian Feldbausch,13,10
+2026-07-13,ATP,EFG Swiss Open Gstaad,Raphael Collignon,Timofey Skatov,16,16
+2026-07-13,ATP,EFG Swiss Open Gstaad,Dominic Stricker,Jaume Munar,12,6
+2026-07-13,WTA,Enka Open,Daria Khomutsianskaya,Zhang Ying,14,15
+2026-07-13,WTA,ATV Bancomat Tennis Open,Federica Urgesi,Yelyzaveta Kotliar,12,3
+2026-07-13,ATP,Plava Laguna Croatia Open Umag,Damir Dzumhur,Henrique Rocha,12,3
+2026-07-13,ATP,Plava Laguna Croatia Open Umag,Luca Van Assche,Dusan Lajovic,15,15
+2026-07-13,ATP,Plava Laguna Croatia Open Umag,Marco Trungelliti,Kyrian Jacquet,12,5
+2026-07-13,ATP,Plava Laguna Croatia Open Umag,Dino Prizmic,Vit Kopriva,12,4
+2026-07-13,WTA,Enka Open,Isabella Shinikova,Yujia Huang,12,6
+2026-07-13,WTA,ATV Bancomat Tennis Open,Sofya Lansere,Elena Malygina,16,11
+2026-07-13,WTA,ATV Bancomat Tennis Open,Deborah Chiesa,Lina Gjorcheska,18,13
+2026-07-13,WTA,ATV Bancomat Tennis Open,Noma Noha Akugue,Alice Rame,13,6
+2026-07-13,WTA,Unicredit Iasi Open,Claire Liu,Ipek Oz,12,5
+2026-07-13,WTA,Unicredit Iasi Open,Leyre Romero Gormaz,Zhibek Kulambayeva,12,5
+2026-07-13,WTA,Unicredit Iasi Open,Elina Avanesyan,Irina Fetecau,12,4
+2026-07-13,WTA,Unicredit Iasi Open,Elena Pridankina,Georgina Garcia Perez,12,2
+2026-07-13,WTA,Unicredit Iasi Open,Ilinca Amariei,Carmen Andreea Herea,15,12
+2026-07-13,WTA,Unicredit Iasi Open,Petra Marcinko,Nadia Podoroska,15,12
+2026-07-13,WTA,Unicredit Iasi Open,Clara Burel,Varvara Lepchenko,15,14
+2026-07-13,WTA,ATV Bancomat Tennis Open,Lola Radivojevic,Ren Yufei,12,4
+2026-07-13,WTA,ATV Bancomat Tennis Open,Francesca Jones,Dalila Spiteri,13,7
+2026-07-13,WTA,ATV Bancomat Tennis Open,Darya Astakhova,Kajsa Rinaldo Persson,12,4
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Veronika Erjavec,Victoria Bosio,18,14
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Polona Hercog,Dalila Jakupovic,14,12
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Eva Bennemann,Anastasia Tikhonova,13,9
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Alycia Parks,Valentini Grammatikopoulou,13,10
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Elena Micic,Martha Matoula,13,8
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Maria Sakkari,Polina Kudermetova,13,6
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Harriet Dart,Mina Hodzic,16,15
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Sara Bejlek,Viktoria Morvayova,13,5
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Lilli Tagger,Marianne Argyrokastriti,12,2
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Zheng Qinwen,Jessica Bouzas Maneiro,13,6
+2026-07-13,WTA,Vanda Pharmaceuticals Athens Open,Mai Hontama,Magda Linette,13,9
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Gina Feistel,Julia Avdeeva,12,4
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Ekaterina Perelygina,Yasmine Kabbaj,14,13
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Mia Ristic,Mia Pohankova,13,8
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Erika Andreeva,Despina Papamichail,12,3
+2026-07-13,WTA,Generali Open Ladies Kitzbühel,Julia Grabher,Elena Ruxandra Bertea,17,14
+2026-07-13,WTA,Unicredit Iasi Open,Anna Bondar,Sara Sorribes Tormo,13,9
+2026-07-13,WTA,ATV Bancomat Tennis Open,Elizara Yaneva,Oksana Selekhmeteva,12,5
+2026-07-13,WTA,Unicredit Iasi Open,Alevtina Ibragimova,Varvara Lepchenko,12,7
