@@ -283,7 +283,7 @@ def _write_dashboard(equity, cash, at_risk, realized, wins, losses,
             "tour": s["tour"], "tournament": s["tournament"], "surface": s["surface"],
             "pick": s["pick"], "odds": s["odds"], "model": round(s["p_model"] * 100, 1),
             "kalshi": round(s["kalshi_prob"] * 100, 1), "edge": s["edge_pct"],
-            "stake": s["stake"], "volume": s.get("volume"),
+            "stake": s["stake"], "volume": s.get("volume"), "commence": s.get("commence_time"),
             "rival": s["player_b"] if s["pick"] == s["player_a"] else s["player_a"],
         } for s in sigs],
         "mc": mc,
@@ -303,7 +303,7 @@ def _pos_view(p):
         "model": round(float(p.get("model_prob", 0)) * 100, 1),
         "edge": p.get("edge_pct"), "stake": p.get("stake"),
         "status": p.get("status"), "pnl": p.get("pnl"),
-        "opened": p.get("opened_ts"), "settled": p.get("settled_ts"),
+        "opened": p.get("opened_ts"), "settled": p.get("settled_ts"), "commence": p.get("commence_time"),
     }
 
 
@@ -391,13 +391,13 @@ canvas{max-height:230px}
 
   <h2>Senales de hoy <span id="sigcount"></span></h2>
   <div class="scroll"><table id="sigtab">
-    <thead><tr><th>Tour</th><th>Torneo</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
+    <thead><tr><th>Tour</th><th>Torneo</th><th>Fecha (Perú)</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
       <th class="right">Modelo</th><th class="right">Kalshi</th><th class="right">Ventaja</th><th class="right">Stake</th></tr></thead>
     <tbody></tbody></table></div>
 
   <h2>Posiciones abiertas <span id="opencount"></span></h2>
   <div class="scroll"><table id="opentab">
-    <thead><tr><th>Tour</th><th>Torneo</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
+    <thead><tr><th>Tour</th><th>Torneo</th><th>Fecha (Perú)</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
       <th class="right">Modelo</th><th class="right">Ventaja</th><th class="right">Stake</th></tr></thead>
     <tbody></tbody></table></div>
 
@@ -411,6 +411,7 @@ canvas{max-height:230px}
 <script>
 const D = /*DATA*/;
 const money = v => (v<0?'-$':'$') + Math.abs(v).toFixed(2);
+const peru = iso => { if(!iso) return '\u2014'; const d=new Date(iso); return isNaN(d)?'\u2014':new Intl.DateTimeFormat('es-PE',{timeZone:'America/Lima',weekday:'short',day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit',hour12:false}).format(d); };
 const el = id => document.getElementById(id);
 
 // freshness
@@ -474,15 +475,15 @@ function fill(id,rows,cols){
   tb.innerHTML = rows.join('');
 }
 fill('sigtab', D.signals.map(s=>`<tr>
-  <td>${tourTag(s.tour)}</td><td>${s.tournament}</td><td><b>${s.pick}</b></td><td style="color:var(--dim)">${s.rival}</td>
+  <td>${tourTag(s.tour)}</td><td>${s.tournament}</td><td style="color:var(--dim);white-space:nowrap">${peru(s.commence)}</td><td><b>${s.pick}</b></td><td style="color:var(--dim)">${s.rival}</td>
   <td class="right">${s.odds.toFixed(2)}</td><td class="right">${s.model}%</td><td class="right">${s.kalshi}%</td>
-  <td class="right up">+${s.edge}%</td><td class="right">${money(s.stake)}</td></tr>`), 9);
+  <td class="right up">+${s.edge}%</td><td class="right">${money(s.stake)}</td></tr>`), 10);
 el('sigcount').textContent = D.signals.length ? `(${D.signals.length})` : '';
 
 fill('opentab', D.open.map(p=>`<tr>
-  <td>${tourTag(p.tour)}</td><td>${p.tournament}</td><td><b>${p.pick}</b></td><td style="color:var(--dim)">${p.rival}</td>
+  <td>${tourTag(p.tour)}</td><td>${p.tournament}</td><td style="color:var(--dim);white-space:nowrap">${peru(p.commence)}</td><td><b>${p.pick}</b></td><td style="color:var(--dim)">${p.rival}</td>
   <td class="right">${(+p.odds).toFixed(2)}</td><td class="right">${p.model}%</td>
-  <td class="right up">+${p.edge}%</td><td class="right">${money(+p.stake)}</td></tr>`), 8);
+  <td class="right up">+${p.edge}%</td><td class="right">${money(+p.stake)}</td></tr>`), 9);
 el('opencount').textContent = D.open.length ? `(${D.open.length})` : '';
 
 fill('histtab', D.closed.map(p=>{
