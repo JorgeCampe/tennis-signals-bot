@@ -19,3 +19,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 18,2026-07-14T16:28:06.626409+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Tamara Zidansek,Anna Bondar,Tamara Zidansek,0.377,0.345,2.9,9.0,4.7,3.67,open,,
 19,2026-07-14T16:54:02.930984+00:00,WTA,WTA Athens Round Of 32,Clay,2026-07-13T17:30:00Z,Clara Tauson,Nao Hibino,Clara Tauson,0.786,0.695,1.44,13.0,29.6,21.8,open,,
 20,2026-07-14T16:54:02.930984+00:00,WTA,WTA Athens Round Of 32,Clay,2026-07-13T13:00:00Z,Carole Monnet,Rebeka Masarova,Carole Monnet,0.386,0.366,2.73,5.4,3.1,2.28,open,,
+21,2026-07-14T17:59:22.782022+00:00,ATP,ATP Bastad Round Of 16,Clay,2026-07-15T13:10:00Z,Grigor Dimitrov,Nuno Borges,Grigor Dimitrov,0.518,0.447,2.24,15.7,12.7,10.3,open,,
+22,2026-07-14T17:59:22.782022+00:00,ATP,ATP Umag Round Of 16,Clay,2026-07-15T17:00:00Z,Dino Prizmic,Alex Molcan,Alex Molcan,0.492,0.467,2.14,5.4,4.7,3.81,open,,
