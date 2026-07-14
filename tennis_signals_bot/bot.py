@@ -143,6 +143,26 @@ def _montecarlo(open_pos, equity, n=5000):
     }
 
 
+def _gross_and_fee(net_odds):
+    """De la cuota NETA (con fee) saca la cuota BRUTA (mercado) y el fee como %
+    del desembolso. Invierte: costo = 1/neta = precio + FEE*precio*(1-precio)."""
+    try:
+        o = float(net_odds)
+    except (TypeError, ValueError):
+        return None, None
+    if o <= 1:
+        return None, None
+    fr = config.KALSHI_FEE_RATE
+    cost = 1.0 / o
+    disc = (1 + fr) ** 2 - 4 * fr * cost            # fr*p^2 - (1+fr)*p + cost = 0
+    if fr <= 0 or disc < 0:
+        return round(o, 2), 0.0
+    p = ((1 + fr) - disc ** 0.5) / (2 * fr)         # raiz menor = el precio
+    if not (0 < p < 1):
+        return round(o, 2), 0.0
+    return round(1.0 / p, 2), round(fr * p * (1 - p) * 100.0, 1)   # fee segun Kalshi (max 1.75%)
+
+
 # ---------- motor -----------------------------------------------------------
 def run(open_browser=False):
     now = datetime.now(timezone.utc)
@@ -279,13 +299,7 @@ def _write_dashboard(equity, cash, at_risk, realized, wins, losses,
         "equity_curve": [{"ts": r["ts"], "equity": r["equity"]} for r in eq_hist],
         "open": [_pos_view(p) for p in sorted(open_pos, key=lambda x: -float(x.get("edge_pct", 0)))],
         "closed": [_pos_view(p) for p in sorted(settled, key=lambda x: str(x.get("settled_ts", "")), reverse=True)],
-        "signals": [{
-            "tour": s["tour"], "tournament": s["tournament"], "surface": s["surface"],
-            "pick": s["pick"], "odds": s["odds"], "model": round(s["p_model"] * 100, 1),
-            "kalshi": round(s["kalshi_prob"] * 100, 1), "edge": s["edge_pct"],
-            "stake": s["stake"], "volume": s.get("volume"), "commence": s.get("commence_time"),
-            "rival": s["player_b"] if s["pick"] == s["player_a"] else s["player_a"],
-        } for s in sigs],
+        "signals": [_sig_view(s) for s in sigs],
         "mc": mc,
     }
     html = _DASHBOARD_TEMPLATE.replace("/*DATA*/", json.dumps(payload, ensure_ascii=False))
@@ -300,10 +314,23 @@ def _pos_view(p):
     return {
         "tour": p.get("tour"), "tournament": p.get("tournament"), "surface": p.get("surface"),
         "pick": p.get("pick"), "rival": rival, "odds": p.get("odds"),
+        "gross": _gross_and_fee(p.get("odds"))[0], "fee_pct": _gross_and_fee(p.get("odds"))[1],
         "model": round(float(p.get("model_prob", 0)) * 100, 1),
         "edge": p.get("edge_pct"), "stake": p.get("stake"),
         "status": p.get("status"), "pnl": p.get("pnl"),
         "opened": p.get("opened_ts"), "settled": p.get("settled_ts"), "commence": p.get("commence_time"),
+    }
+
+
+def _sig_view(s):
+    g, fp = _gross_and_fee(s["odds"])
+    return {
+        "tour": s["tour"], "tournament": s["tournament"], "surface": s["surface"],
+        "pick": s["pick"], "odds": s["odds"], "gross": g, "fee_pct": fp,
+        "model": round(s["p_model"] * 100, 1), "kalshi": round(s["kalshi_prob"] * 100, 1),
+        "edge": s["edge_pct"], "stake": s["stake"], "volume": s.get("volume"),
+        "commence": s.get("commence_time"),
+        "rival": s["player_b"] if s["pick"] == s["player_a"] else s["player_a"],
     }
 
 
@@ -389,15 +416,17 @@ canvas{max-height:230px}
 
   <div class="kpis" id="kpis"></div>
 
+  <div class="sub" style="margin:2px 0 -8px">Cuota = precio de mercado (Kalshi) · Fee = comisión · Neta = cuota después del fee (a la que apuesta el bot).</div>
+
   <h2>Senales de hoy <span id="sigcount"></span></h2>
   <div class="scroll"><table id="sigtab">
-    <thead><tr><th>Tour</th><th>Torneo</th><th>Fecha (Perú)</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
+    <thead><tr><th>Tour</th><th>Torneo</th><th>Fecha (Perú)</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th><th class="right">Fee</th><th class="right">Neta</th>
       <th class="right">Modelo</th><th class="right">Kalshi</th><th class="right">Ventaja</th><th class="right">Stake</th></tr></thead>
     <tbody></tbody></table></div>
 
   <h2>Posiciones abiertas <span id="opencount"></span></h2>
   <div class="scroll"><table id="opentab">
-    <thead><tr><th>Tour</th><th>Torneo</th><th>Fecha (Perú)</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th>
+    <thead><tr><th>Tour</th><th>Torneo</th><th>Fecha (Perú)</th><th>Pick</th><th>Rival</th><th class="right">Cuota</th><th class="right">Fee</th><th class="right">Neta</th>
       <th class="right">Modelo</th><th class="right">Ventaja</th><th class="right">Stake</th></tr></thead>
     <tbody></tbody></table></div>
 
@@ -476,14 +505,14 @@ function fill(id,rows,cols){
 }
 fill('sigtab', D.signals.map(s=>`<tr>
   <td>${tourTag(s.tour)}</td><td>${s.tournament}</td><td style="color:var(--dim);white-space:nowrap">${peru(s.commence)}</td><td><b>${s.pick}</b></td><td style="color:var(--dim)">${s.rival}</td>
-  <td class="right">${s.odds.toFixed(2)}</td><td class="right">${s.model}%</td><td class="right">${s.kalshi}%</td>
-  <td class="right up">+${s.edge}%</td><td class="right">${money(s.stake)}</td></tr>`), 10);
+  <td class="right">${(s.gross!=null?s.gross:s.odds).toFixed(2)}</td><td class="right" style="color:var(--dim)">${s.fee_pct!=null?s.fee_pct+'%':'\u2014'}</td><td class="right">${s.odds.toFixed(2)}</td><td class="right">${s.model}%</td><td class="right">${s.kalshi}%</td>
+  <td class="right up">+${s.edge}%</td><td class="right">${money(s.stake)}</td></tr>`), 12);
 el('sigcount').textContent = D.signals.length ? `(${D.signals.length})` : '';
 
 fill('opentab', D.open.map(p=>`<tr>
   <td>${tourTag(p.tour)}</td><td>${p.tournament}</td><td style="color:var(--dim);white-space:nowrap">${peru(p.commence)}</td><td><b>${p.pick}</b></td><td style="color:var(--dim)">${p.rival}</td>
-  <td class="right">${(+p.odds).toFixed(2)}</td><td class="right">${p.model}%</td>
-  <td class="right up">+${p.edge}%</td><td class="right">${money(+p.stake)}</td></tr>`), 9);
+  <td class="right">${(p.gross!=null?+p.gross:+p.odds).toFixed(2)}</td><td class="right" style="color:var(--dim)">${p.fee_pct!=null?p.fee_pct+'%':'\u2014'}</td><td class="right">${(+p.odds).toFixed(2)}</td><td class="right">${p.model}%</td>
+  <td class="right up">+${p.edge}%</td><td class="right">${money(+p.stake)}</td></tr>`), 11);
 el('opencount').textContent = D.open.length ? `(${D.open.length})` : '';
 
 fill('histtab', D.closed.map(p=>{
