@@ -1,5 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-15T20:42:33.765963+00:00,ATP,ATP Umag Round Of 16,Clay,2026-07-15T17:00:00Z,Dino Prizmic,Alex Molcan,Alex Molcan,0.492,0.304,3.29,61.8,27.0,21.7,905594.4,KXATPMATCH-26JUL15PRIMOL
-2026-07-15T20:42:33.765963+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.508,1.97,24.9,25.7,20.6,1004.5,KXWTAMATCH-26JUL16KORANN
-2026-07-15T20:42:33.765963+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.547,1.83,22.0,26.5,21.3,5220.55,KXWTAMATCH-26JUL15OLIPRI
-2026-07-15T20:42:33.765963+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-15T11:30:00Z,Stefanos Tsitsipas,Jerome Kym,Stefanos Tsitsipas,0.663,0.607,1.65,9.3,14.4,11.57,1828428.87,KXATPMATCH-26JUL15KYMTSI
+2026-07-15T21:41:13.343729+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.508,1.97,24.9,25.7,20.88,1088.35,KXWTAMATCH-26JUL16KORANN
+2026-07-15T21:41:13.343729+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.547,1.83,22.0,26.5,21.59,5222.37,KXWTAMATCH-26JUL15OLIPRI
+2026-07-15T21:41:13.343729+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.356,2.81,7.9,4.4,3.57,524.89,KXWTAMATCH-26JUL16VALSAS
