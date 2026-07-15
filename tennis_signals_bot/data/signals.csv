@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-15T21:41:13.343729+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.508,1.97,24.9,25.7,20.88,1088.35,KXWTAMATCH-26JUL16KORANN
-2026-07-15T21:41:13.343729+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.547,1.83,22.0,26.5,21.59,5222.37,KXWTAMATCH-26JUL15OLIPRI
-2026-07-15T21:41:13.343729+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.356,2.81,7.9,4.4,3.57,524.89,KXWTAMATCH-26JUL16VALSAS
+2026-07-15T22:41:23.241926+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.527,1.9,20.2,22.6,18.34,11496.37,KXWTAMATCH-26JUL16KORANN
+2026-07-15T22:41:23.241926+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.557,1.79,19.7,24.9,20.23,5270.07,KXWTAMATCH-26JUL15OLIPRI
+2026-07-15T22:41:23.241926+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.356,2.81,7.9,4.4,3.57,759.2,KXWTAMATCH-26JUL16VALSAS
