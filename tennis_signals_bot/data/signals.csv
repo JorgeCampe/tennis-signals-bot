@@ -1,7 +1,8 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-16T17:39:27.978871+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Damir Dzumhur,Matteo Arnaldi,Matteo Arnaldi,0.68,0.376,2.66,80.8,48.7,39.44,1431107.47,KXATPMATCH-26JUL16DZUARN
-2026-07-16T17:39:27.978871+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.366,2.73,49.6,28.6,23.19,448680.08,KXATPMATCH-26JUL16BURUGO
-2026-07-16T17:39:27.978871+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,26.49,5914.92,KXATPMATCH-26JUL17COLVAC
-2026-07-16T17:39:27.978871+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Maria Sakkari,Alycia Parks,Alycia Parks,0.363,0.284,3.52,27.7,11.0,8.9,1170.36,KXWTAMATCH-26JUL17PARSAK
-2026-07-16T17:39:27.978871+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,7.46,571.87,KXWTAMATCH-26JUL17ZIDMAR
-2026-07-16T17:39:27.978871+00:00,ATP,ATP Bastad Quarterfinal,Clay,2026-07-17T12:00:00Z,Luciano Darderi,Nuno Borges,Luciano Darderi,0.607,0.567,1.76,7.1,9.3,7.54,661.29,KXATPMATCH-26JUL17BORDAR
+2026-07-16T18:47:10.764630+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.315,3.18,70.3,32.3,25.28,367908.46,KXATPMATCH-26JUL16SHESTR
+2026-07-16T18:47:10.764630+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,25.62,6387.87,KXATPMATCH-26JUL17COLVAC
+2026-07-16T18:47:10.764630+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Maria Sakkari,Alycia Parks,Alycia Parks,0.363,0.273,3.66,32.6,12.3,9.6,1522.64,KXWTAMATCH-26JUL17PARSAK
+2026-07-16T18:47:10.764630+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,7.21,685.7,KXWTAMATCH-26JUL17ZIDMAR
+2026-07-16T18:47:10.764630+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Stefanos Tsitsipas,Arthur Rinderknech,Arthur Rinderknech,0.49,0.417,2.4,17.4,12.5,9.75,1732.93,KXATPMATCH-26JUL17RINTSI
+2026-07-16T18:47:10.764630+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Damir Dzumhur,Matteo Arnaldi,Damir Dzumhur,0.32,0.284,3.52,12.8,5.1,3.96,3712428.99,KXATPMATCH-26JUL16DZUARN
+2026-07-16T18:47:10.764630+00:00,ATP,ATP Bastad Quarterfinal,Clay,2026-07-17T12:00:00Z,Luciano Darderi,Nuno Borges,Luciano Darderi,0.607,0.567,1.76,7.1,9.3,7.29,906.56,KXATPMATCH-26JUL17BORDAR
