@@ -1,6 +1,8 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-16T11:08:38.696314+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.437,2.29,25.3,19.6,15.96,18423.59,KXATPMATCH-26JUL16BURUGO
-2026-07-16T11:08:38.696314+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.527,1.9,20.2,22.6,18.34,76818.46,KXWTAMATCH-26JUL16KORANN
-2026-07-16T11:08:38.696314+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.577,1.73,15.6,21.3,17.35,49884.77,KXWTAMATCH-26JUL15OLIPRI
-2026-07-16T11:08:38.696314+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.345,2.9,11.2,5.9,4.79,3132.45,KXWTAMATCH-26JUL16VALSAS
-2026-07-16T11:08:38.696314+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.508,1.97,5.6,5.8,4.69,47995.55,KXATPMATCH-26JUL16SHESTR
+2026-07-16T12:50:15.794593+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Casper Ruud,Jaime Faria,Casper Ruud,0.802,0.477,2.1,68.1,62.2,50.6,1759715.28,KXATPMATCH-26JUL16FARRUU
+2026-07-16T12:50:15.794593+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,26.62,1512.37,KXATPMATCH-26JUL17COLVAC
+2026-07-16T12:50:15.794593+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.437,2.29,25.3,19.6,15.96,21901.5,KXATPMATCH-26JUL16BURUGO
+2026-07-16T12:50:15.794593+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.547,1.83,15.8,19.1,15.57,84928.57,KXWTAMATCH-26JUL16KORANN
+2026-07-16T12:50:15.794593+00:00,ATP,ATP Bastad Round Of 16,Clay,2026-07-15T12:00:00Z,Andrey Rublev,Andrea Pellegrino,Andrea Pellegrino,0.292,0.253,3.96,15.7,5.3,4.32,438341.17,KXATPMATCH-26JUL15RUBPEL
+2026-07-16T12:50:15.794593+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.345,2.9,11.2,5.9,4.79,3694.82,KXWTAMATCH-26JUL16VALSAS
+2026-07-16T12:50:15.794593+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.498,2.01,7.7,7.7,6.23,53427.26,KXATPMATCH-26JUL16SHESTR
