@@ -1,6 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-16T09:04:55.875878+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.437,2.29,25.3,19.6,15.96,16053.13,KXATPMATCH-26JUL16BURUGO
-2026-07-16T09:04:55.875878+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.537,1.86,18.0,20.9,16.99,68175.08,KXWTAMATCH-26JUL16KORANN
-2026-07-16T09:04:55.875878+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.577,1.73,15.6,21.3,17.35,30589.68,KXWTAMATCH-26JUL15OLIPRI
-2026-07-16T09:04:55.875878+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.345,2.9,11.2,5.9,4.79,2952.83,KXWTAMATCH-26JUL16VALSAS
-2026-07-16T09:04:55.875878+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.508,1.97,5.6,5.8,4.69,44402.27,KXATPMATCH-26JUL16SHESTR
+2026-07-16T11:08:38.696314+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.437,2.29,25.3,19.6,15.96,18423.59,KXATPMATCH-26JUL16BURUGO
+2026-07-16T11:08:38.696314+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.527,1.9,20.2,22.6,18.34,76818.46,KXWTAMATCH-26JUL16KORANN
+2026-07-16T11:08:38.696314+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.577,1.73,15.6,21.3,17.35,49884.77,KXWTAMATCH-26JUL15OLIPRI
+2026-07-16T11:08:38.696314+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.345,2.9,11.2,5.9,4.79,3132.45,KXWTAMATCH-26JUL16VALSAS
+2026-07-16T11:08:38.696314+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.508,1.97,5.6,5.8,4.69,47995.55,KXATPMATCH-26JUL16SHESTR
