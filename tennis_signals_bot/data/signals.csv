@@ -1,9 +1,9 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-16T20:42:46.897542+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.325,3.08,64.9,31.3,23.9,436119.4,KXATPMATCH-26JUL16SHESTR
-2026-07-16T20:42:46.897542+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,25.02,8624.61,KXATPMATCH-26JUL17COLVAC
-2026-07-16T20:42:46.897542+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Maria Sakkari,Alycia Parks,Alycia Parks,0.363,0.263,3.8,37.8,13.5,10.31,2056.94,KXWTAMATCH-26JUL17PARSAK
-2026-07-16T20:42:46.897542+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Stefanos Tsitsipas,Arthur Rinderknech,Arthur Rinderknech,0.49,0.417,2.4,17.4,12.5,9.53,2862.38,KXATPMATCH-26JUL17RINTSI
-2026-07-16T20:42:46.897542+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Oleksandra Oliynykova,Clara Burel,Oleksandra Oliynykova,0.656,0.577,1.73,13.6,18.6,14.22,681.3,KXWTAMATCH-26JUL17OLIBUR
-2026-07-16T20:42:46.897542+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.366,2.73,8.4,4.8,3.69,1219.74,KXWTAMATCH-26JUL17ZIDMAR
-2026-07-16T20:42:46.897542+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Tereza Valentova,Alina Korneeva,Tereza Valentova,0.62,0.577,1.73,7.4,10.1,7.71,1015.62,KXWTAMATCH-26JUL17VALKOR
-2026-07-16T20:42:46.897542+00:00,ATP,ATP Bastad Quarterfinal,Clay,2026-07-17T12:00:00Z,Luciano Darderi,Nuno Borges,Luciano Darderi,0.607,0.577,1.73,5.2,7.1,5.45,1334.72,KXATPMATCH-26JUL17BORDAR
+2026-07-16T21:47:21.548589+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.325,3.08,64.9,31.3,23.9,455372.26,KXATPMATCH-26JUL16SHESTR
+2026-07-16T21:47:21.548589+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.437,2.29,40.6,31.5,24.1,10217.26,KXATPMATCH-26JUL17COLVAC
+2026-07-16T21:47:21.548589+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Maria Sakkari,Alycia Parks,Alycia Parks,0.363,0.263,3.8,37.8,13.5,10.31,2640.52,KXWTAMATCH-26JUL17PARSAK
+2026-07-16T21:47:21.548589+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T17:30:00Z,Panna Udvardy,Paula Badosa,Panna Udvardy,0.391,0.315,3.18,24.1,11.1,8.46,10672.13,KXWTAMATCH-26JUL17UDVBAD
+2026-07-16T21:47:21.548589+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Stefanos Tsitsipas,Arthur Rinderknech,Arthur Rinderknech,0.49,0.417,2.4,17.4,12.5,9.53,3471.36,KXATPMATCH-26JUL17RINTSI
+2026-07-16T21:47:21.548589+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Oleksandra Oliynykova,Clara Burel,Oleksandra Oliynykova,0.656,0.577,1.73,13.6,18.6,14.22,823.32,KXWTAMATCH-26JUL17OLIBUR
+2026-07-16T21:47:21.548589+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Tereza Valentova,Alina Korneeva,Tereza Valentova,0.62,0.567,1.76,9.3,12.2,9.32,1108.47,KXWTAMATCH-26JUL17VALKOR
+2026-07-16T21:47:21.548589+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.376,2.66,5.4,3.3,2.5,1312.74,KXWTAMATCH-26JUL17ZIDMAR
