@@ -1,5 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-16T04:25:04.066700+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.447,2.24,22.4,18.1,14.75,10105.71,KXATPMATCH-26JUL16BURUGO
-2026-07-16T04:25:04.066700+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.537,1.86,18.0,20.9,16.99,53156.49,KXWTAMATCH-26JUL16KORANN
-2026-07-16T04:25:04.066700+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.567,1.76,17.7,23.2,18.85,23271.02,KXWTAMATCH-26JUL15OLIPRI
-2026-07-16T04:25:04.066700+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.345,2.9,11.2,5.9,4.79,1814.73,KXWTAMATCH-26JUL16VALSAS
+2026-07-16T06:42:50.311523+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.437,2.29,25.3,19.6,15.96,15269.03,KXATPMATCH-26JUL16BURUGO
+2026-07-16T06:42:50.311523+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.537,1.86,18.0,20.9,16.99,66176.36,KXWTAMATCH-26JUL16KORANN
+2026-07-16T06:42:50.311523+00:00,WTA,WTA Iasi Round Of 16,Clay,2026-07-15T12:00:00Z,Elena Pridankina,Oleksandra Oliynykova,Oleksandra Oliynykova,0.667,0.567,1.76,17.7,23.2,18.85,30279.09,KXWTAMATCH-26JUL15OLIPRI
+2026-07-16T06:42:50.311523+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.345,2.9,11.2,5.9,4.79,2952.83,KXWTAMATCH-26JUL16VALSAS
