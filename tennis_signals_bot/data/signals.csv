@@ -1,6 +1,8 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-16T14:50:48.375761+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.397,2.52,59.9,39.4,33.42,278320.23,KXWTAMATCH-26JUL16KORANN
-2026-07-16T14:50:48.375761+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,27.79,3801.7,KXATPMATCH-26JUL17COLVAC
-2026-07-16T14:50:48.375761+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.447,2.24,22.4,18.1,15.4,49266.79,KXATPMATCH-26JUL16BURUGO
-2026-07-16T14:50:48.375761+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,7.83,519.96,KXWTAMATCH-26JUL17ZIDMAR
-2026-07-16T14:50:48.375761+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.498,2.01,7.7,7.7,6.5,65336.25,KXATPMATCH-26JUL16SHESTR
+2026-07-16T16:08:38.425053+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,26.49,4556.16,KXATPMATCH-26JUL17COLVAC
+2026-07-16T16:08:38.425053+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Maria Sakkari,Alycia Parks,Alycia Parks,0.363,0.294,3.4,23.3,9.7,7.84,500.76,KXWTAMATCH-26JUL17PARSAK
+2026-07-16T16:08:38.425053+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.447,2.24,22.4,18.1,14.69,93018.2,KXATPMATCH-26JUL16BURUGO
+2026-07-16T16:08:38.425053+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,7.46,519.96,KXWTAMATCH-26JUL17ZIDMAR
+2026-07-16T16:08:38.425053+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.498,2.01,7.7,7.7,6.2,146627.67,KXATPMATCH-26JUL16SHESTR
+2026-07-16T16:08:38.425053+00:00,ATP,ATP Bastad Quarterfinal,Clay,2026-07-17T12:00:00Z,Luciano Darderi,Nuno Borges,Luciano Darderi,0.607,0.567,1.76,7.1,9.3,7.54,514.69,KXATPMATCH-26JUL17BORDAR
+2026-07-16T16:08:38.425053+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T22:00:00Z,Alex Molcan,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.627,0.587,1.7,6.7,9.5,7.71,58238.15,KXATPMATCH-26JUL16MOLDAV

@@ -34,10 +34,13 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 33,2026-07-15T18:16:11.981536+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-15T17:30:00Z,Lilli Tagger,Sara Bejlek,Sara Bejlek,0.578,0.437,2.29,32.2,25.0,8.83,won,2026-07-15T19:40:23.511315+00:00,11.39,,
 34,2026-07-15T18:16:11.981536+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-15T17:30:00Z,Alycia Parks,Mai Hontama,Mai Hontama,0.373,0.284,3.52,31.4,12.5,4.52,lost,2026-07-15T20:42:32.453254+00:00,-4.52,15.638,-77.5
 35,2026-07-15T19:40:23.511315+00:00,ATP,ATP Umag Round Of 16,Clay,2026-07-15T20:30:00Z,Luca Van Assche,Titouan Droguet,Titouan Droguet,0.537,0.397,2.52,35.6,23.4,7.83,won,2026-07-15T20:42:32.453254+00:00,11.9,,
-36,2026-07-15T19:40:23.511315+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.508,1.97,24.9,25.7,12.27,open,,,2.522,
-37,2026-07-15T21:41:12.215779+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.356,2.81,7.9,4.4,3.55,open,,,2.659,
+36,2026-07-15T19:40:23.511315+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Alina Korneeva,Ann Li,Ann Li,0.634,0.508,1.97,24.9,25.7,12.27,lost,2026-07-16T16:08:37.392779+00:00,-12.27,2.522,-21.9
+37,2026-07-15T21:41:12.215779+00:00,WTA,WTA Athens Round Of 16,Clay,2026-07-16T17:30:00Z,Tereza Valentova,Aliaksandra Sasnovich,Aliaksandra Sasnovich,0.384,0.356,2.81,7.9,4.4,3.55,lost,2026-07-16T16:08:37.392779+00:00,-3.55,2.659,5.7
 38,2026-07-15T23:41:43.860024+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T17:00:00Z,Camilo Ugo Carabelli,Roman Andres Burruchaga,Camilo Ugo Carabelli,0.548,0.467,2.14,17.2,15.1,10.7,open,,,2.236,
 39,2026-07-16T09:04:54.749417+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.508,1.97,5.6,5.8,4.7,open,,,2.01,
 40,2026-07-16T12:50:13.628654+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Casper Ruud,Jaime Faria,Casper Ruud,0.802,0.477,2.1,68.1,62.2,11.09,won,2026-07-16T14:50:47.482952+00:00,12.2,,
 41,2026-07-16T12:50:13.628654+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,9.1,open,,,2.342,
-42,2026-07-16T14:50:47.482952+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,6.43,open,,,,
+42,2026-07-16T14:50:47.482952+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,6.43,open,,,2.983,
+43,2026-07-16T16:08:37.392779+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Maria Sakkari,Alycia Parks,Alycia Parks,0.363,0.294,3.4,23.3,9.7,5.06,open,,,,
+44,2026-07-16T16:08:37.392779+00:00,ATP,ATP Bastad Quarterfinal,Clay,2026-07-17T12:00:00Z,Luciano Darderi,Nuno Borges,Luciano Darderi,0.607,0.567,1.76,7.1,9.3,7.56,open,,,,
+45,2026-07-16T16:08:37.392779+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T22:00:00Z,Alex Molcan,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.627,0.587,1.7,6.7,9.5,7.75,open,,,,
