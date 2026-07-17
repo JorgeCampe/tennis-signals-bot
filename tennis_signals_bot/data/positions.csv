@@ -40,7 +40,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 39,2026-07-16T09:04:54.749417+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Dominic Stricker,Aleksandr Shevchenko,Aleksandr Shevchenko,0.536,0.508,1.97,5.6,5.8,4.7,won,2026-07-17T12:06:30.136282+00:00,4.56,1.07,84.1
 40,2026-07-16T12:50:13.628654+00:00,ATP,ATP Gstaad Round Of 16,Clay,2026-07-16T11:30:00Z,Casper Ruud,Jaime Faria,Casper Ruud,0.802,0.477,2.1,68.1,62.2,11.09,won,2026-07-16T14:50:47.482952+00:00,12.2,,
 41,2026-07-16T12:50:13.628654+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T11:30:00Z,Valentin Vacherot,Raphael Collignon,Valentin Vacherot,0.615,0.427,2.34,43.9,32.7,9.1,lost,2026-07-17T10:54:08.583318+00:00,-9.1,4.125,-43.3
-42,2026-07-16T14:50:47.482952+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,6.43,open,,,1.418,
+42,2026-07-16T14:50:47.482952+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Tamara Zidansek,0.397,0.335,2.98,18.3,9.2,6.43,won,2026-07-17T19:50:55.785693+00:00,12.73,1.418,110.2
 43,2026-07-16T16:08:37.392779+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Maria Sakkari,Alycia Parks,Alycia Parks,0.363,0.294,3.4,23.3,9.7,5.06,lost,2026-07-17T18:43:51.484420+00:00,-5.06,31.214,-89.1
 44,2026-07-16T16:08:37.392779+00:00,ATP,ATP Bastad Quarterfinal,Clay,2026-07-17T12:00:00Z,Luciano Darderi,Nuno Borges,Luciano Darderi,0.607,0.567,1.76,7.1,9.3,7.56,won,2026-07-17T14:00:26.780853+00:00,5.75,1.794,-1.9
 45,2026-07-16T16:08:37.392779+00:00,ATP,ATP Umag Quarterfinal,Clay,2026-07-16T22:00:00Z,Alex Molcan,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.627,0.587,1.7,6.7,9.5,7.75,lost,2026-07-16T22:42:46.268391+00:00,-7.75,18.753,-90.9
@@ -52,5 +52,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 51,2026-07-16T22:42:46.268391+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T17:30:00Z,Qinwen Zheng,Barbora Krejcikova,Qinwen Zheng,0.556,0.467,2.14,19.1,16.7,9.8,open,,,3.4,
 52,2026-07-16T22:42:46.268391+00:00,ATP,ATP Bastad Quarterfinal,Clay,2026-07-17T14:20:00Z,Andrey Rublev,Sebastian Baez,Andrey Rublev,0.682,0.646,1.55,5.6,10.2,7.59,won,2026-07-17T15:22:35.608229+00:00,4.17,1.127,37.5
 53,2026-07-17T15:22:35.608229+00:00,ATP,ATP Gstaad Quarterfinal,Clay,2026-07-17T16:30:00Z,Aleksandr Shevchenko,Quentin Halys,Quentin Halys,0.579,0.397,2.52,45.9,30.2,7.49,lost,2026-07-17T16:39:09.463905+00:00,-7.49,,
-54,2026-07-17T18:43:51.484420+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T20:40:00Z,Clara Tauson,Sara Bejlek,Sara Bejlek,0.491,0.345,2.9,42.1,22.2,5.52,open,,,,
-55,2026-07-17T18:43:51.484420+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.325,3.08,10.3,5.0,3.47,open,,,,
+54,2026-07-17T18:43:51.484420+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T20:40:00Z,Clara Tauson,Sara Bejlek,Sara Bejlek,0.491,0.345,2.9,42.1,22.2,5.52,open,,,7.85,
+55,2026-07-17T18:43:51.484420+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.325,3.08,10.3,5.0,3.47,open,,,3.178,
+56,2026-07-17T19:50:55.785693+00:00,ATP,ATP Umag Semifinal,Clay,2026-07-17T22:00:00Z,Alex Molcan,Damir Dzumhur,Damir Dzumhur,0.342,0.253,3.96,35.3,11.9,3.71,open,,,,
+57,2026-07-17T19:50:55.785693+00:00,ATP,ATP Gstaad Semifinal,Clay,2026-07-18T14:30:00Z,Stefanos Tsitsipas,Aleksandr Shevchenko,Aleksandr Shevchenko,0.317,0.294,3.4,7.6,3.2,2.32,open,,,,

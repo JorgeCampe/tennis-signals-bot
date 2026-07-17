@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-17T18:43:53.628372+00:00,WTA,WTA Iasi Quarterfinal,Clay,2026-07-17T13:00:00Z,Tamara Zidansek,Petra Marcinko,Petra Marcinko,0.603,0.345,2.9,74.7,39.4,27.59,527878.61,KXWTAMATCH-26JUL17ZIDMAR
-2026-07-17T18:43:53.628372+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T20:40:00Z,Clara Tauson,Sara Bejlek,Sara Bejlek,0.491,0.345,2.9,42.1,22.2,15.56,367635.92,KXWTAMATCH-26JUL17TAUBEJ
-2026-07-17T18:43:53.628372+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.325,3.08,10.3,5.0,3.47,518.32,KXATPMATCH-26JUL18RUBTAB
+2026-07-17T19:50:57.262345+00:00,ATP,ATP Umag Semifinal,Clay,2026-07-17T22:00:00Z,Alex Molcan,Damir Dzumhur,Damir Dzumhur,0.342,0.253,3.96,35.3,11.9,8.74,585626.53,KXATPMATCH-26JUL17DZUMOL
+2026-07-17T19:50:57.262345+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.315,3.18,13.9,6.4,4.68,656.09,KXATPMATCH-26JUL18RUBTAB
+2026-07-17T19:50:57.262345+00:00,ATP,ATP Gstaad Semifinal,Clay,2026-07-18T14:30:00Z,Stefanos Tsitsipas,Aleksandr Shevchenko,Aleksandr Shevchenko,0.317,0.294,3.4,7.6,3.2,2.32,599.27,KXATPMATCH-26JUL18SHETSI
