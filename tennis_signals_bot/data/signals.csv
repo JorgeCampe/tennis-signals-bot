@@ -1,5 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-18T00:58:59.146196+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.345,2.9,39.0,20.6,15.32,17510.26,KXATPMATCH-26JUL18CORSAC
-2026-07-18T00:58:59.146196+00:00,ATP,ATP Gstaad Semifinal,Clay,2026-07-18T14:30:00Z,Stefanos Tsitsipas,Aleksandr Shevchenko,Aleksandr Shevchenko,0.317,0.253,3.96,25.2,8.5,6.35,5996.51,KXATPMATCH-26JUL18SHETSI
-2026-07-18T00:58:59.146196+00:00,WTA,WTA Iasi Semifinal,Clay,2026-07-18T18:10:00Z,Tamara Zidansek,Paula Badosa,Tamara Zidansek,0.327,0.263,3.8,24.3,8.7,6.46,4919.22,KXWTAMATCH-26JUL18BADZID
-2026-07-18T00:58:59.146196+00:00,WTA,WTA Prague Qualification Round 1,Hard,2026-07-18T12:00:00Z,Xinyu Gao,Susan Bandecchi,Susan Bandecchi,0.48,0.407,2.46,18.2,12.4,9.27,2577.18,KXWTAMATCH-26JUL18BANGAO
+2026-07-18T04:07:24.350924+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.345,2.9,39.0,20.6,15.32,17857.83,KXATPMATCH-26JUL18CORSAC
+2026-07-18T04:07:24.350924+00:00,ATP,ATP Gstaad Semifinal,Clay,2026-07-18T14:30:00Z,Stefanos Tsitsipas,Aleksandr Shevchenko,Aleksandr Shevchenko,0.317,0.253,3.96,25.2,8.5,6.35,18327.58,KXATPMATCH-26JUL18SHETSI
+2026-07-18T04:07:24.350924+00:00,WTA,WTA Iasi Semifinal,Clay,2026-07-18T18:10:00Z,Tamara Zidansek,Paula Badosa,Tamara Zidansek,0.327,0.263,3.8,24.3,8.7,6.46,7248.5,KXWTAMATCH-26JUL18BADZID
+2026-07-18T04:07:24.350924+00:00,WTA,WTA Prague Qualification Round 1,Hard,2026-07-18T12:00:00Z,Xinyu Gao,Susan Bandecchi,Susan Bandecchi,0.48,0.407,2.46,18.2,12.4,9.27,6437.55,KXWTAMATCH-26JUL18BANGAO
+2026-07-18T04:07:24.350924+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.335,2.98,6.9,3.5,2.61,13608.07,KXATPMATCH-26JUL18RUBTAB
