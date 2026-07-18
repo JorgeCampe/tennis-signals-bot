@@ -60,5 +60,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 59,2026-07-17T23:28:29.672935+00:00,WTA,WTA Prague Qualification Round 1,Hard,2026-07-18T12:00:00Z,Xinyu Gao,Susan Bandecchi,Susan Bandecchi,0.48,0.397,2.52,21.2,13.9,7.35,open,,,2.733,
 60,2026-07-18T00:58:57.084495+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.345,2.9,39.0,20.6,5.88,lost,2026-07-18T14:08:44.872919+00:00,-5.88,2.342,23.8
 61,2026-07-18T16:12:35.355475+00:00,WTA,WTA Athens Semifinal,Clay,2026-07-18T17:30:00Z,Maria Sakkari,Alina Korneeva,Maria Sakkari,0.635,0.597,1.68,6.4,9.4,6.82,won,2026-07-18T18:11:40.076449+00:00,4.64,1.177,42.7
-62,2026-07-18T17:16:38.298652+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.577,1.73,9.3,12.7,9.12,open,,,1.827,
+62,2026-07-18T17:16:38.298652+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.577,1.73,9.3,12.7,9.12,open,,,1.794,
 63,2026-07-18T19:32:46.637538+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Vitaliy Sachko,Jurij Rodionov,Vitaliy Sachko,0.53,0.417,2.4,27.0,19.3,7.68,open,,,2.399,
+64,2026-07-18T22:09:30.324437+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T12:00:00Z,Timofey Skatov,Pedro Martinez,Timofey Skatov,0.473,0.437,2.29,8.2,6.4,4.55,open,,,,
