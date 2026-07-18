@@ -55,7 +55,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 54,2026-07-17T18:43:51.484420+00:00,WTA,WTA Athens Quarterfinal,Clay,2026-07-17T20:40:00Z,Clara Tauson,Sara Bejlek,Sara Bejlek,0.491,0.345,2.9,42.1,22.2,5.52,lost,2026-07-17T20:41:03.323941+00:00,-5.52,7.85,-63.1
 55,2026-07-17T18:43:51.484420+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.325,3.08,10.3,5.0,3.47,open,,,3.077,
 56,2026-07-17T19:50:55.785693+00:00,ATP,ATP Umag Semifinal,Clay,2026-07-17T22:00:00Z,Alex Molcan,Damir Dzumhur,Damir Dzumhur,0.342,0.253,3.96,35.3,11.9,3.71,won,2026-07-17T22:28:34.135686+00:00,10.98,1.059,273.9
-57,2026-07-17T19:50:55.785693+00:00,ATP,ATP Gstaad Semifinal,Clay,2026-07-18T14:30:00Z,Stefanos Tsitsipas,Aleksandr Shevchenko,Aleksandr Shevchenko,0.317,0.294,3.4,7.6,3.2,2.32,open,,,4.125,
+57,2026-07-17T19:50:55.785693+00:00,ATP,ATP Gstaad Semifinal,Clay,2026-07-18T14:30:00Z,Stefanos Tsitsipas,Aleksandr Shevchenko,Aleksandr Shevchenko,0.317,0.294,3.4,7.6,3.2,2.32,open,,,3.8,
 58,2026-07-17T22:28:34.135686+00:00,WTA,WTA Iasi Semifinal,Clay,2026-07-18T18:10:00Z,Tamara Zidansek,Paula Badosa,Tamara Zidansek,0.327,0.284,3.52,15.2,6.0,4.44,open,,,3.956,
 59,2026-07-17T23:28:29.672935+00:00,WTA,WTA Prague Qualification Round 1,Hard,2026-07-18T12:00:00Z,Xinyu Gao,Susan Bandecchi,Susan Bandecchi,0.48,0.397,2.52,21.2,13.9,7.35,open,,,2.733,
-60,2026-07-18T00:58:57.084495+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.345,2.9,39.0,20.6,5.88,open,,,3.285,
+60,2026-07-18T00:58:57.084495+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.345,2.9,39.0,20.6,5.88,open,,,3.524,
