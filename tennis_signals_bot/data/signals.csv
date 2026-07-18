@@ -1,5 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-18T09:46:09.462247+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.315,3.18,52.5,24.1,17.98,19925.31,KXATPMATCH-26JUL18CORSAC
-2026-07-18T09:46:09.462247+00:00,WTA,WTA Prague Qualification Round 1,Hard,2026-07-18T12:00:00Z,Xinyu Gao,Susan Bandecchi,Susan Bandecchi,0.48,0.366,2.73,31.3,18.1,13.47,135697.14,KXWTAMATCH-26JUL18BANGAO
-2026-07-18T09:46:09.462247+00:00,WTA,WTA Iasi Semifinal,Clay,2026-07-18T18:10:00Z,Tamara Zidansek,Paula Badosa,Tamara Zidansek,0.327,0.253,3.96,29.4,9.9,7.4,99792.04,KXWTAMATCH-26JUL18BADZID
-2026-07-18T09:46:09.462247+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.325,3.08,10.3,5.0,3.7,86457.51,KXATPMATCH-26JUL18RUBTAB
+2026-07-18T10:51:23.716606+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.304,3.29,57.7,25.2,18.81,21579.8,KXATPMATCH-26JUL18CORSAC
+2026-07-18T10:51:23.716606+00:00,WTA,WTA Iasi Semifinal,Clay,2026-07-18T18:10:00Z,Tamara Zidansek,Paula Badosa,Tamara Zidansek,0.327,0.253,3.96,29.4,9.9,7.4,100997.86,KXWTAMATCH-26JUL18BADZID
+2026-07-18T10:51:23.716606+00:00,ATP,ATP Bastad Semifinal,Clay,2026-07-18T15:30:00Z,Alejandro Tabilo,Andrey Rublev,Alejandro Tabilo,0.358,0.325,3.08,10.3,5.0,3.7,96925.25,KXATPMATCH-26JUL18RUBTAB
