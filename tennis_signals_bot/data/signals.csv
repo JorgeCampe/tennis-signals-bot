@@ -1,5 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-19T16:13:07.667920+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Yue Yuan,Nikola Bartunkova,Yue Yuan,0.393,0.325,3.08,20.8,10.0,6.44,793.26,KXWTAMATCH-26JUL20BARYUA
-2026-07-19T16:13:07.667920+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.467,2.14,20.3,17.8,11.45,868.18,KXATPMATCH-26JUL19VANFAR
-2026-07-19T16:13:07.667920+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Miomir Kecmanovic,Sebastian Baez,Sebastian Baez,0.55,0.477,2.1,15.3,14.0,9.02,554.02,KXATPMATCH-26JUL19BAEKEC
-2026-07-19T16:13:07.667920+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Vilius Gaubas,Pablo Carreno Busta,Vilius Gaubas,0.415,0.366,2.73,13.6,7.8,5.04,932.46,KXATPMATCH-26JUL19GAUCAR
+2026-07-19T17:18:21.674811+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Yue Yuan,Nikola Bartunkova,Yue Yuan,0.393,0.325,3.08,20.8,10.0,6.44,796.26,KXWTAMATCH-26JUL20BARYUA
+2026-07-19T17:18:21.674811+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.467,2.14,20.3,17.8,11.45,876.84,KXATPMATCH-26JUL19VANFAR
+2026-07-19T17:18:21.674811+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Stan Wawrinka,Roman Andres Burruchaga,Stan Wawrinka,0.4,0.345,2.9,15.8,8.3,5.37,577.23,KXATPMATCH-26JUL19WAWBUR
+2026-07-19T17:18:21.674811+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Miomir Kecmanovic,Sebastian Baez,Sebastian Baez,0.55,0.477,2.1,15.3,14.0,9.02,554.02,KXATPMATCH-26JUL19BAEKEC
+2026-07-19T17:18:21.674811+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Vilius Gaubas,Pablo Carreno Busta,Vilius Gaubas,0.415,0.366,2.73,13.6,7.8,5.04,996.64,KXATPMATCH-26JUL19GAUCAR
