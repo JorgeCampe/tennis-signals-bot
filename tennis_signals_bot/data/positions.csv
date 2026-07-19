@@ -60,17 +60,18 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 59,2026-07-17T23:28:29.672935+00:00,WTA,WTA Prague Qualification Round 1,Hard,2026-07-18T12:00:00Z,Xinyu Gao,Susan Bandecchi,Susan Bandecchi,0.48,0.397,2.52,21.2,13.9,7.35,open,,,2.733,
 60,2026-07-18T00:58:57.084495+00:00,ATP,ATP Kitzbuhel Qualification Round 1,Clay,2026-07-18T13:40:00Z,Vitaliy Sachko,Federico Coria,Federico Coria,0.48,0.345,2.9,39.0,20.6,5.88,lost,2026-07-18T14:08:44.872919+00:00,-5.88,2.342,23.8
 61,2026-07-18T16:12:35.355475+00:00,WTA,WTA Athens Semifinal,Clay,2026-07-18T17:30:00Z,Maria Sakkari,Alina Korneeva,Maria Sakkari,0.635,0.597,1.68,6.4,9.4,6.82,won,2026-07-18T18:11:40.076449+00:00,4.64,1.177,42.7
-62,2026-07-18T17:16:38.298652+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.577,1.73,9.3,12.7,9.12,open,,,1.621,
-63,2026-07-18T19:32:46.637538+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Vitaliy Sachko,Jurij Rodionov,Vitaliy Sachko,0.53,0.417,2.4,27.0,19.3,7.68,open,,,2.399,
+62,2026-07-18T17:16:38.298652+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.577,1.73,9.3,12.7,9.12,lost,2026-07-19T14:08:38.106529+00:00,-9.12,1.621,6.7
+63,2026-07-18T19:32:46.637538+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Vitaliy Sachko,Jurij Rodionov,Vitaliy Sachko,0.53,0.417,2.4,27.0,19.3,7.68,open,,,2.14,
 64,2026-07-18T22:09:30.324437+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T12:00:00Z,Timofey Skatov,Pedro Martinez,Timofey Skatov,0.473,0.437,2.29,8.2,6.4,4.55,open,,,2.342,
 65,2026-07-19T00:09:55.101991+00:00,WTA,WTA Athens Final,Clay,2026-07-19T20:00:00Z,Maria Sakkari,Barbora Krejcikova,Barbora Krejcikova,0.546,0.467,2.14,17.0,14.9,9.43,open,,,1.703,
-66,2026-07-19T03:54:01.448359+00:00,ATP,ATP Bastad Final,Clay,2026-07-19T15:00:00Z,Andrey Rublev,Luciano Darderi,Luciano Darderi,0.496,0.457,2.19,8.4,7.0,5.06,open,,,1.932,
-67,2026-07-19T06:26:59.241848+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Lorenzo Giustino,Federico Cina,Lorenzo Giustino,0.52,0.315,3.18,65.3,30.0,4.93,open,,,3.657,
+66,2026-07-19T03:54:01.448359+00:00,ATP,ATP Bastad Final,Clay,2026-07-19T15:00:00Z,Andrey Rublev,Luciano Darderi,Luciano Darderi,0.496,0.457,2.19,8.4,7.0,5.06,lost,2026-07-19T14:08:38.106529+00:00,-5.06,1.932,13.4
+67,2026-07-19T06:26:59.241848+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Lorenzo Giustino,Federico Cina,Lorenzo Giustino,0.52,0.315,3.18,65.3,30.0,4.93,lost,2026-07-19T14:08:38.106529+00:00,-4.93,3.657,-13.0
 68,2026-07-19T06:26:59.241848+00:00,ATP,ATP Gstaad Final,Clay,2026-07-19T12:30:00Z,Stefanos Tsitsipas,Raphael Collignon,Raphael Collignon,0.461,0.427,2.34,8.0,5.9,4.28,lost,2026-07-19T12:33:39.327471+00:00,-4.28,2.342,-0.1
 69,2026-07-19T10:25:27.437178+00:00,WTA,WTA Prague Qualification Final,Hard,2026-07-19T11:00:00Z,Xinyu Gao,Linda Fruhvirtova,Linda Fruhvirtova,0.49,0.304,3.29,61.1,26.8,4.69,open,,,6.292,
-70,2026-07-19T10:25:27.437178+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Yue Yuan,Nikola Bartunkova,Yue Yuan,0.393,0.325,3.08,20.8,10.0,5.17,open,,,2.983,
+70,2026-07-19T10:25:27.437178+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Yue Yuan,Nikola Bartunkova,Yue Yuan,0.393,0.325,3.08,20.8,10.0,5.17,open,,,3.077,
 71,2026-07-19T11:36:21.704754+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Polina Kudermetova,Alina Korneeva,Polina Kudermetova,0.48,0.397,2.52,21.2,13.9,7.07,open,,,,
-72,2026-07-19T11:36:21.704754+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Vilius Gaubas,Pablo Carreno Busta,Vilius Gaubas,0.415,0.345,2.9,20.3,10.7,5.66,open,,,2.895,
+72,2026-07-19T11:36:21.704754+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Vilius Gaubas,Pablo Carreno Busta,Vilius Gaubas,0.415,0.345,2.9,20.3,10.7,5.66,open,,,2.733,
 73,2026-07-19T11:36:21.704754+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Vit Kopriva,Ignacio Buse,Vit Kopriva,0.429,0.407,2.46,5.6,3.8,2.75,open,,,2.459,
 74,2026-07-19T11:36:21.704754+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Camilo Ugo Carabelli,Titouan Droguet,Camilo Ugo Carabelli,0.554,0.527,1.9,5.0,5.6,3.98,open,,,1.896,
-75,2026-07-19T12:33:39.327471+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T13:30:00Z,Laslo Djere,Hugo Dellien,Laslo Djere,0.665,0.607,1.65,9.5,14.7,10.32,open,,,,
+75,2026-07-19T12:33:39.327471+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T13:30:00Z,Laslo Djere,Hugo Dellien,Laslo Djere,0.665,0.607,1.65,9.5,14.7,10.32,won,2026-07-19T14:08:38.106529+00:00,6.71,,
+76,2026-07-19T14:08:38.106529+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.467,2.14,20.3,17.8,8.88,open,,,,
