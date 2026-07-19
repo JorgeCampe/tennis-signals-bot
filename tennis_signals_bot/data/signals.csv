@@ -1,5 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-19T00:09:55.912756+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Vitaliy Sachko,Jurij Rodionov,Vitaliy Sachko,0.53,0.417,2.4,27.0,19.3,13.84,832.67,KXATPMATCH-26JUL19RODSAC
-2026-07-19T00:09:55.912756+00:00,WTA,WTA Athens Final,Clay,2026-07-19T20:00:00Z,Maria Sakkari,Barbora Krejcikova,Barbora Krejcikova,0.546,0.467,2.14,17.0,14.9,10.65,847.18,KXWTAMATCH-26JUL19KRESAK
-2026-07-19T00:09:55.912756+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T12:00:00Z,Timofey Skatov,Pedro Martinez,Timofey Skatov,0.473,0.417,2.4,13.5,9.6,6.9,886.15,KXATPMATCH-26JUL19MARSKA
-2026-07-19T00:09:55.912756+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.557,1.79,13.2,16.6,11.91,12948.76,KXATPMATCH-26JUL19JACDAN
+2026-07-19T03:54:02.881567+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Vitaliy Sachko,Jurij Rodionov,Vitaliy Sachko,0.53,0.417,2.4,27.0,19.3,13.84,1180.37,KXATPMATCH-26JUL19RODSAC
+2026-07-19T03:54:02.881567+00:00,WTA,WTA Athens Final,Clay,2026-07-19T20:00:00Z,Maria Sakkari,Barbora Krejcikova,Barbora Krejcikova,0.546,0.467,2.14,17.0,14.9,10.65,11719.52,KXWTAMATCH-26JUL19KRESAK
+2026-07-19T03:54:02.881567+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T12:00:00Z,Timofey Skatov,Pedro Martinez,Timofey Skatov,0.473,0.407,2.46,16.3,11.2,8.01,1947.99,KXATPMATCH-26JUL19MARSKA
+2026-07-19T03:54:02.881567+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.557,1.79,13.2,16.6,11.91,21054.77,KXATPMATCH-26JUL19JACDAN
+2026-07-19T03:54:02.881567+00:00,ATP,ATP Bastad Final,Clay,2026-07-19T15:00:00Z,Andrey Rublev,Luciano Darderi,Luciano Darderi,0.496,0.457,2.19,8.4,7.0,5.05,74618.58,KXATPMATCH-26JUL19RUBDAR
