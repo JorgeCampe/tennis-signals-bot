@@ -1,7 +1,9 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-19T08:54:27.725413+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Lorenzo Giustino,Federico Cina,Lorenzo Giustino,0.52,0.273,3.66,90.2,33.9,24.32,3786.85,KXATPMATCH-26JUL19CINGIU
-2026-07-19T08:54:27.725413+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Vitaliy Sachko,Jurij Rodionov,Vitaliy Sachko,0.53,0.417,2.4,27.0,19.3,13.84,3766.64,KXATPMATCH-26JUL19RODSAC
-2026-07-19T08:54:27.725413+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.537,1.86,17.4,20.2,14.51,46667.3,KXATPMATCH-26JUL19JACDAN
-2026-07-19T08:54:27.725413+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T12:00:00Z,Timofey Skatov,Pedro Martinez,Timofey Skatov,0.473,0.407,2.46,16.3,11.2,8.01,28223.43,KXATPMATCH-26JUL19MARSKA
-2026-07-19T08:54:27.725413+00:00,ATP,ATP Bastad Final,Clay,2026-07-19T15:00:00Z,Andrey Rublev,Luciano Darderi,Luciano Darderi,0.496,0.447,2.24,10.8,8.7,6.26,274336.41,KXATPMATCH-26JUL19RUBDAR
-2026-07-19T08:54:27.725413+00:00,ATP,ATP Gstaad Final,Clay,2026-07-19T12:30:00Z,Stefanos Tsitsipas,Raphael Collignon,Raphael Collignon,0.461,0.437,2.29,5.5,4.3,3.05,451975.25,KXATPMATCH-26JUL19TSICOL
+2026-07-19T10:25:28.296461+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Lorenzo Giustino,Federico Cina,Lorenzo Giustino,0.52,0.273,3.66,90.2,33.9,24.32,4007.37,KXATPMATCH-26JUL19CINGIU
+2026-07-19T10:25:28.296461+00:00,WTA,WTA Prague Qualification Final,Hard,2026-07-19T11:00:00Z,Xinyu Gao,Linda Fruhvirtova,Linda Fruhvirtova,0.49,0.304,3.29,61.1,26.8,19.17,165008.53,KXWTAMATCH-26JUL19GAOFRU
+2026-07-19T10:25:28.296461+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Vitaliy Sachko,Jurij Rodionov,Vitaliy Sachko,0.53,0.417,2.4,27.0,19.3,13.84,3863.64,KXATPMATCH-26JUL19RODSAC
+2026-07-19T10:25:28.296461+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Yue Yuan,Nikola Bartunkova,Yue Yuan,0.393,0.325,3.08,20.8,10.0,7.17,770.48,KXWTAMATCH-26JUL20BARYUA
+2026-07-19T10:25:28.296461+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T14:00:00Z,Kyrian Jacquet,Taro Daniel,Kyrian Jacquet,0.631,0.537,1.86,17.4,20.2,14.51,51006.19,KXATPMATCH-26JUL19JACDAN
+2026-07-19T10:25:28.296461+00:00,ATP,ATP Estoril Qualification Final,Clay,2026-07-19T12:00:00Z,Timofey Skatov,Pedro Martinez,Timofey Skatov,0.473,0.407,2.46,16.3,11.2,8.01,28885.42,KXATPMATCH-26JUL19MARSKA
+2026-07-19T10:25:28.296461+00:00,ATP,ATP Bastad Final,Clay,2026-07-19T15:00:00Z,Andrey Rublev,Luciano Darderi,Luciano Darderi,0.496,0.447,2.24,10.8,8.7,6.26,297833.21,KXATPMATCH-26JUL19RUBDAR
+2026-07-19T10:25:28.296461+00:00,ATP,ATP Gstaad Final,Clay,2026-07-19T12:30:00Z,Stefanos Tsitsipas,Raphael Collignon,Raphael Collignon,0.461,0.417,2.4,10.6,7.6,5.43,886361.08,KXATPMATCH-26JUL19TSICOL

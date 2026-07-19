@@ -66,4 +66,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 65,2026-07-19T00:09:55.101991+00:00,WTA,WTA Athens Final,Clay,2026-07-19T20:00:00Z,Maria Sakkari,Barbora Krejcikova,Barbora Krejcikova,0.546,0.467,2.14,17.0,14.9,9.43,open,,,1.703,
 66,2026-07-19T03:54:01.448359+00:00,ATP,ATP Bastad Final,Clay,2026-07-19T15:00:00Z,Andrey Rublev,Luciano Darderi,Luciano Darderi,0.496,0.457,2.19,8.4,7.0,5.06,open,,,2.236,
 67,2026-07-19T06:26:59.241848+00:00,ATP,ATP Kitzbuhel Qualification Final,Clay,2026-07-19T12:30:00Z,Lorenzo Giustino,Federico Cina,Lorenzo Giustino,0.52,0.315,3.18,65.3,30.0,4.93,open,,,3.657,
-68,2026-07-19T06:26:59.241848+00:00,ATP,ATP Gstaad Final,Clay,2026-07-19T12:30:00Z,Stefanos Tsitsipas,Raphael Collignon,Raphael Collignon,0.461,0.427,2.34,8.0,5.9,4.28,open,,,2.288,
+68,2026-07-19T06:26:59.241848+00:00,ATP,ATP Gstaad Final,Clay,2026-07-19T12:30:00Z,Stefanos Tsitsipas,Raphael Collignon,Raphael Collignon,0.461,0.427,2.34,8.0,5.9,4.28,open,,,2.399,
+69,2026-07-19T10:25:27.437178+00:00,WTA,WTA Prague Qualification Final,Hard,2026-07-19T11:00:00Z,Xinyu Gao,Linda Fruhvirtova,Linda Fruhvirtova,0.49,0.304,3.29,61.1,26.8,4.69,open,,,,
+70,2026-07-19T10:25:27.437178+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Yue Yuan,Nikola Bartunkova,Yue Yuan,0.393,0.325,3.08,20.8,10.0,5.17,open,,,,
