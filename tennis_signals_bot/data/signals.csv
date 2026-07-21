@@ -1,7 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-21T15:10:47.687807+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.427,2.34,31.6,23.6,13.87,147671.01,KXATPMATCH-26JUL19VANFAR
-2026-07-21T15:10:47.687807+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Anna Blinkova,Sara Bejlek,Sara Bejlek,0.627,0.498,2.01,26.0,25.8,15.17,2235264.07,KXWTAMATCH-26JUL20BLIBEJ
-2026-07-21T15:10:47.687807+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Raphael Collignon,Daniel Altmaier,Raphael Collignon,0.599,0.477,2.1,25.5,23.3,13.7,276663.36,KXATPMATCH-26JUL19ALTCOL
-2026-07-21T15:10:47.687807+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Facundo Diaz Acosta,Alexander Bublik,Alexander Bublik,0.742,0.617,1.62,20.3,32.7,19.22,2564.73,KXATPMATCH-26JUL22BUBDIA
-2026-07-21T15:10:47.687807+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Jurij Rodionov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0.724,0.656,1.52,10.4,19.9,11.7,553.19,KXATPMATCH-26JUL22ETCROD
-2026-07-21T15:10:47.687807+00:00,WTA,WTA Hamburg Round Of 32,Clay,2026-07-20T11:00:00Z,Tamara Korpatsch,Victoria Jimenez Kasintseva,Victoria Jimenez Kasintseva,0.451,0.427,2.34,5.6,4.2,2.47,343733.05,KXWTAMATCH-26JUL20KORJIM
+2026-07-21T16:42:19.197038+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.397,2.52,41.7,27.4,15.79,344553.58,KXATPMATCH-26JUL19VANFAR
+2026-07-21T16:42:19.197038+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Facundo Diaz Acosta,Alexander Bublik,Alexander Bublik,0.742,0.607,1.65,22.3,34.4,19.8,3100.79,KXATPMATCH-26JUL22BUBDIA
+2026-07-21T16:42:19.197038+00:00,WTA,WTA Hamburg Round Of 32,Clay,2026-07-20T11:00:00Z,Nastasja Schunk,Oleksandra Oliynykova,Nastasja Schunk,0.308,0.253,3.96,22.0,7.5,4.29,264030.96,KXWTAMATCH-26JUL20OLISCH
+2026-07-21T16:42:19.197038+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Luca Van Assche,Pablo Carreno Busta,Luca Van Assche,0.419,0.376,2.66,11.4,6.9,3.96,790.9,KXATPMATCH-26JUL22VANCAR
+2026-07-21T16:42:19.197038+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Jurij Rodionov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0.724,0.656,1.52,10.4,19.9,11.44,727.42,KXATPMATCH-26JUL22ETCROD
