@@ -1,7 +1,7 @@
 id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_prob,kalshi_prob,odds,edge_pct,kelly_pct,stake,status,settled_ts,pnl,close_odds,clv_pct
-1,2026-07-21T03:23:26.367952+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.467,2.14,20.3,17.8,8.22,open,,,,
-2,2026-07-21T03:23:26.367952+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Miomir Kecmanovic,Sebastian Baez,Sebastian Baez,0.55,0.467,2.14,17.8,15.6,8.22,open,,,,
-3,2026-07-21T03:23:26.367952+00:00,WTA,WTA Hamburg Round Of 32,Clay,2026-07-20T11:00:00Z,Leyre Romero Gormaz,Veronika Erjavec,Leyre Romero Gormaz,0.573,0.487,2.05,17.6,16.7,8.93,open,,,,
-4,2026-07-21T03:23:26.367952+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-21T12:00:00Z,Quentin Halys,Laslo Djere,Quentin Halys,0.501,0.447,2.24,12.0,9.7,6.05,open,,,,
-5,2026-07-21T03:23:26.367952+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Diane Parry,Mai Hontama,Diane Parry,0.728,0.656,1.52,10.9,20.9,13.1,open,,,,
-6,2026-07-21T03:23:26.367952+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Jesper De Jong,Jan Choinski,Jesper De Jong,0.631,0.587,1.7,7.4,10.5,6.61,open,,,,
+1,2026-07-21T03:23:26.367952+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.467,2.14,20.3,17.8,8.22,open,,,2.187,
+2,2026-07-21T03:23:26.367952+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Miomir Kecmanovic,Sebastian Baez,Sebastian Baez,0.55,0.467,2.14,17.8,15.6,8.22,open,,,2.14,
+3,2026-07-21T03:23:26.367952+00:00,WTA,WTA Hamburg Round Of 32,Clay,2026-07-20T11:00:00Z,Leyre Romero Gormaz,Veronika Erjavec,Leyre Romero Gormaz,0.573,0.487,2.05,17.6,16.7,8.93,open,,,2.052,
+4,2026-07-21T03:23:26.367952+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-21T12:00:00Z,Quentin Halys,Laslo Djere,Quentin Halys,0.501,0.447,2.24,12.0,9.7,6.05,open,,,2.288,
+5,2026-07-21T03:23:26.367952+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Diane Parry,Mai Hontama,Diane Parry,0.728,0.656,1.52,10.9,20.9,13.1,open,,,1.524,
+6,2026-07-21T03:23:26.367952+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Jesper De Jong,Jan Choinski,Jesper De Jong,0.631,0.587,1.7,7.4,10.5,6.61,open,,,1.703,
