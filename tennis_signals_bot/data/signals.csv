@@ -1,6 +1,8 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-21T18:00:11.938605+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Facundo Diaz Acosta,Alexander Bublik,Alexander Bublik,0.742,0.607,1.65,22.3,34.4,19.8,3724.83,KXATPMATCH-26JUL22BUBDIA
-2026-07-21T18:00:11.938605+00:00,WTA,WTA Hamburg Round Of 32,Clay,2026-07-20T11:00:00Z,Nastasja Schunk,Oleksandra Oliynykova,Nastasja Schunk,0.308,0.263,3.8,17.2,6.2,3.54,1514650.75,KXWTAMATCH-26JUL20OLISCH
-2026-07-21T18:00:11.938605+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Jurij Rodionov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0.724,0.646,1.55,12.1,22.1,12.72,1204.44,KXATPMATCH-26JUL22ETCROD
-2026-07-21T18:00:11.938605+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Luca Van Assche,Pablo Carreno Busta,Luca Van Assche,0.419,0.376,2.66,11.4,6.9,3.96,2875.0,KXATPMATCH-26JUL22VANCAR
-2026-07-21T18:00:11.938605+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Arthur Rinderknech,Sebastian Baez,Arthur Rinderknech,0.584,0.537,1.86,8.7,10.1,5.81,629.14,KXATPMATCH-26JUL22BAERIN
+2026-07-21T19:44:56.256947+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Tereza Valentova,Maya Joint,Maya Joint,0.391,0.284,3.52,37.6,14.9,8.27,1131.75,KXWTAMATCH-26JUL22JOIVAL
+2026-07-21T19:44:56.256947+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Facundo Diaz Acosta,Alexander Bublik,Alexander Bublik,0.742,0.637,1.57,16.6,29.0,16.11,6033.25,KXATPMATCH-26JUL22BUBDIA
+2026-07-21T19:44:56.256947+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Luca Van Assche,Pablo Carreno Busta,Luca Van Assche,0.419,0.376,2.66,11.4,6.9,3.82,3064.0,KXATPMATCH-26JUL22VANCAR
+2026-07-21T19:44:56.256947+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Jurij Rodionov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0.724,0.656,1.52,10.4,19.9,11.04,1938.12,KXATPMATCH-26JUL22ETCROD
+2026-07-21T19:44:56.256947+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Arthur Rinderknech,Sebastian Baez,Arthur Rinderknech,0.584,0.537,1.86,8.7,10.1,5.6,1155.91,KXATPMATCH-26JUL22BAERIN
+2026-07-21T19:44:56.256947+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Valentin Vacherot,Quentin Halys,Valentin Vacherot,0.681,0.637,1.57,7.1,12.4,6.87,2645.76,KXATPMATCH-26JUL22HALVAC
+2026-07-21T19:44:56.256947+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Kyrian Jacquet,Alexander Blockx,Alexander Blockx,0.724,0.685,1.46,5.7,12.4,6.9,776.95,KXATPMATCH-26JUL22JACBLO
