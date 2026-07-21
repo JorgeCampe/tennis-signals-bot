@@ -46,7 +46,7 @@ MAX_EXPOSURE_FRAC = 0.60  # tope de banca total en juego a la vez
 MIN_STAKE = 1.0          # apuesta minima en $
 EDGE_CAP = 0.15          # #1 topa el edge para dimensionar (edges enormes = el modelo se equivoca)
 MIN_VOLUME = 500         # #4 ignora mercados de Kalshi con poco volumen (precios viejos = edges falsos)
-MAX_ODDS = config.MAX_ODDS_SIM   # tope de cuota (guarda favorito-longshot)
+MAX_ODDS = 2.3           # tope de cuota: no apuesta underdogs de cuota alta (pierden)
 # ---------------------------------------------------------------------------
 
 DATA = HERE / "data"
@@ -257,6 +257,8 @@ def run(open_browser=False):
             continue
         edge = float(s["edge_pct"]) / 100.0
         o_net = float(s["odds"])
+        if o_net > MAX_ODDS:
+            continue
         f = min(edge, EDGE_CAP) / (o_net - 1) if o_net > 1 else 0.0   # Kelly con edge topado (#1)
         stake = round(equity * min(f * KELLY_FRAC, MAX_STAKE_FRAC), 2)
         if stake < MIN_STAKE:
