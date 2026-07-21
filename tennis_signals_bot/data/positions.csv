@@ -1,5 +1,5 @@
 id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_prob,kalshi_prob,odds,edge_pct,kelly_pct,stake,status,settled_ts,pnl,close_odds,clv_pct
-1,2026-07-21T03:23:26.367952+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.467,2.14,20.3,17.8,8.22,open,,,2.522,
+1,2026-07-21T03:23:26.367952+00:00,ATP,ATP Estoril Round Of 32,Clay,2026-07-19T14:00:00Z,Botic Van de Zandschulp,Jaime Faria,Botic Van de Zandschulp,0.562,0.467,2.14,20.3,17.8,8.22,open,,,4.735,
 2,2026-07-21T03:23:26.367952+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Miomir Kecmanovic,Sebastian Baez,Sebastian Baez,0.55,0.467,2.14,17.8,15.6,8.22,won,2026-07-21T15:10:46.721401+00:00,9.37,1.861,15.0
 3,2026-07-21T03:23:26.367952+00:00,WTA,WTA Hamburg Round Of 32,Clay,2026-07-20T11:00:00Z,Leyre Romero Gormaz,Veronika Erjavec,Leyre Romero Gormaz,0.573,0.487,2.05,17.6,16.7,8.93,won,2026-07-21T11:29:52.873584+00:00,9.38,2.187,-6.3
 4,2026-07-21T03:23:26.367952+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-21T12:00:00Z,Quentin Halys,Laslo Djere,Quentin Halys,0.501,0.447,2.24,12.0,9.7,6.05,won,2026-07-21T15:10:46.721401+00:00,7.5,1.103,103.1
@@ -13,4 +13,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 12,2026-07-21T12:58:45.162431+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Facundo Diaz Acosta,Alexander Bublik,Alexander Bublik,0.742,0.627,1.6,18.4,30.9,14.5,open,,,1.648,
 13,2026-07-21T12:58:45.162431+00:00,WTA,WTA Prague Round Of 32,Hard,2026-07-20T11:00:00Z,Anna Blinkova,Sara Bejlek,Sara Bejlek,0.627,0.597,1.68,5.0,7.4,4.26,won,2026-07-21T16:42:06.777632+00:00,2.9,2.01,-16.4
 14,2026-07-21T15:10:46.721401+00:00,ATP,ATP Kitzbuhel Round Of 32,Clay,2026-07-19T12:30:00Z,Raphael Collignon,Daniel Altmaier,Raphael Collignon,0.599,0.477,2.1,25.5,23.3,8.03,lost,2026-07-21T16:42:06.777632+00:00,-8.03,,
-15,2026-07-21T15:10:46.721401+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Jurij Rodionov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0.724,0.656,1.52,10.4,19.9,11.77,open,,,1.524,
+15,2026-07-21T15:10:46.721401+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Jurij Rodionov,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0.724,0.656,1.52,10.4,19.9,11.77,open,,,1.547,
+16,2026-07-21T18:00:10.815159+00:00,ATP,ATP Kitzbuhel Round Of 16,Clay,2026-07-22T12:00:00Z,Arthur Rinderknech,Sebastian Baez,Arthur Rinderknech,0.584,0.537,1.86,8.7,10.1,5.83,open,,,,
