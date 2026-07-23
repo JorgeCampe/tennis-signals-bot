@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-23T01:17:39.759189+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Luca Van Assche,Pablo Carreno Busta,Luca Van Assche,0.419,0.366,2.73,14.5,8.4,4.82,26162.7,KXATPMATCH-26JUL22VANCAR
-2026-07-23T01:17:39.759189+00:00,WTA,WTA Hamburg Round Of 16,Clay,2026-07-23T12:00:00Z,Yulia Putintseva,Elina Avanesyan,Elina Avanesyan,0.441,0.386,2.59,14.2,8.9,5.13,2429.0,KXWTAMATCH-26JUL23AVAPUT
-2026-07-23T01:17:39.759189+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Maria Timofeeva,Sara Bejlek,Sara Bejlek,0.681,0.617,1.62,10.5,16.9,9.7,14312.72,KXWTAMATCH-26JUL22TIMBEJ
+2026-07-23T04:41:34.362527+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Luca Van Assche,Pablo Carreno Busta,Luca Van Assche,0.419,0.366,2.73,14.5,8.4,4.82,62957.03,KXATPMATCH-26JUL22VANCAR
+2026-07-23T04:41:34.362527+00:00,WTA,WTA Hamburg Round Of 16,Clay,2026-07-23T12:00:00Z,Yulia Putintseva,Elina Avanesyan,Elina Avanesyan,0.441,0.386,2.59,14.2,8.9,5.13,4181.0,KXWTAMATCH-26JUL23AVAPUT
+2026-07-23T04:41:34.362527+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Maria Timofeeva,Sara Bejlek,Sara Bejlek,0.681,0.617,1.62,10.5,16.9,9.7,32293.87,KXWTAMATCH-26JUL22TIMBEJ
