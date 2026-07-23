@@ -22,3 +22,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 21,2026-07-22T09:44:35.311456+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Lanlana Tararudee,Nikola Bartunkova,Nikola Bartunkova,0.629,0.587,1.7,7.0,10.0,5.55,lost,2026-07-23T13:10:58.812486+00:00,-5.55,1.049,62.1
 22,2026-07-22T13:06:55.515040+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Tereza Valentova,Maya Joint,Tereza Valentova,0.609,0.498,2.01,22.5,22.3,7.59,won,2026-07-22T15:15:43.450267+00:00,7.67,,
 23,2026-07-23T15:25:47.377753+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.577,1.73,16.3,22.3,11.53,open,,,1.732,
+24,2026-07-23T20:48:52.083281+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T20:10:00Z,Jaime Faria,Luciano Darderi,Luciano Darderi,0.698,0.656,1.52,6.3,12.0,6.97,open,,,,
