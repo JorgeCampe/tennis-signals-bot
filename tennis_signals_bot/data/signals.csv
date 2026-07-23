@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-23T16:58:07.129378+00:00,WTA,WTA Hamburg Quarterfinal,Clay,2026-07-24T12:00:00Z,Tamara Korpatsch,Anhelina Kalinina,Tamara Korpatsch,0.374,0.253,3.96,48.0,16.2,9.34,934.94,KXWTAMATCH-26JUL24KORKAL
-2026-07-23T16:58:07.129378+00:00,WTA,WTA Hamburg Round Of 16,Clay,2026-07-23T12:00:00Z,Yulia Putintseva,Elina Avanesyan,Elina Avanesyan,0.441,0.304,3.29,44.9,19.6,11.3,1645597.32,KXWTAMATCH-26JUL23AVAPUT
-2026-07-23T16:58:07.129378+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.587,1.7,14.4,20.4,11.76,4326.28,KXATPMATCH-26JUL24BURBLO
+2026-07-23T18:17:52.288628+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.577,1.73,16.3,22.3,12.82,7126.54,KXATPMATCH-26JUL24BURBLO
+2026-07-23T18:17:52.288628+00:00,ATP,ATP Kitzbuhel Semifinal,Clay,2026-07-24T12:00:00Z,Tomas Martin Etcheverry,Alexander Bublik,Tomas Martin Etcheverry,0.404,0.376,2.66,7.6,4.6,2.62,1137.75,KXATPMATCH-26JUL24BUBETC
+2026-07-23T18:17:52.288628+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lanlana Tararudee,Daria Snigur,Lanlana Tararudee,0.418,0.397,2.52,5.5,3.6,2.1,1505.91,KXWTAMATCH-26JUL24TARSNI
