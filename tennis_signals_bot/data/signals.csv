@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-23T15:25:48.595836+00:00,ATP,ATP Kitzbuhel Quarterfinal,Clay,2026-07-23T15:30:00Z,Alex Molcan,Alexander Bublik,Alex Molcan,0.358,0.253,3.96,41.6,14.1,7.9,2157711.03,KXATPMATCH-26JUL23BUBMOL
-2026-07-23T15:25:48.595836+00:00,WTA,WTA Hamburg Round Of 16,Clay,2026-07-23T12:00:00Z,Yulia Putintseva,Elina Avanesyan,Elina Avanesyan,0.441,0.366,2.73,20.5,11.8,6.65,102673.74,KXWTAMATCH-26JUL23AVAPUT
-2026-07-23T15:25:48.595836+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.577,1.73,16.3,22.3,12.5,1750.9,KXATPMATCH-26JUL24BURBLO
+2026-07-23T16:58:07.129378+00:00,WTA,WTA Hamburg Quarterfinal,Clay,2026-07-24T12:00:00Z,Tamara Korpatsch,Anhelina Kalinina,Tamara Korpatsch,0.374,0.253,3.96,48.0,16.2,9.34,934.94,KXWTAMATCH-26JUL24KORKAL
+2026-07-23T16:58:07.129378+00:00,WTA,WTA Hamburg Round Of 16,Clay,2026-07-23T12:00:00Z,Yulia Putintseva,Elina Avanesyan,Elina Avanesyan,0.441,0.304,3.29,44.9,19.6,11.3,1645597.32,KXWTAMATCH-26JUL23AVAPUT
+2026-07-23T16:58:07.129378+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.587,1.7,14.4,20.4,11.76,4326.28,KXATPMATCH-26JUL24BURBLO
