@@ -19,5 +19,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 18,2026-07-21T19:44:53.914801+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Kyrian Jacquet,Alexander Blockx,Alexander Blockx,0.724,0.685,1.46,5.7,12.4,6.88,won,2026-07-22T20:45:52.663058+00:00,3.16,2.236,-34.7
 19,2026-07-22T07:21:01.021016+00:00,ATP,ATP Estoril Round Of 16,Clay,2026-07-22T14:00:00Z,Hugo Gaston,Titouan Droguet,Titouan Droguet,0.651,0.617,1.62,5.6,9.0,5.02,lost,2026-07-22T13:06:55.515040+00:00,-5.02,4.735,-65.8
 20,2026-07-22T09:44:35.311456+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Maria Timofeeva,Sara Bejlek,Sara Bejlek,0.681,0.617,1.62,10.5,16.9,9.4,open,,,1.621,
-21,2026-07-22T09:44:35.311456+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Lanlana Tararudee,Nikola Bartunkova,Nikola Bartunkova,0.629,0.587,1.7,7.0,10.0,5.55,open,,,1.502,
+21,2026-07-22T09:44:35.311456+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Lanlana Tararudee,Nikola Bartunkova,Nikola Bartunkova,0.629,0.587,1.7,7.0,10.0,5.55,open,,,1.675,
 22,2026-07-22T13:06:55.515040+00:00,WTA,WTA Prague Round Of 16,Hard,2026-07-22T12:00:00Z,Tereza Valentova,Maya Joint,Tereza Valentova,0.609,0.498,2.01,22.5,22.3,7.59,won,2026-07-22T15:15:43.450267+00:00,7.67,,
