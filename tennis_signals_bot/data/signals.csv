@@ -1,3 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-23T23:43:44.889615+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.587,1.7,14.4,20.4,11.76,16366.99,KXATPMATCH-26JUL24BURBLO
-2026-07-23T23:43:44.889615+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lanlana Tararudee,Daria Snigur,Lanlana Tararudee,0.418,0.376,2.66,11.3,6.8,3.91,17533.77,KXWTAMATCH-26JUL24TARSNI
+2026-07-24T01:12:08.324536+00:00,WTA,WTA Hamburg Quarterfinal,Clay,2026-07-24T12:00:00Z,Tamara Korpatsch,Anhelina Kalinina,Tamara Korpatsch,0.374,0.253,3.96,48.0,16.2,9.34,3618.77,KXWTAMATCH-26JUL24KORKAL
+2026-07-24T01:12:08.324536+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.587,1.7,14.4,20.4,11.76,17468.76,KXATPMATCH-26JUL24BURBLO
+2026-07-24T01:12:08.324536+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lanlana Tararudee,Daria Snigur,Lanlana Tararudee,0.418,0.376,2.66,11.3,6.8,3.91,19150.52,KXWTAMATCH-26JUL24TARSNI
