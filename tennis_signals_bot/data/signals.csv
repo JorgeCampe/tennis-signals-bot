@@ -1,5 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-24T12:54:53.425877+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Tereza Valentova,Marie Bouzkova,Marie Bouzkova,0.589,0.397,2.52,48.4,31.8,18.31,2102965.64,KXWTAMATCH-26JUL24BOUVAL
-2026-07-24T12:54:53.425877+00:00,WTA,WTA Hamburg Quarterfinal,Clay,2026-07-24T12:00:00Z,Tamara Korpatsch,Anhelina Kalinina,Tamara Korpatsch,0.374,0.263,3.8,42.1,15.0,8.66,15176.91,KXWTAMATCH-26JUL24KORKAL
-2026-07-24T12:54:53.425877+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.537,1.86,25.0,29.0,16.69,95474.37,KXATPMATCH-26JUL24BURBLO
-2026-07-24T12:54:53.425877+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lilli Tagger,Sara Bejlek,Lilli Tagger,0.397,0.335,2.98,18.4,9.3,5.35,90697.33,KXWTAMATCH-26JUL24TAGBEJ
+2026-07-24T14:53:30.595675+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lilli Tagger,Sara Bejlek,Sara Bejlek,0.603,0.335,2.98,79.9,40.3,23.19,1447384.64,KXWTAMATCH-26JUL24TAGBEJ
+2026-07-24T14:53:30.595675+00:00,WTA,WTA Hamburg Quarterfinal,Clay,2026-07-24T12:00:00Z,Tamara Korpatsch,Anhelina Kalinina,Tamara Korpatsch,0.374,0.263,3.8,42.1,15.0,8.66,34592.85,KXWTAMATCH-26JUL24KORKAL
+2026-07-24T14:53:30.595675+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.527,1.9,27.3,30.5,17.55,202279.23,KXATPMATCH-26JUL24BURBLO
+2026-07-24T14:53:30.595675+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T15:10:00Z,Luca Van Assche,Andrey Rublev,Andrey Rublev,0.75,0.637,1.57,17.7,31.1,17.89,2971698.74,KXATPMATCH-26JUL24RUBVAN
