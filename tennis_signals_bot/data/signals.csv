@@ -1,6 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-24T07:14:36.272233+00:00,WTA,WTA Hamburg Quarterfinal,Clay,2026-07-24T12:00:00Z,Tamara Korpatsch,Anhelina Kalinina,Tamara Korpatsch,0.374,0.253,3.96,48.0,16.2,9.34,9043.43,KXWTAMATCH-26JUL24KORKAL
-2026-07-24T07:14:36.272233+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.547,1.83,22.7,27.4,15.79,64010.39,KXATPMATCH-26JUL24BURBLO
-2026-07-24T07:14:36.272233+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lanlana Tararudee,Daria Snigur,Lanlana Tararudee,0.418,0.366,2.73,14.4,8.3,4.78,89908.6,KXWTAMATCH-26JUL24TARSNI
-2026-07-24T07:14:36.272233+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lilli Tagger,Sara Bejlek,Lilli Tagger,0.397,0.366,2.73,8.5,4.9,2.82,23898.04,KXWTAMATCH-26JUL24TAGBEJ
-2026-07-24T07:14:36.272233+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Tereza Valentova,Marie Bouzkova,Tereza Valentova,0.411,0.386,2.59,6.5,4.1,2.37,69778.48,KXWTAMATCH-26JUL24BOUVAL
+2026-07-24T09:37:53.151250+00:00,WTA,WTA Hamburg Quarterfinal,Clay,2026-07-24T12:00:00Z,Tamara Korpatsch,Anhelina Kalinina,Tamara Korpatsch,0.374,0.263,3.8,42.1,15.0,8.66,9874.31,KXWTAMATCH-26JUL24KORKAL
+2026-07-24T09:37:53.151250+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.537,1.86,25.0,29.0,16.69,71194.98,KXATPMATCH-26JUL24BURBLO
+2026-07-24T09:37:53.151250+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Lilli Tagger,Sara Bejlek,Lilli Tagger,0.397,0.356,2.81,11.6,6.4,3.69,29363.25,KXWTAMATCH-26JUL24TAGBEJ
+2026-07-24T09:37:53.151250+00:00,ATP,ATP Kitzbuhel Semifinal,Clay,2026-07-24T12:00:00Z,Tomas Martin Etcheverry,Alexander Bublik,Tomas Martin Etcheverry,0.404,0.376,2.66,7.6,4.6,2.62,132126.67,KXATPMATCH-26JUL24BUBETC
+2026-07-24T09:37:53.151250+00:00,WTA,WTA Prague Quarterfinal,Hard,2026-07-24T12:00:00Z,Tereza Valentova,Marie Bouzkova,Tereza Valentova,0.411,0.386,2.59,6.5,4.1,2.37,94648.71,KXWTAMATCH-26JUL24BOUVAL
