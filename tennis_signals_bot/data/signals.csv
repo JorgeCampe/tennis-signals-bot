@@ -1,4 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-25T04:32:39.165685+00:00,ATP,ATP Estoril Semifinal,Clay,2026-07-25T21:00:00Z,Luciano Darderi,Alexander Blockx,Alexander Blockx,0.454,0.376,2.66,20.7,12.5,7.09,72930.61,KXATPMATCH-26JUL25BLODAR
-2026-07-25T04:32:39.165685+00:00,WTA,WTA Washington Round Of 16,Hard,2026-07-25T18:10:00Z,Clervie Ngounoue,Varvara Lepchenko,Clervie Ngounoue,0.526,0.477,2.1,10.2,9.3,5.29,609.72,KXWTAMATCH-26JUL25NGOLEP
-2026-07-25T04:32:39.165685+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T14:30:00Z,Tereza Valentova,Daria Snigur,Daria Snigur,0.474,0.447,2.24,6.1,4.9,2.8,80201.97,KXWTAMATCH-26JUL25VALSNI
+2026-07-25T06:59:16.494463+00:00,ATP,ATP Estoril Semifinal,Clay,2026-07-25T21:00:00Z,Luciano Darderi,Alexander Blockx,Alexander Blockx,0.454,0.386,2.59,17.5,11.0,6.27,81625.54,KXATPMATCH-26JUL25BLODAR
+2026-07-25T06:59:16.494463+00:00,WTA,WTA Washington Round Of 16,Hard,2026-07-25T18:10:00Z,Clervie Ngounoue,Varvara Lepchenko,Clervie Ngounoue,0.526,0.467,2.14,12.6,11.0,6.26,1214.45,KXWTAMATCH-26JUL25NGOLEP
+2026-07-25T06:59:16.494463+00:00,WTA,WTA Washington Round Of 16,Hard,2026-07-25T17:00:00Z,Heather Watson,Kamilla Rakhimova,Heather Watson,0.434,0.407,2.46,6.7,4.6,2.62,2685.37,KXWTAMATCH-26JUL25RAKWAT
+2026-07-25T06:59:16.494463+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T14:30:00Z,Tereza Valentova,Daria Snigur,Daria Snigur,0.474,0.447,2.24,6.1,4.9,2.8,129562.09,KXWTAMATCH-26JUL25VALSNI
