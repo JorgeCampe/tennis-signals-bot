@@ -1,6 +1,3 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-25T16:36:44.424644+00:00,WTA,WTA Washington Round Of 16,Hard,2026-07-25T18:10:00Z,Clervie Ngounoue,Varvara Lepchenko,Clervie Ngounoue,0.526,0.345,2.9,52.3,27.6,16.66,224838.35,KXWTAMATCH-26JUL25NGOLEP
-2026-07-25T16:36:44.424644+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T15:40:00Z,Lilli Tagger,Barbora Krejcikova,Barbora Krejcikova,0.708,0.477,2.1,48.2,44.0,26.6,5876013.79,KXWTAMATCH-26JUL25TAGKRE
-2026-07-25T16:36:44.424644+00:00,WTA,WTA Memphis Round Of 16,Hard,2026-07-25T18:00:00Z,Astra Sharma,Aoi Ito,Astra Sharma,0.447,0.325,3.08,37.4,18.0,10.87,358583.58,KXWTAMATCH-26JUL25SHAITO
-2026-07-25T16:36:44.424644+00:00,ATP,ATP Washington Qualification Round 1,Hard,2026-07-25T17:00:00Z,Abdullah Shelbayh,Billy Harris,Abdullah Shelbayh,0.5,0.407,2.46,23.0,15.7,9.5,31385.18,KXATPMATCH-26JUL25SHEHAR
-2026-07-25T16:36:44.424644+00:00,ATP,ATP Estoril Semifinal,Clay,2026-07-25T21:00:00Z,Luciano Darderi,Alexander Blockx,Alexander Blockx,0.454,0.397,2.52,14.5,9.5,5.75,135243.48,KXATPMATCH-26JUL25BLODAR
+2026-07-25T17:39:35.957424+00:00,ATP,ATP Estoril Semifinal,Clay,2026-07-25T21:00:00Z,Luciano Darderi,Alexander Blockx,Alexander Blockx,0.454,0.397,2.52,14.5,9.5,5.48,200575.93,KXATPMATCH-26JUL25BLODAR
+2026-07-25T17:39:35.957424+00:00,ATP,ATP Estoril Semifinal,Clay,2026-07-25T14:00:00Z,Luca Van Assche,Hugo Gaston,Hugo Gaston,0.383,0.335,2.98,14.2,7.2,4.14,892922.21,KXATPMATCH-26JUL25VANGAS
