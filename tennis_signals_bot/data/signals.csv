@@ -1,5 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-25T15:41:37.826169+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T15:40:00Z,Lilli Tagger,Barbora Krejcikova,Barbora Krejcikova,0.708,0.325,3.08,117.7,56.7,33.7,3054435.72,KXWTAMATCH-26JUL25TAGKRE
-2026-07-25T15:41:37.826169+00:00,WTA,WTA Washington Round Of 16,Hard,2026-07-25T17:00:00Z,Heather Watson,Kamilla Rakhimova,Kamilla Rakhimova,0.566,0.315,3.18,79.9,36.7,21.81,469471.28,KXWTAMATCH-26JUL25RAKWAT
-2026-07-25T15:41:37.826169+00:00,ATP,ATP Washington Qualification Round 1,Hard,2026-07-25T17:00:00Z,Abdullah Shelbayh,Billy Harris,Abdullah Shelbayh,0.5,0.417,2.4,20.0,14.3,8.48,5033.26,KXATPMATCH-26JUL25SHEHAR
-2026-07-25T15:41:37.826169+00:00,ATP,ATP Estoril Semifinal,Clay,2026-07-25T21:00:00Z,Luciano Darderi,Alexander Blockx,Alexander Blockx,0.454,0.397,2.52,14.5,9.5,5.67,126982.91,KXATPMATCH-26JUL25BLODAR
+2026-07-25T16:36:44.424644+00:00,WTA,WTA Washington Round Of 16,Hard,2026-07-25T18:10:00Z,Clervie Ngounoue,Varvara Lepchenko,Clervie Ngounoue,0.526,0.345,2.9,52.3,27.6,16.66,224838.35,KXWTAMATCH-26JUL25NGOLEP
+2026-07-25T16:36:44.424644+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T15:40:00Z,Lilli Tagger,Barbora Krejcikova,Barbora Krejcikova,0.708,0.477,2.1,48.2,44.0,26.6,5876013.79,KXWTAMATCH-26JUL25TAGKRE
+2026-07-25T16:36:44.424644+00:00,WTA,WTA Memphis Round Of 16,Hard,2026-07-25T18:00:00Z,Astra Sharma,Aoi Ito,Astra Sharma,0.447,0.325,3.08,37.4,18.0,10.87,358583.58,KXWTAMATCH-26JUL25SHAITO
+2026-07-25T16:36:44.424644+00:00,ATP,ATP Washington Qualification Round 1,Hard,2026-07-25T17:00:00Z,Abdullah Shelbayh,Billy Harris,Abdullah Shelbayh,0.5,0.407,2.46,23.0,15.7,9.5,31385.18,KXATPMATCH-26JUL25SHEHAR
+2026-07-25T16:36:44.424644+00:00,ATP,ATP Estoril Semifinal,Clay,2026-07-25T21:00:00Z,Luciano Darderi,Alexander Blockx,Alexander Blockx,0.454,0.397,2.52,14.5,9.5,5.75,135243.48,KXATPMATCH-26JUL25BLODAR
