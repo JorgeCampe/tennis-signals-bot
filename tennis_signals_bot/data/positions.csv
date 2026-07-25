@@ -24,4 +24,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 23,2026-07-23T15:25:47.377753+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T14:00:00Z,Roman Andres Burruchaga,Alexander Blockx,Alexander Blockx,0.671,0.577,1.73,16.3,22.3,11.53,won,2026-07-24T19:41:50.192680+00:00,8.42,1.827,-5.3
 24,2026-07-23T20:48:52.083281+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T20:10:00Z,Jaime Faria,Luciano Darderi,Luciano Darderi,0.698,0.656,1.52,6.3,12.0,6.97,won,2026-07-24T21:50:44.261595+00:00,3.62,1.362,11.6
 25,2026-07-24T14:53:29.154618+00:00,ATP,ATP Estoril Quarterfinal,Clay,2026-07-24T15:10:00Z,Luca Van Assche,Andrey Rublev,Andrey Rublev,0.75,0.637,1.57,17.7,31.1,15.15,lost,2026-07-24T16:33:49.422939+00:00,-15.15,,
-26,2026-07-24T23:49:47.622205+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T14:30:00Z,Tereza Valentova,Daria Snigur,Daria Snigur,0.474,0.447,2.24,6.1,4.9,2.79,open,,,,
+26,2026-07-24T23:49:47.622205+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T14:30:00Z,Tereza Valentova,Daria Snigur,Daria Snigur,0.474,0.447,2.24,6.1,4.9,2.79,open,,,2.236,
