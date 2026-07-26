@@ -1,5 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-26T10:48:56.254201+00:00,ATP,ATP Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Aleksandar Vukic,Alex Bolt,Alex Bolt,0.506,0.345,2.9,46.6,24.6,13.51,40061.91,KXATPMATCH-26JUL26VUKBOL
-2026-07-26T10:48:56.254201+00:00,WTA,WTA Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Varvara Lepchenko,Polina Kudermetova,Varvara Lepchenko,0.46,0.366,2.73,25.7,14.8,8.15,676.33,KXWTAMATCH-26JUL26KUDLEP
-2026-07-26T10:48:56.254201+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.627,1.6,13.2,22.1,12.12,243266.23,KXATPMATCH-26JUL26VANBLO
-2026-07-26T10:48:56.254201+00:00,WTA,WTA Hamburg Final,Clay,2026-07-26T12:00:00Z,Tamara Korpatsch,Anna Bondar,Anna Bondar,0.618,0.557,1.79,10.9,13.7,7.51,304470.84,KXWTAMATCH-26JUL26BONKOR
+2026-07-26T11:51:10.980372+00:00,ATP,ATP Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Aleksandar Vukic,Alex Bolt,Alex Bolt,0.506,0.335,2.98,51.1,25.8,14.14,40789.05,KXATPMATCH-26JUL26VUKBOL
+2026-07-26T11:51:10.980372+00:00,WTA,WTA Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Varvara Lepchenko,Polina Kudermetova,Varvara Lepchenko,0.46,0.366,2.73,25.7,14.8,8.15,702.16,KXWTAMATCH-26JUL26KUDLEP
+2026-07-26T11:51:10.980372+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.627,1.6,13.2,22.1,12.12,251505.43,KXATPMATCH-26JUL26VANBLO
+2026-07-26T11:51:10.980372+00:00,WTA,WTA Hamburg Final,Clay,2026-07-26T12:00:00Z,Tamara Korpatsch,Anna Bondar,Anna Bondar,0.618,0.557,1.79,10.9,13.7,7.51,368572.65,KXWTAMATCH-26JUL26BONKOR
+2026-07-26T11:51:10.980372+00:00,ATP,ATP Los Cabos Round Of 32,Hard,2026-07-27T04:00:00Z,Michael Zheng,Martin Landaluce,Michael Zheng,0.382,0.356,2.81,7.4,4.1,2.24,1018.2,KXATPMATCH-26JUL26ZHELAN
