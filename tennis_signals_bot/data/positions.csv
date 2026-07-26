@@ -30,6 +30,9 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 29,2026-07-25T12:51:34.846122+00:00,WTA,WTA Hamburg Semifinal,Clay,2026-07-25T15:00:00Z,Anna Bondar,Elina Avanesyan,Anna Bondar,0.595,0.527,1.9,12.8,14.3,8.08,won,2026-07-25T15:41:36.907735+00:00,7.27,1.794,5.9
 30,2026-07-25T14:26:32.042463+00:00,WTA,WTA Prague Semifinal,Hard,2026-07-25T15:40:00Z,Lilli Tagger,Barbora Krejcikova,Barbora Krejcikova,0.708,0.567,1.76,24.7,32.4,11.38,lost,2026-07-25T17:39:34.504309+00:00,-11.38,2.095,-16.0
 31,2026-07-25T19:56:46.525799+00:00,WTA,WTA Hamburg Final,Clay,2026-07-26T12:00:00Z,Tamara Korpatsch,Anna Bondar,Anna Bondar,0.618,0.567,1.76,9.0,11.7,6.66,lost,2026-07-26T14:26:54.664413+00:00,-6.66,4.512,-61.0
-32,2026-07-26T00:08:58.475708+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.607,1.65,16.8,26.0,12.98,open,,,1.621,
+32,2026-07-26T00:08:58.475708+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.607,1.65,16.8,26.0,12.98,open,,,1.648,
 33,2026-07-26T03:54:20.855410+00:00,ATP,ATP Los Cabos Round Of 16,Hard,2026-07-26T05:10:00Z,Nicolas Mejia,Alex Hernandez,Nicolas Mejia,0.573,0.527,1.9,8.6,9.6,5.37,lost,2026-07-26T06:33:59.530170+00:00,-5.37,,
-34,2026-07-26T14:26:54.664413+00:00,ATP,ATP Los Cabos Round Of 32,Hard,2026-07-27T04:00:00Z,Michael Zheng,Martin Landaluce,Martin Landaluce,0.618,0.527,1.9,17.2,19.2,8.87,open,,,,
+34,2026-07-26T14:26:54.664413+00:00,ATP,ATP Los Cabos Round Of 32,Hard,2026-07-27T04:00:00Z,Michael Zheng,Martin Landaluce,Martin Landaluce,0.618,0.527,1.9,17.2,19.2,8.87,open,,,1.861,
+35,2026-07-26T15:41:11.506281+00:00,ATP,ATP Washington Round Of 32,Hard,2026-07-27T17:00:00Z,Lorenzo Musetti,Matteo Arnaldi,Lorenzo Musetti,0.734,0.627,1.6,17.2,28.9,13.31,open,,,,
+36,2026-07-26T15:41:11.506281+00:00,ATP,ATP Washington Round Of 32,Hard,2026-07-27T17:00:00Z,Stefanos Tsitsipas,Alex de Minaur,Alex de Minaur,0.75,0.656,1.52,14.2,27.1,14.54,open,,,,
+37,2026-07-26T15:41:11.506281+00:00,WTA,WTA Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Varvara Lepchenko,Polina Kudermetova,Polina Kudermetova,0.54,0.498,2.01,8.5,8.5,4.48,open,,,,
