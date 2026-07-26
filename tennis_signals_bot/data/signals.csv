@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-26T06:34:00.878472+00:00,ATP,ATP Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Aleksandar Vukic,Alex Bolt,Alex Bolt,0.506,0.386,2.59,31.1,19.6,10.75,27099.31,KXATPMATCH-26JUL26VUKBOL
-2026-07-26T06:34:00.878472+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.627,1.6,13.2,22.1,12.12,176357.95,KXATPMATCH-26JUL26VANBLO
-2026-07-26T06:34:00.878472+00:00,WTA,WTA Hamburg Final,Clay,2026-07-26T12:00:00Z,Tamara Korpatsch,Anna Bondar,Anna Bondar,0.618,0.557,1.79,10.9,13.7,7.51,223938.38,KXWTAMATCH-26JUL26BONKOR
+2026-07-26T08:59:25.774585+00:00,ATP,ATP Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Aleksandar Vukic,Alex Bolt,Alex Bolt,0.506,0.356,2.81,42.4,23.4,12.84,39206.12,KXATPMATCH-26JUL26VUKBOL
+2026-07-26T08:59:25.774585+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.627,1.6,13.2,22.1,12.12,210048.07,KXATPMATCH-26JUL26VANBLO
+2026-07-26T08:59:25.774585+00:00,WTA,WTA Hamburg Final,Clay,2026-07-26T12:00:00Z,Tamara Korpatsch,Anna Bondar,Anna Bondar,0.618,0.567,1.76,9.0,11.7,6.44,264585.69,KXWTAMATCH-26JUL26BONKOR
