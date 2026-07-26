@@ -1,4 +1,8 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-26T12:53:46.861229+00:00,ATP,ATP Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Aleksandar Vukic,Alex Bolt,Alex Bolt,0.506,0.325,3.08,55.9,26.9,14.76,44531.81,KXATPMATCH-26JUL26VUKBOL
-2026-07-26T12:53:46.861229+00:00,WTA,WTA Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Varvara Lepchenko,Polina Kudermetova,Varvara Lepchenko,0.46,0.366,2.73,25.7,14.8,8.15,751.0,KXWTAMATCH-26JUL26KUDLEP
-2026-07-26T12:53:46.861229+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.627,1.6,13.2,22.1,12.12,276284.51,KXATPMATCH-26JUL26VANBLO
+2026-07-26T14:26:55.725538+00:00,WTA,WTA Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Heather Watson,Julieta Pareja,Heather Watson,0.467,0.345,2.9,35.1,18.5,9.85,146754.11,KXWTAMATCH-26JUL26WATPAR
+2026-07-26T14:26:55.725538+00:00,WTA,WTA Washington Qualification Final,Hard,2026-07-26T17:00:00Z,Varvara Lepchenko,Polina Kudermetova,Varvara Lepchenko,0.46,0.366,2.73,25.7,14.8,7.9,33656.31,KXWTAMATCH-26JUL26KUDLEP
+2026-07-26T14:26:55.725538+00:00,ATP,ATP Los Cabos Qualification Final,Hard,2026-07-26T16:00:00Z,Bernard Tomic,Tristan Boyer,Bernard Tomic,0.485,0.397,2.52,22.4,14.7,7.85,1056.72,KXATPMATCH-26JUL26BOYTOM
+2026-07-26T14:26:55.725538+00:00,ATP,ATP Los Cabos Round Of 32,Hard,2026-07-27T04:00:00Z,Michael Zheng,Martin Landaluce,Martin Landaluce,0.618,0.527,1.9,17.2,19.2,10.2,5164.8,KXATPMATCH-26JUL26ZHELAN
+2026-07-26T14:26:55.725538+00:00,ATP,ATP Estoril Final,Clay,2026-07-26T19:30:00Z,Luca Van Assche,Alexander Blockx,Alexander Blockx,0.709,0.617,1.62,14.9,24.0,12.8,360696.53,KXATPMATCH-26JUL26VANBLO
+2026-07-26T14:26:55.725538+00:00,ATP,ATP Washington Round Of 32,Hard,2026-07-27T17:00:00Z,Tommy Paul,Kamil Majchrzak,Kamil Majchrzak,0.331,0.304,3.29,8.9,3.9,2.07,573.36,KXATPMATCH-26JUL27MAJPAU
+2026-07-26T14:26:55.725538+00:00,WTA,WTA Memphis Qualification Final,Hard,2026-07-26T18:00:00Z,Yexin Ma,Aoi Ito,Yexin Ma,0.451,0.417,2.4,8.2,5.9,3.12,5288.5,KXWTAMATCH-26JUL26YEXITO
