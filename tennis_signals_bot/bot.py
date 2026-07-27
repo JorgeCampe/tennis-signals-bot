@@ -36,11 +36,12 @@ import config                                           # noqa: E402
 from ml import kalshi                                   # noqa: E402
 from ml import kalshi_signals                           # noqa: E402
 from ml import tennis_results                           # noqa: E402
+from ml.tennis_models import predict_pair               # noqa: E402
 
 # ----- parametros del bot (editables) --------------------------------------
 START = 250.0            # banca inicial (como el bot de temperatura)
 MIN_EDGE = 0.05          # ventaja minima del modelo vs Kalshi para apostar
-KELLY_FRAC = 0.25        # 1/4 de Kelly
+KELLY_FRAC = 0.125        # 1/8 de Kelly
 MAX_STAKE_FRAC = 0.10    # tope de 10% de la banca por apuesta (seguridad)
 MAX_EXPOSURE_FRAC = 0.60  # tope de banca total en juego a la vez
 MIN_STAKE = 1.0          # apuesta minima en $
@@ -258,6 +259,16 @@ def run(open_browser=False):
         edge = float(s["edge_pct"]) / 100.0
         o_net = float(s["odds"])
         if o_net > MAX_ODDS:
+            continue
+        try:
+            pe, pml = predict_pair(s["tour"], s["player_a"], s["player_b"], s["surface"], 3)
+        except Exception:
+            pe = pml = None
+        if pe is None or pml is None:
+            continue
+        pe_pick = pe if s["pick"] == s["player_a"] else 1 - pe
+        pml_pick = pml if s["pick"] == s["player_a"] else 1 - pml
+        if not (pe_pick > float(s["kalshi_prob"]) and pml_pick > float(s["kalshi_prob"])):
             continue
         f = min(edge, EDGE_CAP) / (o_net - 1) if o_net > 1 else 0.0   # Kelly con edge topado (#1)
         stake = round(equity * min(f * KELLY_FRAC, MAX_STAKE_FRAC), 2)
