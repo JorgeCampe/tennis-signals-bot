@@ -1,4 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-30T09:20:26.028620+00:00,ATP,ATP Washington Round Of 16,Hard,2026-07-30T18:00:00Z,Brandon Nakashima,Jakub Mensik,Jakub Mensik,0.676,0.587,1.7,15.2,21.6,12.87,84745.04,KXATPMATCH-26JUL30NAKMEN
-2026-07-30T09:20:26.028620+00:00,WTA,WTA Memphis Round Of 16,Hard,2026-07-30T18:00:00Z,Peyton Stearns,Tatiana Prozorova,Peyton Stearns,0.681,0.617,1.62,10.4,16.7,9.96,4609.31,KXWTAMATCH-26JUL30PROSTE
-2026-07-30T09:20:26.028620+00:00,ATP,ATP Los Cabos Quarterfinal,Hard,2026-07-31T04:00:00Z,Arthur Gea,Francisco Cerundolo,Francisco Cerundolo,0.77,0.705,1.42,9.3,22.1,13.18,1121.08,KXATPMATCH-26JUL30CERGEA
+2026-07-30T11:25:41.261156+00:00,ATP,ATP Los Cabos Quarterfinal,Hard,2026-07-31T04:00:00Z,Arthur Gea,Francisco Cerundolo,Francisco Cerundolo,0.77,0.676,1.48,14.0,29.2,17.4,2196.02,KXATPMATCH-26JUL30CERGEA
+2026-07-30T11:25:41.261156+00:00,ATP,ATP Washington Round Of 16,Hard,2026-07-30T18:00:00Z,Brandon Nakashima,Jakub Mensik,Jakub Mensik,0.676,0.597,1.68,13.3,19.7,11.74,101462.36,KXATPMATCH-26JUL30NAKMEN
+2026-07-30T11:25:41.261156+00:00,ATP,ATP Los Cabos Quarterfinal,Hard,2026-07-31T04:00:00Z,Coleman Wong,Jenson Brooksby,Coleman Wong,0.442,0.397,2.52,11.5,7.5,4.49,2195.42,KXATPMATCH-26JUL30WONBRO
+2026-07-30T11:25:41.261156+00:00,WTA,WTA Memphis Round Of 16,Hard,2026-07-30T18:00:00Z,Peyton Stearns,Tatiana Prozorova,Peyton Stearns,0.681,0.617,1.62,10.4,16.7,9.96,5171.26,KXWTAMATCH-26JUL30PROSTE
