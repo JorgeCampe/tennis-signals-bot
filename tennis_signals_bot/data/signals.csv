@@ -1,3 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-30T06:44:14.822937+00:00,ATP,ATP Washington Round Of 16,Hard,2026-07-30T18:00:00Z,Brandon Nakashima,Jakub Mensik,Jakub Mensik,0.676,0.587,1.7,15.2,21.6,12.87,78950.18,KXATPMATCH-26JUL30NAKMEN
-2026-07-30T06:44:14.822937+00:00,WTA,WTA Memphis Round Of 16,Hard,2026-07-30T18:00:00Z,Peyton Stearns,Tatiana Prozorova,Peyton Stearns,0.681,0.617,1.62,10.4,16.7,9.96,4556.38,KXWTAMATCH-26JUL30PROSTE
+2026-07-30T09:20:26.028620+00:00,ATP,ATP Washington Round Of 16,Hard,2026-07-30T18:00:00Z,Brandon Nakashima,Jakub Mensik,Jakub Mensik,0.676,0.587,1.7,15.2,21.6,12.87,84745.04,KXATPMATCH-26JUL30NAKMEN
+2026-07-30T09:20:26.028620+00:00,WTA,WTA Memphis Round Of 16,Hard,2026-07-30T18:00:00Z,Peyton Stearns,Tatiana Prozorova,Peyton Stearns,0.681,0.617,1.62,10.4,16.7,9.96,4609.31,KXWTAMATCH-26JUL30PROSTE
+2026-07-30T09:20:26.028620+00:00,ATP,ATP Los Cabos Quarterfinal,Hard,2026-07-31T04:00:00Z,Arthur Gea,Francisco Cerundolo,Francisco Cerundolo,0.77,0.705,1.42,9.3,22.1,13.18,1121.08,KXATPMATCH-26JUL30CERGEA
