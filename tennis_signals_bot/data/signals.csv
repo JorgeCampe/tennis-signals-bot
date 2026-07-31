@@ -1,9 +1,9 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-07-31T10:12:26.816234+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Lorenzo Musetti,Rafael Jodar,Lorenzo Musetti,0.545,0.376,2.66,44.9,27.1,16.19,27478.61,KXATPMATCH-26JUL31JODMUS
-2026-07-31T10:12:26.816234+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-08-01T02:00:00Z,Katie Volynets,Darja Vidmanova,Darja Vidmanova,0.518,0.376,2.66,37.9,22.8,13.65,4707.04,KXWTAMATCH-26JUL31VIDVOL
-2026-07-31T10:12:26.816234+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T04:00:00Z,Coleman Wong,Arthur Gea,Coleman Wong,0.541,0.467,2.14,15.8,13.8,8.27,8175.47,KXATPMATCH-26JUL31WONGEA
-2026-07-31T10:12:26.816234+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Alex Michelsen,Taylor Fritz,Alex Michelsen,0.397,0.345,2.9,14.9,7.9,4.71,34611.59,KXATPMATCH-26JUL31FRIMIC
-2026-07-31T10:12:26.816234+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-07-31T20:10:00Z,Peyton Stearns,Elvina Kalieva,Elvina Kalieva,0.333,0.294,3.4,13.2,5.5,3.29,8060.49,KXWTAMATCH-26JUL31KALSTE
-2026-07-31T10:12:26.816234+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-07-31T22:10:00Z,Diana Shnaider,Liudmila Samsonova,Diana Shnaider,0.607,0.567,1.76,6.9,9.1,5.43,8785.93,KXWTAMATCH-26JUL31SHNSAM
-2026-07-31T10:12:26.816234+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-07-31T18:00:00Z,Renata Zarazua,Anastasia Zakharova,Renata Zarazua,0.464,0.437,2.29,6.0,4.7,2.81,2729.71,KXWTAMATCH-26JUL31ZAKZAR
-2026-07-31T10:12:26.816234+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Brandon Nakashima,Alex de Minaur,Alex de Minaur,0.69,0.656,1.52,5.2,9.8,5.88,32254.63,KXATPMATCH-26JUL31DENAK
+2026-07-31T12:18:33.720609+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Lorenzo Musetti,Rafael Jodar,Lorenzo Musetti,0.545,0.386,2.59,41.1,25.9,15.47,30547.77,KXATPMATCH-26JUL31JODMUS
+2026-07-31T12:18:33.720609+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-08-01T02:00:00Z,Katie Volynets,Darja Vidmanova,Darja Vidmanova,0.518,0.376,2.66,37.9,22.8,13.65,4797.88,KXWTAMATCH-26JUL31VIDVOL
+2026-07-31T12:18:33.720609+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T04:00:00Z,Coleman Wong,Arthur Gea,Coleman Wong,0.541,0.457,2.19,18.3,15.4,9.23,11964.61,KXATPMATCH-26JUL31WONGEA
+2026-07-31T12:18:33.720609+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Alex Michelsen,Taylor Fritz,Alex Michelsen,0.397,0.345,2.9,14.9,7.9,4.71,42192.65,KXATPMATCH-26JUL31FRIMIC
+2026-07-31T12:18:33.720609+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-07-31T20:10:00Z,Peyton Stearns,Elvina Kalieva,Elvina Kalieva,0.333,0.294,3.4,13.2,5.5,3.29,9600.21,KXWTAMATCH-26JUL31KALSTE
+2026-07-31T12:18:33.720609+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-07-31T22:10:00Z,Diana Shnaider,Liudmila Samsonova,Diana Shnaider,0.607,0.567,1.76,6.9,9.1,5.43,12928.78,KXWTAMATCH-26JUL31SHNSAM
+2026-07-31T12:18:33.720609+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-07-31T18:00:00Z,Renata Zarazua,Anastasia Zakharova,Renata Zarazua,0.464,0.437,2.29,6.0,4.7,2.81,2795.19,KXWTAMATCH-26JUL31ZAKZAR
+2026-07-31T12:18:33.720609+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Brandon Nakashima,Alex de Minaur,Alex de Minaur,0.69,0.656,1.52,5.2,9.8,5.88,43173.24,KXATPMATCH-26JUL31DENAK
