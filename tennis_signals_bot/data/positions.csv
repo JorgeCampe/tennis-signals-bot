@@ -32,9 +32,9 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 31,2026-07-30T19:57:47.843713+00:00,WTA,WTA Washington Round Of 16,Hard,2026-07-30T18:00:00Z,Jessica Pegula,Magdalena Frech,Jessica Pegula,0.885,0.637,1.57,39.0,68.2,7.69,won,2026-07-30T21:17:31.623083+00:00,4.38,,
 32,2026-07-30T21:17:31.623083+00:00,ATP,ATP Washington Round Of 16,Hard,2026-07-29T18:00:00Z,Alejandro Tabilo,Terence Atmane,Alejandro Tabilo,0.505,0.457,2.19,10.4,8.8,2.6,won,2026-07-30T23:35:34.683827+00:00,3.09,1.344,62.9
 33,2026-07-30T22:30:55.089356+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-07-31T18:00:00Z,Renata Zarazua,Anastasia Zakharova,Renata Zarazua,0.464,0.437,2.29,6.0,4.7,1.4,open,,,2.399,
-34,2026-07-30T23:35:34.683827+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Brandon Nakashima,Alex de Minaur,Alex de Minaur,0.69,0.646,1.55,6.7,12.3,3.71,open,,,2.187,
+34,2026-07-30T23:35:34.683827+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Brandon Nakashima,Alex de Minaur,Alex de Minaur,0.69,0.646,1.55,6.7,12.3,3.71,lost,2026-07-31T20:47:50.950122+00:00,-3.71,2.187,-29.1
 35,2026-07-31T07:35:04.034292+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T04:00:00Z,Coleman Wong,Arthur Gea,Coleman Wong,0.541,0.477,2.1,13.3,12.2,3.61,open,,,2.052,
 36,2026-07-31T07:35:04.034292+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-08-01T01:30:00Z,Elina Svitolina,Alexandra Eala,Elina Svitolina,0.671,0.627,1.6,7.0,11.8,3.49,open,,,1.648,
 37,2026-07-31T07:35:04.034292+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-07-31T22:10:00Z,Diana Shnaider,Liudmila Samsonova,Diana Shnaider,0.607,0.567,1.76,6.9,9.1,2.71,open,,,1.827,
-38,2026-07-31T19:48:06.464800+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T07:00:00Z,Denis Shapovalov,Cameron Norrie,Denis Shapovalov,0.484,0.447,2.24,8.3,6.7,2.0,open,,,,
-39,2026-07-31T19:48:06.464800+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-07-31T19:00:00Z,Naomi Osaka,Elisabetta Cocciaretto,Naomi Osaka,0.81,0.763,1.31,6.2,19.9,5.98,open,,,,
+38,2026-07-31T19:48:06.464800+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T07:00:00Z,Denis Shapovalov,Cameron Norrie,Denis Shapovalov,0.484,0.447,2.24,8.3,6.7,2.0,open,,,2.236,
+39,2026-07-31T19:48:06.464800+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-07-31T19:00:00Z,Naomi Osaka,Elisabetta Cocciaretto,Naomi Osaka,0.81,0.763,1.31,6.2,19.9,5.98,won,2026-07-31T20:47:50.950122+00:00,1.85,,
