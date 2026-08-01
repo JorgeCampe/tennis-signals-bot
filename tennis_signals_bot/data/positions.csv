@@ -5,7 +5,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 4,2026-07-27T03:10:03.483082+00:00,ATP,ATP Washington Round Of 32,Hard,2026-07-27T17:00:00Z,Lorenzo Musetti,Matteo Arnaldi,Lorenzo Musetti,0.734,0.607,1.65,21.0,32.5,7.21,won,2026-07-27T19:13:35.093958+00:00,4.69,1.547,6.7
 5,2026-07-27T03:10:03.483082+00:00,WTA,WTA Washington Round Of 32,Hard,2026-07-27T17:00:00Z,Ashlyn Krueger,Katie Boulter,Katie Boulter,0.532,0.447,2.24,19.1,15.4,3.78,lost,2026-07-28T02:27:30.716466+00:00,-3.78,2.522,-11.2
 6,2026-07-27T03:10:03.483082+00:00,WTA,WTA Washington Round Of 32,Hard,2026-07-27T17:00:00Z,Qinwen Zheng,Alexandra Eala,Alexandra Eala,0.518,0.457,2.19,13.4,11.3,3.52,open,,,1.029,
-7,2026-07-27T03:10:03.483082+00:00,ATP,ATP Los Cabos Round Of 32,Hard,2026-07-27T04:00:00Z,Moise Kouame,Grigor Dimitrov,Grigor Dimitrov,0.773,0.685,1.46,12.8,27.8,8.7,open,,,1.438,
+7,2026-07-27T03:10:03.483082+00:00,ATP,ATP Los Cabos Round Of 32,Hard,2026-07-27T04:00:00Z,Moise Kouame,Grigor Dimitrov,Grigor Dimitrov,0.773,0.685,1.46,12.8,27.8,8.7,void,2026-08-01T05:42:33.429000+00:00,0.0,1.438,
 8,2026-07-27T03:10:03.483082+00:00,WTA,WTA Memphis Round Of 32,Hard,2026-07-26T20:10:00Z,Tatjana Maria,Talia Gibson,Talia Gibson,0.758,0.676,1.48,12.1,25.2,7.88,lost,2026-07-27T23:55:07.938333+00:00,-7.88,2.659,-44.3
 9,2026-07-27T03:10:03.483082+00:00,ATP,ATP Los Cabos Round Of 32,Hard,2026-07-27T04:00:00Z,Cameron Norrie,Aleksandar Kovacevic,Cameron Norrie,0.661,0.607,1.65,9.0,13.9,4.33,won,2026-07-28T05:31:43.263483+00:00,2.81,1.621,1.8
 10,2026-07-27T07:46:18.113716+00:00,WTA,WTA Memphis Round Of 32,Hard,2026-07-28T01:00:00Z,Solana Sierra,Tatiana Prozorova,Solana Sierra,0.633,0.477,2.1,32.7,29.9,4.26,lost,2026-07-28T02:27:30.716466+00:00,-4.26,4.981,-57.8
@@ -33,9 +33,10 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 32,2026-07-30T21:17:31.623083+00:00,ATP,ATP Washington Round Of 16,Hard,2026-07-29T18:00:00Z,Alejandro Tabilo,Terence Atmane,Alejandro Tabilo,0.505,0.457,2.19,10.4,8.8,2.6,won,2026-07-30T23:35:34.683827+00:00,3.09,1.344,62.9
 33,2026-07-30T22:30:55.089356+00:00,WTA,WTA Memphis Quarterfinal,Hard,2026-07-31T18:00:00Z,Renata Zarazua,Anastasia Zakharova,Renata Zarazua,0.464,0.437,2.29,6.0,4.7,1.4,won,2026-08-01T02:41:00.429423+00:00,1.81,1.438,59.2
 34,2026-07-30T23:35:34.683827+00:00,ATP,ATP Washington Quarterfinal,Hard,2026-07-31T18:00:00Z,Brandon Nakashima,Alex de Minaur,Alex de Minaur,0.69,0.646,1.55,6.7,12.3,3.71,lost,2026-07-31T20:47:50.950122+00:00,-3.71,2.187,-29.1
-35,2026-07-31T07:35:04.034292+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T04:00:00Z,Coleman Wong,Arthur Gea,Coleman Wong,0.541,0.477,2.1,13.3,12.2,3.61,open,,,2.095,
+35,2026-07-31T07:35:04.034292+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T04:00:00Z,Coleman Wong,Arthur Gea,Coleman Wong,0.541,0.477,2.1,13.3,12.2,3.61,lost,2026-08-01T05:42:33.429000+00:00,-3.61,2.095,0.2
 36,2026-07-31T07:35:04.034292+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-08-01T01:30:00Z,Elina Svitolina,Alexandra Eala,Elina Svitolina,0.671,0.627,1.6,7.0,11.8,3.49,lost,2026-08-01T02:41:00.429423+00:00,-3.49,1.861,-14.0
 37,2026-07-31T07:35:04.034292+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-07-31T22:10:00Z,Diana Shnaider,Liudmila Samsonova,Diana Shnaider,0.607,0.567,1.76,6.9,9.1,2.71,won,2026-07-31T22:52:43.378592+00:00,2.06,1.092,61.2
-38,2026-07-31T19:48:06.464800+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T07:00:00Z,Denis Shapovalov,Cameron Norrie,Denis Shapovalov,0.484,0.447,2.24,8.3,6.7,2.0,open,,,2.342,
+38,2026-07-31T19:48:06.464800+00:00,ATP,ATP Los Cabos Semifinal,Hard,2026-08-01T07:00:00Z,Denis Shapovalov,Cameron Norrie,Denis Shapovalov,0.484,0.447,2.24,8.3,6.7,2.0,open,,,1.48,
 39,2026-07-31T19:48:06.464800+00:00,WTA,WTA Washington Quarterfinal,Hard,2026-07-31T19:00:00Z,Naomi Osaka,Elisabetta Cocciaretto,Naomi Osaka,0.81,0.763,1.31,6.2,19.9,5.98,won,2026-07-31T20:47:50.950122+00:00,1.85,,
-40,2026-08-01T02:41:00.429423+00:00,WTA,WTA Washington Semifinal,Hard,2026-08-01T22:10:00Z,Naomi Osaka,Alexandra Eala,Naomi Osaka,0.69,0.627,1.6,10.0,16.9,4.95,open,,,,
+40,2026-08-01T02:41:00.429423+00:00,WTA,WTA Washington Semifinal,Hard,2026-08-01T22:10:00Z,Naomi Osaka,Alexandra Eala,Naomi Osaka,0.69,0.627,1.6,10.0,16.9,4.95,open,,,1.48,
+41,2026-08-01T05:42:33.429000+00:00,ATP,ATP Montreal Round Of 128,Hard,2026-08-01T17:00:00Z,Jack Draper,Terence Atmane,Jack Draper,0.706,0.666,1.5,6.1,12.2,3.57,open,,,,
