@@ -53,7 +53,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 52,2026-08-01T16:09:50.559850+00:00,ATP,ATP Montreal Round Of 128,Hard,2026-08-01T17:00:00Z,Mattia Bellucci,Sebastian Baez,Mattia Bellucci,0.538,0.508,1.97,5.9,6.1,1.77,open,,,2.052,
 53,2026-08-01T18:13:24.963075+00:00,ATP,ATP Montreal Round Of 128,Hard,2026-08-01T17:00:00Z,Vit Kopriva,Alexis Galarneau,Vit Kopriva,0.608,0.498,2.01,22.2,22.0,4.37,won,2026-08-03T22:35:20.333431+00:00,4.41,1.164,72.7
 54,2026-08-01T18:13:24.963075+00:00,WTA,WTA Washington Semifinal,Hard,2026-08-01T21:00:00Z,Diana Shnaider,Jessica Pegula,Jessica Pegula,0.795,0.685,1.46,16.1,35.0,9.58,won,2026-08-01T19:36:42.772832+00:00,4.41,,
-55,2026-08-01T18:13:24.963075+00:00,ATP,ATP Montreal Round Of 128,Hard,2026-08-01T17:00:00Z,Lorenzo Sonego,Tallon Griekspoor,Tallon Griekspoor,0.574,0.537,1.86,6.8,7.9,2.32,open,,,1.703,
+55,2026-08-01T18:13:24.963075+00:00,ATP,ATP Montreal Round Of 128,Hard,2026-08-01T17:00:00Z,Lorenzo Sonego,Tallon Griekspoor,Tallon Griekspoor,0.574,0.537,1.86,6.8,7.9,2.32,open,,,1.177,
 56,2026-08-01T21:29:00.603270+00:00,WTA,WTA Toronto Qualification Round 1,Hard,2026-08-01T18:00:00Z,Rebecca Sramkova,Mananchaya Sawangkaew,Mananchaya Sawangkaew,0.579,0.498,2.01,16.3,16.1,4.24,lost,2026-08-01T23:32:22.923686+00:00,-4.24,18.753,-89.3
 57,2026-08-01T21:29:00.603270+00:00,ATP,ATP Montreal Qualification Round 1,Hard,2026-08-01T19:50:00Z,Dane Sweeny,Shintaro Mochizuki,Dane Sweeny,0.476,0.437,2.29,8.9,6.9,1.97,lost,2026-08-01T22:30:05.921458+00:00,-1.97,,
 58,2026-08-01T22:30:05.921458+00:00,WTA,WTA Washington Final,Hard,2026-08-02T19:00:00Z,Jessica Pegula,Alexandra Eala,Jessica Pegula,0.772,0.607,1.65,27.1,41.9,6.45,lost,2026-08-03T18:25:30.638872+00:00,-6.45,1.648,0.1
@@ -79,13 +79,16 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 78,2026-08-03T20:11:17.294326+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Talia Gibson,Maja Chwalinska,Maja Chwalinska,0.54,0.457,2.19,18.2,15.3,3.28,open,,,10.446,
 79,2026-08-03T21:30:42.340486+00:00,ATP,ATP Montreal Round Of 128,Hard,2026-08-01T17:00:00Z,Mariano Navone,Matteo Berrettini,Matteo Berrettini,0.651,0.447,2.24,45.6,36.9,3.2,lost,2026-08-04T01:08:33.665315+00:00,-3.2,46.79,-95.2
 80,2026-08-03T22:35:20.333431+00:00,WTA,WTA Toronto Round Of 128,Hard,2026-08-02T18:00:00Z,Tereza Valentova,Taylor Townsend,Taylor Townsend,0.536,0.447,2.24,20.0,16.1,3.3,won,2026-08-04T01:08:33.665315+00:00,4.09,1.38,62.3
-81,2026-08-03T23:43:39.905834+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Emma Navarro,Alina Korneeva,Emma Navarro,0.675,0.607,1.65,11.2,17.2,4.79,open,,,1.763,
+81,2026-08-03T23:43:39.905834+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Emma Navarro,Alina Korneeva,Emma Navarro,0.675,0.607,1.65,11.2,17.2,4.79,open,,,1.732,
 82,2026-08-04T01:08:33.665315+00:00,ATP,ATP Montreal Round Of 128,Hard,2026-08-03T02:00:00Z,Kyrian Jacquet,Gabriel Diallo,Gabriel Diallo,0.566,0.508,1.97,11.4,11.8,3.36,won,2026-08-04T04:29:34.264250+00:00,3.26,,
 83,2026-08-04T04:29:34.264250+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Lanlana Tararudee,Amanda Anisimova,Amanda Anisimova,0.84,0.763,1.31,10.0,32.2,9.59,open,,,1.418,
 84,2026-08-04T07:17:40.936243+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-04T19:10:00Z,Valentin Vacherot,Mariano Navone,Valentin Vacherot,0.748,0.627,1.6,19.4,32.5,7.43,open,,,1.571,
-85,2026-08-04T07:17:40.936243+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T02:00:00Z,Frances Tiafoe,Marin Cilic,Frances Tiafoe,0.685,0.627,1.6,9.2,15.5,4.56,open,,,1.502,
+85,2026-08-04T07:17:40.936243+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T02:00:00Z,Frances Tiafoe,Marin Cilic,Frances Tiafoe,0.685,0.627,1.6,9.2,15.5,4.56,open,,,1.48,
 86,2026-08-04T14:41:15.456760+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-04T19:10:00Z,Arthur Rinderknech,Miomir Kecmanovic,Arthur Rinderknech,0.607,0.537,1.86,12.9,14.9,4.46,open,,,1.896,
 87,2026-08-04T16:31:45.448926+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Elina Svitolina,Jessica Bouzas Maneiro,Elina Svitolina,0.836,0.527,1.9,58.5,65.3,4.95,open,,,,
 88,2026-08-04T18:14:27.139791+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Donna Vekic,Viktorija Golubic,Donna Vekic,0.556,0.518,1.93,7.3,7.9,2.33,open,,,,
-89,2026-08-04T20:00:05.128610+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T03:10:00Z,Gabriel Diallo,Luciano Darderi,Luciano Darderi,0.498,0.467,2.14,6.5,5.7,1.69,open,,,,
-90,2026-08-04T20:00:05.128610+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-05T18:00:00Z,Maya Joint,Sorana Cirstea,Sorana Cirstea,0.823,0.782,1.28,5.2,18.6,5.52,open,,,,
+89,2026-08-04T20:00:05.128610+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T03:10:00Z,Gabriel Diallo,Luciano Darderi,Luciano Darderi,0.498,0.467,2.14,6.5,5.7,1.69,open,,,2.236,
+90,2026-08-04T20:00:05.128610+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-05T18:00:00Z,Maya Joint,Sorana Cirstea,Sorana Cirstea,0.823,0.782,1.28,5.2,18.6,5.52,open,,,1.278,
+91,2026-08-04T21:21:30.429776+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-03T18:00:00Z,Juncheng Shang,Andrey Rublev,Andrey Rublev,0.699,0.508,1.97,37.7,38.9,4.6,open,,,,
+92,2026-08-04T21:21:30.429776+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T18:00:00Z,Stefanos Tsitsipas,Joao Fonseca,Joao Fonseca,0.69,0.587,1.7,17.5,24.9,6.37,open,,,,
+93,2026-08-04T21:21:30.429776+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Elise Mertens,Anna Bondar,Elise Mertens,0.794,0.754,1.33,5.3,16.2,4.77,open,,,,
