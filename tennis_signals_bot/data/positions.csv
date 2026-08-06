@@ -88,7 +88,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 87,2026-08-04T16:31:45.448926+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Elina Svitolina,Jessica Bouzas Maneiro,Elina Svitolina,0.836,0.527,1.9,58.5,65.3,4.95,open,,,,
 88,2026-08-04T18:14:27.139791+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Donna Vekic,Viktorija Golubic,Donna Vekic,0.556,0.518,1.93,7.3,7.9,2.33,open,,,,
 89,2026-08-04T20:00:05.128610+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T03:10:00Z,Gabriel Diallo,Luciano Darderi,Luciano Darderi,0.498,0.467,2.14,6.5,5.7,1.69,open,,,2.288,
-90,2026-08-04T20:00:05.128610+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-05T18:00:00Z,Maya Joint,Sorana Cirstea,Sorana Cirstea,0.823,0.782,1.28,5.2,18.6,5.52,open,,,1.278,
+90,2026-08-04T20:00:05.128610+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-05T18:00:00Z,Maya Joint,Sorana Cirstea,Sorana Cirstea,0.823,0.782,1.28,5.2,18.6,5.52,open,,,5.254,
 91,2026-08-04T21:21:30.429776+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-03T18:00:00Z,Juncheng Shang,Andrey Rublev,Andrey Rublev,0.699,0.508,1.97,37.7,38.9,4.6,open,,,1.019,
 92,2026-08-04T21:21:30.429776+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T18:00:00Z,Stefanos Tsitsipas,Joao Fonseca,Joao Fonseca,0.69,0.587,1.7,17.5,24.9,6.37,open,,,1.621,
 93,2026-08-04T21:21:30.429776+00:00,WTA,WTA Toronto Round Of 64,Hard,2026-08-04T18:00:00Z,Elise Mertens,Anna Bondar,Elise Mertens,0.794,0.754,1.33,5.3,16.2,4.77,open,,,2.187,
