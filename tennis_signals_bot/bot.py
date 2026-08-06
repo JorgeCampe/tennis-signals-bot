@@ -96,7 +96,31 @@ def _match_key(pa, pb):
     return "|".join(sorted([_lastname(pa), _lastname(pb)]))
 
 
-def _settle_pick
+def _tokens(x):
+    """Tokens del nombre (normalizados, 3+ letras) para cruzar sin importar el orden."""
+    return {t for t in kalshi.norm_full(x).split() if len(t) >= 3}
+
+
+def _settle_pick(pick, pa, pb, commence_time, res):
+    """'won'/'lost'/None comparando con ESPN. Cruza por tokens compartidos (maneja
+    orden invertido tipo 'Lin Zhu'/'Zhu Lin') en una ventana de +-4 dias."""
+    if res is None or getattr(res, "empty", True):
+        return None
+    d0 = pd.to_datetime(commence_time, utc=True, errors="coerce")
+    ta, tb, tp = _tokens(pa), _tokens(pb), _tokens(pick)
+    if not (ta and tb):
+        return None
+    for _, row in res.iterrows():
+        tw = _tokens(row.get("w", ""))
+        tl = _tokens(row.get("l", ""))
+        if not ((ta & tw and tb & tl) or (ta & tl and tb & tw)):
+            continue
+        if pd.notna(d0):
+            dd = pd.to_datetime(row.get("date"), utc=True, errors="coerce")
+            if pd.notna(dd) and abs((dd - d0).days) > 4:
+                continue
+        return "won" if (tp & tw) else "lost"
+    return None
 
 
 def _montecarlo(open_pos, equity, n=5000):
