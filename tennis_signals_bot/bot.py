@@ -96,23 +96,7 @@ def _match_key(pa, pb):
     return "|".join(sorted([_lastname(pa), _lastname(pb)]))
 
 
-def _settle_pick(pick, pa, pb, commence_time, res):
-    """'won'/'lost'/None comparando con ESPN. Cruza por apellidos en +-4 dias."""
-    if res is None or getattr(res, "empty", True):
-        return None
-    d0 = pd.to_datetime(commence_time, utc=True, errors="coerce")
-    want = {_lastname(pa), _lastname(pb)}
-    for _, row in res.iterrows():
-        wl = str(row.get("w", "")).split()[-1] if str(row.get("w", "")) else ""
-        ll = str(row.get("l", "")).split()[-1] if str(row.get("l", "")) else ""
-        if {wl, ll} != want:
-            continue
-        if pd.notna(d0):
-            dd = pd.to_datetime(row.get("date"), utc=True, errors="coerce")
-            if pd.notna(dd) and abs((dd - d0).days) > 4:
-                continue
-        return "won" if _lastname(pick) == wl else "lost"
-    return None
+def _settle_pick
 
 
 def _montecarlo(open_pos, equity, n=5000):
