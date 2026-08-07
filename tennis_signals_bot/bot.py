@@ -200,7 +200,7 @@ def run(open_browser=False):
             p["close_odds"] = m["odds_b"]
 
     # 1) resultados frescos de ESPN y liquidar apuestas abiertas
-    tennis_results.refresh_if_stale(minutes=15)
+    tennis_results.refresh_if_stale(minutes=15, days=8)   # ventana amplia: liquida partidos de hasta ~1 semana
     res = tennis_results.load_results()
     for p in positions:
         if str(p.get("status")) != "open":
