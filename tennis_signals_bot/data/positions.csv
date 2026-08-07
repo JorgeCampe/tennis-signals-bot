@@ -102,5 +102,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 101,2026-08-05T18:51:34.178968+00:00,ATP,ATP Montreal Round Of 64,Hard,2026-08-05T18:00:00Z,Zachary Svajda,Arthur Fils,Arthur Fils,0.787,0.676,1.48,16.5,34.3,9.29,won,2026-08-07T02:48:48.750525+00:00,4.46,,
 102,2026-08-05T18:51:34.178968+00:00,WTA,WTA Toronto Round Of 32,Hard,2026-08-06T19:00:00Z,Nikola Bartunkova,Amanda Anisimova,Amanda Anisimova,0.755,0.676,1.48,11.7,24.5,5.46,won,2026-08-07T02:48:48.750525+00:00,2.62,1.794,-17.5
 103,2026-08-06T22:20:15.144211+00:00,WTA,WTA Toronto Round Of 32,Hard,2026-08-06T19:00:00Z,Alina Korneeva,Iva Jovic,Iva Jovic,0.827,0.676,1.48,22.4,46.7,9.29,open,,,1.459,
-104,2026-08-06T22:20:15.144211+00:00,WTA,WTA Toronto Round Of 32,Hard,2026-08-07T19:00:00Z,Leylah Fernandez,Mirra Andreeva,Mirra Andreeva,0.855,0.734,1.36,16.5,45.4,4.89,open,,,1.327,
+104,2026-08-06T22:20:15.144211+00:00,WTA,WTA Toronto Round Of 32,Hard,2026-08-07T19:00:00Z,Leylah Fernandez,Mirra Andreeva,Mirra Andreeva,0.855,0.734,1.36,16.5,45.4,4.89,open,,,1.344,
 105,2026-08-07T02:48:48.750525+00:00,ATP,ATP Montreal Round Of 32,Hard,2026-08-07T19:30:00Z,Jakub Mensik,Terence Atmane,Jakub Mensik,0.749,0.705,1.42,6.2,14.9,4.25,open,,,1.418,
