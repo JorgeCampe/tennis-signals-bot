@@ -56,9 +56,24 @@ def _games(comp):
 
 
 def _scoreboard(tour, day):
-    url = f"{BASE}/{tour}/scoreboard"
-    r = requests.get(url, params={"dates": day},
-                     headers={"User-Agent": "Mozilla/5.0"}, timeout=25)
+    """Scoreboard de ESPN. ESPN bloquea (403) las IPs de datacenter (GitHub Actions),
+    asi que intenta varios hosts y, si todos fallan, un lector-proxy que baja desde
+    otra IP (r.jina.ai). Devuelve el mismo JSON en todos los casos."""
+    hdr = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+           "Accept": "application/json", "Referer": "https://www.espn.com/"}
+    for host in ("https://site.web.api.espn.com/apis/site/v2/sports/tennis",
+                 "https://site.api.espn.com/apis/site/v2/sports/tennis"):
+        try:
+            r = requests.get(f"{host}/{tour}/scoreboard", params={"dates": day},
+                             headers=hdr, timeout=25)
+            if r.status_code == 200:
+                return r.json()
+        except Exception:
+            pass
+    # fallback: lector que descarga desde su propia IP (esquiva el bloqueo de ESPN)
+    u = (f"https://r.jina.ai/https://site.api.espn.com/apis/site/v2/sports/tennis/"
+         f"{tour}/scoreboard?dates={day}")
+    r = requests.get(u, headers={"User-Agent": "Mozilla/5.0", "x-respond-with": "text"}, timeout=45)
     r.raise_for_status()
     return r.json()
 
