@@ -106,7 +106,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 105,2026-08-07T02:48:48.750525+00:00,ATP,ATP Montreal Round Of 32,Hard,2026-08-07T19:30:00Z,Jakub Mensik,Terence Atmane,Jakub Mensik,0.749,0.705,1.42,6.2,14.9,4.25,won,2026-08-08T01:53:00.223401+00:00,1.78,1.263,12.4
 106,2026-08-07T17:24:34.175800+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-08T19:00:00Z,Elina Svitolina,Amanda Anisimova,Amanda Anisimova,0.502,0.437,2.29,14.9,11.5,3.19,open,,,2.288,
 107,2026-08-07T17:24:34.175800+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-08T19:00:00Z,Iga Swiatek,Marta Kostyuk,Marta Kostyuk,0.461,0.437,2.29,5.5,4.3,1.18,open,,,2.288,
-108,2026-08-07T18:22:53.095740+00:00,ATP,ATP Montreal Round Of 16,Hard,2026-08-08T19:30:00Z,Jiri Lehecka,Rafael Jodar,Jiri Lehecka,0.552,0.467,2.14,18.0,15.8,3.63,open,,,2.01,
+108,2026-08-07T18:22:53.095740+00:00,ATP,ATP Montreal Round Of 16,Hard,2026-08-08T19:30:00Z,Jiri Lehecka,Rafael Jodar,Jiri Lehecka,0.552,0.467,2.14,18.0,15.8,3.63,open,,,2.052,
 109,2026-08-07T19:31:08.581124+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-08T19:00:00Z,Aryna Sabalenka,Ekaterina Alexandrova,Aryna Sabalenka,0.903,0.859,1.16,5.2,31.5,8.97,open,,,1.164,
 110,2026-08-07T20:45:27.951010+00:00,ATP,ATP Montreal Round Of 32,Hard,2026-08-07T19:30:00Z,Botic Van de Zandschulp,Hubert Hurkacz,Botic Van de Zandschulp,0.513,0.447,2.24,14.7,11.9,3.2,won,2026-08-07T22:40:32.431942+00:00,3.97,3.178,-29.5
 111,2026-08-07T23:37:00.304132+00:00,ATP,ATP Montreal Round Of 32,Hard,2026-08-06T18:00:00Z,Casper Ruud,Joao Fonseca,Joao Fonseca,0.561,0.477,2.1,17.5,16.0,3.75,won,2026-08-08T01:53:00.223401+00:00,4.12,,
