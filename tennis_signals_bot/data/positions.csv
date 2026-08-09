@@ -104,7 +104,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 103,2026-08-06T22:20:15.144211+00:00,WTA,WTA Toronto Round Of 32,Hard,2026-08-06T19:00:00Z,Alina Korneeva,Iva Jovic,Iva Jovic,0.827,0.676,1.48,22.4,46.7,9.29,lost,2026-08-07T17:24:34.175800+00:00,-9.29,2.733,-45.8
 104,2026-08-06T22:20:15.144211+00:00,WTA,WTA Toronto Round Of 32,Hard,2026-08-07T19:00:00Z,Leylah Fernandez,Mirra Andreeva,Mirra Andreeva,0.855,0.734,1.36,16.5,45.4,4.89,lost,2026-08-07T20:45:27.951010+00:00,-4.89,23.426,-94.2
 105,2026-08-07T02:48:48.750525+00:00,ATP,ATP Montreal Round Of 32,Hard,2026-08-07T19:30:00Z,Jakub Mensik,Terence Atmane,Jakub Mensik,0.749,0.705,1.42,6.2,14.9,4.25,won,2026-08-08T01:53:00.223401+00:00,1.78,1.263,12.4
-106,2026-08-07T17:24:34.175800+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-08T19:00:00Z,Elina Svitolina,Amanda Anisimova,Amanda Anisimova,0.502,0.437,2.29,14.9,11.5,3.19,open,,,2.589,
+106,2026-08-07T17:24:34.175800+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-08T19:00:00Z,Elina Svitolina,Amanda Anisimova,Amanda Anisimova,0.502,0.437,2.29,14.9,11.5,3.19,lost,2026-08-09T03:59:37.832302+00:00,-3.19,2.589,-11.5
 107,2026-08-07T17:24:34.175800+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-08T19:00:00Z,Iga Swiatek,Marta Kostyuk,Marta Kostyuk,0.461,0.437,2.29,5.5,4.3,1.18,lost,2026-08-08T19:33:34.664695+00:00,-1.18,1.596,43.5
 108,2026-08-07T18:22:53.095740+00:00,ATP,ATP Montreal Round Of 16,Hard,2026-08-08T19:30:00Z,Jiri Lehecka,Rafael Jodar,Jiri Lehecka,0.552,0.467,2.14,18.0,15.8,3.63,lost,2026-08-09T02:00:18.822769+00:00,-3.63,2.14,0.0
 109,2026-08-07T19:31:08.581124+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-08T19:00:00Z,Aryna Sabalenka,Ekaterina Alexandrova,Aryna Sabalenka,0.903,0.859,1.16,5.2,31.5,8.97,lost,2026-08-09T02:00:18.822769+00:00,-8.97,1.31,-11.5
@@ -112,7 +112,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 111,2026-08-07T23:37:00.304132+00:00,ATP,ATP Montreal Round Of 32,Hard,2026-08-06T18:00:00Z,Casper Ruud,Joao Fonseca,Joao Fonseca,0.561,0.477,2.1,17.5,16.0,3.75,won,2026-08-08T01:53:00.223401+00:00,4.12,,
 112,2026-08-08T01:53:00.223401+00:00,WTA,WTA Toronto Round Of 32,Hard,2026-08-06T19:00:00Z,Taylor Townsend,Belinda Bencic,Belinda Bencic,0.721,0.577,1.73,24.9,34.0,5.8,won,2026-08-08T03:36:39.423727+00:00,4.23,,
 113,2026-08-08T16:37:58.269413+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Naomi Osaka,Leylah Fernandez,Naomi Osaka,0.849,0.715,1.4,18.8,47.2,10.78,open,,,1.38,
-114,2026-08-08T16:37:58.269413+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Alexandra Eala,Belinda Bencic,Belinda Bencic,0.644,0.567,1.76,13.5,17.7,5.11,open,,,1.827,
+114,2026-08-08T16:37:58.269413+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Alexandra Eala,Belinda Bencic,Belinda Bencic,0.644,0.567,1.76,13.5,17.7,5.11,open,,,1.896,
 115,2026-08-08T16:37:58.269413+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Alina Korneeva,Coco Gauff,Coco Gauff,0.885,0.792,1.26,11.8,44.8,13.05,open,,,1.263,
 116,2026-08-08T18:42:13.883187+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Liudmila Samsonova,Elena Rybakina,Elena Rybakina,0.885,0.782,1.28,13.1,47.1,13.45,open,,,1.278,
 117,2026-08-08T21:33:54.355181+00:00,ATP,ATP Montreal Round Of 16,Hard,2026-08-08T19:30:00Z,Arthur Rinderknech,Brandon Nakashima,Arthur Rinderknech,0.486,0.437,2.29,11.2,8.7,2.48,lost,2026-08-09T02:00:18.822769+00:00,-2.48,1.932,18.5
