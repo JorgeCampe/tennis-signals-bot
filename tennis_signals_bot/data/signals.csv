@@ -1,5 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-09T20:36:56.735223+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Rafael Jodar,Arthur Fils,Arthur Fils,0.621,0.518,1.93,20.0,21.4,11.48,8956.71,KXATPMATCH-26AUG10JODFIL
-2026-08-09T20:36:56.735223+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Naomi Osaka,Leylah Fernandez,Naomi Osaka,0.849,0.715,1.4,18.8,47.2,25.31,105535.01,KXWTAMATCH-26AUG09FEROSA
-2026-08-09T20:36:56.735223+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Alexandra Eala,Belinda Bencic,Belinda Bencic,0.644,0.567,1.76,13.5,17.7,9.51,362105.2,KXWTAMATCH-26AUG09EALBEN
-2026-08-09T20:36:56.735223+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Brandon Nakashima,Luciano Darderi,Luciano Darderi,0.367,0.335,2.98,9.6,4.9,2.6,6114.36,KXATPMATCH-26AUG10DARNAK
+2026-08-09T21:36:20.246350+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Rafael Jodar,Arthur Fils,Arthur Fils,0.621,0.518,1.93,20.0,21.4,11.67,11753.64,KXATPMATCH-26AUG10JODFIL
+2026-08-09T21:36:20.246350+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Naomi Osaka,Leylah Fernandez,Naomi Osaka,0.849,0.725,1.38,17.2,45.3,24.68,135249.9,KXWTAMATCH-26AUG09FEROSA
+2026-08-09T21:36:20.246350+00:00,WTA,WTA Toronto Round Of 16,Hard,2026-08-09T19:00:00Z,Alexandra Eala,Belinda Bencic,Belinda Bencic,0.644,0.557,1.79,15.5,19.6,10.65,432368.63,KXWTAMATCH-26AUG09EALBEN
+2026-08-09T21:36:20.246350+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Brandon Nakashima,Luciano Darderi,Luciano Darderi,0.367,0.345,2.9,6.4,3.4,1.84,7938.88,KXATPMATCH-26AUG10DARNAK
