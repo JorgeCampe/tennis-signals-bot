@@ -1,8 +1,8 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-11T03:52:32.553661+00:00,ATP,ATP Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Luca Van Assche,Gustavo Heide,Gustavo Heide,0.439,0.315,3.18,39.5,18.1,10.25,1967.06,KXATPMATCH-26AUG11VANHEI
-2026-08-11T03:52:32.553661+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Rafael Jodar,Arthur Fils,Arthur Fils,0.621,0.447,2.24,38.9,31.4,17.75,2682946.04,KXATPMATCH-26AUG10JODFIL
-2026-08-11T03:52:32.553661+00:00,WTA,WTA Toronto Quarterfinal,Hard,2026-08-11T20:00:00Z,Elena Rybakina,Naomi Osaka,Elena Rybakina,0.66,0.527,1.9,25.1,28.1,15.84,17748.83,KXWTAMATCH-26AUG11OSARYB
-2026-08-11T03:52:32.553661+00:00,WTA,WTA Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Lin Zhu,Lilli Tagger,Lin Zhu,0.486,0.397,2.52,22.7,14.9,8.42,729.76,KXWTAMATCH-26AUG11TAGZHU
-2026-08-11T03:52:32.553661+00:00,ATP,ATP Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Hugo Gaston,Nicolai Budkov Kjaer,Nicolai Budkov Kjaer,0.596,0.487,2.05,22.3,21.2,11.97,2230.85,KXATPMATCH-26AUG11GASBUD
-2026-08-11T03:52:32.553661+00:00,WTA,WTA Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Lanlana Tararudee,Emerson Jones,Emerson Jones,0.477,0.407,2.46,17.3,11.9,6.69,1080.19,KXWTAMATCH-26AUG11TARJON
-2026-08-11T03:52:32.553661+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Brandon Nakashima,Luciano Darderi,Luciano Darderi,0.367,0.325,3.08,13.1,6.3,3.56,486605.83,KXATPMATCH-26AUG10DARNAK
+2026-08-11T05:13:30.534181+00:00,ATP,ATP Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Luca Van Assche,Gustavo Heide,Gustavo Heide,0.439,0.304,3.29,44.2,19.3,10.93,2137.21,KXATPMATCH-26AUG11VANHEI
+2026-08-11T05:13:30.534181+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Rafael Jodar,Arthur Fils,Arthur Fils,0.621,0.447,2.24,38.9,31.4,17.75,2710683.02,KXATPMATCH-26AUG10JODFIL
+2026-08-11T05:13:30.534181+00:00,WTA,WTA Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Lin Zhu,Lilli Tagger,Lin Zhu,0.486,0.376,2.66,29.4,17.7,9.99,784.39,KXWTAMATCH-26AUG11TAGZHU
+2026-08-11T05:13:30.534181+00:00,WTA,WTA Toronto Quarterfinal,Hard,2026-08-11T20:00:00Z,Elena Rybakina,Naomi Osaka,Elena Rybakina,0.66,0.527,1.9,25.1,28.1,15.84,19451.39,KXWTAMATCH-26AUG11OSARYB
+2026-08-11T05:13:30.534181+00:00,ATP,ATP Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Hugo Gaston,Nicolai Budkov Kjaer,Nicolai Budkov Kjaer,0.596,0.487,2.05,22.3,21.2,11.97,2394.92,KXATPMATCH-26AUG11GASBUD
+2026-08-11T05:13:30.534181+00:00,WTA,WTA Cincinnati Qualification Round 1,Hard,2026-08-11T17:00:00Z,Lanlana Tararudee,Emerson Jones,Emerson Jones,0.477,0.407,2.46,17.3,11.9,6.69,1220.19,KXWTAMATCH-26AUG11TARJON
+2026-08-11T05:13:30.534181+00:00,ATP,ATP Montreal Quarterfinal,Hard,2026-08-10T19:30:00Z,Brandon Nakashima,Luciano Darderi,Luciano Darderi,0.367,0.325,3.08,13.1,6.3,3.56,500818.8,KXATPMATCH-26AUG10DARNAK
