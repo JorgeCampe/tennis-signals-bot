@@ -176,7 +176,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 175,2026-08-14T19:06:03.982269+00:00,WTA,WTA Cincinnati Round Of 128,Hard,2026-08-12T17:00:00Z,Tamara Korpatsch,Maya Joint,Tamara Korpatsch,0.526,0.457,2.19,14.9,12.6,3.33,won,2026-08-14T20:04:13.491943+00:00,3.96,,
 176,2026-08-14T20:04:13.491943+00:00,ATP,ATP Cincinnati Round Of 128,Hard,2026-08-12T17:00:00Z,Thanasi Kokkinakis,Nuno Borges,Nuno Borges,0.589,0.437,2.29,34.8,27.0,3.15,won,2026-08-14T22:27:44.740107+00:00,4.06,1.31,74.8
 177,2026-08-14T20:04:13.491943+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Tommy Paul,Hubert Hurkacz,Tommy Paul,0.684,0.627,1.6,9.2,15.4,4.15,won,2026-08-16T01:36:22.780006+00:00,2.49,1.861,-14.0
-178,2026-08-14T20:56:55.145385+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Stefanos Tsitsipas,Felix Auger-Aliassime,Felix Auger-Aliassime,0.783,0.627,1.6,25.0,41.9,6.9,open,,,1.648,
+178,2026-08-14T20:56:55.145385+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Stefanos Tsitsipas,Felix Auger-Aliassime,Felix Auger-Aliassime,0.783,0.627,1.6,25.0,41.9,6.9,open,,,1.675,
 179,2026-08-14T21:32:56.785514+00:00,WTA,WTA Cincinnati Round Of 128,Hard,2026-08-12T17:00:00Z,Liudmila Samsonova,Yulia Putintseva,Yulia Putintseva,0.462,0.437,2.29,5.8,4.5,1.24,lost,2026-08-15T01:25:29.893128+00:00,-1.24,1.703,34.5
 180,2026-08-14T22:27:44.740107+00:00,ATP,ATP Cincinnati Round Of 128,Hard,2026-08-14T17:00:00Z,Marco Trungelliti,Hamad Medjedovic,Hamad Medjedovic,0.651,0.537,1.86,21.2,24.6,4.99,lost,2026-08-14T23:25:17.285956+00:00,-4.99,11.744,-84.2
 181,2026-08-14T22:27:44.740107+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Quentin Halys,Alex de Minaur,Alex de Minaur,0.804,0.754,1.33,6.7,20.5,5.81,won,2026-08-15T22:25:49.379083+00:00,1.92,1.103,20.6
@@ -190,7 +190,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 189,2026-08-15T09:29:05.380545+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Katerina Siniakova,Jessica Bouzas Maneiro,Katerina Siniakova,0.645,0.547,1.83,17.9,21.7,4.98,open,,,1.97,
 190,2026-08-15T15:25:08.290317+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Zeynep Sonmez,Amanda Anisimova,Amanda Anisimova,0.799,0.705,1.42,13.3,31.8,8.72,won,2026-08-15T18:34:54.157032+00:00,3.66,1.059,34.1
 191,2026-08-15T15:47:43.435727+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-16T18:00:00Z,Michael Zheng,Ugo Humbert,Ugo Humbert,0.774,0.537,1.86,44.0,51.2,4.8,open,,,1.827,
-192,2026-08-15T15:47:43.435727+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-16T18:00:00Z,Frances Tiafoe,Lorenzo Sonego,Frances Tiafoe,0.712,0.646,1.55,10.1,18.4,5.06,open,,,1.571,
+192,2026-08-15T15:47:43.435727+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-16T18:00:00Z,Frances Tiafoe,Lorenzo Sonego,Frances Tiafoe,0.712,0.646,1.55,10.1,18.4,5.06,open,,,1.596,
 193,2026-08-15T18:34:54.157032+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Martin Landaluce,Matteo Arnaldi,Martin Landaluce,0.546,0.467,2.14,17.0,14.9,3.75,won,2026-08-15T19:24:18.387498+00:00,4.28,,
 194,2026-08-15T19:46:45.133501+00:00,ATP,ATP Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Jakub Mensik,Mattia Bellucci,Jakub Mensik,0.798,0.754,1.33,5.9,18.0,5.47,won,2026-08-15T21:24:27.141672+00:00,1.81,1.438,-7.5
 195,2026-08-15T20:26:56.675818+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-16T18:00:00Z,Sloane Stephens,Anastasia Potapova,Anastasia Potapova,0.787,0.676,1.48,16.5,34.5,9.38,open,,,1.48,
