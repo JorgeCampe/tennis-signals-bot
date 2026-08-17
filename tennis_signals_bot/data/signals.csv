@@ -1,6 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-17T17:58:49.983202+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Diana Shnaider,Maja Chwalinska,Maja Chwalinska,0.507,0.263,3.8,92.7,33.1,21.63,89905.56,KXWTAMATCH-26AUG17SHNCHW
-2026-08-17T17:58:49.983202+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.547,1.83,34.9,42.2,27.6,2694.24,KXATPMATCH-26AUG18NAKMED
-2026-08-17T17:58:49.983202+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.637,1.57,23.8,41.7,27.23,909.51,KXATPMATCH-26AUG18ZHEMUS
-2026-08-17T17:58:49.983202+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Anna Kalinskaya,Sorana Cirstea,Sorana Cirstea,0.595,0.487,2.05,22.0,20.9,13.66,354902.6,KXWTAMATCH-26AUG17CIRKAL
-2026-08-17T17:58:49.983202+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Alexandra Eala,Amanda Anisimova,Amanda Anisimova,0.672,0.557,1.79,20.6,25.9,16.92,171093.65,KXWTAMATCH-26AUG17EALANI
+2026-08-17T18:52:28.124239+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Diana Shnaider,Maja Chwalinska,Maja Chwalinska,0.507,0.273,3.66,85.4,32.1,21.01,120565.92,KXWTAMATCH-26AUG17SHNCHW
+2026-08-17T18:52:28.124239+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.547,1.83,34.9,42.2,27.6,3845.05,KXATPMATCH-26AUG18NAKMED
+2026-08-17T18:52:28.124239+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Anna Kalinskaya,Sorana Cirstea,Sorana Cirstea,0.595,0.447,2.24,32.9,26.6,17.41,586779.81,KXWTAMATCH-26AUG17CIRKAL
+2026-08-17T18:52:28.124239+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.637,1.57,23.8,41.7,27.23,1784.96,KXATPMATCH-26AUG18ZHEMUS
+2026-08-17T18:52:28.124239+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Alexandra Eala,Amanda Anisimova,Amanda Anisimova,0.672,0.557,1.79,20.6,25.9,16.92,181141.81,KXWTAMATCH-26AUG17EALANI
