@@ -205,7 +205,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 204,2026-08-16T15:47:50.428286+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Barbora Krejcikova,Sara Bejlek,Barbora Krejcikova,0.615,0.577,1.73,6.4,8.8,2.68,lost,2026-08-16T17:23:01.127478+00:00,-2.68,6.292,-72.5
 205,2026-08-16T17:23:01.127478+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Daria Snigur,Madison Keys,Madison Keys,0.749,0.607,1.65,23.4,36.2,7.03,won,2026-08-16T19:23:41.743905+00:00,4.57,1.049,57.3
 206,2026-08-16T17:23:01.127478+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-16T18:00:00Z,Janice Tjen,Viktorija Golubic,Janice Tjen,0.506,0.457,2.19,10.7,9.0,2.74,won,2026-08-16T18:34:34.051463+00:00,3.26,1.438,52.3
-207,2026-08-16T17:47:19.359637+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Diane Parry,Lois Boisson,Diane Parry,0.573,0.508,1.97,12.9,13.3,4.05,open,,,1.932,
+207,2026-08-16T17:47:19.359637+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Diane Parry,Lois Boisson,Diane Parry,0.573,0.508,1.97,12.9,13.3,4.05,open,,,1.896,
 208,2026-08-16T19:23:41.743905+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Flavio Cobolli,Alexander Blockx,Flavio Cobolli,0.593,0.508,1.97,16.8,17.3,4.94,open,,,1.97,
 209,2026-08-16T19:45:53.731502+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-16T18:00:00Z,Marta Kostyuk,Sofia Kenin,Marta Kostyuk,0.861,0.685,1.46,25.5,55.7,10.41,won,2026-08-16T21:46:40.973974+00:00,4.79,1.31,11.5
 210,2026-08-16T21:23:26.679491+00:00,WTA,WTA Cincinnati Round Of 64,Hard,2026-08-15T18:00:00Z,Anna Blinkova,Ekaterina Alexandrova,Ekaterina Alexandrova,0.651,0.467,2.14,39.4,34.6,4.1,won,2026-08-16T23:23:12.199303+00:00,4.67,1.059,102.1
