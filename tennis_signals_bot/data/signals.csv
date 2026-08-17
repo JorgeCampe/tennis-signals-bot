@@ -1,5 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-17T20:30:56.922965+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Anna Kalinskaya,Sorana Cirstea,Sorana Cirstea,0.595,0.273,3.66,117.4,44.2,28.88,1411248.76,KXWTAMATCH-26AUG17CIRKAL
-2026-08-17T20:30:56.922965+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.547,1.83,34.9,42.2,27.6,5084.32,KXATPMATCH-26AUG18NAKMED
-2026-08-17T20:30:56.922965+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.637,1.57,23.8,41.7,27.23,2597.63,KXATPMATCH-26AUG18ZHEMUS
-2026-08-17T20:30:56.922965+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Alexandra Eala,Amanda Anisimova,Amanda Anisimova,0.672,0.557,1.79,20.6,25.9,16.92,213173.4,KXWTAMATCH-26AUG17EALANI
+2026-08-17T21:29:11.671367+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Diana Shnaider,Maja Chwalinska,Maja Chwalinska,0.507,0.345,2.9,46.8,24.7,16.13,1119812.8,KXWTAMATCH-26AUG17SHNCHW
+2026-08-17T21:29:11.671367+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.547,1.83,34.9,42.2,27.6,5856.98,KXATPMATCH-26AUG18NAKMED
+2026-08-17T21:29:11.671367+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.637,1.57,23.8,41.7,27.23,5150.48,KXATPMATCH-26AUG18ZHEMUS
+2026-08-17T21:29:11.671367+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Alexandra Eala,Amanda Anisimova,Amanda Anisimova,0.672,0.547,1.83,22.8,27.5,18.0,224818.52,KXWTAMATCH-26AUG17EALANI
