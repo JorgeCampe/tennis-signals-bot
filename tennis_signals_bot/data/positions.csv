@@ -216,5 +216,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 215,2026-08-17T16:31:44.592654+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.637,1.57,23.8,41.7,8.16,open,,,1.524,
 216,2026-08-17T19:31:22.817006+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Arthur Fery,Alex de Minaur,Alex de Minaur,0.774,0.695,1.44,11.3,25.8,8.39,won,2026-08-17T22:53:24.253683+00:00,3.69,1.204,19.6
 217,2026-08-17T22:53:24.253683+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Sloane Stephens,Marta Kostyuk,Marta Kostyuk,0.915,0.868,1.15,5.5,36.0,12.28,open,,,1.152,
-218,2026-08-17T23:26:32.641457+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Clara Tauson,Linda Noskova,Linda Noskova,0.68,0.498,2.01,36.8,36.4,4.97,open,,,,
-219,2026-08-17T23:26:32.641457+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Jessica Pegula,Emma Navarro,Jessica Pegula,0.831,0.754,1.33,10.3,31.6,10.45,open,,,,
+218,2026-08-17T23:26:32.641457+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Clara Tauson,Linda Noskova,Linda Noskova,0.68,0.498,2.01,36.8,36.4,4.97,open,,,1.278,
+219,2026-08-17T23:26:32.641457+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Jessica Pegula,Emma Navarro,Jessica Pegula,0.831,0.754,1.33,10.3,31.6,10.45,open,,,1.191,
