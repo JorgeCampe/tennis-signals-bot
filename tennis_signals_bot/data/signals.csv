@@ -1,6 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-18T02:38:20.601454+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Jiri Lehecka,Arthur Fils,Jiri Lehecka,0.429,0.253,3.96,69.7,23.6,16.29,3730244.45,KXATPMATCH-26AUG17LEHFIL
-2026-08-18T02:38:20.601454+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.577,1.73,27.9,38.1,26.34,30002.91,KXATPMATCH-26AUG18NAKMED
-2026-08-18T02:38:20.601454+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.656,1.52,20.1,38.3,26.49,17967.98,KXATPMATCH-26AUG18ZHEMUS
-2026-08-18T02:38:20.601454+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Alexandra Eala,Amanda Anisimova,Amanda Anisimova,0.672,0.567,1.76,18.5,24.2,16.73,1581985.91,KXWTAMATCH-26AUG17EALANI
-2026-08-18T02:38:20.601454+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Katerina Siniakova,Madison Keys,Katerina Siniakova,0.308,0.273,3.66,12.8,4.8,3.33,850.33,KXWTAMATCH-26AUG18SINKEY
+2026-08-18T03:48:08.888407+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Alexandra Eala,Amanda Anisimova,Amanda Anisimova,0.672,0.356,2.81,88.9,49.1,33.91,5477608.11,KXWTAMATCH-26AUG17EALANI
+2026-08-18T03:48:08.888407+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.587,1.7,25.8,36.7,25.32,42549.56,KXATPMATCH-26AUG18NAKMED
+2026-08-18T03:48:08.888407+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.656,1.52,20.1,38.3,26.49,21606.73,KXATPMATCH-26AUG18ZHEMUS
+2026-08-18T03:48:08.888407+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Katerina Siniakova,Madison Keys,Katerina Siniakova,0.308,0.273,3.66,12.8,4.8,3.33,1731.7,KXWTAMATCH-26AUG18SINKEY
