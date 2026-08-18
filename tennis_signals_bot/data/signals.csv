@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-18T15:35:15.350300+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Andrey Rublev,Nuno Borges,Andrey Rublev,0.615,0.386,2.59,59.1,37.2,26.1,2133835.1,KXATPMATCH-26AUG18RUBBOR
-2026-08-18T15:35:15.350300+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.587,1.7,25.8,36.7,25.72,157286.68,KXATPMATCH-26AUG18NAKMED
-2026-08-18T15:35:15.350300+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.666,1.5,18.4,36.6,25.66,153122.68,KXATPMATCH-26AUG18ZHEMUS
+2026-08-18T16:35:34.711236+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Rafael Jodar,Flavio Cobolli,Flavio Cobolli,0.446,0.284,3.52,57.0,22.6,15.85,580.27,KXATPMATCH-26AUG19JODCOB
+2026-08-18T16:35:34.711236+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Brandon Nakashima,Daniil Medvedev,Daniil Medvedev,0.738,0.607,1.65,21.7,33.5,23.51,351920.57,KXATPMATCH-26AUG18NAKMED
+2026-08-18T16:35:34.711236+00:00,ATP,ATP Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Michael Zheng,Lorenzo Musetti,Lorenzo Musetti,0.788,0.676,1.48,16.6,34.6,24.31,442369.49,KXATPMATCH-26AUG18ZHEMUS
