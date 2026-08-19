@@ -1,5 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-19T19:58:47.290758+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Arthur Fils,Alex de Minaur,Alex de Minaur,0.496,0.437,2.29,13.4,10.4,7.54,838313.04,KXATPMATCH-26AUG19FILDE
-2026-08-19T19:58:47.290758+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Diana Shnaider,Elena Rybakina,Elena Rybakina,0.833,0.734,1.36,13.4,37.0,26.86,175296.9,KXWTAMATCH-26AUG19SHNRYB
-2026-08-19T19:58:47.290758+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Brandon Nakashima,Nuno Borges,Nuno Borges,0.444,0.407,2.46,9.3,6.4,4.63,287125.29,KXATPMATCH-26AUG19BORNAK
-2026-08-19T19:58:47.290758+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-20T03:10:00Z,Frances Tiafoe,Felix Auger-Aliassime,Frances Tiafoe,0.379,0.356,2.81,6.5,3.6,2.62,56151.53,KXATPMATCH-26AUG19TIAAUG
+2026-08-19T20:32:18.551104+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Arthur Fils,Alex de Minaur,Alex de Minaur,0.496,0.427,2.34,16.0,12.0,8.83,1003002.81,KXATPMATCH-26AUG19FILDE
+2026-08-19T20:32:18.551104+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Diana Shnaider,Elena Rybakina,Elena Rybakina,0.833,0.734,1.36,13.4,37.0,27.31,194087.32,KXWTAMATCH-26AUG19SHNRYB
+2026-08-19T20:32:18.551104+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Brandon Nakashima,Nuno Borges,Nuno Borges,0.444,0.407,2.46,9.3,6.4,4.71,296071.15,KXATPMATCH-26AUG19BORNAK
+2026-08-19T20:32:18.551104+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-20T03:10:00Z,Frances Tiafoe,Felix Auger-Aliassime,Frances Tiafoe,0.379,0.356,2.81,6.5,3.6,2.67,57389.38,KXATPMATCH-26AUG19TIAAUG
