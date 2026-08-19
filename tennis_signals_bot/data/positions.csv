@@ -218,7 +218,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 217,2026-08-17T22:53:24.253683+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Sloane Stephens,Marta Kostyuk,Marta Kostyuk,0.915,0.868,1.15,5.5,36.0,12.28,won,2026-08-18T20:53:07.248659+00:00,1.84,1.115,3.1
 218,2026-08-17T23:26:32.641457+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Clara Tauson,Linda Noskova,Linda Noskova,0.68,0.498,2.01,36.8,36.4,4.97,won,2026-08-18T01:24:45.183012+00:00,5.02,1.278,57.3
 219,2026-08-17T23:26:32.641457+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-17T18:00:00Z,Jessica Pegula,Emma Navarro,Jessica Pegula,0.831,0.754,1.33,10.3,31.6,10.45,won,2026-08-18T01:24:45.183012+00:00,3.45,1.191,11.7
-220,2026-08-18T18:42:13.228047+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Linda Noskova,Amanda Anisimova,Amanda Anisimova,0.556,0.487,2.05,14.2,13.5,4.82,open,,,2.01,
+220,2026-08-18T18:42:13.228047+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Linda Noskova,Amanda Anisimova,Amanda Anisimova,0.556,0.487,2.05,14.2,13.5,4.82,open,,,1.97,
 221,2026-08-18T18:42:13.228047+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Diana Shnaider,Elena Rybakina,Elena Rybakina,0.833,0.734,1.36,13.4,37.0,13.28,open,,,1.362,
 222,2026-08-18T21:50:51.976656+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Sara Bejlek,Ekaterina Alexandrova,Sara Bejlek,0.474,0.437,2.29,8.5,6.6,2.32,won,2026-08-18T23:25:21.724038+00:00,2.99,1.07,114.0
 223,2026-08-19T01:26:21.502038+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Iva Jovic,Marie Bouzkova,Iva Jovic,0.646,0.498,2.01,29.8,29.6,5.28,lost,2026-08-19T03:50:08.024980+00:00,-5.28,4.735,-57.6
