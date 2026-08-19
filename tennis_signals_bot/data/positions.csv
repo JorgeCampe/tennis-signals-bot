@@ -222,4 +222,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 221,2026-08-18T18:42:13.228047+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Diana Shnaider,Elena Rybakina,Elena Rybakina,0.833,0.734,1.36,13.4,37.0,13.28,open,,,1.362,
 222,2026-08-18T21:50:51.976656+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Sara Bejlek,Ekaterina Alexandrova,Sara Bejlek,0.474,0.437,2.29,8.5,6.6,2.32,won,2026-08-18T23:25:21.724038+00:00,2.99,1.07,114.0
 223,2026-08-19T01:26:21.502038+00:00,WTA,WTA Cincinnati Round Of 32,Hard,2026-08-18T18:00:00Z,Iva Jovic,Marie Bouzkova,Iva Jovic,0.646,0.498,2.01,29.8,29.6,5.28,lost,2026-08-19T03:50:08.024980+00:00,-5.28,4.735,-57.6
-224,2026-08-19T03:50:08.024980+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-20T03:30:00Z,Aryna Sabalenka,Sara Bejlek,Aryna Sabalenka,0.913,0.84,1.19,8.7,45.4,15.99,open,,,1.164,
+224,2026-08-19T03:50:08.024980+00:00,WTA,WTA Cincinnati Round Of 16,Hard,2026-08-20T03:30:00Z,Aryna Sabalenka,Sara Bejlek,Aryna Sabalenka,0.913,0.84,1.19,8.7,45.4,15.99,open,,,1.139,
