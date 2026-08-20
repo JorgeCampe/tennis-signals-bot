@@ -228,4 +228,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 227,2026-08-19T19:29:12.103541+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Arthur Fils,Alex de Minaur,Alex de Minaur,0.496,0.457,2.19,8.4,7.0,2.54,won,2026-08-19T19:58:45.596976+00:00,3.02,2.288,-4.3
 228,2026-08-19T19:58:45.596976+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Arthur Fils,Alex de Minaur,Alex de Minaur,0.496,0.437,2.29,13.4,10.4,3.77,won,2026-08-19T20:32:15.983986+00:00,4.86,2.342,-2.2
 229,2026-08-19T21:28:42.880129+00:00,ATP,ATP Cincinnati Round Of 16,Hard,2026-08-19T18:00:00Z,Alexander Zverev,Tommy Paul,Alexander Zverev,0.732,0.685,1.46,6.9,15.0,5.54,lost,2026-08-19T22:28:33.379785+00:00,-5.54,1.039,40.5
-230,2026-08-20T04:40:36.784149+00:00,WTA,WTA Cincinnati Quarterfinal,Hard,2026-08-20T20:00:00Z,Jessica Pegula,Amanda Anisimova,Jessica Pegula,0.622,0.587,1.7,5.9,8.4,2.99,open,,,1.763,
+230,2026-08-20T04:40:36.784149+00:00,WTA,WTA Cincinnati Quarterfinal,Hard,2026-08-20T20:00:00Z,Jessica Pegula,Amanda Anisimova,Jessica Pegula,0.622,0.587,1.7,5.9,8.4,2.99,open,,,1.31,
