@@ -1,2 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-20T19:34:41.376277+00:00,WTA,WTA Cincinnati Quarterfinal,Hard,2026-08-20T20:00:00Z,Iga Swiatek,Elena Rybakina,Elena Rybakina,0.617,0.437,2.29,41.3,32.1,22.91,187098.86,KXWTAMATCH-26AUG20SWIRYB
+2026-08-20T20:32:57.568329+00:00,ATP,ATP Cincinnati Quarterfinal,Hard,2026-08-20T22:00:00Z,Tommy Paul,Flavio Cobolli,Flavio Cobolli,0.398,0.273,3.66,45.5,17.1,12.25,4055950.79,KXATPMATCH-26AUG20PAUCOB
+2026-08-20T20:32:57.568329+00:00,WTA,WTA Cincinnati Quarterfinal,Hard,2026-08-20T20:00:00Z,Iga Swiatek,Elena Rybakina,Elena Rybakina,0.617,0.437,2.29,41.3,32.1,22.91,227881.38,KXWTAMATCH-26AUG20SWIRYB
+2026-08-20T20:32:57.568329+00:00,WTA,WTA Cincinnati Quarterfinal,Hard,2026-08-21T20:00:00Z,Madison Keys,Sara Bejlek,Madison Keys,0.717,0.676,1.48,6.1,12.7,9.11,5913.28,KXWTAMATCH-26AUG21BEJKEY
