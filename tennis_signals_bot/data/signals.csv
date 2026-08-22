@@ -1,6 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-22T16:28:37.156583+00:00,WTA,WTA Cincinnati Semifinal,Hard,2026-08-22T18:00:00Z,Iga Swiatek,Jessica Pegula,Jessica Pegula,0.558,0.335,2.98,66.6,33.6,23.29,155028.69,KXWTAMATCH-26AUG22PEGSWI
-2026-08-22T16:28:37.156583+00:00,WTA,WTA Monterrey Qualification Round 1,Clay,2026-08-22T22:00:00Z,Panna Udvardy,Emiliana Arango,Panna Udvardy,0.605,0.457,2.19,32.4,27.3,18.94,16310.49,KXWTAMATCH-26AUG22UDVARA
-2026-08-22T16:28:37.156583+00:00,ATP,ATP Cincinnati Semifinal,Hard,2026-08-23T01:00:00Z,Frances Tiafoe,Brandon Nakashima,Frances Tiafoe,0.621,0.508,1.97,22.4,23.1,16.04,239848.15,KXATPMATCH-26AUG22NAKTIA
-2026-08-22T16:28:37.156583+00:00,ATP,ATP Cincinnati Semifinal,Hard,2026-08-22T20:30:00Z,Arthur Fils,Flavio Cobolli,Flavio Cobolli,0.329,0.304,3.29,8.1,3.5,2.45,505994.99,KXATPMATCH-26AUG22COBFIL
-2026-08-22T16:28:37.156583+00:00,WTA,WTA Monterrey Qualification Round 1,Clay,2026-08-22T22:00:00Z,Kamilla Rakhimova,Leolia Jeanjean,Leolia Jeanjean,0.395,0.376,2.66,5.0,3.0,2.1,1915.8,KXWTAMATCH-26AUG22JEARAK
+2026-08-22T16:54:02.577461+00:00,WTA,WTA Cincinnati Semifinal,Hard,2026-08-22T18:00:00Z,Iga Swiatek,Jessica Pegula,Jessica Pegula,0.558,0.335,2.98,66.6,33.6,23.29,169665.32,KXWTAMATCH-26AUG22PEGSWI
+2026-08-22T16:54:02.577461+00:00,WTA,WTA Monterrey Qualification Round 1,Clay,2026-08-22T22:00:00Z,Panna Udvardy,Emiliana Arango,Panna Udvardy,0.605,0.457,2.19,32.4,27.3,18.94,16310.49,KXWTAMATCH-26AUG22UDVARA
+2026-08-22T16:54:02.577461+00:00,ATP,ATP Cincinnati Semifinal,Hard,2026-08-23T01:00:00Z,Frances Tiafoe,Brandon Nakashima,Frances Tiafoe,0.621,0.518,1.93,20.1,21.5,14.93,243719.48,KXATPMATCH-26AUG22NAKTIA
+2026-08-22T16:54:02.577461+00:00,WTA,WTA Monterrey Qualification Round 1,Clay,2026-08-22T22:00:00Z,Kamilla Rakhimova,Leolia Jeanjean,Leolia Jeanjean,0.395,0.376,2.66,5.0,3.0,2.1,1993.35,KXWTAMATCH-26AUG22JEARAK
