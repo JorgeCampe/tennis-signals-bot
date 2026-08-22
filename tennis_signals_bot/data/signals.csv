@@ -1,4 +1,3 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-22T23:24:40.289811+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Roman Safiullin,Marton Fucsovics,Marton Fucsovics,0.562,0.366,2.73,53.7,31.0,22.47,1247.77,KXATPMATCH-26AUG23SAFFUC
-2026-08-22T23:24:40.289811+00:00,WTA,WTA Monterrey Qualification Round 1,Clay,2026-08-22T22:00:00Z,Maria Timofeeva,Lanlana Tararudee,Maria Timofeeva,0.392,0.315,3.18,24.6,11.3,8.18,915288.02,KXWTAMATCH-26AUG22TARTIM
-2026-08-22T23:24:40.289811+00:00,ATP,ATP Cincinnati Semifinal,Hard,2026-08-23T01:00:00Z,Frances Tiafoe,Brandon Nakashima,Frances Tiafoe,0.621,0.537,1.86,15.7,18.2,13.18,2313528.93,KXATPMATCH-26AUG22NAKTIA
+2026-08-22T23:47:20.762023+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Roman Safiullin,Marton Fucsovics,Marton Fucsovics,0.562,0.376,2.66,49.6,29.9,21.65,2605.57,KXATPMATCH-26AUG23SAFFUC
+2026-08-22T23:47:20.762023+00:00,ATP,ATP Cincinnati Semifinal,Hard,2026-08-23T01:00:00Z,Frances Tiafoe,Brandon Nakashima,Frances Tiafoe,0.621,0.537,1.86,15.7,18.2,13.18,3591773.52,KXATPMATCH-26AUG22NAKTIA
