@@ -245,6 +245,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 244,2026-08-23T19:46:51.435283+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Donna Vekic,Diane Parry,Diane Parry,0.498,0.437,2.29,13.9,10.8,3.91,open,,,2.342,
 245,2026-08-23T20:27:02.088460+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Lorenzo Sonego,Vit Kopriva,Vit Kopriva,0.479,0.447,2.24,7.1,5.7,2.08,open,,,2.288,
 246,2026-08-23T20:27:02.088460+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Yibing Wu,Francisco Comesana,Yibing Wu,0.581,0.547,1.83,6.1,7.4,2.67,lost,2026-08-23T21:47:53.061861+00:00,-2.67,9.407,-80.5
-247,2026-08-23T21:25:03.898775+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Martin Landaluce,Mattia Bellucci,Martin Landaluce,0.577,0.437,2.29,32.0,24.9,4.22,open,,,31.214,
-248,2026-08-23T21:25:03.898775+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-23T19:00:00Z,Darja Vidmanova,Panna Udvardy,Panna Udvardy,0.577,0.457,2.19,26.2,22.1,4.57,open,,,2.187,
-249,2026-08-23T21:47:53.061861+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-23T19:00:00Z,Maria Timofeeva,Kamilla Rakhimova,Kamilla Rakhimova,0.603,0.527,1.9,14.4,16.1,5.75,open,,,1.263,
+247,2026-08-23T21:25:03.898775+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Martin Landaluce,Mattia Bellucci,Martin Landaluce,0.577,0.437,2.29,32.0,24.9,4.22,open,,,2.522,
+248,2026-08-23T21:25:03.898775+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-23T19:00:00Z,Darja Vidmanova,Panna Udvardy,Panna Udvardy,0.577,0.457,2.19,26.2,22.1,4.57,open,,,46.79,
+249,2026-08-23T21:47:53.061861+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-23T19:00:00Z,Maria Timofeeva,Kamilla Rakhimova,Kamilla Rakhimova,0.603,0.527,1.9,14.4,16.1,5.75,open,,,1.164,
