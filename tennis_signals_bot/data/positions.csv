@@ -241,3 +241,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 240,2026-08-23T05:56:04.140413+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-24T01:10:00Z,Yulia Putintseva,Maya Joint,Yulia Putintseva,0.552,0.518,1.93,6.6,7.1,2.57,open,,,1.763,
 241,2026-08-23T09:31:16.903990+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Kamil Majchrzak,Benjamin Bonzi,Benjamin Bonzi,0.474,0.437,2.29,8.5,6.6,2.39,open,,,2.342,
 242,2026-08-23T11:24:16.957049+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Valentin Royer,Marcos Giron,Marcos Giron,0.605,0.537,1.86,12.6,14.6,5.32,open,,,1.861,
+243,2026-08-23T14:52:50.365186+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Alycia Parks,Petra Marcinko,Petra Marcinko,0.61,0.577,1.73,5.7,7.7,2.83,open,,,,
