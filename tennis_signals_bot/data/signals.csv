@@ -1,2 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-08-23T01:38:08.776349+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Roman Safiullin,Marton Fucsovics,Marton Fucsovics,0.562,0.376,2.66,49.6,29.9,21.68,3339.09,KXATPMATCH-26AUG23SAFFUC
+2026-08-23T03:06:10.292213+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Roman Safiullin,Marton Fucsovics,Marton Fucsovics,0.562,0.376,2.66,49.6,29.9,21.68,3955.24,KXATPMATCH-26AUG23SAFFUC
+2026-08-23T03:06:10.292213+00:00,WTA,WTA Cincinnati Final,Hard,2026-08-24T02:00:00Z,Jessica Pegula,Coco Gauff,Jessica Pegula,0.571,0.467,2.14,22.2,19.5,14.13,582.56,KXWTAMATCH-26AUG23GAUPEG
+2026-08-23T03:06:10.292213+00:00,ATP,ATP Cincinnati Final,Hard,2026-08-23T23:30:00Z,Frances Tiafoe,Arthur Fils,Frances Tiafoe,0.42,0.397,2.52,5.9,3.9,2.82,24199.8,KXATPMATCH-26AUG23FILTIA
