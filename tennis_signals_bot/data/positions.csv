@@ -237,14 +237,14 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 236,2026-08-22T20:51:17.171787+00:00,WTA,WTA Monterrey Qualification Round 1,Clay,2026-08-22T22:00:00Z,Kamilla Rakhimova,Leolia Jeanjean,Kamilla Rakhimova,0.605,0.498,2.01,21.6,21.4,5.15,won,2026-08-22T21:48:11.706206+00:00,5.2,1.019,97.3
 237,2026-08-22T21:48:11.706206+00:00,WTA,WTA Monterrey Qualification Round 1,Clay,2026-08-22T22:00:00Z,Maria Timofeeva,Lanlana Tararudee,Lanlana Tararudee,0.608,0.547,1.83,11.1,13.4,4.81,lost,2026-08-23T01:38:07.189172+00:00,-4.81,1.103,65.9
 238,2026-08-22T21:48:11.706206+00:00,WTA,WTA Cincinnati Semifinal,Hard,2026-08-22T18:00:00Z,Iga Swiatek,Jessica Pegula,Jessica Pegula,0.558,0.527,1.9,5.9,6.6,2.36,won,2026-08-22T23:24:37.253248+00:00,2.12,1.029,84.6
-239,2026-08-23T03:06:08.244412+00:00,WTA,WTA Cincinnati Final,Hard,2026-08-24T02:00:00Z,Jessica Pegula,Coco Gauff,Jessica Pegula,0.571,0.467,2.14,22.2,19.5,4.77,open,,,3.956,
+239,2026-08-23T03:06:08.244412+00:00,WTA,WTA Cincinnati Final,Hard,2026-08-24T02:00:00Z,Jessica Pegula,Coco Gauff,Jessica Pegula,0.571,0.467,2.14,22.2,19.5,4.77,open,,,4.981,
 240,2026-08-23T05:56:04.140413+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-24T01:10:00Z,Yulia Putintseva,Maya Joint,Yulia Putintseva,0.552,0.518,1.93,6.6,7.1,2.57,open,,,1.675,
 241,2026-08-23T09:31:16.903990+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Kamil Majchrzak,Benjamin Bonzi,Benjamin Bonzi,0.474,0.437,2.29,8.5,6.6,2.39,open,,,2.342,
 242,2026-08-23T11:24:16.957049+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Valentin Royer,Marcos Giron,Marcos Giron,0.605,0.537,1.86,12.6,14.6,5.32,open,,,1.896,
 243,2026-08-23T14:52:50.365186+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Alycia Parks,Petra Marcinko,Petra Marcinko,0.61,0.577,1.73,5.7,7.7,2.83,open,,,1.732,
 244,2026-08-23T19:46:51.435283+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Donna Vekic,Diane Parry,Diane Parry,0.498,0.437,2.29,13.9,10.8,3.91,open,,,2.342,
-245,2026-08-23T20:27:02.088460+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Lorenzo Sonego,Vit Kopriva,Vit Kopriva,0.479,0.447,2.24,7.1,5.7,2.08,open,,,2.288,
+245,2026-08-23T20:27:02.088460+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Lorenzo Sonego,Vit Kopriva,Vit Kopriva,0.479,0.447,2.24,7.1,5.7,2.08,open,,,2.236,
 246,2026-08-23T20:27:02.088460+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Yibing Wu,Francisco Comesana,Yibing Wu,0.581,0.547,1.83,6.1,7.4,2.67,lost,2026-08-23T21:47:53.061861+00:00,-2.67,9.407,-80.5
-247,2026-08-23T21:25:03.898775+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Martin Landaluce,Mattia Bellucci,Martin Landaluce,0.577,0.437,2.29,32.0,24.9,4.22,open,,,9.407,
+247,2026-08-23T21:25:03.898775+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Martin Landaluce,Mattia Bellucci,Martin Landaluce,0.577,0.437,2.29,32.0,24.9,4.22,lost,2026-08-23T23:47:29.532027+00:00,-4.22,9.407,-75.7
 248,2026-08-23T21:25:03.898775+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-23T19:00:00Z,Darja Vidmanova,Panna Udvardy,Panna Udvardy,0.577,0.457,2.19,26.2,22.1,4.57,lost,2026-08-23T23:24:58.792782+00:00,-4.57,46.79,-95.3
-249,2026-08-23T21:47:53.061861+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-23T19:00:00Z,Maria Timofeeva,Kamilla Rakhimova,Kamilla Rakhimova,0.603,0.527,1.9,14.4,16.1,5.75,open,,,1.115,
+249,2026-08-23T21:47:53.061861+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-23T19:00:00Z,Maria Timofeeva,Kamilla Rakhimova,Kamilla Rakhimova,0.603,0.527,1.9,14.4,16.1,5.75,open,,,1.039,
