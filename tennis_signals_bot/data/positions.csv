@@ -241,7 +241,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 240,2026-08-23T05:56:04.140413+00:00,WTA,WTA Monterrey Qualification Final,Clay,2026-08-24T01:10:00Z,Yulia Putintseva,Maya Joint,Yulia Putintseva,0.552,0.518,1.93,6.6,7.1,2.57,lost,2026-08-24T03:07:07.109280+00:00,-2.57,1.827,5.6
 241,2026-08-23T09:31:16.903990+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Kamil Majchrzak,Benjamin Bonzi,Benjamin Bonzi,0.474,0.437,2.29,8.5,6.6,2.39,won,2026-08-24T20:34:30.697633+00:00,3.08,1.571,45.8
 242,2026-08-23T11:24:16.957049+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Valentin Royer,Marcos Giron,Marcos Giron,0.605,0.537,1.86,12.6,14.6,5.32,open,,,1.896,
-243,2026-08-23T14:52:50.365186+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Alycia Parks,Petra Marcinko,Petra Marcinko,0.61,0.577,1.73,5.7,7.7,2.83,open,,,1.049,
+243,2026-08-23T14:52:50.365186+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Alycia Parks,Petra Marcinko,Petra Marcinko,0.61,0.577,1.73,5.7,7.7,2.83,open,,,1.571,
 244,2026-08-23T19:46:51.435283+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Donna Vekic,Diane Parry,Diane Parry,0.498,0.437,2.29,13.9,10.8,3.91,open,,,2.236,
 245,2026-08-23T20:27:02.088460+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Lorenzo Sonego,Vit Kopriva,Vit Kopriva,0.479,0.447,2.24,7.1,5.7,2.08,open,,,2.288,
 246,2026-08-23T20:27:02.088460+00:00,ATP,ATP Winston Salem Round Of 64,Hard,2026-08-23T18:00:00Z,Yibing Wu,Francisco Comesana,Yibing Wu,0.581,0.547,1.83,6.1,7.4,2.67,lost,2026-08-23T21:47:53.061861+00:00,-2.67,9.407,-80.5
@@ -254,13 +254,13 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 253,2026-08-24T04:21:54.415016+00:00,WTA,US Open,Hard,2026-08-24T17:00:00Z,Rebecca Marino,Fiona Ferro,Rebecca Marino,0.473,0.437,2.29,8.1,6.3,2.12,won,2026-08-24T16:42:10.603764+00:00,2.73,1.233,85.7
 254,2026-08-24T07:38:49.327870+00:00,ATP,US Open,Hard,2026-08-24T17:00:00Z,Moise Kouame,Nishesh Basavareddy,Nishesh Basavareddy,0.568,0.518,1.93,9.6,10.3,3.49,open,,,1.827,
 255,2026-08-24T08:52:27.250495+00:00,ATP,US Open,Hard,2026-08-24T17:00:00Z,Sebastian Ofner,Kei Nishikori,Kei Nishikori,0.646,0.587,1.7,10.0,14.2,4.83,open,,,1.97,
-256,2026-08-24T10:40:06.942286+00:00,ATP,US Open,Hard,2026-08-24T17:00:00Z,Alexandre Muller,Laslo Djere,Alexandre Muller,0.54,0.437,2.29,23.6,18.3,3.93,open,,,2.095,
-257,2026-08-24T14:49:31.913201+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T01:30:00Z,Stefanos Tsitsipas,Jenson Brooksby,Jenson Brooksby,0.474,0.437,2.29,8.5,6.6,2.23,open,,,5.254,
+256,2026-08-24T10:40:06.942286+00:00,ATP,US Open,Hard,2026-08-24T17:00:00Z,Alexandre Muller,Laslo Djere,Alexandre Muller,0.54,0.437,2.29,23.6,18.3,3.93,open,,,1.009,
+257,2026-08-24T14:49:31.913201+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T01:30:00Z,Stefanos Tsitsipas,Jenson Brooksby,Jenson Brooksby,0.474,0.437,2.29,8.5,6.6,2.23,open,,,4.512,
 258,2026-08-24T15:42:10.822680+00:00,WTA,US Open,Hard,2026-08-24T17:00:00Z,Julieta Pareja,Kayla Day,Julieta Pareja,0.562,0.508,1.97,10.7,11.0,3.73,won,2026-08-24T16:42:10.603764+00:00,3.62,,
 259,2026-08-24T15:42:10.822680+00:00,WTA,US Open,Hard,2026-08-24T17:00:00Z,Mariam Bolkvadze,Erika Andreeva,Erika Andreeva,0.568,0.537,1.86,5.7,6.6,2.24,lost,2026-08-24T17:33:54.771053+00:00,-2.24,2.659,-30.0
 260,2026-08-24T16:42:10.603764+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-25T19:00:00Z,Anhelina Kalinina,Maya Joint,Anhelina Kalinina,0.596,0.567,1.76,5.1,6.7,2.32,open,,,1.794,
 261,2026-08-24T18:45:47.989771+00:00,WTA,US Open,Hard,2026-08-24T17:00:00Z,Maddison Inglis,Storm Hunter,Storm Hunter,0.566,0.537,1.86,5.2,6.1,2.08,open,,,1.896,
 262,2026-08-24T22:30:05.204351+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-25T19:00:00Z,Darja Vidmanova,Kimberly Birrell,Kimberly Birrell,0.549,0.447,2.24,22.9,18.5,4.28,open,,,2.187,
-263,2026-08-24T22:56:56.455682+00:00,ATP,US Open,Hard,2026-08-24T17:00:00Z,Coleman Wong,Elmer Moller,Coleman Wong,0.546,0.508,1.97,7.5,7.7,2.73,open,,,1.732,
-264,2026-08-24T22:56:56.455682+00:00,ATP,US Open,Hard,2026-08-24T23:20:00Z,Rei Sakamoto,Jay Clarke,Rei Sakamoto,0.534,0.508,1.97,5.1,5.3,1.86,open,,,1.247,
-265,2026-08-24T23:28:43.803122+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Dayana Yastremska,Janice Tjen,Janice Tjen,0.484,0.447,2.24,8.2,6.7,2.34,open,,,,
+263,2026-08-24T22:56:56.455682+00:00,ATP,US Open,Hard,2026-08-24T17:00:00Z,Coleman Wong,Elmer Moller,Coleman Wong,0.546,0.508,1.97,7.5,7.7,2.73,open,,,1.596,
+264,2026-08-24T22:56:56.455682+00:00,ATP,US Open,Hard,2026-08-24T23:20:00Z,Rei Sakamoto,Jay Clarke,Rei Sakamoto,0.534,0.508,1.97,5.1,5.3,1.86,open,,,1.164,
+265,2026-08-24T23:28:43.803122+00:00,WTA,WTA Monterrey Round Of 32,Clay,2026-08-23T19:00:00Z,Dayana Yastremska,Janice Tjen,Janice Tjen,0.484,0.447,2.24,8.2,6.7,2.34,open,,,1.459,
