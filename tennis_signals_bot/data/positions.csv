@@ -272,11 +272,12 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 271,2026-08-25T05:35:16.247021+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T21:00:00Z,Rinky Hijikata,Raphael Collignon,Raphael Collignon,0.633,0.547,1.83,15.6,18.8,6.67,lost,2026-08-25T23:51:23.878681+00:00,-6.67,9.407,-80.5
 272,2026-08-25T06:54:31.131706+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T21:00:00Z,Fabian Marozsan,Miomir Kecmanovic,Fabian Marozsan,0.609,0.437,2.29,39.5,30.6,4.36,open,,,2.187,
 273,2026-08-25T06:54:31.131706+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T22:10:00Z,Luca Van Assche,Aleksandar Kovacevic,Aleksandar Kovacevic,0.51,0.447,2.24,14.0,11.4,4.24,won,2026-08-25T21:32:05.381195+00:00,5.26,1.327,68.8
-274,2026-08-25T06:54:31.131706+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T21:00:00Z,Lorenzo Sonego,Adrian Mannarino,Adrian Mannarino,0.472,0.437,2.29,8.0,6.2,2.33,open,,,2.187,
+274,2026-08-25T06:54:31.131706+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T21:00:00Z,Lorenzo Sonego,Adrian Mannarino,Adrian Mannarino,0.472,0.437,2.29,8.0,6.2,2.33,open,,,4.31,
 275,2026-08-25T10:36:28.870137+00:00,WTA,US Open,Hard,2026-08-24T17:00:00Z,Whitney Osuigwe,Mona Barthel,Whitney Osuigwe,0.527,0.437,2.29,20.6,16.0,4.36,lost,2026-08-25T21:32:05.381195+00:00,-4.36,3.8,-39.7
 276,2026-08-25T10:36:28.870137+00:00,WTA,WTA Monterrey Round Of 16,Clay,2026-08-25T19:00:00Z,Alycia Parks,Maja Chwalinska,Maja Chwalinska,0.752,0.646,1.55,16.4,30.0,10.23,open,,,1.547,
-277,2026-08-25T13:53:23.174740+00:00,WTA,WTA Monterrey Round Of 16,Clay,2026-08-25T19:00:00Z,Janice Tjen,Yuliia Starodubtseva,Yuliia Starodubtseva,0.547,0.457,2.19,19.6,16.5,4.73,open,,,1.438,
+277,2026-08-25T13:53:23.174740+00:00,WTA,WTA Monterrey Round Of 16,Clay,2026-08-25T19:00:00Z,Janice Tjen,Yuliia Starodubtseva,Yuliia Starodubtseva,0.547,0.457,2.19,19.6,16.5,4.73,won,2026-08-26T01:36:30.634730+00:00,5.63,1.438,52.3
 278,2026-08-25T17:34:46.117050+00:00,WTA,WTA Monterrey Round Of 16,Clay,2026-08-26T19:00:00Z,Clara Tauson,Ekaterina Alexandrova,Ekaterina Alexandrova,0.541,0.508,1.97,6.6,6.8,2.58,open,,,1.97,
 279,2026-08-25T19:34:56.422398+00:00,ATP,ATP Winston Salem Round Of 32,Hard,2026-08-25T21:00:00Z,Luciano Darderi,Mattia Bellucci,Mattia Bellucci,0.476,0.447,2.24,6.4,5.2,1.98,lost,2026-08-25T20:32:53.109942+00:00,-1.98,,
-280,2026-08-25T21:32:05.381195+00:00,ATP,US Open,Hard,2026-08-26T18:00:00Z,Henrique Rocha,Lloyd Harris,Henrique Rocha,0.536,0.437,2.29,22.5,17.5,4.46,open,,,1.794,
-281,2026-08-25T22:31:09.134316+00:00,WTA,US Open,Hard,2026-08-26T18:00:00Z,Viktoria Hruncakova,Susan Bandecchi,Viktoria Hruncakova,0.514,0.467,2.14,10.1,8.9,3.4,open,,,2.14,
+280,2026-08-25T21:32:05.381195+00:00,ATP,US Open,Hard,2026-08-26T18:00:00Z,Henrique Rocha,Lloyd Harris,Henrique Rocha,0.536,0.437,2.29,22.5,17.5,4.46,open,,,1.732,
+281,2026-08-25T22:31:09.134316+00:00,WTA,US Open,Hard,2026-08-26T18:00:00Z,Viktoria Hruncakova,Susan Bandecchi,Viktoria Hruncakova,0.514,0.467,2.14,10.1,8.9,3.4,open,,,2.187,
+282,2026-08-26T01:36:30.634730+00:00,ATP,ATP Winston Salem Round Of 16,Hard,2026-08-26T21:00:00Z,Ignacio Buse,Daniel Altmaier,Ignacio Buse,0.634,0.518,1.93,22.5,24.1,6.08,open,,,,
