@@ -301,27 +301,27 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 300,2026-08-27T21:05:40.570534+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Roman Safiullin,Carlos Alcaraz,Carlos Alcaraz,0.936,0.859,1.16,9.0,54.9,20.09,open,,,1.191,
 301,2026-08-27T21:05:40.570534+00:00,WTA,US Open,Hard,2026-08-27T18:00:00Z,Qinwen Zheng,Elena Pridankina,Qinwen Zheng,0.78,0.734,1.36,6.2,17.2,6.15,won,2026-08-28T18:22:25.301907+00:00,2.21,1.327,2.5
 302,2026-08-28T05:33:00.593567+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Valentin Vacherot,Aleksandar Kovacevic,Valentin Vacherot,0.776,0.508,1.97,53.0,54.6,5.48,open,,,1.827,
-303,2026-08-28T05:33:00.593567+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Yibing Wu,Adam Walton,Yibing Wu,0.579,0.518,1.93,11.9,12.7,4.53,open,,,2.14,
+303,2026-08-28T05:33:00.593567+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Yibing Wu,Adam Walton,Yibing Wu,0.579,0.518,1.93,11.9,12.7,4.53,won,2026-08-30T17:59:59.987465+00:00,4.21,2.14,-9.8
 304,2026-08-28T05:33:00.593567+00:00,ATP,ATP Winston Salem Semifinal,Hard,2026-08-28T23:00:00Z,Ignacio Buse,Benjamin Bonzi,Ignacio Buse,0.532,0.477,2.1,11.6,10.6,3.73,won,2026-08-29T01:51:05.247875+00:00,4.1,2.187,-4.0
-305,2026-08-28T05:33:00.593567+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,James Duckworth,Matteo Arnaldi,Matteo Arnaldi,0.599,0.537,1.86,11.6,13.4,4.78,open,,,1.571,
+305,2026-08-28T05:33:00.593567+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,James Duckworth,Matteo Arnaldi,Matteo Arnaldi,0.599,0.537,1.86,11.6,13.4,4.78,open,,,1.596,
 306,2026-08-28T05:33:00.593567+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Marcos Giron,Ignacio Buse,Ignacio Buse,0.593,0.557,1.79,6.3,7.9,2.82,open,,,1.732,
-307,2026-08-28T18:22:25.301907+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Jelena Ostapenko,Tatjana Maria,Jelena Ostapenko,0.752,0.627,1.6,20.1,33.7,9.02,open,,,1.621,
-308,2026-08-28T18:22:25.301907+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Alejandro Tabilo,Yannick Hanfmann,Yannick Hanfmann,0.523,0.447,2.24,16.9,13.7,4.36,open,,,2.288,
+307,2026-08-28T18:22:25.301907+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Jelena Ostapenko,Tatjana Maria,Jelena Ostapenko,0.752,0.627,1.6,20.1,33.7,9.02,open,,,1.596,
+308,2026-08-28T18:22:25.301907+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Alejandro Tabilo,Yannick Hanfmann,Yannick Hanfmann,0.523,0.447,2.24,16.9,13.7,4.36,open,,,2.236,
 309,2026-08-28T18:22:25.301907+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Alina Korneeva,Madison Keys,Madison Keys,0.832,0.744,1.34,11.8,34.2,12.52,open,,,1.344,
-310,2026-08-28T18:22:25.301907+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Donna Vekic,Talia Gibson,Talia Gibson,0.559,0.508,1.97,10.1,10.4,3.76,open,,,1.827,
+310,2026-08-28T18:22:25.301907+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Donna Vekic,Talia Gibson,Talia Gibson,0.559,0.508,1.97,10.1,10.4,3.76,lost,2026-08-30T17:59:59.987465+00:00,-3.76,1.827,7.8
 311,2026-08-28T18:22:25.301907+00:00,ATP,US Open,Hard,2026-08-30T18:00:00Z,Mariano Navone,Novak Djokovic,Novak Djokovic,0.901,0.84,1.19,7.4,38.6,14.05,open,,,1.191,
 312,2026-08-28T18:22:25.301907+00:00,WTA,WTA Monterrey Semifinal,Clay,2026-08-29T04:00:00Z,Elise Mertens,Nikola Bartunkova,Elise Mertens,0.631,0.597,1.68,5.7,8.4,3.02,won,2026-08-29T08:46:54.711019+00:00,2.05,3.178,-47.1
 313,2026-08-28T18:22:25.301907+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Karolina Muchova,Sinja Kraus,Karolina Muchova,0.933,0.887,1.13,5.2,41.0,14.43,open,,,1.115,
-314,2026-08-29T01:51:05.247875+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Toby Samuel,Tomas Machac,Tomas Machac,0.743,0.467,2.14,59.0,51.8,4.74,open,,,2.236,
+314,2026-08-29T01:51:05.247875+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Toby Samuel,Tomas Machac,Tomas Machac,0.743,0.467,2.14,59.0,51.8,4.74,open,,,2.522,
 315,2026-08-29T01:51:05.247875+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Martin Landaluce,Jacob Fearnley,Martin Landaluce,0.692,0.498,2.01,39.0,38.6,5.35,open,,,1.861,
 316,2026-08-29T01:51:05.247875+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Katie Volynets,Linda Noskova,Linda Noskova,0.847,0.763,1.31,11.0,35.3,12.77,open,,,1.327,
 317,2026-08-29T01:51:05.247875+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Clara Tauson,Sloane Stephens,Clara Tauson,0.786,0.734,1.36,7.0,19.3,7.0,open,,,1.362,
 318,2026-08-29T08:46:54.711019+00:00,ATP,ATP Winston Salem Final,Hard,2026-08-29T23:00:00Z,Arthur Fery,Ignacio Buse,Ignacio Buse,0.568,0.487,2.05,16.6,15.7,5.18,won,2026-08-29T23:06:56.324020+00:00,5.44,1.362,50.5
-319,2026-08-29T08:46:54.711019+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Francesco Passaro,Jesper De Jong,Jesper De Jong,0.627,0.547,1.83,14.6,17.6,6.38,open,,,1.763,
+319,2026-08-29T08:46:54.711019+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Francesco Passaro,Jesper De Jong,Jesper De Jong,0.627,0.547,1.83,14.6,17.6,6.38,open,,,1.732,
 320,2026-08-29T14:16:46.584808+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Dalibor Svrcina,Valentin Royer,Dalibor Svrcina,0.576,0.518,1.93,11.3,12.1,4.4,open,,,1.932,
-321,2026-08-29T14:16:46.584808+00:00,WTA,US Open,Hard,2026-08-31T18:00:00Z,Dayana Yastremska,Lucrezia Stefanini,Dayana Yastremska,0.665,0.617,1.62,7.8,12.6,4.56,open,,,1.732,
+321,2026-08-29T14:16:46.584808+00:00,WTA,US Open,Hard,2026-08-31T18:00:00Z,Dayana Yastremska,Lucrezia Stefanini,Dayana Yastremska,0.665,0.617,1.62,7.8,12.6,4.56,open,,,1.794,
 322,2026-08-29T14:16:46.584808+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Darja Vidmanova,Jessica Bouzas Maneiro,Jessica Bouzas Maneiro,0.556,0.527,1.9,5.4,6.0,2.17,open,,,1.896,
-323,2026-08-29T17:48:50.768680+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Aleksandar Vukic,Rei Sakamoto,Aleksandar Vukic,0.495,0.437,2.29,13.4,10.4,3.77,open,,,2.399,
+323,2026-08-29T17:48:50.768680+00:00,ATP,US Open,Hard,2026-08-30T17:00:00Z,Aleksandar Vukic,Rei Sakamoto,Aleksandar Vukic,0.495,0.437,2.29,13.4,10.4,3.77,open,,,2.236,
 324,2026-08-29T17:48:50.768680+00:00,WTA,US Open,Hard,2026-08-31T18:00:00Z,Maria Sakkari,Robin Montgomery,Maria Sakkari,0.625,0.587,1.7,6.5,9.3,3.37,open,,,1.703,
 325,2026-08-29T20:41:24.438075+00:00,WTA,US Open,Hard,2026-08-30T18:00:00Z,Petra Marcinko,Kimberly Birrell,Kimberly Birrell,0.561,0.527,1.9,6.5,7.2,2.62,open,,,1.896,
 326,2026-08-30T08:04:41.194615+00:00,WTA,US Open,Hard,2026-08-31T18:00:00Z,Magda Linette,Francesca Jones,Magda Linette,0.738,0.537,1.86,37.3,43.4,6.44,open,,,1.861,
