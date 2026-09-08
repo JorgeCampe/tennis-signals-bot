@@ -381,5 +381,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 380,2026-09-06T08:29:54.249552+00:00,WTA,US Open,Hard,2026-09-07T18:00:00Z,Elena Rybakina,Naomi Osaka,Elena Rybakina,0.66,0.557,1.79,18.4,23.2,5.18,won,2026-09-07T23:40:47.475091+00:00,4.09,1.009,77.4
 381,2026-09-06T15:40:38.288185+00:00,ATP,US Open,Hard,2026-09-07T18:00:00Z,Learner Tien,Karen Khachanov,Learner Tien,0.671,0.637,1.57,5.4,9.5,2.59,lost,2026-09-08T03:49:52.484697+00:00,-2.59,1.218,28.9
 382,2026-09-06T22:48:09.330375+00:00,WTA,US Open,Hard,2026-09-08T18:30:00Z,Aryna Sabalenka,Linda Noskova,Aryna Sabalenka,0.804,0.715,1.4,12.4,31.1,8.44,won,2026-09-08T20:08:51.408522+00:00,3.38,1.438,-2.6
-383,2026-09-07T23:40:47.475091+00:00,WTA,US Open,Hard,2026-09-08T18:30:00Z,Qinwen Zheng,Elena Rybakina,Elena Rybakina,0.823,0.734,1.36,12.0,33.2,9.13,open,,,1.344,
+383,2026-09-07T23:40:47.475091+00:00,WTA,US Open,Hard,2026-09-08T18:30:00Z,Qinwen Zheng,Elena Rybakina,Elena Rybakina,0.823,0.734,1.36,12.0,33.2,9.13,open,,,1.327,
 384,2026-09-08T08:44:32.690834+00:00,WTA,US Open,Hard,2026-09-08T18:30:00Z,Jessica Pegula,Emma Navarro,Jessica Pegula,0.831,0.792,1.26,5.0,19.1,5.21,open,,,1.263,
+385,2026-09-08T22:54:45.528507+00:00,ATP,US Open,Hard,2026-09-08T18:30:00Z,Frances Tiafoe,Alex Michelsen,Frances Tiafoe,0.565,0.498,2.01,13.5,13.3,3.67,open,,,,
