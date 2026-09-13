@@ -1,3 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-12T22:02:29.264906+00:00,ATP,US Open,Hard,2026-09-13T21:00:00Z,Alexander Zverev,Ben Shelton,Alexander Zverev,0.663,0.587,1.7,12.8,18.2,10.17,762248.29,KXATPMATCH-26SEP13ZVESHE
-2026-09-12T22:02:29.264906+00:00,WTA,US Open,Hard,2026-09-12T23:00:00Z,Aryna Sabalenka,Elena Rybakina,Aryna Sabalenka,0.608,0.567,1.76,7.2,9.4,5.25,10253038.95,KXWTAMATCH-26SEP12SABRYB
+2026-09-13T00:09:33.793151+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Cristina Bucsa,Bianca Andreescu,Cristina Bucsa,0.661,0.447,2.24,47.7,38.6,21.26,1606.2,KXWTAMATCH-26SEP13BUCAND
+2026-09-13T00:09:33.793151+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Panna Udvardy,Lois Boisson,Panna Udvardy,0.508,0.417,2.4,21.7,15.5,8.56,975.84,KXWTAMATCH-26SEP13UDVBOI
+2026-09-13T00:09:33.793151+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Peyton Stearns,Emiliana Arango,Emiliana Arango,0.367,0.315,3.18,16.6,7.6,4.21,872.14,KXWTAMATCH-26SEP13STEARA
+2026-09-13T00:09:33.793151+00:00,ATP,US Open,Hard,2026-09-13T21:00:00Z,Alexander Zverev,Ben Shelton,Alexander Zverev,0.663,0.587,1.7,12.8,18.2,10.05,896424.72,KXATPMATCH-26SEP13ZVESHE
