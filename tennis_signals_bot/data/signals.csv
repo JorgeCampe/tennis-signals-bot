@@ -1,5 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-14T01:26:02.024182+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-14T22:00:00Z,Sloane Stephens,Carole Monnet,Carole Monnet,0.581,0.253,3.96,129.6,43.9,25.91,1359.49,KXWTAMATCH-26SEP14MONSTE
-2026-09-14T01:26:02.024182+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T16:00:00Z,Dominika Salkova,Jessica Bouzas Maneiro,Dominika Salkova,0.49,0.263,3.8,86.2,30.8,18.19,533.72,KXWTAMATCH-26SEP14BOUSAL
-2026-09-14T01:26:02.024182+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Elvina Kalieva,Kayla Day,Elvina Kalieva,0.555,0.407,2.46,36.5,25.0,14.77,1572.96,KXWTAMATCH-26SEP13KALDAY
-2026-09-14T01:26:02.024182+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T16:00:00Z,Lucrezia Stefanini,Nadia Podoroska,Nadia Podoroska,0.498,0.376,2.66,32.3,19.5,11.5,586.6,KXWTAMATCH-26SEP14STEPOD
+2026-09-14T06:52:35.463742+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T16:00:00Z,Dominika Salkova,Jessica Bouzas Maneiro,Dominika Salkova,0.49,0.263,3.8,86.2,30.8,18.19,3156.6,KXWTAMATCH-26SEP14BOUSAL
+2026-09-14T06:52:35.463742+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Elvina Kalieva,Kayla Day,Elvina Kalieva,0.555,0.407,2.46,36.5,25.0,14.77,5362.64,KXWTAMATCH-26SEP13KALDAY
+2026-09-14T06:52:35.463742+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T16:00:00Z,Lucrezia Stefanini,Nadia Podoroska,Nadia Podoroska,0.498,0.376,2.66,32.3,19.5,11.5,586.6,KXWTAMATCH-26SEP14STEPOD
+2026-09-14T06:52:35.463742+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-15T02:00:00Z,Zeynep Sonmez,Iryna Shymanovich,Iryna Shymanovich,0.351,0.273,3.66,28.4,10.7,6.31,1940.14,KXWTAMATCH-26SEP14SONSHY
