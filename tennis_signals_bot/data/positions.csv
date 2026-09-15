@@ -392,9 +392,9 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 391,2026-09-13T00:09:30.811007+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Cristina Bucsa,Bianca Andreescu,Cristina Bucsa,0.661,0.447,2.24,47.7,38.6,3.33,won,2026-09-14T01:25:56.199326+00:00,4.13,1.794,24.9
 392,2026-09-13T10:31:00.036299+00:00,WTA,WTA Guadalajara Qualification Final,Hard,2026-09-13T19:00:00Z,Katrina Scott,Carole Monnet,Carole Monnet,0.617,0.457,2.19,34.8,29.3,3.47,won,2026-09-13T20:42:28.933659+00:00,4.13,1.191,83.9
 393,2026-09-13T17:59:52.254064+00:00,WTA,WTA Sao Paulo Qualification Final,Hard,2026-09-13T19:10:00Z,Anastasia Tikhonova,Whitney Osuigwe,Whitney Osuigwe,0.635,0.547,1.83,16.1,19.5,4.98,won,2026-09-13T23:00:50.558435+00:00,4.13,1.399,30.8
-394,2026-09-14T19:07:18.373008+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T21:10:00Z,Chloe Paquet,Jazmin Ortenzi,Jazmin Ortenzi,0.643,0.437,2.29,47.1,36.6,3.44,open,,,2.342,
-395,2026-09-14T19:07:18.373008+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T16:00:00Z,Julia Riera,Elina Avanesyan,Julia Riera,0.496,0.447,2.24,10.9,8.8,2.6,open,,,2.187,
-396,2026-09-14T22:39:46.159286+00:00,WTA,WTA Guadalajara Round Of 16,Hard,2026-09-15T21:00:00Z,Janice Tjen,Sloane Stephens,Janice Tjen,0.7,0.587,1.7,19.2,27.3,6.33,open,,,1.703,
+394,2026-09-14T19:07:18.373008+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T21:10:00Z,Chloe Paquet,Jazmin Ortenzi,Jazmin Ortenzi,0.643,0.437,2.29,47.1,36.6,3.44,open,,,2.288,
+395,2026-09-14T19:07:18.373008+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T16:00:00Z,Julia Riera,Elina Avanesyan,Julia Riera,0.496,0.447,2.24,10.9,8.8,2.6,open,,,2.236,
+396,2026-09-14T22:39:46.159286+00:00,WTA,WTA Guadalajara Round Of 16,Hard,2026-09-15T21:00:00Z,Janice Tjen,Sloane Stephens,Janice Tjen,0.7,0.587,1.7,19.2,27.3,6.33,open,,,1.596,
 397,2026-09-14T22:39:46.159286+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Taylor Townsend,Tatjana Maria,Taylor Townsend,0.742,0.637,1.57,16.6,29.2,7.77,won,2026-09-15T01:16:49.768380+00:00,4.43,,
 398,2026-09-14T22:39:46.159286+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-14T23:10:00Z,Renata Zarazua,Caroline Dolehide,Renata Zarazua,0.498,0.447,2.24,11.4,9.2,2.72,lost,2026-09-15T01:16:49.768380+00:00,-2.72,,
 399,2026-09-15T01:16:49.768380+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Liudmila Samsonova,Elsa Jacquemot,Liudmila Samsonova,0.685,0.577,1.73,18.6,25.5,6.11,won,2026-09-15T06:32:06.166521+00:00,4.46,,
