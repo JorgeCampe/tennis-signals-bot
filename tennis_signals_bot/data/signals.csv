@@ -1,4 +1,3 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-16T14:18:30.838869+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T21:10:00Z,Chloe Paquet,Jazmin Ortenzi,Jazmin Ortenzi,0.643,0.427,2.34,50.6,37.7,22.01,173472.7,KXWTAMATCH-26SEP14ORTPAQ
-2026-09-16T14:18:30.838869+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T16:00:00Z,Suzan Lamens,Carolina Alves,Carolina Alves,0.464,0.376,2.66,23.4,14.1,8.23,80518.44,KXWTAMATCH-26SEP14LAMALV
-2026-09-16T14:18:30.838869+00:00,WTA,WTA Guadalajara Round Of 16,Hard,2026-09-16T21:00:00Z,Magdalena Frech,Caroline Dolehide,Caroline Dolehide,0.435,0.366,2.73,19.0,11.0,6.41,13716.73,KXWTAMATCH-26SEP16FREDOL
+2026-09-16T18:19:59.896942+00:00,WTA,WTA Guadalajara Round Of 16,Hard,2026-09-16T21:00:00Z,Magdalena Frech,Caroline Dolehide,Caroline Dolehide,0.435,0.366,2.73,19.0,11.0,6.41,31585.63,KXWTAMATCH-26SEP16FREDOL
+2026-09-16T18:19:59.896942+00:00,WTA,WTA Sao Paulo Round Of 32,Hard,2026-09-14T21:10:00Z,Chloe Paquet,Jazmin Ortenzi,Jazmin Ortenzi,0.643,0.547,1.83,17.5,21.1,12.34,308431.93,KXWTAMATCH-26SEP14ORTPAQ
