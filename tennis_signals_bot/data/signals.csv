@@ -1,3 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-17T10:18:02.292385+00:00,WTA,WTA Guadalajara Quarterfinal,Hard,2026-09-17T21:00:00Z,Cristina Bucsa,Sara Bejlek,Cristina Bucsa,0.464,0.376,2.66,23.4,14.1,8.38,29498.82,KXWTAMATCH-26SEP17BUCBEJ
-2026-09-17T10:18:02.292385+00:00,WTA,WTA Guadalajara Quarterfinal,Hard,2026-09-17T21:00:00Z,Sloane Stephens,Peyton Stearns,Peyton Stearns,0.722,0.637,1.57,13.5,23.7,14.07,14502.2,KXWTAMATCH-26SEP17STESTE2
+2026-09-17T15:12:29.372747+00:00,WTA,WTA Guadalajara Quarterfinal,Hard,2026-09-17T21:00:00Z,Cristina Bucsa,Sara Bejlek,Cristina Bucsa,0.464,0.376,2.66,23.4,14.1,8.38,38785.33,KXWTAMATCH-26SEP17BUCBEJ
+2026-09-17T15:12:29.372747+00:00,WTA,WTA Guadalajara Quarterfinal,Hard,2026-09-17T21:00:00Z,Sloane Stephens,Peyton Stearns,Peyton Stearns,0.722,0.637,1.57,13.5,23.7,14.07,22157.44,KXWTAMATCH-26SEP17STESTE2
+2026-09-17T15:12:29.372747+00:00,WTA,WTA Sao Paulo Round Of 16,Hard,2026-09-17T23:30:00Z,Nadia Podoroska,Eva Lys,Eva Lys,0.712,0.656,1.52,8.5,16.2,9.66,17056.44,KXWTAMATCH-26SEP17LYSPOD
+2026-09-17T15:12:29.372747+00:00,WTA,WTA Sao Paulo Round Of 16,Hard,2026-09-17T21:00:00Z,Solana Sierra,Suzan Lamens,Solana Sierra,0.599,0.567,1.76,5.7,7.5,4.44,48006.02,KXWTAMATCH-26SEP17LAMSIE
