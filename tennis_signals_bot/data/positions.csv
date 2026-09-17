@@ -399,5 +399,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 398,2026-09-14T22:39:46.159286+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-14T23:10:00Z,Renata Zarazua,Caroline Dolehide,Renata Zarazua,0.498,0.447,2.24,11.4,9.2,2.72,lost,2026-09-15T01:16:49.768380+00:00,-2.72,,
 399,2026-09-15T01:16:49.768380+00:00,WTA,WTA Guadalajara Round Of 32,Hard,2026-09-13T19:00:00Z,Liudmila Samsonova,Elsa Jacquemot,Liudmila Samsonova,0.685,0.577,1.73,18.6,25.5,6.11,won,2026-09-15T06:32:06.166521+00:00,4.46,,
 400,2026-09-17T00:13:02.231573+00:00,WTA,WTA Guadalajara Quarterfinal,Hard,2026-09-17T21:00:00Z,Sloane Stephens,Peyton Stearns,Peyton Stearns,0.722,0.637,1.57,13.5,23.7,7.05,open,,,1.547,
-401,2026-09-17T15:12:26.940978+00:00,WTA,WTA Sao Paulo Round Of 16,Hard,2026-09-17T23:30:00Z,Nadia Podoroska,Eva Lys,Eva Lys,0.712,0.656,1.52,8.5,16.2,4.86,open,,,1.524,
+401,2026-09-17T15:12:26.940978+00:00,WTA,WTA Sao Paulo Round Of 16,Hard,2026-09-17T23:30:00Z,Nadia Podoroska,Eva Lys,Eva Lys,0.712,0.656,1.52,8.5,16.2,4.86,open,,,3.8,
 402,2026-09-17T15:12:26.940978+00:00,WTA,WTA Sao Paulo Round Of 16,Hard,2026-09-17T21:00:00Z,Solana Sierra,Suzan Lamens,Solana Sierra,0.599,0.567,1.76,5.7,7.5,2.23,lost,2026-09-17T19:11:23.018376+00:00,-2.23,,
