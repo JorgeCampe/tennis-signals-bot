@@ -1,3 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-18T21:08:25.492132+00:00,WTA,WTA Guadalajara Semifinal,Hard,2026-09-19T03:10:00Z,Peyton Stearns,Liudmila Samsonova,Peyton Stearns,0.493,0.437,2.29,12.9,10.0,5.89,48512.75,KXWTAMATCH-26SEP18SAMSTE
-2026-09-18T21:08:25.492132+00:00,WTA,WTA Sao Paulo Quarterfinal,Hard,2026-09-18T19:00:00Z,Nadia Podoroska,Suzan Lamens,Suzan Lamens,0.545,0.508,1.97,7.5,7.7,4.52,64638.62,KXWTAMATCH-26SEP18PODLAM
+2026-09-18T23:30:28.275256+00:00,WTA,WTA Seoul Qualification Round 1,Hard,2026-09-19T06:10:00Z,Carol Zhao,Yexin Ma,Carol Zhao,0.48,0.325,3.08,47.8,23.0,13.53,2223.28,KXWTAMATCH-26SEP18ZHAYEX
+2026-09-18T23:30:28.275256+00:00,WTA,WTA Sao Paulo Semifinal,Hard,2026-09-19T19:00:00Z,Kaitlin Quevedo,Anna Blinkova,Kaitlin Quevedo,0.488,0.417,2.4,17.1,12.2,7.17,5820.31,KXWTAMATCH-26SEP19QUEBLI
+2026-09-18T23:30:28.275256+00:00,WTA,WTA Sao Paulo Quarterfinal,Hard,2026-09-18T19:00:00Z,Nadia Podoroska,Suzan Lamens,Suzan Lamens,0.545,0.467,2.14,16.7,14.7,8.62,1392921.68,KXWTAMATCH-26SEP18PODLAM
+2026-09-18T23:30:28.275256+00:00,WTA,WTA Guadalajara Semifinal,Hard,2026-09-19T03:10:00Z,Peyton Stearns,Liudmila Samsonova,Peyton Stearns,0.493,0.437,2.29,12.9,10.0,5.89,83522.04,KXWTAMATCH-26SEP18SAMSTE
