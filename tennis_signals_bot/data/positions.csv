@@ -401,5 +401,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 400,2026-09-17T00:13:02.231573+00:00,WTA,WTA Guadalajara Quarterfinal,Hard,2026-09-17T21:00:00Z,Sloane Stephens,Peyton Stearns,Peyton Stearns,0.722,0.637,1.57,13.5,23.7,7.05,won,2026-09-18T05:39:47.049955+00:00,4.02,1.547,1.5
 401,2026-09-17T15:12:26.940978+00:00,WTA,WTA Sao Paulo Round Of 16,Hard,2026-09-17T23:30:00Z,Nadia Podoroska,Eva Lys,Eva Lys,0.712,0.656,1.52,8.5,16.2,4.86,lost,2026-09-18T00:40:50.873042+00:00,-4.86,3.8,-60.0
 402,2026-09-17T15:12:26.940978+00:00,WTA,WTA Sao Paulo Round Of 16,Hard,2026-09-17T21:00:00Z,Solana Sierra,Suzan Lamens,Solana Sierra,0.599,0.567,1.76,5.7,7.5,2.23,lost,2026-09-17T19:11:23.018376+00:00,-2.23,,
-403,2026-09-18T05:39:47.049955+00:00,WTA,WTA Sao Paulo Quarterfinal,Hard,2026-09-18T19:00:00Z,Nadia Podoroska,Suzan Lamens,Suzan Lamens,0.545,0.467,2.14,16.7,14.7,3.86,open,,,2.01,
-404,2026-09-18T10:51:17.765466+00:00,WTA,WTA Guadalajara Semifinal,Hard,2026-09-19T03:10:00Z,Peyton Stearns,Liudmila Samsonova,Peyton Stearns,0.493,0.447,2.24,10.3,8.4,2.44,open,,,2.236,
+403,2026-09-18T05:39:47.049955+00:00,WTA,WTA Sao Paulo Quarterfinal,Hard,2026-09-18T19:00:00Z,Nadia Podoroska,Suzan Lamens,Suzan Lamens,0.545,0.467,2.14,16.7,14.7,3.86,open,,,1.97,
+404,2026-09-18T10:51:17.765466+00:00,WTA,WTA Guadalajara Semifinal,Hard,2026-09-19T03:10:00Z,Peyton Stearns,Liudmila Samsonova,Peyton Stearns,0.493,0.447,2.24,10.3,8.4,2.44,open,,,2.288,
