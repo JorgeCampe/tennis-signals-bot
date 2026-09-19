@@ -404,4 +404,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 403,2026-09-18T05:39:47.049955+00:00,WTA,WTA Sao Paulo Quarterfinal,Hard,2026-09-18T19:00:00Z,Nadia Podoroska,Suzan Lamens,Suzan Lamens,0.545,0.467,2.14,16.7,14.7,3.86,lost,2026-09-19T03:54:21.807599+00:00,-3.86,2.14,0.0
 404,2026-09-18T10:51:17.765466+00:00,WTA,WTA Guadalajara Semifinal,Hard,2026-09-19T03:10:00Z,Peyton Stearns,Liudmila Samsonova,Peyton Stearns,0.493,0.447,2.24,10.3,8.4,2.44,won,2026-09-19T03:54:21.807599+00:00,3.03,2.288,-2.1
 405,2026-09-19T08:41:08.896711+00:00,WTA,WTA Sao Paulo Semifinal,Hard,2026-09-19T19:00:00Z,Kaitlin Quevedo,Anna Blinkova,Kaitlin Quevedo,0.488,0.447,2.24,9.1,7.4,2.15,won,2026-09-19T18:44:52.802582+00:00,2.67,2.052,9.2
-406,2026-09-19T16:22:15.750547+00:00,WTA,WTA Singapore Qualification Final,Hard,2026-09-20T05:00:00Z,Aoi Ito,Nao Hibino,Aoi Ito,0.609,0.567,1.76,7.4,9.7,2.85,open,,,1.763,
+406,2026-09-19T16:22:15.750547+00:00,WTA,WTA Singapore Qualification Final,Hard,2026-09-20T05:00:00Z,Aoi Ito,Nao Hibino,Aoi Ito,0.609,0.567,1.76,7.4,9.7,2.85,open,,,1.861,
