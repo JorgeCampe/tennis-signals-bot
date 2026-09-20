@@ -405,3 +405,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 404,2026-09-18T10:51:17.765466+00:00,WTA,WTA Guadalajara Semifinal,Hard,2026-09-19T03:10:00Z,Peyton Stearns,Liudmila Samsonova,Peyton Stearns,0.493,0.447,2.24,10.3,8.4,2.44,won,2026-09-19T03:54:21.807599+00:00,3.03,2.288,-2.1
 405,2026-09-19T08:41:08.896711+00:00,WTA,WTA Sao Paulo Semifinal,Hard,2026-09-19T19:00:00Z,Kaitlin Quevedo,Anna Blinkova,Kaitlin Quevedo,0.488,0.447,2.24,9.1,7.4,2.15,won,2026-09-19T18:44:52.802582+00:00,2.67,2.052,9.2
 406,2026-09-19T16:22:15.750547+00:00,WTA,WTA Singapore Qualification Final,Hard,2026-09-20T05:00:00Z,Aoi Ito,Nao Hibino,Aoi Ito,0.609,0.567,1.76,7.4,9.7,2.85,lost,2026-09-20T06:52:18.463462+00:00,-2.85,1.861,-5.4
+407,2026-09-20T12:07:46.420806+00:00,WTA,WTA Singapore Round Of 32,Hard,2026-09-21T06:00:00Z,Talia Gibson,Fiona Ferro,Talia Gibson,0.749,0.577,1.73,29.7,40.6,6.01,open,,,,
+408,2026-09-20T12:07:46.420806+00:00,WTA,WTA Singapore Round Of 32,Hard,2026-09-21T06:00:00Z,Rebecca Sramkova,Maja Chwalinska,Maja Chwalinska,0.76,0.666,1.5,14.1,28.0,8.25,open,,,,
+409,2026-09-20T12:07:46.420806+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Himeno Sakatsume,Taylah Preston,Taylah Preston,0.536,0.498,2.01,7.8,7.8,2.26,open,,,,

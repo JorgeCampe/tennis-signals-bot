@@ -1,2 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-20T06:52:19.827294+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Kamilla Rakhimova,Polina Kudermetova,Polina Kudermetova,0.488,0.366,2.73,33.2,19.2,11.22,1494.15,KXWTAMATCH-26SEP20RAKKUD
+2026-09-20T12:07:50.872122+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Kamilla Rakhimova,Polina Kudermetova,Polina Kudermetova,0.488,0.335,2.98,45.4,22.9,13.4,1526.74,KXWTAMATCH-26SEP20RAKKUD
+2026-09-20T12:07:50.872122+00:00,WTA,WTA Singapore Round Of 32,Hard,2026-09-21T06:00:00Z,Talia Gibson,Fiona Ferro,Talia Gibson,0.749,0.577,1.73,29.7,40.6,23.75,4895.47,KXWTAMATCH-26SEP20GIBFER
+2026-09-20T12:07:50.872122+00:00,WTA,WTA Singapore Round Of 32,Hard,2026-09-21T06:00:00Z,Rebecca Sramkova,Maja Chwalinska,Maja Chwalinska,0.76,0.666,1.5,14.1,28.0,16.4,1911.48,KXWTAMATCH-26SEP20SRACHW
+2026-09-20T12:07:50.872122+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Himeno Sakatsume,Taylah Preston,Taylah Preston,0.536,0.498,2.01,7.8,7.8,4.54,792.24,KXWTAMATCH-26SEP20PRESAK
