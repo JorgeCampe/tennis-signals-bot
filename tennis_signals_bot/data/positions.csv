@@ -408,11 +408,11 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 407,2026-09-20T12:07:46.420806+00:00,WTA,WTA Singapore Round Of 32,Hard,2026-09-21T06:00:00Z,Talia Gibson,Fiona Ferro,Talia Gibson,0.749,0.577,1.73,29.7,40.6,6.01,won,2026-09-21T13:55:49.887864+00:00,4.39,1.092,58.4
 408,2026-09-20T12:07:46.420806+00:00,WTA,WTA Singapore Round Of 32,Hard,2026-09-21T06:00:00Z,Rebecca Sramkova,Maja Chwalinska,Maja Chwalinska,0.76,0.666,1.5,14.1,28.0,8.25,won,2026-09-21T13:55:49.887864+00:00,4.12,1.48,1.4
 409,2026-09-20T12:07:46.420806+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Himeno Sakatsume,Taylah Preston,Taylah Preston,0.536,0.498,2.01,7.8,7.8,2.26,open,,,2.01,
-410,2026-09-20T16:23:57.730399+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Tamara Zidansek,Kimberly Birrell,Kimberly Birrell,0.683,0.646,1.55,5.7,10.3,3.03,open,,,1.571,
+410,2026-09-20T16:23:57.730399+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Tamara Zidansek,Kimberly Birrell,Kimberly Birrell,0.683,0.646,1.55,5.7,10.3,3.03,open,,,1.547,
 411,2026-09-20T18:58:46.433920+00:00,WTA,WTA Sao Paulo Final,Hard,2026-09-20T18:00:00Z,Kaitlin Quevedo,Nadia Podoroska,Kaitlin Quevedo,0.597,0.567,1.76,5.3,7.0,2.04,won,2026-09-21T19:11:03.897709+00:00,1.55,1.703,3.3
 412,2026-09-20T21:26:48.205830+00:00,WTA,WTA Singapore Round Of 32,Hard,2026-09-21T14:40:00Z,Storm Hunter,Joanna Garland,Joanna Garland,0.533,0.508,1.97,5.0,5.2,1.51,won,2026-09-21T19:11:03.897709+00:00,1.46,1.278,54.1
 413,2026-09-21T13:55:49.887864+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Sho Shimabukuro,Hugo Gaston,Sho Shimabukuro,0.627,0.527,1.9,18.9,21.1,5.05,open,,,1.932,
 414,2026-09-21T13:55:49.887864+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Anastasia Zakharova,Jelena Ostapenko,Jelena Ostapenko,0.653,0.617,1.62,5.9,9.4,2.88,open,,,1.675,
-415,2026-09-21T19:11:03.897709+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Adam Walton,Valentin Royer,Adam Walton,0.544,0.518,1.93,5.2,5.6,1.72,open,,,2.01,
-416,2026-09-21T19:11:03.897709+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Jaime Faria,Terence Atmane,Jaime Faria,0.46,0.437,2.29,5.2,4.1,1.24,open,,,2.399,
-417,2026-09-21T22:45:03.278509+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Michael Zheng,Yunchaokete Bu,Yunchaokete Bu,0.478,0.437,2.29,9.5,7.4,2.26,open,,,,
+415,2026-09-21T19:11:03.897709+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Adam Walton,Valentin Royer,Adam Walton,0.544,0.518,1.93,5.2,5.6,1.72,open,,,2.052,
+416,2026-09-21T19:11:03.897709+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Jaime Faria,Terence Atmane,Jaime Faria,0.46,0.437,2.29,5.2,4.1,1.24,open,,,2.342,
+417,2026-09-21T22:45:03.278509+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Michael Zheng,Yunchaokete Bu,Yunchaokete Bu,0.478,0.437,2.29,9.5,7.4,2.26,open,,,2.288,
