@@ -414,9 +414,9 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 413,2026-09-21T13:55:49.887864+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Sho Shimabukuro,Hugo Gaston,Sho Shimabukuro,0.627,0.527,1.9,18.9,21.1,5.05,open,,,1.932,
 414,2026-09-21T13:55:49.887864+00:00,WTA,WTA Seoul Round Of 32,Hard,2026-09-21T06:00:00Z,Anastasia Zakharova,Jelena Ostapenko,Jelena Ostapenko,0.653,0.617,1.62,5.9,9.4,2.88,won,2026-09-22T12:48:32.334529+00:00,1.79,2.187,-25.9
 415,2026-09-21T19:11:03.897709+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Adam Walton,Valentin Royer,Adam Walton,0.544,0.518,1.93,5.2,5.6,1.72,open,,,1.861,
-416,2026-09-21T19:11:03.897709+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Jaime Faria,Terence Atmane,Jaime Faria,0.46,0.437,2.29,5.2,4.1,1.24,open,,,2.187,
-417,2026-09-21T22:45:03.278509+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Michael Zheng,Yunchaokete Bu,Yunchaokete Bu,0.478,0.437,2.29,9.5,7.4,2.26,open,,,2.288,
+416,2026-09-21T19:11:03.897709+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Jaime Faria,Terence Atmane,Jaime Faria,0.46,0.437,2.29,5.2,4.1,1.24,open,,,2.236,
+417,2026-09-21T22:45:03.278509+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Michael Zheng,Yunchaokete Bu,Yunchaokete Bu,0.478,0.437,2.29,9.5,7.4,2.26,open,,,2.399,
 418,2026-09-22T07:30:04.842734+00:00,ATP,ATP Chengdu Round Of 32,Hard,2026-09-22T05:00:00Z,Denis Shapovalov,Tallon Griekspoor,Tallon Griekspoor,0.52,0.447,2.24,16.4,13.3,3.75,open,,,2.288,
 419,2026-09-22T07:30:04.842734+00:00,ATP,ATP Hangzhou Round Of 32,Hard,2026-09-22T05:00:00Z,Aleksandar Vukic,Kyrian Jacquet,Kyrian Jacquet,0.54,0.508,1.97,6.5,6.7,2.08,open,,,1.896,
-420,2026-09-22T17:33:59.373033+00:00,ATP,ATP Chengdu Qualification Final,Hard,2026-09-23T09:10:00Z,Federico Cina,Nikoloz Basilashvili,Nikoloz Basilashvili,0.508,0.437,2.29,16.2,12.6,3.65,open,,,2.288,
+420,2026-09-22T17:33:59.373033+00:00,ATP,ATP Chengdu Qualification Final,Hard,2026-09-23T09:10:00Z,Federico Cina,Nikoloz Basilashvili,Nikoloz Basilashvili,0.508,0.437,2.29,16.2,12.6,3.65,open,,,2.236,
 421,2026-09-22T17:33:59.373033+00:00,ATP,ATP Chengdu Round Of 32,Hard,2026-09-22T05:00:00Z,Lorenzo Sonego,James Duckworth,Lorenzo Sonego,0.625,0.587,1.7,6.4,9.2,2.87,open,,,1.675,
