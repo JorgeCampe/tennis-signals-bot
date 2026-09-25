@@ -428,11 +428,11 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 427,2026-09-24T05:56:33.080590+00:00,ATP,ATP Chengdu Round Of 32,Hard,2026-09-24T09:10:00Z,Miomir Kecmanovic,Nikoloz Basilashvili,Miomir Kecmanovic,0.644,0.607,1.65,6.1,9.5,3.06,lost,2026-09-24T11:31:47.386464+00:00,-3.06,,
 428,2026-09-24T05:56:33.080590+00:00,WTA,WTA Seoul Quarterfinal,Hard,2026-09-25T06:00:00Z,Lanlana Tararudee,Maya Joint,Maya Joint,0.496,0.467,2.14,6.1,5.4,1.75,open,,,2.052,
 429,2026-09-24T11:31:47.386464+00:00,WTA,WTA Singapore Quarterfinal,Hard,2026-09-25T06:00:00Z,Leylah Fernandez,Mirra Andreeva,Mirra Andreeva,0.855,0.782,1.28,9.3,33.3,10.81,lost,2026-09-25T12:53:45.758609+00:00,-10.81,1.263,1.3
-430,2026-09-24T16:48:25.655459+00:00,ATP,ATP Chengdu Round Of 16,Hard,2026-09-25T10:00:00Z,Alexandre Muller,Federico Cina,Alexandre Muller,0.587,0.498,2.01,17.9,17.7,4.83,open,,,1.827,
+430,2026-09-24T16:48:25.655459+00:00,ATP,ATP Chengdu Round Of 16,Hard,2026-09-25T10:00:00Z,Alexandre Muller,Federico Cina,Alexandre Muller,0.587,0.498,2.01,17.9,17.7,4.83,open,,,1.861,
 431,2026-09-24T16:48:25.655459+00:00,ATP,ATP Chengdu Round Of 16,Hard,2026-09-25T10:00:00Z,Botic Van de Zandschulp,Nikoloz Basilashvili,Botic Van de Zandschulp,0.706,0.607,1.65,16.4,25.4,7.51,lost,2026-09-25T12:53:45.758609+00:00,-7.51,1.502,9.9
 432,2026-09-24T16:48:25.655459+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-25T08:00:00Z,Valentin Royer,Daniil Medvedev,Daniil Medvedev,0.881,0.792,1.26,11.2,42.6,14.02,open,,,1.263,
 433,2026-09-24T16:48:25.655459+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-25T05:00:00Z,Fabian Marozsan,Taro Daniel,Fabian Marozsan,0.757,0.695,1.44,8.9,20.2,6.58,won,2026-09-25T12:53:45.758609+00:00,2.9,1.438,0.1
-434,2026-09-24T20:18:01.378219+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-25T05:00:00Z,Roman Safiullin,Quentin Halys,Quentin Halys,0.506,0.477,2.1,5.9,5.4,1.75,open,,,2.095,
+434,2026-09-24T20:18:01.378219+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-25T05:00:00Z,Roman Safiullin,Quentin Halys,Quentin Halys,0.506,0.477,2.1,5.9,5.4,1.75,open,,,2.14,
 435,2026-09-25T07:22:27.589626+00:00,ATP,ATP Chengdu Round Of 16,Hard,2026-09-26T06:00:00Z,Valentin Vacherot,Lloyd Harris,Valentin Vacherot,0.804,0.547,1.83,46.9,56.7,5.88,open,,,1.827,
-436,2026-09-25T17:50:20.790052+00:00,WTA,WTA Singapore Semifinal,Hard,2026-09-26T07:30:00Z,Leylah Fernandez,Maja Chwalinska,Maja Chwalinska,0.694,0.447,2.24,55.2,44.6,3.7,open,,,,
-437,2026-09-25T17:50:20.790052+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-26T08:30:00Z,Yunchaokete Bu,Kamil Majchrzak,Kamil Majchrzak,0.671,0.567,1.76,18.4,24.1,6.04,open,,,,
+436,2026-09-25T17:50:20.790052+00:00,WTA,WTA Singapore Semifinal,Hard,2026-09-26T07:30:00Z,Leylah Fernandez,Maja Chwalinska,Maja Chwalinska,0.694,0.447,2.24,55.2,44.6,3.7,open,,,2.288,
+437,2026-09-25T17:50:20.790052+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-26T08:30:00Z,Yunchaokete Bu,Kamil Majchrzak,Kamil Majchrzak,0.671,0.567,1.76,18.4,24.1,6.04,open,,,1.763,
