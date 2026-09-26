@@ -1,7 +1,7 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-26T10:06:30.549139+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-26T08:30:00Z,Yunchaokete Bu,Kamil Majchrzak,Kamil Majchrzak,0.671,0.345,2.9,94.4,49.8,31.72,630133.26,KXATPMATCH-26SEP26YUNMAJ
-2026-09-26T10:06:30.549139+00:00,WTA,WTA Singapore Semifinal,Hard,2026-09-26T07:30:00Z,Leylah Fernandez,Maja Chwalinska,Maja Chwalinska,0.694,0.437,2.29,58.8,45.6,29.06,164739.61,KXWTAMATCH-26SEP26FERCHW
-2026-09-26T10:06:30.549139+00:00,ATP,ATP Chengdu Quarterfinal,Hard,2026-09-27T08:00:00Z,Denis Shapovalov,Adrian Mannarino,Adrian Mannarino,0.419,0.325,3.08,28.9,13.9,8.87,1046.05,KXATPMATCH-26SEP27MANSHA
-2026-09-26T10:06:30.549139+00:00,ATP,ATP Hangzhou Quarterfinal,Hard,2026-09-27T08:30:00Z,Fabian Marozsan,Kyrian Jacquet,Fabian Marozsan,0.679,0.557,1.79,21.9,27.6,17.56,2545.75,KXATPMATCH-26SEP27MARJAC
-2026-09-26T10:06:30.549139+00:00,ATP,ATP Hangzhou Round Of 16,Hard,2026-09-25T08:00:00Z,Valentin Royer,Daniil Medvedev,Daniil Medvedev,0.881,0.811,1.23,8.6,36.8,23.41,169617.88,KXATPMATCH-26SEP25MEDROY
-2026-09-26T10:06:30.549139+00:00,WTA,WTA Seoul Semifinal,Hard,2026-09-26T10:30:00Z,Alina Korneeva,Maya Joint,Alina Korneeva,0.46,0.427,2.34,7.7,5.8,3.67,133783.02,KXWTAMATCH-26SEP26KORJOI
+2026-09-26T14:39:40.312945+00:00,WTA,WTA Singapore Final,Hard,2026-09-27T09:30:00Z,Talia Gibson,Leylah Fernandez,Talia Gibson,0.659,0.345,2.9,90.6,47.8,29.02,1612.98,KXWTAMATCH-26SEP27FERGIB
+2026-09-26T14:39:40.312945+00:00,WTA,WTA Seoul Final,Hard,2026-09-27T09:30:00Z,Maya Joint,Kimberly Birrell,Kimberly Birrell,0.585,0.427,2.34,37.0,27.6,16.73,7919.97,KXWTAMATCH-26SEP27JOIBIR
+2026-09-26T14:39:40.312945+00:00,ATP,ATP Chengdu Quarterfinal,Hard,2026-09-27T08:00:00Z,Denis Shapovalov,Adrian Mannarino,Adrian Mannarino,0.419,0.325,3.08,28.9,13.9,8.45,2025.06,KXATPMATCH-26SEP27MANSHA
+2026-09-26T14:39:40.312945+00:00,ATP,ATP Chengdu Quarterfinal,Hard,2026-09-27T08:00:00Z,Jenson Brooksby,Nikoloz Basilashvili,Jenson Brooksby,0.665,0.537,1.86,23.8,27.6,16.74,8949.45,KXATPMATCH-26SEP27BROBAS
+2026-09-26T14:39:40.312945+00:00,ATP,ATP Hangzhou Quarterfinal,Hard,2026-09-27T08:30:00Z,Fabian Marozsan,Kyrian Jacquet,Fabian Marozsan,0.679,0.567,1.76,19.8,25.9,15.74,3954.12,KXATPMATCH-26SEP27MARJAC
+2026-09-26T14:39:40.312945+00:00,ATP,ATP Hangzhou Quarterfinal,Hard,2026-09-27T05:00:00Z,Yunchaokete Bu,Roman Safiullin,Roman Safiullin,0.565,0.537,1.86,5.1,6.0,3.63,898.86,KXATPMATCH-26SEP26SAFYUN
