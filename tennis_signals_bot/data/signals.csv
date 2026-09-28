@@ -1,13 +1,11 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Tokyo Qualification Round 1,Hard,2026-09-28T05:00:00Z,Camilo Ugo Carabelli,Rinky Hijikata,Camilo Ugo Carabelli,0.471,0.325,3.08,44.8,21.6,12.64,17529.79,KXATPMATCH-26SEP27HIJUGO
-2026-09-28T01:06:15.868765+00:00,WTA,WTA Beijing Qualification Round 1,Hard,2026-09-28T06:00:00Z,Rebecca Sramkova,Jodie Burrage,Jodie Burrage,0.52,0.386,2.59,34.5,21.7,12.73,1731.88,KXWTAMATCH-26SEP27SRABUR
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Tokyo Qualification Round 1,Hard,2026-09-28T05:00:00Z,Shintaro Mochizuki,Jaime Faria,Shintaro Mochizuki,0.444,0.335,2.98,32.4,16.4,9.59,3695.02,KXATPMATCH-26SEP27MOCFAR
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Tomas Machac,Yannick Hanfmann,Tomas Machac,0.643,0.487,2.05,32.0,30.5,17.86,54920.8,KXATPMATCH-26SEP27HANMAC
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Yi Zhou,Pablo Carreno Busta,Yi Zhou,0.342,0.273,3.66,24.9,9.4,5.49,9440.17,KXATPMATCH-26SEP27ZHOCAR
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Adrian Mannarino,Miomir Kecmanovic,Adrian Mannarino,0.493,0.397,2.52,24.3,16.0,9.38,44304.26,KXATPMATCH-26SEP27KECMAN
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Alex Molcan,Vit Kopriva,Vit Kopriva,0.536,0.447,2.24,20.0,16.1,9.47,4324.83,KXATPMATCH-26SEP27MOLKOP
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Hangzhou Semifinal,Hard,2026-09-28T14:30:00Z,Roman Safiullin,Daniil Medvedev,Daniil Medvedev,0.842,0.705,1.42,19.3,46.2,27.11,27189.04,KXATPMATCH-26SEP28MEDSAF
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Chengdu Semifinal,Hard,2026-09-28T12:00:00Z,Denis Shapovalov,Hubert Hurkacz,Denis Shapovalov,0.516,0.447,2.24,15.4,12.4,7.3,13635.37,KXATPMATCH-26SEP28HURSHA
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Chengdu Semifinal,Hard,2026-09-28T12:00:00Z,Alejandro Davidovich Fokina,Nikoloz Basilashvili,Alejandro Davidovich Fokina,0.805,0.705,1.42,14.1,33.8,19.85,27936.59,KXATPMATCH-26SEP28BASDAV
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Tokyo Qualification Round 1,Hard,2026-09-28T05:00:00Z,Zachary Svajda,Aleksandar Kovacevic,Aleksandar Kovacevic,0.422,0.397,2.52,6.4,4.2,2.48,20673.55,KXATPMATCH-26SEP27SVAKOV
-2026-09-28T01:06:15.868765+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Botic Van de Zandschulp,Valentin Royer,Botic Van de Zandschulp,0.68,0.646,1.55,5.2,9.5,5.57,3233.55,KXATPMATCH-26SEP27VANROY
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Alex Molcan,Vit Kopriva,Vit Kopriva,0.536,0.366,2.73,46.6,26.9,16.07,248664.1,KXATPMATCH-26SEP27MOLKOP
+2026-09-28T07:25:30.491328+00:00,WTA,WTA Beijing Qualification Round 1,Hard,2026-09-28T06:00:00Z,Rebecca Sramkova,Jodie Burrage,Jodie Burrage,0.52,0.376,2.66,38.1,23.0,13.73,4893.24,KXWTAMATCH-26SEP27SRABUR
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Chengdu Semifinal,Hard,2026-09-28T12:00:00Z,Denis Shapovalov,Hubert Hurkacz,Denis Shapovalov,0.516,0.427,2.34,20.8,15.5,9.28,50423.71,KXATPMATCH-26SEP28HURSHA
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Marco Trungelliti,Martin Landaluce,Martin Landaluce,0.645,0.537,1.86,19.9,23.2,13.84,2882050.86,KXATPMATCH-26SEP27LANTRU
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Hangzhou Semifinal,Hard,2026-09-28T14:30:00Z,Roman Safiullin,Daniil Medvedev,Daniil Medvedev,0.842,0.705,1.42,19.3,46.2,27.62,75596.41,KXATPMATCH-26SEP28MEDSAF
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Adrian Mannarino,Miomir Kecmanovic,Adrian Mannarino,0.493,0.417,2.4,18.3,13.1,7.8,107840.69,KXATPMATCH-26SEP27KECMAN
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Yi Zhou,Pablo Carreno Busta,Yi Zhou,0.342,0.294,3.4,16.1,6.7,4.01,29807.73,KXATPMATCH-26SEP27ZHOCAR
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Chengdu Semifinal,Hard,2026-09-28T12:00:00Z,Alejandro Davidovich Fokina,Nikoloz Basilashvili,Alejandro Davidovich Fokina,0.805,0.705,1.42,14.1,33.8,20.22,56022.53,KXATPMATCH-26SEP28BASDAV
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Beijing Qualification Round 1,Hard,2026-09-28T05:00:00Z,Botic Van de Zandschulp,Valentin Royer,Botic Van de Zandschulp,0.68,0.637,1.57,6.8,12.0,7.14,16091.56,KXATPMATCH-26SEP27VANROY
+2026-09-28T07:25:30.491328+00:00,ATP,ATP Tokyo Qualification Round 1,Hard,2026-09-28T05:00:00Z,Jaume Munar,Marcos Giron,Jaume Munar,0.614,0.577,1.73,6.3,8.7,5.18,508944.53,KXATPMATCH-26SEP27MUNGIR
