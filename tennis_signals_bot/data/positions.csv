@@ -469,13 +469,14 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 468,2026-09-29T23:35:59.595330+00:00,WTA,WTA Beijing Round Of 128,Hard,2026-09-29T05:00:00Z,Janice Tjen,Anhelina Kalinina,Janice Tjen,0.561,0.527,1.9,6.4,7.1,2.07,won,2026-09-30T11:00:02.741099+00:00,1.86,1.97,-3.6
 469,2026-09-30T04:48:49.511515+00:00,ATP,ATP Tokyo Round Of 32,Hard,2026-09-29T05:00:00Z,Alejandro Tabilo,Tommy Paul,Tommy Paul,0.702,0.577,1.73,21.5,29.4,5.81,lost,2026-09-30T11:00:02.741099+00:00,-5.81,,
 470,2026-09-30T11:00:02.741099+00:00,ATP,ATP Beijing Round Of 32,Hard,2026-09-30T05:00:00Z,Botic Van de Zandschulp,Francisco Cerundolo,Francisco Cerundolo,0.651,0.597,1.68,9.0,13.3,3.59,won,2026-10-01T14:24:43.065210+00:00,2.44,1.164,44.3
-471,2026-10-01T07:00:16.899758+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-02T06:00:00Z,Yunchaokete Bu,Novak Djokovic,Novak Djokovic,0.922,0.782,1.28,17.8,64.1,14.74,open,,,1.263,
+471,2026-10-01T07:00:16.899758+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-02T06:00:00Z,Yunchaokete Bu,Novak Djokovic,Novak Djokovic,0.922,0.782,1.28,17.8,64.1,14.74,won,2026-10-02T16:35:17.063628+00:00,4.13,1.263,1.3
 472,2026-10-01T14:24:43.065210+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Katie Volynets,Elise Mertens,Elise Mertens,0.781,0.557,1.79,40.2,50.6,4.96,open,,,1.794,
-473,2026-10-01T14:24:43.065210+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Maria Timofeeva,Naomi Osaka,Naomi Osaka,0.881,0.792,1.26,11.3,42.9,11.35,open,,,1.009,
+473,2026-10-01T14:24:43.065210+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Maria Timofeeva,Naomi Osaka,Naomi Osaka,0.881,0.792,1.26,11.3,42.9,11.35,won,2026-10-02T16:35:17.063628+00:00,2.95,1.009,24.9
 474,2026-10-01T14:24:43.065210+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Daria Snigur,Jasmine Paolini,Jasmine Paolini,0.65,0.607,1.65,7.1,11.0,2.85,lost,2026-10-02T10:57:26.781383+00:00,-2.85,1.732,-4.7
 475,2026-10-01T14:24:43.065210+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-02T06:00:00Z,Quentin Halys,Alex de Minaur,Alex de Minaur,0.804,0.754,1.33,6.7,20.5,5.3,open,,,1.344,
 476,2026-10-01T19:44:51.506207+00:00,ATP,ATP Tokyo Round Of 16,Hard,2026-10-02T05:00:00Z,Valentin Vacherot,Stefanos Tsitsipas,Valentin Vacherot,0.676,0.437,2.29,54.7,42.4,3.04,won,2026-10-02T10:57:26.781383+00:00,3.92,4.125,-44.5
 477,2026-10-01T19:44:51.506207+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Clara Tauson,Polina Kudermetova,Clara Tauson,0.716,0.637,1.57,12.4,21.7,5.68,lost,2026-10-02T10:57:26.781383+00:00,-5.68,1.547,1.5
-478,2026-10-01T19:44:51.506207+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-02T14:00:00Z,Hubert Hurkacz,Arthur Gea,Hubert Hurkacz,0.632,0.597,1.68,5.9,8.7,2.27,open,,,1.703,
+478,2026-10-01T19:44:51.506207+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-02T14:00:00Z,Hubert Hurkacz,Arthur Gea,Hubert Hurkacz,0.632,0.597,1.68,5.9,8.7,2.27,won,2026-10-02T16:35:17.063628+00:00,1.54,1.703,-1.4
 479,2026-10-01T23:46:50.877454+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Peyton Stearns,Viktorija Golubic,Viktorija Golubic,0.466,0.437,2.29,6.7,5.2,1.36,won,2026-10-02T10:57:26.781383+00:00,1.75,2.236,2.4
-480,2026-10-02T04:51:33.563720+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-03T06:00:00Z,Roman Safiullin,Andrey Rublev,Andrey Rublev,0.706,0.577,1.73,22.3,30.4,5.37,open,,,1.703,
+480,2026-10-02T04:51:33.563720+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-03T06:00:00Z,Roman Safiullin,Andrey Rublev,Andrey Rublev,0.706,0.577,1.73,22.3,30.4,5.37,open,,,1.675,
+481,2026-10-02T16:35:17.063628+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Ashlyn Krueger,Ann Li,Ashlyn Krueger,0.506,0.457,2.19,10.8,9.1,2.44,open,,,,
