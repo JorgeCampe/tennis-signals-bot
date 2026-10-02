@@ -479,4 +479,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 478,2026-10-01T19:44:51.506207+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-02T14:00:00Z,Hubert Hurkacz,Arthur Gea,Hubert Hurkacz,0.632,0.597,1.68,5.9,8.7,2.27,won,2026-10-02T16:35:17.063628+00:00,1.54,1.703,-1.4
 479,2026-10-01T23:46:50.877454+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Peyton Stearns,Viktorija Golubic,Viktorija Golubic,0.466,0.437,2.29,6.7,5.2,1.36,won,2026-10-02T10:57:26.781383+00:00,1.75,2.236,2.4
 480,2026-10-02T04:51:33.563720+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-03T06:00:00Z,Roman Safiullin,Andrey Rublev,Andrey Rublev,0.706,0.577,1.73,22.3,30.4,5.37,open,,,1.675,
-481,2026-10-02T16:35:17.063628+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Ashlyn Krueger,Ann Li,Ashlyn Krueger,0.506,0.457,2.19,10.8,9.1,2.44,open,,,,
+481,2026-10-02T16:35:17.063628+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Ashlyn Krueger,Ann Li,Ashlyn Krueger,0.506,0.457,2.19,10.8,9.1,2.44,open,,,2.14,
