@@ -1,8 +1,3 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-10-03T06:13:08.804108+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Kamilla Rakhimova,Leylah Fernandez,Kamilla Rakhimova,0.45,0.273,3.66,64.6,24.3,13.24,32547.01,KXWTAMATCH-26OCT01RAKFER
-2026-10-03T06:13:08.804108+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Qinwen Zheng,Anna Kalinskaya,Anna Kalinskaya,0.57,0.407,2.46,40.0,27.4,14.95,34147.9,KXWTAMATCH-26OCT01ZHEKAL
-2026-10-03T06:13:08.804108+00:00,ATP,ATP Tokyo Round Of 16,Hard,2026-10-02T05:00:00Z,Jiri Lehecka,Ugo Humbert,Ugo Humbert,0.473,0.427,2.34,10.8,8.0,4.38,57560.45,KXATPMATCH-26OCT01HUMLEH
-2026-10-03T06:13:08.804108+00:00,ATP,ATP Tokyo Quarterfinal,Hard,2026-10-04T05:00:00Z,Jaume Munar,Kyrian Jacquet,Jaume Munar,0.675,0.617,1.62,9.3,15.0,8.19,2146.03,KXATPMATCH-26OCT03MUNJAC
-2026-10-03T06:13:08.804108+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-03T06:00:00Z,Jakub Mensik,Francisco Cerundolo,Francisco Cerundolo,0.421,0.386,2.59,9.0,5.7,3.09,61413.63,KXATPMATCH-26OCT02CERMEN
-2026-10-03T06:13:08.804108+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Jelena Ostapenko,Paula Badosa,Paula Badosa,0.51,0.467,2.14,9.0,7.9,4.32,801532.59,KXWTAMATCH-26OCT01OSTBAD
-2026-10-03T06:13:08.804108+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Marie Bouzkova,Kimberly Birrell,Kimberly Birrell,0.387,0.356,2.81,8.6,4.8,2.6,12453.38,KXWTAMATCH-26OCT01BOUBIR
+2026-10-03T11:55:50.971272+00:00,ATP,ATP Tokyo Quarterfinal,Hard,2026-10-04T05:00:00Z,Jaume Munar,Kyrian Jacquet,Jaume Munar,0.675,0.607,1.65,11.2,17.2,9.46,4409.3,KXATPMATCH-26OCT03MUNJAC
+2026-10-03T11:55:50.971272+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-03T06:00:00Z,Jakub Mensik,Francisco Cerundolo,Francisco Cerundolo,0.421,0.386,2.59,9.0,5.7,3.11,100749.7,KXATPMATCH-26OCT02CERMEN
