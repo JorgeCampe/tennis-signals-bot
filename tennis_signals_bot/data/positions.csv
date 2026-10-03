@@ -483,4 +483,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 482,2026-10-03T06:13:06.437169+00:00,ATP,ATP Tokyo Quarterfinal,Hard,2026-10-04T05:00:00Z,Jaume Munar,Kyrian Jacquet,Jaume Munar,0.675,0.617,1.62,9.3,15.0,4.09,open,,,1.648,
 483,2026-10-03T06:13:06.437169+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Jelena Ostapenko,Paula Badosa,Paula Badosa,0.51,0.467,2.14,9.0,7.9,2.15,lost,2026-10-03T11:55:49.347147+00:00,-2.15,,
 484,2026-10-03T16:01:30.143552+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T06:00:00Z,Andrey Rublev,Alex de Minaur,Alex de Minaur,0.637,0.577,1.73,10.2,14.0,3.84,open,,,1.794,
-485,2026-10-03T19:20:33.524801+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Liudmila Samsonova,Karolina Muchova,Karolina Muchova,0.847,0.792,1.26,7.0,26.5,7.39,open,,,,
+485,2026-10-03T19:20:33.524801+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Liudmila Samsonova,Karolina Muchova,Karolina Muchova,0.847,0.792,1.26,7.0,26.5,7.39,open,,,1.278,
