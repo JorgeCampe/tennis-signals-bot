@@ -1,8 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-10-04T01:54:53.694387+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T14:00:00Z,Alexander Zverev,Novak Djokovic,Novak Djokovic,0.512,0.304,3.29,68.0,29.8,16.35,96932.97,KXATPMATCH-26OCT04ZVEDJO
-2026-10-04T01:54:53.694387+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Diana Shnaider,Ekaterina Alexandrova,Ekaterina Alexandrova,0.452,0.345,2.9,30.9,16.3,8.94,12136.57,KXWTAMATCH-26OCT03ALESHN
-2026-10-04T01:54:53.694387+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T06:00:00Z,Andrey Rublev,Alex de Minaur,Alex de Minaur,0.637,0.547,1.83,16.3,19.7,10.82,71704.64,KXATPMATCH-26OCT03DERUB
-2026-10-04T01:54:53.694387+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T11:30:00Z,Daniil Medvedev,Francisco Cerundolo,Francisco Cerundolo,0.35,0.315,3.18,11.2,5.2,2.83,34464.9,KXATPMATCH-26OCT04MEDCER
-2026-10-04T01:54:53.694387+00:00,ATP,ATP Tokyo Quarterfinal,Hard,2026-10-04T05:00:00Z,Jaume Munar,Kyrian Jacquet,Jaume Munar,0.675,0.607,1.65,11.2,17.2,9.46,148216.32,KXATPMATCH-26OCT03MUNJAC
-2026-10-04T01:54:53.694387+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Daria Snigur,Taylah Preston,Taylah Preston,0.442,0.407,2.46,8.7,6.0,3.27,2722.2,KXWTAMATCH-26OCT03SNIPRE
-2026-10-04T01:54:53.694387+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Liudmila Samsonova,Karolina Muchova,Karolina Muchova,0.847,0.792,1.26,7.0,26.5,14.57,8025.78,KXWTAMATCH-26OCT03MUCSAM
+2026-10-04T07:57:02.790772+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T06:00:00Z,Andrey Rublev,Alex de Minaur,Alex de Minaur,0.637,0.356,2.81,78.9,43.6,24.22,1755039.39,KXATPMATCH-26OCT03DERUB
+2026-10-04T07:57:02.790772+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T14:00:00Z,Alexander Zverev,Novak Djokovic,Novak Djokovic,0.512,0.325,3.08,57.4,27.6,15.35,243356.14,KXATPMATCH-26OCT04ZVEDJO
+2026-10-04T07:57:02.790772+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T11:30:00Z,Daniil Medvedev,Francisco Cerundolo,Francisco Cerundolo,0.35,0.315,3.18,11.2,5.2,2.87,140659.88,KXATPMATCH-26OCT04MEDCER
+2026-10-04T07:57:02.790772+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-05T06:00:00Z,Belinda Bencic,Ann Li,Belinda Bencic,0.764,0.695,1.44,9.8,22.4,12.42,1855.85,KXWTAMATCH-26OCT04BENANN
+2026-10-04T07:57:02.790772+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Liudmila Samsonova,Karolina Muchova,Karolina Muchova,0.847,0.802,1.25,5.6,22.8,12.65,29212.37,KXWTAMATCH-26OCT03MUCSAM

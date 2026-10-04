@@ -480,7 +480,8 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 479,2026-10-01T23:46:50.877454+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Peyton Stearns,Viktorija Golubic,Viktorija Golubic,0.466,0.437,2.29,6.7,5.2,1.36,won,2026-10-02T10:57:26.781383+00:00,1.75,2.236,2.4
 480,2026-10-02T04:51:33.563720+00:00,ATP,ATP Beijing Round Of 16,Hard,2026-10-03T06:00:00Z,Roman Safiullin,Andrey Rublev,Andrey Rublev,0.706,0.577,1.73,22.3,30.4,5.37,won,2026-10-03T11:55:49.347147+00:00,3.92,1.152,50.2
 481,2026-10-02T16:35:17.063628+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Ashlyn Krueger,Ann Li,Ashlyn Krueger,0.506,0.457,2.19,10.8,9.1,2.44,lost,2026-10-03T06:13:06.437169+00:00,-2.44,2.14,2.3
-482,2026-10-03T06:13:06.437169+00:00,ATP,ATP Tokyo Quarterfinal,Hard,2026-10-04T05:00:00Z,Jaume Munar,Kyrian Jacquet,Jaume Munar,0.675,0.617,1.62,9.3,15.0,4.09,open,,,1.648,
+482,2026-10-03T06:13:06.437169+00:00,ATP,ATP Tokyo Quarterfinal,Hard,2026-10-04T05:00:00Z,Jaume Munar,Kyrian Jacquet,Jaume Munar,0.675,0.617,1.62,9.3,15.0,4.09,won,2026-10-04T07:56:57.719858+00:00,2.54,1.648,-1.7
 483,2026-10-03T06:13:06.437169+00:00,WTA,WTA Beijing Round Of 64,Hard,2026-10-02T06:00:00Z,Jelena Ostapenko,Paula Badosa,Paula Badosa,0.51,0.467,2.14,9.0,7.9,2.15,lost,2026-10-03T11:55:49.347147+00:00,-2.15,,
-484,2026-10-03T16:01:30.143552+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T06:00:00Z,Andrey Rublev,Alex de Minaur,Alex de Minaur,0.637,0.577,1.73,10.2,14.0,3.84,open,,,1.827,
-485,2026-10-03T19:20:33.524801+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Liudmila Samsonova,Karolina Muchova,Karolina Muchova,0.847,0.792,1.26,7.0,26.5,7.39,open,,,1.263,
+484,2026-10-03T16:01:30.143552+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T06:00:00Z,Andrey Rublev,Alex de Minaur,Alex de Minaur,0.637,0.577,1.73,10.2,14.0,3.84,open,,,2.811,
+485,2026-10-03T19:20:33.524801+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Liudmila Samsonova,Karolina Muchova,Karolina Muchova,0.847,0.792,1.26,7.0,26.5,7.39,open,,,1.247,
+486,2026-10-04T07:56:57.719858+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-05T06:00:00Z,Belinda Bencic,Ann Li,Belinda Bencic,0.764,0.695,1.44,9.8,22.4,6.19,open,,,,
