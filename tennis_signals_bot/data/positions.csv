@@ -485,8 +485,10 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 484,2026-10-03T16:01:30.143552+00:00,ATP,ATP Beijing Quarterfinal,Hard,2026-10-04T06:00:00Z,Andrey Rublev,Alex de Minaur,Alex de Minaur,0.637,0.577,1.73,10.2,14.0,3.84,won,2026-10-04T13:53:22.404644+00:00,2.8,2.811,-38.5
 485,2026-10-03T19:20:33.524801+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-04T06:00:00Z,Liudmila Samsonova,Karolina Muchova,Karolina Muchova,0.847,0.792,1.26,7.0,26.5,7.39,won,2026-10-04T18:02:34.989123+00:00,1.92,1.247,1.0
 486,2026-10-04T07:56:57.719858+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-05T06:00:00Z,Belinda Bencic,Ann Li,Belinda Bencic,0.764,0.695,1.44,9.8,22.4,6.19,open,,,1.38,
-487,2026-10-04T13:53:22.404644+00:00,ATP,ATP Beijing Semifinal,Hard,2026-10-05T10:00:00Z,Hubert Hurkacz,Alex de Minaur,Alex de Minaur,0.742,0.587,1.7,26.4,37.6,6.03,open,,,1.732,
+487,2026-10-04T13:53:22.404644+00:00,ATP,ATP Beijing Semifinal,Hard,2026-10-05T10:00:00Z,Hubert Hurkacz,Alex de Minaur,Alex de Minaur,0.742,0.587,1.7,26.4,37.6,6.03,open,,,1.621,
 488,2026-10-04T18:02:34.989123+00:00,ATP,ATP Beijing Semifinal,Hard,2026-10-05T14:00:00Z,Daniil Medvedev,Novak Djokovic,Novak Djokovic,0.631,0.447,2.24,41.1,33.2,3.43,open,,,2.14,
-489,2026-10-04T18:02:34.989123+00:00,ATP,ATP Shanghai Qualification Round 1,Hard,2026-10-05T07:00:00Z,Shintaro Mochizuki,Taro Daniel,Shintaro Mochizuki,0.608,0.457,2.19,33.0,27.8,3.58,open,,,2.187,
-490,2026-10-04T18:02:34.989123+00:00,ATP,ATP Shanghai Qualification Round 1,Hard,2026-10-05T07:00:00Z,Dane Sweeny,Tristan Schoolkate,Dane Sweeny,0.57,0.437,2.29,30.4,23.6,3.3,open,,,2.236,
-491,2026-10-04T18:02:34.989123+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-05T06:00:00Z,Qinwen Zheng,Marie Bouzkova,Marie Bouzkova,0.482,0.457,2.19,5.4,4.6,1.29,open,,,2.236,
+489,2026-10-04T18:02:34.989123+00:00,ATP,ATP Shanghai Qualification Round 1,Hard,2026-10-05T07:00:00Z,Shintaro Mochizuki,Taro Daniel,Shintaro Mochizuki,0.608,0.457,2.19,33.0,27.8,3.58,won,2026-10-05T06:40:03.946566+00:00,4.26,2.187,0.1
+490,2026-10-04T18:02:34.989123+00:00,ATP,ATP Shanghai Qualification Round 1,Hard,2026-10-05T07:00:00Z,Dane Sweeny,Tristan Schoolkate,Dane Sweeny,0.57,0.437,2.29,30.4,23.6,3.3,open,,,2.187,
+491,2026-10-04T18:02:34.989123+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-05T06:00:00Z,Qinwen Zheng,Marie Bouzkova,Marie Bouzkova,0.482,0.457,2.19,5.4,4.6,1.29,open,,,2.399,
+492,2026-10-05T06:40:03.946566+00:00,ATP,ATP Shanghai Qualification Round 1,Hard,2026-10-05T07:00:00Z,Bernard Tomic,Terence Atmane,Terence Atmane,0.647,0.457,2.19,41.4,34.9,3.64,open,,,,
+493,2026-10-05T06:40:03.946566+00:00,WTA,WTA Beijing Round Of 32,Hard,2026-10-05T06:00:00Z,Kamilla Rakhimova,Iva Jovic,Iva Jovic,0.831,0.763,1.31,8.9,28.6,8.3,open,,,,
