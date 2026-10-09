@@ -512,9 +512,11 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 511,2026-10-07T07:06:13.780505+00:00,ATP,ATP Shanghai Round Of 128,Hard,2026-10-06T07:00:00Z,Kamil Majchrzak,Yannick Hanfmann,Yannick Hanfmann,0.484,0.437,2.29,10.9,8.4,2.61,won,2026-10-07T14:40:22.970383+00:00,3.37,,
 512,2026-10-07T07:06:13.780505+00:00,ATP,ATP Shanghai Round Of 128,Hard,2026-10-07T07:00:00Z,Coleman Wong,Quentin Halys,Coleman Wong,0.495,0.467,2.14,5.9,5.2,1.6,lost,2026-10-07T14:40:22.970383+00:00,-1.6,,
 513,2026-10-07T14:40:22.970383+00:00,ATP,ATP Shanghai Round Of 128,Hard,2026-10-07T07:00:00Z,Pavel Kotov,Tallon Griekspoor,Tallon Griekspoor,0.724,0.685,1.46,5.6,12.3,3.86,lost,2026-10-08T07:08:28.571910+00:00,-3.86,1.459,0.1
-514,2026-10-08T07:08:28.571910+00:00,WTA,WTA Beijing Quarterfinal,Hard,2026-10-09T08:00:00Z,Qinwen Zheng,Elina Svitolina,Elina Svitolina,0.686,0.597,1.68,15.0,22.2,6.66,open,,,1.675,
-515,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T07:00:00Z,Ugo Humbert,Arthur Gea,Ugo Humbert,0.772,0.487,2.05,58.4,55.5,3.99,open,,,2.01,
+514,2026-10-08T07:08:28.571910+00:00,WTA,WTA Beijing Quarterfinal,Hard,2026-10-09T08:00:00Z,Qinwen Zheng,Elina Svitolina,Elina Svitolina,0.686,0.597,1.68,15.0,22.2,6.66,open,,,2.733,
+515,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T07:00:00Z,Ugo Humbert,Arthur Gea,Ugo Humbert,0.772,0.487,2.05,58.4,55.5,3.99,lost,2026-10-09T07:51:05.064197+00:00,-3.99,2.01,2.0
 516,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T07:00:00Z,Roman Safiullin,Francisco Cerundolo,Francisco Cerundolo,0.741,0.527,1.9,40.5,45.2,4.65,open,,,1.896,
-517,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T05:00:00Z,Hubert Hurkacz,Novak Djokovic,Novak Djokovic,0.861,0.627,1.6,37.5,62.9,6.98,open,,,1.524,
-518,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T07:00:00Z,Brandon Nakashima,Matteo Berrettini,Matteo Berrettini,0.494,0.437,2.29,13.0,10.1,2.81,open,,,2.288,
-519,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T07:00:00Z,Alex Molcan,Alex de Minaur,Alex de Minaur,0.808,0.734,1.36,10.0,27.8,7.75,open,,,1.344,
+517,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T05:00:00Z,Hubert Hurkacz,Novak Djokovic,Novak Djokovic,0.861,0.627,1.6,37.5,62.9,6.98,open,,,1.48,
+518,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T07:00:00Z,Brandon Nakashima,Matteo Berrettini,Matteo Berrettini,0.494,0.437,2.29,13.0,10.1,2.81,lost,2026-10-09T07:51:05.064197+00:00,-2.81,2.288,0.1
+519,2026-10-08T14:48:00.338767+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T07:00:00Z,Alex Molcan,Alex de Minaur,Alex de Minaur,0.808,0.734,1.36,10.0,27.8,7.75,won,2026-10-09T07:51:05.064197+00:00,2.79,1.362,-0.1
+520,2026-10-09T07:51:05.064197+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T05:00:00Z,Yunchaokete Bu,Casper Ruud,Casper Ruud,0.761,0.607,1.65,25.4,39.2,6.33,open,,,,
+521,2026-10-09T07:51:05.064197+00:00,WTA,WTA Beijing Semifinal,Hard,2026-10-10T09:00:00Z,Nikola Bartunkova,Mirra Andreeva,Mirra Andreeva,0.776,0.705,1.42,10.1,24.2,6.59,open,,,,
