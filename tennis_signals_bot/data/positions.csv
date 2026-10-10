@@ -529,4 +529,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 528,2026-10-10T00:14:18.661789+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-10T05:00:00Z,Brandon Nakashima,Alexander Bublik,Alexander Bublik,0.57,0.437,2.29,30.3,23.5,3.05,open,,,2.236,
 529,2026-10-10T00:14:18.661789+00:00,WTA,WTA Wuhan Qualification Round 1,Hard,2026-10-10T05:00:00Z,Anastasia Zakharova,Zeynep Sonmez,Zeynep Sonmez,0.569,0.537,1.86,5.9,6.8,1.8,won,2026-10-10T12:55:15.103162+00:00,1.55,1.794,3.7
 530,2026-10-10T00:14:18.661789+00:00,WTA,WTA Wuhan Qualification Round 1,Hard,2026-10-10T05:00:00Z,Anna Bondar,Lois Boisson,Lois Boisson,0.587,0.557,1.79,5.2,6.6,1.73,lost,2026-10-10T12:55:15.103162+00:00,-1.73,1.794,-0.2
-531,2026-10-10T12:55:15.103162+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T05:00:00Z,Zeynep Sonmez,Sinja Kraus,Zeynep Sonmez,0.7,0.637,1.57,9.9,17.3,4.5,open,,,,
+531,2026-10-10T12:55:15.103162+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T05:00:00Z,Zeynep Sonmez,Sinja Kraus,Zeynep Sonmez,0.7,0.637,1.57,9.9,17.3,4.5,open,,,1.596,
+532,2026-10-10T17:42:39.827302+00:00,WTA,WTA Beijing Final,Hard,2026-10-11T14:30:00Z,Qinwen Zheng,Mirra Andreeva,Mirra Andreeva,0.713,0.646,1.55,10.2,18.7,4.81,open,,,,
+533,2026-10-10T17:42:39.827302+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-11T05:00:00Z,Pablo Carreno Busta,Felix Auger-Aliassime,Felix Auger-Aliassime,0.814,0.763,1.31,6.6,21.4,5.52,open,,,,
