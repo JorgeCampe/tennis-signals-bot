@@ -521,7 +521,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 520,2026-10-09T07:51:05.064197+00:00,ATP,ATP Shanghai Round Of 64,Hard,2026-10-09T05:00:00Z,Yunchaokete Bu,Casper Ruud,Casper Ruud,0.761,0.607,1.65,25.4,39.2,6.33,won,2026-10-10T12:55:15.103162+00:00,4.11,1.97,-16.2
 521,2026-10-09T07:51:05.064197+00:00,WTA,WTA Beijing Semifinal,Hard,2026-10-10T09:00:00Z,Nikola Bartunkova,Mirra Andreeva,Mirra Andreeva,0.776,0.705,1.42,10.1,24.2,6.59,won,2026-10-10T12:55:15.103162+00:00,2.77,1.418,0.1
 522,2026-10-09T15:06:06.352872+00:00,WTA,WTA Beijing Semifinal,Hard,2026-10-10T14:00:00Z,Qinwen Zheng,Elise Mertens,Elise Mertens,0.531,0.457,2.19,16.2,13.7,3.31,lost,2026-10-10T12:55:15.103162+00:00,-3.31,2.236,-2.1
-523,2026-10-09T15:06:06.352872+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-10T07:00:00Z,Ben Shelton,Arthur Gea,Ben Shelton,0.839,0.744,1.34,12.7,36.9,9.8,open,,,1.362,
+523,2026-10-09T15:06:06.352872+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-10T07:00:00Z,Ben Shelton,Arthur Gea,Ben Shelton,0.839,0.744,1.34,12.7,36.9,9.8,open,,,1.344,
 524,2026-10-09T20:15:29.363116+00:00,WTA,WTA Wuhan Qualification Round 1,Hard,2026-10-10T05:00:00Z,Magda Linette,Sinja Kraus,Magda Linette,0.746,0.547,1.83,36.3,43.9,4.74,lost,2026-10-10T12:55:15.103162+00:00,-4.74,1.794,2.0
 525,2026-10-09T20:15:29.363116+00:00,WTA,WTA Wuhan Qualification Round 1,Hard,2026-10-10T05:00:00Z,Kamilla Rakhimova,Sofia Kenin,Sofia Kenin,0.536,0.437,2.29,22.6,17.6,3.05,lost,2026-10-10T12:55:15.103162+00:00,-3.05,2.187,4.7
 526,2026-10-09T20:15:29.363116+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-10T05:00:00Z,Rei Sakamoto,Alex de Minaur,Alex de Minaur,0.851,0.715,1.4,19.1,47.8,9.83,open,,,1.38,
@@ -530,6 +530,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 529,2026-10-10T00:14:18.661789+00:00,WTA,WTA Wuhan Qualification Round 1,Hard,2026-10-10T05:00:00Z,Anastasia Zakharova,Zeynep Sonmez,Zeynep Sonmez,0.569,0.537,1.86,5.9,6.8,1.8,won,2026-10-10T12:55:15.103162+00:00,1.55,1.794,3.7
 530,2026-10-10T00:14:18.661789+00:00,WTA,WTA Wuhan Qualification Round 1,Hard,2026-10-10T05:00:00Z,Anna Bondar,Lois Boisson,Lois Boisson,0.587,0.557,1.79,5.2,6.6,1.73,lost,2026-10-10T12:55:15.103162+00:00,-1.73,1.794,-0.2
 531,2026-10-10T12:55:15.103162+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T05:00:00Z,Zeynep Sonmez,Sinja Kraus,Zeynep Sonmez,0.7,0.637,1.57,9.9,17.3,4.5,open,,,1.596,
-532,2026-10-10T17:42:39.827302+00:00,WTA,WTA Beijing Final,Hard,2026-10-11T14:30:00Z,Qinwen Zheng,Mirra Andreeva,Mirra Andreeva,0.713,0.646,1.55,10.2,18.7,4.81,open,,,1.524,
+532,2026-10-10T17:42:39.827302+00:00,WTA,WTA Beijing Final,Hard,2026-10-11T14:30:00Z,Qinwen Zheng,Mirra Andreeva,Mirra Andreeva,0.713,0.646,1.55,10.2,18.7,4.81,open,,,1.547,
 533,2026-10-10T17:42:39.827302+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-11T05:00:00Z,Pablo Carreno Busta,Felix Auger-Aliassime,Felix Auger-Aliassime,0.814,0.763,1.31,6.6,21.4,5.52,open,,,1.294,
-534,2026-10-10T21:21:46.305730+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T07:30:00Z,Mananchaya Sawangkaew,Anna Bondar,Mananchaya Sawangkaew,0.586,0.477,2.1,22.8,20.8,3.54,open,,,,
+534,2026-10-10T21:21:46.305730+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T07:30:00Z,Mananchaya Sawangkaew,Anna Bondar,Mananchaya Sawangkaew,0.586,0.477,2.1,22.8,20.8,3.54,open,,,2.095,
+535,2026-10-11T00:22:13.309010+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T07:10:00Z,Lanlana Tararudee,Caty McNally,Caty McNally,0.597,0.567,1.76,5.3,6.9,1.81,open,,,,
