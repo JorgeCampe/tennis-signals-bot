@@ -534,12 +534,15 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 533,2026-10-10T17:42:39.827302+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-11T05:00:00Z,Pablo Carreno Busta,Felix Auger-Aliassime,Felix Auger-Aliassime,0.814,0.763,1.31,6.6,21.4,5.52,won,2026-10-12T08:51:22.197894+00:00,1.71,1.294,1.2
 534,2026-10-10T21:21:46.305730+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T07:30:00Z,Mananchaya Sawangkaew,Anna Bondar,Mananchaya Sawangkaew,0.586,0.477,2.1,22.8,20.8,3.54,won,2026-10-11T13:19:09.556862+00:00,3.89,1.932,8.7
 535,2026-10-11T00:22:13.309010+00:00,WTA,WTA Wuhan Qualification Final,Hard,2026-10-11T07:10:00Z,Lanlana Tararudee,Caty McNally,Caty McNally,0.597,0.567,1.76,5.3,6.9,1.81,won,2026-10-11T13:19:09.556862+00:00,1.38,2.342,-24.9
-536,2026-10-11T13:19:09.556862+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-12T05:00:00Z,Jakub Mensik,Arthur Gea,Jakub Mensik,0.823,0.656,1.52,25.3,48.4,7.69,open,,,1.524,
+536,2026-10-11T13:19:09.556862+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-12T05:00:00Z,Jakub Mensik,Arthur Gea,Jakub Mensik,0.823,0.656,1.52,25.3,48.4,7.69,open,,,1.621,
 537,2026-10-11T13:19:09.556862+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-12T07:00:00Z,Stefanos Tsitsipas,Taylor Fritz,Taylor Fritz,0.72,0.627,1.6,14.9,25.0,6.62,lost,2026-10-12T08:51:22.197894+00:00,-6.62,1.596,0.3
 538,2026-10-11T13:19:09.556862+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Sonay Kartal,Anhelina Kalinina,Sonay Kartal,0.692,0.637,1.57,8.6,15.1,4.02,won,2026-10-12T08:51:22.197894+00:00,2.29,1.596,-1.6
 539,2026-10-11T18:20:31.992520+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Jasmine Paolini,Sara Bejlek,Jasmine Paolini,0.612,0.498,2.01,23.0,22.8,3.87,won,2026-10-12T08:51:22.197894+00:00,3.91,2.01,0.0
 540,2026-10-11T18:20:31.992520+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Leylah Fernandez,Ekaterina Alexandrova,Ekaterina Alexandrova,0.645,0.547,1.83,17.9,21.7,4.71,lost,2026-10-12T08:51:22.197894+00:00,-4.71,1.794,2.0
-541,2026-10-11T18:20:31.992520+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-12T07:00:00Z,Valentin Vacherot,Tommy Paul,Valentin Vacherot,0.481,0.437,2.29,10.1,7.8,2.04,open,,,2.342,
-542,2026-10-11T22:19:12.184966+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Dayana Yastremska,Cristina Bucsa,Cristina Bucsa,0.53,0.457,2.19,16.0,13.5,3.29,open,,,2.01,
-543,2026-10-11T22:19:12.184966+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Zeynep Sonmez,Yulia Putintseva,Zeynep Sonmez,0.516,0.487,2.05,6.0,5.7,1.49,open,,,2.052,
-544,2026-10-12T08:51:22.197894+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-12T05:00:00Z,Karen Khachanov,Alex de Minaur,Alex de Minaur,0.7,0.587,1.7,19.2,27.3,5.49,open,,,,
+541,2026-10-11T18:20:31.992520+00:00,ATP,ATP Shanghai Round Of 32,Hard,2026-10-12T07:00:00Z,Valentin Vacherot,Tommy Paul,Valentin Vacherot,0.481,0.437,2.29,10.1,7.8,2.04,lost,2026-10-12T18:46:33.196361+00:00,-2.04,2.342,-2.2
+542,2026-10-11T22:19:12.184966+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Dayana Yastremska,Cristina Bucsa,Cristina Bucsa,0.53,0.457,2.19,16.0,13.5,3.29,open,,,2.052,
+543,2026-10-11T22:19:12.184966+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Zeynep Sonmez,Yulia Putintseva,Zeynep Sonmez,0.516,0.487,2.05,6.0,5.7,1.49,open,,,2.095,
+544,2026-10-12T08:51:22.197894+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-12T05:00:00Z,Karen Khachanov,Alex de Minaur,Alex de Minaur,0.7,0.587,1.7,19.2,27.3,5.49,open,,,1.763,
+545,2026-10-12T18:46:33.196361+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-13T07:00:00Z,Hubert Hurkacz,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.644,0.498,2.01,29.4,29.2,3.77,open,,,,
+546,2026-10-12T18:46:33.196361+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-13T08:20:00Z,Maria Sakkari,Marta Kostyuk,Marta Kostyuk,0.788,0.676,1.48,16.7,34.8,7.93,open,,,,
+547,2026-10-12T18:46:33.196361+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-12T05:00:00Z,Katerina Siniakova,Liudmila Samsonova,Katerina Siniakova,0.564,0.487,2.05,15.7,15.0,3.63,open,,,,
