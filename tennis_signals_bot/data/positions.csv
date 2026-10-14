@@ -549,8 +549,8 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 548,2026-10-13T01:09:50.531337+00:00,WTA,WTA Wuhan Round Of 64,Hard,2026-10-13T14:00:00Z,Shuai Zhang,Ashlyn Krueger,Shuai Zhang,0.47,0.437,2.29,7.5,5.9,1.48,lost,2026-10-13T16:17:48.626691+00:00,-1.48,2.187,4.7
 549,2026-10-13T01:09:50.531337+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-12T05:00:00Z,Alexander Zverev,Alexander Bublik,Alexander Zverev,0.776,0.725,1.38,7.2,18.8,4.81,won,2026-10-13T16:17:48.626691+00:00,1.83,1.362,1.3
 550,2026-10-13T08:14:42.909163+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-14T07:00:00Z,Stefanos Tsitsipas,Daniil Medvedev,Daniil Medvedev,0.79,0.705,1.42,12.1,28.9,6.92,open,,,1.438,
-551,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Jasmine Paolini,Nikola Bartunkova,Jasmine Paolini,0.603,0.437,2.29,38.1,29.6,2.72,open,,,2.187,
-552,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Jessica Pegula,Jelena Ostapenko,Jessica Pegula,0.821,0.705,1.42,16.4,39.3,8.35,open,,,1.418,
-553,2026-10-13T16:17:48.626691+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-14T07:00:00Z,Casper Ruud,Felix Auger-Aliassime,Felix Auger-Aliassime,0.673,0.607,1.65,11.0,17.0,3.96,open,,,1.648,
+551,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Jasmine Paolini,Nikola Bartunkova,Jasmine Paolini,0.603,0.437,2.29,38.1,29.6,2.72,open,,,2.983,
+552,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Jessica Pegula,Jelena Ostapenko,Jessica Pegula,0.821,0.705,1.42,16.4,39.3,8.35,open,,,1.344,
+553,2026-10-13T16:17:48.626691+00:00,ATP,ATP Shanghai Round Of 16,Hard,2026-10-14T07:00:00Z,Casper Ruud,Felix Auger-Aliassime,Felix Auger-Aliassime,0.673,0.607,1.65,11.0,17.0,3.96,open,,,1.675,
 554,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Aryna Sabalenka,Ann Li,Aryna Sabalenka,0.923,0.85,1.18,8.6,48.8,11.17,open,,,1.164,
-555,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Elina Svitolina,Liudmila Samsonova,Elina Svitolina,0.784,0.734,1.36,6.8,18.7,4.42,open,,,1.344,
+555,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Elina Svitolina,Liudmila Samsonova,Elina Svitolina,0.784,0.734,1.36,6.8,18.7,4.42,won,2026-10-14T05:55:54.551162+00:00,1.59,1.344,1.2
