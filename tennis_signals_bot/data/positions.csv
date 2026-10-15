@@ -556,4 +556,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 555,2026-10-13T16:17:48.626691+00:00,WTA,WTA Wuhan Round Of 32,Hard,2026-10-14T06:00:00Z,Elina Svitolina,Liudmila Samsonova,Elina Svitolina,0.784,0.734,1.36,6.8,18.7,4.42,won,2026-10-14T05:55:54.551162+00:00,1.59,1.344,1.2
 556,2026-10-14T11:33:34.724503+00:00,ATP,ATP Shanghai Quarterfinal,Hard,2026-10-15T07:00:00Z,Arthur Gea,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.756,0.557,1.79,35.7,45.0,4.27,won,2026-10-15T09:01:26.547225+00:00,3.37,1.896,-5.6
 557,2026-10-14T11:33:34.724503+00:00,WTA,WTA Wuhan Round Of 16,Hard,2026-10-15T06:00:00Z,Diana Shnaider,Karolina Muchova,Karolina Muchova,0.782,0.587,1.7,33.2,47.2,4.82,lost,2026-10-15T09:01:26.547225+00:00,-4.82,1.502,13.2
-558,2026-10-14T20:31:15.610181+00:00,WTA,WTA Wuhan Round Of 16,Hard,2026-10-15T10:00:00Z,Jelena Ostapenko,Leylah Fernandez,Jelena Ostapenko,0.653,0.487,2.05,33.9,32.2,3.06,open,,,2.659,
+558,2026-10-14T20:31:15.610181+00:00,WTA,WTA Wuhan Round Of 16,Hard,2026-10-15T10:00:00Z,Jelena Ostapenko,Leylah Fernandez,Jelena Ostapenko,0.653,0.487,2.05,33.9,32.2,3.06,won,2026-10-15T14:19:15.789259+00:00,3.21,2.659,-22.9
+559,2026-10-15T14:19:15.789259+00:00,WTA,WTA Wuhan Quarterfinal,Hard,2026-10-16T06:00:00Z,Maria Sakkari,Maja Chwalinska,Maja Chwalinska,0.593,0.467,2.14,26.9,23.6,2.85,open,,,,
