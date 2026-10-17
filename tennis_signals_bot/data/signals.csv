@@ -1,7 +1,8 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-10-16T21:59:14.361379+00:00,WTA,WTA Osaka Qualification Round 1,Hard,2026-10-17T07:50:00Z,Heather Watson,Emerson Jones,Heather Watson,0.406,0.273,3.66,48.7,18.3,7.97,10128.86,KXWTAMATCH-26OCT17WATJON
-2026-10-16T21:59:14.361379+00:00,ATP,ATP Almaty Qualification Round 1,Hard,2026-10-17T10:10:00Z,Taro Daniel,Nikoloz Basilashvili,Taro Daniel,0.475,0.366,2.73,30.0,17.3,7.52,41589.85,KXATPMATCH-26OCT17DANBAS
-2026-10-16T21:59:14.361379+00:00,WTA,WTA Ningbo Qualification Round 1,Hard,2026-10-17T05:00:00Z,Simona Waltert,Anhelina Kalinina,Simona Waltert,0.447,0.345,2.9,29.4,15.5,6.75,17131.64,KXWTAMATCH-26OCT16KALWAL
-2026-10-16T21:59:14.361379+00:00,WTA,WTA Osaka Qualification Round 1,Hard,2026-10-17T07:50:00Z,Sara Sorribes Tormo,Maddison Inglis,Sara Sorribes Tormo,0.583,0.477,2.1,22.0,20.1,8.76,17391.23,KXWTAMATCH-26OCT17SORING
-2026-10-16T21:59:14.361379+00:00,WTA,WTA Ningbo Qualification Round 1,Hard,2026-10-17T05:00:00Z,Dayana Yastremska,Kamilla Rakhimova,Dayana Yastremska,0.606,0.527,1.9,14.9,16.6,7.24,29119.92,KXWTAMATCH-26OCT16YASRAK
-2026-10-16T21:59:14.361379+00:00,WTA,WTA Ningbo Qualification Round 1,Hard,2026-10-17T05:00:00Z,Anastasia Zakharova,Yuliia Starodubtseva,Anastasia Zakharova,0.508,0.457,2.19,11.0,9.3,4.03,4041.34,KXWTAMATCH-26OCT16STAZAK
+2026-10-17T00:19:28.177970+00:00,WTA,WTA Osaka Qualification Round 1,Hard,2026-10-17T07:50:00Z,Heather Watson,Emerson Jones,Heather Watson,0.406,0.273,3.66,48.7,18.3,7.97,10679.86,KXWTAMATCH-26OCT17WATJON
+2026-10-17T00:19:28.177970+00:00,ATP,ATP Almaty Qualification Round 1,Hard,2026-10-17T09:00:00Z,Harold Mayot,Gabriel Diallo,Gabriel Diallo,0.653,0.498,2.01,31.4,31.0,13.51,615.42,KXATPMATCH-26OCT17DIAMAY
+2026-10-17T00:19:28.177970+00:00,ATP,ATP Almaty Qualification Round 1,Hard,2026-10-17T10:10:00Z,Taro Daniel,Nikoloz Basilashvili,Taro Daniel,0.475,0.366,2.73,30.0,17.3,7.52,41615.59,KXATPMATCH-26OCT17DANBAS
+2026-10-17T00:19:28.177970+00:00,WTA,WTA Ningbo Qualification Round 1,Hard,2026-10-17T05:00:00Z,Simona Waltert,Anhelina Kalinina,Simona Waltert,0.447,0.345,2.9,29.4,15.5,6.75,17432.91,KXWTAMATCH-26OCT16KALWAL
+2026-10-17T00:19:28.177970+00:00,WTA,WTA Osaka Qualification Round 1,Hard,2026-10-17T07:50:00Z,Sara Sorribes Tormo,Maddison Inglis,Sara Sorribes Tormo,0.583,0.467,2.14,24.7,21.6,9.41,21302.27,KXWTAMATCH-26OCT17SORING
+2026-10-17T00:19:28.177970+00:00,WTA,WTA Ningbo Qualification Round 1,Hard,2026-10-17T05:00:00Z,Dayana Yastremska,Kamilla Rakhimova,Dayana Yastremska,0.606,0.527,1.9,14.9,16.6,7.24,29418.86,KXWTAMATCH-26OCT16YASRAK
+2026-10-17T00:19:28.177970+00:00,WTA,WTA Ningbo Qualification Round 1,Hard,2026-10-17T05:00:00Z,Anastasia Zakharova,Yuliia Starodubtseva,Anastasia Zakharova,0.508,0.457,2.19,11.0,9.3,4.03,4554.64,KXWTAMATCH-26OCT16STAZAK
