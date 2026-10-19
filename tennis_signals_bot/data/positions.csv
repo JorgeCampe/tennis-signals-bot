@@ -582,3 +582,4 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 581,2026-10-18T16:44:17.467960+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-19T11:00:00Z,Aliaksandra Sasnovich,Daria Kasatkina,Daria Kasatkina,0.562,0.477,2.1,17.8,16.3,2.75,open,,,2.14,
 582,2026-10-18T16:44:17.467960+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-18T11:00:00Z,Cameron Norrie,Benjamin Bonzi,Cameron Norrie,0.62,0.587,1.7,5.6,7.9,1.61,open,,,1.763,
 583,2026-10-18T19:19:07.276928+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-19T05:30:00Z,Moyuka Uchijima,Ena Shibahara,Ena Shibahara,0.555,0.437,2.29,27.1,21.0,2.35,open,,,2.288,
+584,2026-10-19T00:00:01.079103+00:00,ATP,ATP Almaty Round Of 32,Hard,2026-10-18T14:40:00Z,Marin Cilic,Nikoloz Basilashvili,Marin Cilic,0.691,0.437,2.29,58.1,45.1,2.35,open,,,,
