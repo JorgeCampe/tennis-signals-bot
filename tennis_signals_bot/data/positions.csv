@@ -569,7 +569,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 568,2026-10-17T16:36:00.752256+00:00,WTA,WTA Osaka Qualification Final,Hard,2026-10-18T04:00:00Z,Maya Joint,Kayla Day,Maya Joint,0.639,0.577,1.73,10.6,14.5,3.14,won,2026-10-18T08:42:35.140585+00:00,2.29,1.502,15.2
 569,2026-10-17T16:36:00.752256+00:00,WTA,WTA Ningbo Qualification Final,Hard,2026-10-18T07:10:00Z,Aliaksandra Sasnovich,Anhelina Kalinina,Anhelina Kalinina,0.472,0.437,2.29,8.0,6.2,1.34,lost,2026-10-18T08:42:35.140585+00:00,-1.34,2.288,0.1
 570,2026-10-17T16:36:00.752256+00:00,ATP,ATP Shanghai Final,Hard,2026-10-18T11:30:00Z,Rafael Jodar,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.503,0.467,2.14,7.6,6.7,1.44,won,2026-10-18T13:05:18.392227+00:00,1.64,2.052,4.3
-571,2026-10-17T19:06:21.388941+00:00,ATP,ATP Almaty Round Of 32,Hard,2026-10-18T09:00:00Z,Rinky Hijikata,Terence Atmane,Terence Atmane,0.557,0.527,1.9,5.6,6.3,1.35,open,,,2.052,
+571,2026-10-17T19:06:21.388941+00:00,ATP,ATP Almaty Round Of 32,Hard,2026-10-18T09:00:00Z,Rinky Hijikata,Terence Atmane,Terence Atmane,0.557,0.527,1.9,5.6,6.3,1.35,won,2026-10-20T11:10:19.193119+00:00,1.21,2.052,-7.4
 572,2026-10-17T21:38:30.818968+00:00,ATP,ATP Brussels Round Of 32,Hard,2026-10-18T13:30:00Z,Holger Rune,Raphael Collignon,Holger Rune,0.665,0.597,1.68,11.3,16.7,3.59,open,,,1.596,
 573,2026-10-18T03:47:25.153444+00:00,WTA,WTA Ningbo Qualification Final,Hard,2026-10-18T05:00:00Z,Anastasia Zakharova,Polina Kudermetova,Anastasia Zakharova,0.562,0.447,2.24,25.7,20.8,2.62,lost,2026-10-18T08:42:35.140585+00:00,-2.62,,
 574,2026-10-18T08:42:35.140585+00:00,ATP,ATP Almaty Round Of 32,Hard,2026-10-18T09:00:00Z,Tomas Martin Etcheverry,Mattia Bellucci,Tomas Martin Etcheverry,0.604,0.537,1.86,12.4,14.4,2.93,open,,,1.97,
@@ -577,22 +577,24 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 576,2026-10-18T13:05:18.392227+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-19T07:00:00Z,Elise Mertens,Leylah Fernandez,Elise Mertens,0.729,0.587,1.7,24.1,34.4,4.39,lost,2026-10-19T10:13:20.036161+00:00,-4.39,1.399,21.5
 577,2026-10-18T13:05:18.392227+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-18T11:00:00Z,Lorenzo Musetti,Matteo Arnaldi,Lorenzo Musetti,0.754,0.715,1.4,5.4,13.6,2.77,won,2026-10-19T17:06:27.450516+00:00,1.11,1.459,-4.0
 578,2026-10-18T16:44:17.467960+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-19T04:00:00Z,Talia Gibson,Harriet Dart,Talia Gibson,0.775,0.577,1.73,34.2,46.8,4.15,won,2026-10-19T10:13:20.036161+00:00,3.03,1.502,15.2
-579,2026-10-18T16:44:17.467960+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-19T07:00:00Z,Jelena Ostapenko,Belinda Bencic,Belinda Bencic,0.711,0.587,1.7,21.1,30.0,4.33,open,,,1.648,
+579,2026-10-18T16:44:17.467960+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-19T07:00:00Z,Jelena Ostapenko,Belinda Bencic,Belinda Bencic,0.711,0.587,1.7,21.1,30.0,4.33,won,2026-10-20T11:10:19.193119+00:00,3.03,1.648,3.2
 580,2026-10-18T16:44:17.467960+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-19T08:10:00Z,Han Shi,Sorana Cirstea,Sorana Cirstea,0.885,0.734,1.36,20.5,56.7,8.41,won,2026-10-19T10:13:20.036161+00:00,3.03,1.362,-0.1
 581,2026-10-18T16:44:17.467960+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-19T11:00:00Z,Aliaksandra Sasnovich,Daria Kasatkina,Daria Kasatkina,0.562,0.477,2.1,17.8,16.3,2.75,lost,2026-10-19T10:13:20.036161+00:00,-2.75,2.236,-6.1
 582,2026-10-18T16:44:17.467960+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-18T11:00:00Z,Cameron Norrie,Benjamin Bonzi,Cameron Norrie,0.62,0.587,1.7,5.6,7.9,1.61,open,,,1.827,
-583,2026-10-18T19:19:07.276928+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-19T05:30:00Z,Moyuka Uchijima,Ena Shibahara,Ena Shibahara,0.555,0.437,2.29,27.1,21.0,2.35,open,,,2.187,
+583,2026-10-18T19:19:07.276928+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-19T05:30:00Z,Moyuka Uchijima,Ena Shibahara,Ena Shibahara,0.555,0.437,2.29,27.1,21.0,2.35,lost,2026-10-20T11:10:19.193119+00:00,-2.35,2.187,4.7
 584,2026-10-19T00:00:01.079103+00:00,ATP,ATP Almaty Round Of 32,Hard,2026-10-18T14:40:00Z,Marin Cilic,Nikoloz Basilashvili,Marin Cilic,0.691,0.437,2.29,58.1,45.1,2.35,lost,2026-10-19T17:06:27.450516+00:00,-2.35,2.288,0.1
 585,2026-10-19T10:13:20.036161+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-19T12:10:00Z,Kamilla Rakhimova,Marie Bouzkova,Marie Bouzkova,0.73,0.597,1.68,22.2,32.9,4.42,won,2026-10-19T17:06:27.450516+00:00,3.01,,
-586,2026-10-19T10:13:20.036161+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-19T04:00:00Z,Zeynep Sonmez,Maya Joint,Zeynep Sonmez,0.571,0.537,1.86,6.4,7.4,1.49,open,,,1.827,
-587,2026-10-19T17:06:27.450516+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-20T05:00:00Z,Polina Kudermetova,Cristina Bucsa,Cristina Bucsa,0.645,0.537,1.86,20.1,23.4,3.54,open,,,1.861,
-588,2026-10-19T21:41:19.571364+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-20T13:00:00Z,Pierre-Hugues Herbert,Sebastian Baez,Sebastian Baez,0.706,0.447,2.24,57.7,46.7,2.45,open,,,2.187,
-589,2026-10-19T21:41:19.571364+00:00,ATP,ATP Brussels Round Of 32,Hard,2026-10-20T13:00:00Z,Raphael Collignon,Nishesh Basavareddy,Raphael Collignon,0.676,0.447,2.24,51.2,41.4,2.45,open,,,2.187,
+586,2026-10-19T10:13:20.036161+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-19T04:00:00Z,Zeynep Sonmez,Maya Joint,Zeynep Sonmez,0.571,0.537,1.86,6.4,7.4,1.49,won,2026-10-20T11:10:19.193119+00:00,1.28,1.827,1.8
+587,2026-10-19T17:06:27.450516+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-20T05:00:00Z,Polina Kudermetova,Cristina Bucsa,Cristina Bucsa,0.645,0.537,1.86,20.1,23.4,3.54,lost,2026-10-20T11:10:19.193119+00:00,-3.54,1.861,-0.1
+588,2026-10-19T21:41:19.571364+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-20T13:00:00Z,Pierre-Hugues Herbert,Sebastian Baez,Sebastian Baez,0.706,0.447,2.24,57.7,46.7,2.45,open,,,3.178,
+589,2026-10-19T21:41:19.571364+00:00,ATP,ATP Brussels Round Of 32,Hard,2026-10-20T13:00:00Z,Raphael Collignon,Nishesh Basavareddy,Raphael Collignon,0.676,0.447,2.24,51.2,41.4,2.45,open,,,2.14,
 590,2026-10-19T21:41:19.571364+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-20T05:30:00Z,Kayla Day,Kimberly Birrell,Kimberly Birrell,0.713,0.627,1.6,13.8,23.1,4.66,open,,,1.621,
 591,2026-10-19T21:41:19.571364+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-20T13:00:00Z,Borna Gojo,Arthur Fery,Arthur Fery,0.707,0.627,1.6,12.8,21.5,4.33,open,,,1.524,
-592,2026-10-19T21:41:19.571364+00:00,ATP,ATP Almaty Round Of 16,Hard,2026-10-20T09:30:00Z,James Duckworth,Luciano Darderi,Luciano Darderi,0.593,0.557,1.79,6.3,7.9,1.62,open,,,1.794,
-593,2026-10-19T21:41:19.571364+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-20T05:00:00Z,Jasmine Paolini,Anhelina Kalinina,Jasmine Paolini,0.726,0.685,1.46,5.9,12.9,2.6,open,,,1.438,
-594,2026-10-20T05:53:57.722080+00:00,WTA,WTA Osaka Round Of 16,Hard,2026-10-21T05:30:00Z,Sinja Kraus,Talia Gibson,Talia Gibson,0.774,0.607,1.65,27.5,42.4,4.68,open,,,,
-595,2026-10-20T05:53:57.722080+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-20T13:00:00Z,Kyrian Jacquet,Matteo Berrettini,Matteo Berrettini,0.741,0.587,1.7,26.2,37.3,4.34,open,,,,
-596,2026-10-20T05:53:57.722080+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-20T07:00:00Z,Alycia Parks,Sara Bejlek,Sara Bejlek,0.616,0.508,1.97,21.4,22.0,3.14,open,,,,
-597,2026-10-20T05:53:57.722080+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-20T08:40:00Z,Sofia Kenin,Kayla Day,Sofia Kenin,0.628,0.518,1.93,21.3,22.9,3.27,open,,,,
+592,2026-10-19T21:41:19.571364+00:00,ATP,ATP Almaty Round Of 16,Hard,2026-10-20T09:30:00Z,James Duckworth,Luciano Darderi,Luciano Darderi,0.593,0.557,1.79,6.3,7.9,1.62,open,,,1.827,
+593,2026-10-19T21:41:19.571364+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-20T05:00:00Z,Jasmine Paolini,Anhelina Kalinina,Jasmine Paolini,0.726,0.685,1.46,5.9,12.9,2.6,won,2026-10-20T11:10:19.193119+00:00,1.2,1.438,1.5
+594,2026-10-20T05:53:57.722080+00:00,WTA,WTA Osaka Round Of 16,Hard,2026-10-21T05:30:00Z,Sinja Kraus,Talia Gibson,Talia Gibson,0.774,0.607,1.65,27.5,42.4,4.68,open,,,1.621,
+595,2026-10-20T05:53:57.722080+00:00,ATP,ATP Lyon Round Of 32,Clay,2026-10-20T13:00:00Z,Kyrian Jacquet,Matteo Berrettini,Matteo Berrettini,0.741,0.587,1.7,26.2,37.3,4.34,open,,,1.703,
+596,2026-10-20T05:53:57.722080+00:00,WTA,WTA Ningbo Round Of 32,Hard,2026-10-20T07:00:00Z,Alycia Parks,Sara Bejlek,Sara Bejlek,0.616,0.508,1.97,21.4,22.0,3.14,won,2026-10-20T11:10:19.193119+00:00,3.05,,
+597,2026-10-20T05:53:57.722080+00:00,WTA,WTA Osaka Round Of 32,Hard,2026-10-20T08:40:00Z,Sofia Kenin,Kayla Day,Sofia Kenin,0.628,0.518,1.93,21.3,22.9,3.27,lost,2026-10-20T11:10:19.193119+00:00,-3.27,,
+598,2026-10-20T11:10:19.193119+00:00,WTA,WTA Ningbo Round Of 16,Hard,2026-10-21T08:00:00Z,Diana Shnaider,Alexandra Eala,Alexandra Eala,0.535,0.467,2.14,14.6,12.8,2.61,open,,,,
+599,2026-10-20T11:10:19.193119+00:00,WTA,WTA Ningbo Round Of 16,Hard,2026-10-21T08:00:00Z,Sorana Cirstea,Sara Bejlek,Sorana Cirstea,0.737,0.676,1.48,9.1,18.9,3.86,open,,,,
