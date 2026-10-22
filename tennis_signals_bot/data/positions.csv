@@ -610,7 +610,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 609,2026-10-21T13:05:47.620062+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-22T13:00:00Z,Luca Van Assche,Valentin Vacherot,Valentin Vacherot,0.734,0.577,1.73,27.2,37.2,3.15,lost,2026-10-22T15:33:51.644702+00:00,-3.15,1.703,1.6
 610,2026-10-21T13:05:47.620062+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-21T13:00:00Z,Lorenzo Musetti,Moise Kouame,Lorenzo Musetti,0.876,0.782,1.28,12.0,43.0,6.57,lost,2026-10-21T18:11:17.978947+00:00,-6.57,1.092,17.2
 611,2026-10-21T18:11:17.978947+00:00,ATP,ATP Almaty Round Of 16,Hard,2026-10-22T09:30:00Z,Mattia Bellucci,Terence Atmane,Terence Atmane,0.571,0.498,2.01,14.7,14.5,2.03,won,2026-10-22T10:29:14.417429+00:00,2.05,2.01,0.0
-612,2026-10-21T21:54:24.738884+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-22T20:00:00Z,Stan Wawrinka,Flavio Cobolli,Flavio Cobolli,0.827,0.725,1.38,14.1,37.2,5.18,open,,,1.362,
-613,2026-10-22T15:33:51.644702+00:00,WTA,WTA Osaka Quarterfinal,Hard,2026-10-23T05:30:00Z,Ashlyn Krueger,Talia Gibson,Talia Gibson,0.569,0.437,2.29,30.2,23.4,1.66,open,,,,
-614,2026-10-22T15:33:51.644702+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-21T15:00:00Z,Pierre-Hugues Herbert,Taylor Fritz,Taylor Fritz,0.821,0.637,1.57,28.9,50.6,3.76,open,,,,
-615,2026-10-22T15:33:51.644702+00:00,WTA,WTA Ningbo Quarterfinal,Hard,2026-10-23T08:00:00Z,Diana Shnaider,Iva Jovic,Iva Jovic,0.646,0.518,1.93,24.8,26.6,2.31,open,,,,
+612,2026-10-21T21:54:24.738884+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-22T20:00:00Z,Stan Wawrinka,Flavio Cobolli,Flavio Cobolli,0.827,0.725,1.38,14.1,37.2,5.18,won,2026-10-22T19:50:51.715704+00:00,1.97,1.362,1.3
+613,2026-10-22T15:33:51.644702+00:00,WTA,WTA Osaka Quarterfinal,Hard,2026-10-23T05:30:00Z,Ashlyn Krueger,Talia Gibson,Talia Gibson,0.569,0.437,2.29,30.2,23.4,1.66,open,,,2.342,
+614,2026-10-22T15:33:51.644702+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-21T15:00:00Z,Pierre-Hugues Herbert,Taylor Fritz,Taylor Fritz,0.821,0.637,1.57,28.9,50.6,3.76,won,2026-10-22T19:50:51.715704+00:00,2.14,,
+615,2026-10-22T15:33:51.644702+00:00,WTA,WTA Ningbo Quarterfinal,Hard,2026-10-23T08:00:00Z,Diana Shnaider,Iva Jovic,Iva Jovic,0.646,0.518,1.93,24.8,26.6,2.31,open,,,1.896,
