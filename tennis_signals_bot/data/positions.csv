@@ -613,5 +613,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 612,2026-10-21T21:54:24.738884+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-22T20:00:00Z,Stan Wawrinka,Flavio Cobolli,Flavio Cobolli,0.827,0.725,1.38,14.1,37.2,5.18,won,2026-10-22T19:50:51.715704+00:00,1.97,1.362,1.3
 613,2026-10-22T15:33:51.644702+00:00,WTA,WTA Osaka Quarterfinal,Hard,2026-10-23T05:30:00Z,Ashlyn Krueger,Talia Gibson,Talia Gibson,0.569,0.437,2.29,30.2,23.4,1.66,lost,2026-10-23T07:12:07.902905+00:00,-1.66,2.342,-2.2
 614,2026-10-22T15:33:51.644702+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-21T15:00:00Z,Pierre-Hugues Herbert,Taylor Fritz,Taylor Fritz,0.821,0.637,1.57,28.9,50.6,3.76,won,2026-10-22T19:50:51.715704+00:00,2.14,,
-615,2026-10-22T15:33:51.644702+00:00,WTA,WTA Ningbo Quarterfinal,Hard,2026-10-23T08:00:00Z,Diana Shnaider,Iva Jovic,Iva Jovic,0.646,0.518,1.93,24.8,26.6,2.31,open,,,1.763,
+615,2026-10-22T15:33:51.644702+00:00,WTA,WTA Ningbo Quarterfinal,Hard,2026-10-23T08:00:00Z,Diana Shnaider,Iva Jovic,Iva Jovic,0.646,0.518,1.93,24.8,26.6,2.31,lost,2026-10-23T12:46:45.586758+00:00,-2.31,1.763,9.5
 616,2026-10-22T23:04:36.925822+00:00,ATP,ATP Lyon Quarterfinal,Clay,2026-10-23T21:10:00Z,Luca Van Assche,Lorenzo Musetti,Lorenzo Musetti,0.841,0.695,1.44,20.9,47.8,5.05,open,,,1.438,
+617,2026-10-23T12:46:45.586758+00:00,ATP,ATP Almaty Quarterfinal,Hard,2026-10-23T17:30:00Z,Karen Khachanov,Alexander Bublik,Alexander Bublik,0.581,0.547,1.83,6.1,7.3,1.05,open,,,,
