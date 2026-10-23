@@ -570,7 +570,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 569,2026-10-17T16:36:00.752256+00:00,WTA,WTA Ningbo Qualification Final,Hard,2026-10-18T07:10:00Z,Aliaksandra Sasnovich,Anhelina Kalinina,Anhelina Kalinina,0.472,0.437,2.29,8.0,6.2,1.34,lost,2026-10-18T08:42:35.140585+00:00,-1.34,2.288,0.1
 570,2026-10-17T16:36:00.752256+00:00,ATP,ATP Shanghai Final,Hard,2026-10-18T11:30:00Z,Rafael Jodar,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.503,0.467,2.14,7.6,6.7,1.44,won,2026-10-18T13:05:18.392227+00:00,1.64,2.052,4.3
 571,2026-10-17T19:06:21.388941+00:00,ATP,ATP Almaty Round Of 32,Hard,2026-10-18T09:00:00Z,Rinky Hijikata,Terence Atmane,Terence Atmane,0.557,0.527,1.9,5.6,6.3,1.35,won,2026-10-20T11:10:19.193119+00:00,1.21,2.052,-7.4
-572,2026-10-17T21:38:30.818968+00:00,ATP,ATP Brussels Round Of 32,Hard,2026-10-18T13:30:00Z,Holger Rune,Raphael Collignon,Holger Rune,0.665,0.597,1.68,11.3,16.7,3.59,open,,,1.596,
+572,2026-10-17T21:38:30.818968+00:00,ATP,ATP Brussels Round Of 32,Hard,2026-10-18T13:30:00Z,Holger Rune,Raphael Collignon,Holger Rune,0.665,0.597,1.68,11.3,16.7,3.59,void,2026-10-23T17:47:25.003288+00:00,0.0,1.596,
 573,2026-10-18T03:47:25.153444+00:00,WTA,WTA Ningbo Qualification Final,Hard,2026-10-18T05:00:00Z,Anastasia Zakharova,Polina Kudermetova,Anastasia Zakharova,0.562,0.447,2.24,25.7,20.8,2.62,lost,2026-10-18T08:42:35.140585+00:00,-2.62,,
 574,2026-10-18T08:42:35.140585+00:00,ATP,ATP Almaty Round Of 32,Hard,2026-10-18T09:00:00Z,Tomas Martin Etcheverry,Mattia Bellucci,Tomas Martin Etcheverry,0.604,0.537,1.86,12.4,14.4,2.93,lost,2026-10-21T13:05:47.620062+00:00,-2.93,2.14,-13.1
 575,2026-10-18T13:05:18.392227+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-18T11:00:00Z,Francesco Maestrelli,Borna Gojo,Francesco Maestrelli,0.605,0.447,2.24,35.3,28.5,2.48,lost,2026-10-18T16:44:17.467960+00:00,-2.48,,
@@ -615,4 +615,10 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 614,2026-10-22T15:33:51.644702+00:00,ATP,ATP Lyon Round Of 16,Clay,2026-10-21T15:00:00Z,Pierre-Hugues Herbert,Taylor Fritz,Taylor Fritz,0.821,0.637,1.57,28.9,50.6,3.76,won,2026-10-22T19:50:51.715704+00:00,2.14,,
 615,2026-10-22T15:33:51.644702+00:00,WTA,WTA Ningbo Quarterfinal,Hard,2026-10-23T08:00:00Z,Diana Shnaider,Iva Jovic,Iva Jovic,0.646,0.518,1.93,24.8,26.6,2.31,lost,2026-10-23T12:46:45.586758+00:00,-2.31,1.763,9.5
 616,2026-10-22T23:04:36.925822+00:00,ATP,ATP Lyon Quarterfinal,Clay,2026-10-23T21:10:00Z,Luca Van Assche,Lorenzo Musetti,Lorenzo Musetti,0.841,0.695,1.44,20.9,47.8,5.05,open,,,1.438,
-617,2026-10-23T12:46:45.586758+00:00,ATP,ATP Almaty Quarterfinal,Hard,2026-10-23T17:30:00Z,Karen Khachanov,Alexander Bublik,Alexander Bublik,0.581,0.547,1.83,6.1,7.3,1.05,open,,,,
+617,2026-10-23T12:46:45.586758+00:00,ATP,ATP Almaty Quarterfinal,Hard,2026-10-23T17:30:00Z,Karen Khachanov,Alexander Bublik,Alexander Bublik,0.581,0.547,1.83,6.1,7.3,1.05,won,2026-10-23T17:47:25.003288+00:00,0.87,,
+618,2026-10-23T17:47:25.003288+00:00,WTA,WTA Ningbo Semifinal,Hard,2026-10-24T08:00:00Z,Leylah Fernandez,Marie Bouzkova,Marie Bouzkova,0.688,0.527,1.9,30.4,34.0,2.4,open,,,,
+619,2026-10-23T17:47:25.003288+00:00,WTA,WTA Ningbo Semifinal,Hard,2026-10-24T12:30:00Z,Diana Shnaider,Elena Rybakina,Elena Rybakina,0.833,0.656,1.52,26.9,51.3,4.16,open,,,,
+620,2026-10-23T17:47:25.003288+00:00,WTA,WTA Guangzhou Qualification Round 1,Hard,2026-10-24T06:00:00Z,Maddison Inglis,Joanna Garland,Joanna Garland,0.598,0.477,2.1,25.3,23.1,1.97,open,,,,
+621,2026-10-23T17:47:25.003288+00:00,WTA,WTA Osaka Semifinal,Hard,2026-10-24T06:00:00Z,Ashlyn Krueger,Ann Li,Ashlyn Krueger,0.506,0.447,2.24,13.3,10.7,1.55,open,,,,
+622,2026-10-23T17:47:25.003288+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Maya Joint,Viktorija Golubic,Viktorija Golubic,0.552,0.508,1.97,8.8,9.1,1.31,open,,,,
+623,2026-10-23T17:47:25.003288+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Ena Shibahara,Alycia Parks,Alycia Parks,0.609,0.567,1.76,7.5,9.8,1.42,open,,,,
