@@ -628,4 +628,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 627,2026-10-24T04:10:38.414159+00:00,ATP,ATP Vienna Qualification Round 1,Hard,2026-10-24T17:00:00Z,Corentin Moutet,Tomas Machac,Tomas Machac,0.671,0.607,1.65,10.6,16.3,2.4,won,2026-10-24T16:53:54.844040+00:00,1.56,1.648,0.1
 628,2026-10-24T09:01:46.166110+00:00,ATP,ATP Basel Qualification Round 1,Hard,2026-10-24T11:00:00Z,Miomir Kecmanovic,Rinky Hijikata,Rinky Hijikata,0.476,0.437,2.29,9.0,7.0,1.03,won,2026-10-24T13:29:59.703869+00:00,1.33,,
 629,2026-10-24T13:29:59.703869+00:00,WTA,WTA Ningbo Final,Hard,2026-10-25T12:00:00Z,Elena Rybakina,Leylah Fernandez,Elena Rybakina,0.917,0.773,1.29,18.7,63.5,7.9,open,,,1.278,
-630,2026-10-24T16:53:54.844040+00:00,ATP,ATP Almaty Final,Hard,2026-10-25T13:00:00Z,Daniil Medvedev,Nikoloz Basilashvili,Daniil Medvedev,0.893,0.811,1.23,10.1,43.4,6.92,open,,,,
+630,2026-10-24T16:53:54.844040+00:00,ATP,ATP Almaty Final,Hard,2026-10-25T13:00:00Z,Daniil Medvedev,Nikoloz Basilashvili,Daniil Medvedev,0.893,0.811,1.23,10.1,43.4,6.92,open,,,1.247,
+631,2026-10-24T19:19:13.805167+00:00,WTA,WTA Tokyo Qualification Final,Hard,2026-10-25T04:00:00Z,Heather Watson,Alycia Parks,Alycia Parks,0.619,0.567,1.76,9.2,12.1,1.91,open,,,,
+632,2026-10-24T19:19:13.805167+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Valentin Vacherot,Mariano Navone,Valentin Vacherot,0.748,0.685,1.46,9.1,19.9,3.12,open,,,,
+633,2026-10-24T19:19:13.805167+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Hubert Hurkacz,Arthur Fils,Arthur Fils,0.746,0.695,1.44,7.2,16.4,2.58,open,,,,
