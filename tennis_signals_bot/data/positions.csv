@@ -616,13 +616,14 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 615,2026-10-22T15:33:51.644702+00:00,WTA,WTA Ningbo Quarterfinal,Hard,2026-10-23T08:00:00Z,Diana Shnaider,Iva Jovic,Iva Jovic,0.646,0.518,1.93,24.8,26.6,2.31,lost,2026-10-23T12:46:45.586758+00:00,-2.31,1.763,9.5
 616,2026-10-22T23:04:36.925822+00:00,ATP,ATP Lyon Quarterfinal,Clay,2026-10-23T21:10:00Z,Luca Van Assche,Lorenzo Musetti,Lorenzo Musetti,0.841,0.695,1.44,20.9,47.8,5.05,won,2026-10-23T23:56:13.991983+00:00,2.22,1.278,12.7
 617,2026-10-23T12:46:45.586758+00:00,ATP,ATP Almaty Quarterfinal,Hard,2026-10-23T17:30:00Z,Karen Khachanov,Alexander Bublik,Alexander Bublik,0.581,0.547,1.83,6.1,7.3,1.05,won,2026-10-23T17:47:25.003288+00:00,0.87,,
-618,2026-10-23T17:47:25.003288+00:00,WTA,WTA Ningbo Semifinal,Hard,2026-10-24T08:00:00Z,Leylah Fernandez,Marie Bouzkova,Marie Bouzkova,0.688,0.527,1.9,30.4,34.0,2.4,open,,,1.827,
-619,2026-10-23T17:47:25.003288+00:00,WTA,WTA Ningbo Semifinal,Hard,2026-10-24T12:30:00Z,Diana Shnaider,Elena Rybakina,Elena Rybakina,0.833,0.656,1.52,26.9,51.3,4.16,open,,,1.502,
+618,2026-10-23T17:47:25.003288+00:00,WTA,WTA Ningbo Semifinal,Hard,2026-10-24T08:00:00Z,Leylah Fernandez,Marie Bouzkova,Marie Bouzkova,0.688,0.527,1.9,30.4,34.0,2.4,open,,,2.288,
+619,2026-10-23T17:47:25.003288+00:00,WTA,WTA Ningbo Semifinal,Hard,2026-10-24T12:30:00Z,Diana Shnaider,Elena Rybakina,Elena Rybakina,0.833,0.656,1.52,26.9,51.3,4.16,open,,,1.524,
 620,2026-10-23T17:47:25.003288+00:00,WTA,WTA Guangzhou Qualification Round 1,Hard,2026-10-24T06:00:00Z,Maddison Inglis,Joanna Garland,Joanna Garland,0.598,0.477,2.1,25.3,23.1,1.97,open,,,2.095,
-621,2026-10-23T17:47:25.003288+00:00,WTA,WTA Osaka Semifinal,Hard,2026-10-24T06:00:00Z,Ashlyn Krueger,Ann Li,Ashlyn Krueger,0.506,0.447,2.24,13.3,10.7,1.55,open,,,2.522,
-622,2026-10-23T17:47:25.003288+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Maya Joint,Viktorija Golubic,Viktorija Golubic,0.552,0.508,1.97,8.8,9.1,1.31,open,,,2.052,
-623,2026-10-23T17:47:25.003288+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Ena Shibahara,Alycia Parks,Alycia Parks,0.609,0.567,1.76,7.5,9.8,1.42,open,,,4.735,
-624,2026-10-23T21:11:21.446091+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Oleksandra Oliynykova,Mai Hontama,Oleksandra Oliynykova,0.745,0.537,1.86,38.6,44.9,2.52,open,,,1.861,
-625,2026-10-23T23:56:13.991983+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Shuai Zhang,Kayla Day,Shuai Zhang,0.698,0.547,1.83,27.6,33.4,2.66,open,,,1.794,
-626,2026-10-24T04:10:38.414159+00:00,ATP,ATP Lyon Semifinal,Clay,2026-10-24T16:10:00Z,Lorenzo Musetti,Flavio Cobolli,Lorenzo Musetti,0.581,0.498,2.01,16.8,16.6,2.18,open,,,,
-627,2026-10-24T04:10:38.414159+00:00,ATP,ATP Vienna Qualification Round 1,Hard,2026-10-24T17:00:00Z,Corentin Moutet,Tomas Machac,Tomas Machac,0.671,0.607,1.65,10.6,16.3,2.4,open,,,,
+621,2026-10-23T17:47:25.003288+00:00,WTA,WTA Osaka Semifinal,Hard,2026-10-24T06:00:00Z,Ashlyn Krueger,Ann Li,Ashlyn Krueger,0.506,0.447,2.24,13.3,10.7,1.55,won,2026-10-24T09:01:46.166110+00:00,1.92,2.522,-11.2
+622,2026-10-23T17:47:25.003288+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Maya Joint,Viktorija Golubic,Viktorija Golubic,0.552,0.508,1.97,8.8,9.1,1.31,open,,,4.512,
+623,2026-10-23T17:47:25.003288+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Ena Shibahara,Alycia Parks,Alycia Parks,0.609,0.567,1.76,7.5,9.8,1.42,won,2026-10-24T09:01:46.166110+00:00,1.08,4.735,-62.8
+624,2026-10-23T21:11:21.446091+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Oleksandra Oliynykova,Mai Hontama,Oleksandra Oliynykova,0.745,0.537,1.86,38.6,44.9,2.52,lost,2026-10-24T09:01:46.166110+00:00,-2.52,1.861,-0.1
+625,2026-10-23T23:56:13.991983+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Shuai Zhang,Kayla Day,Shuai Zhang,0.698,0.547,1.83,27.6,33.4,2.66,open,,,1.827,
+626,2026-10-24T04:10:38.414159+00:00,ATP,ATP Lyon Semifinal,Clay,2026-10-24T16:10:00Z,Lorenzo Musetti,Flavio Cobolli,Lorenzo Musetti,0.581,0.498,2.01,16.8,16.6,2.18,open,,,2.01,
+627,2026-10-24T04:10:38.414159+00:00,ATP,ATP Vienna Qualification Round 1,Hard,2026-10-24T17:00:00Z,Corentin Moutet,Tomas Machac,Tomas Machac,0.671,0.607,1.65,10.6,16.3,2.4,open,,,1.703,
+628,2026-10-24T09:01:46.166110+00:00,ATP,ATP Basel Qualification Round 1,Hard,2026-10-24T11:00:00Z,Miomir Kecmanovic,Rinky Hijikata,Rinky Hijikata,0.476,0.437,2.29,9.0,7.0,1.03,open,,,,
