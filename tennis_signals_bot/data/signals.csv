@@ -1,6 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-10-24T13:30:01.188287+00:00,ATP,ATP Lyon Semifinal,Clay,2026-10-24T13:00:00Z,Tommy Paul,Taylor Fritz,Tommy Paul,0.557,0.345,2.9,61.4,32.4,9.9,1097658.75,KXATPMATCH-26OCT24PAUFRI
-2026-10-24T13:30:01.188287+00:00,ATP,ATP Lyon Semifinal,Clay,2026-10-24T16:10:00Z,Lorenzo Musetti,Flavio Cobolli,Lorenzo Musetti,0.581,0.477,2.1,21.7,19.8,6.06,118277.71,KXATPMATCH-26OCT24COBMUS
-2026-10-24T13:30:01.188287+00:00,WTA,WTA Ningbo Final,Hard,2026-10-25T12:00:00Z,Elena Rybakina,Leylah Fernandez,Elena Rybakina,0.917,0.773,1.29,18.7,63.5,19.4,501.14,KXWTAMATCH-26OCT25RYBFER
-2026-10-24T13:30:01.188287+00:00,ATP,ATP Basel Qualification Round 1,Hard,2026-10-24T11:00:00Z,Aleksandar Kovacevic,James Duckworth,James Duckworth,0.472,0.417,2.4,13.1,9.4,2.86,31181.73,KXATPMATCH-26OCT24KOVDUC
-2026-10-24T13:30:01.188287+00:00,ATP,ATP Vienna Qualification Round 1,Hard,2026-10-24T17:00:00Z,Corentin Moutet,Tomas Machac,Tomas Machac,0.671,0.607,1.65,10.6,16.3,4.99,2842.33,KXATPMATCH-26OCT24MOUMAC
+2026-10-24T16:53:59.166359+00:00,WTA,WTA Ningbo Final,Hard,2026-10-25T12:00:00Z,Elena Rybakina,Leylah Fernandez,Elena Rybakina,0.917,0.782,1.28,17.2,61.8,19.48,9859.78,KXWTAMATCH-26OCT25RYBFER
+2026-10-24T16:53:59.166359+00:00,ATP,ATP Almaty Final,Hard,2026-10-25T13:00:00Z,Daniil Medvedev,Nikoloz Basilashvili,Daniil Medvedev,0.893,0.811,1.23,10.1,43.4,13.66,4863.2,KXATPMATCH-26OCT25MEDBAS
+2026-10-24T16:53:59.166359+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Botic Van de Zandschulp,Alex Michelsen,Botic Van de Zandschulp,0.392,0.366,2.73,7.1,4.1,1.3,523.64,KXATPMATCH-26OCT25MICVAN

@@ -624,7 +624,8 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 623,2026-10-23T17:47:25.003288+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Ena Shibahara,Alycia Parks,Alycia Parks,0.609,0.567,1.76,7.5,9.8,1.42,won,2026-10-24T09:01:46.166110+00:00,1.08,4.735,-62.8
 624,2026-10-23T21:11:21.446091+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Oleksandra Oliynykova,Mai Hontama,Oleksandra Oliynykova,0.745,0.537,1.86,38.6,44.9,2.52,lost,2026-10-24T09:01:46.166110+00:00,-2.52,1.861,-0.1
 625,2026-10-23T23:56:13.991983+00:00,WTA,WTA Tokyo Qualification Round 1,Hard,2026-10-24T04:30:00Z,Shuai Zhang,Kayla Day,Shuai Zhang,0.698,0.547,1.83,27.6,33.4,2.66,won,2026-10-24T13:29:59.703869+00:00,2.21,1.827,0.2
-626,2026-10-24T04:10:38.414159+00:00,ATP,ATP Lyon Semifinal,Clay,2026-10-24T16:10:00Z,Lorenzo Musetti,Flavio Cobolli,Lorenzo Musetti,0.581,0.498,2.01,16.8,16.6,2.18,open,,,2.095,
-627,2026-10-24T04:10:38.414159+00:00,ATP,ATP Vienna Qualification Round 1,Hard,2026-10-24T17:00:00Z,Corentin Moutet,Tomas Machac,Tomas Machac,0.671,0.607,1.65,10.6,16.3,2.4,open,,,1.648,
+626,2026-10-24T04:10:38.414159+00:00,ATP,ATP Lyon Semifinal,Clay,2026-10-24T16:10:00Z,Lorenzo Musetti,Flavio Cobolli,Lorenzo Musetti,0.581,0.498,2.01,16.8,16.6,2.18,won,2026-10-24T16:53:54.844040+00:00,2.2,2.095,-4.1
+627,2026-10-24T04:10:38.414159+00:00,ATP,ATP Vienna Qualification Round 1,Hard,2026-10-24T17:00:00Z,Corentin Moutet,Tomas Machac,Tomas Machac,0.671,0.607,1.65,10.6,16.3,2.4,won,2026-10-24T16:53:54.844040+00:00,1.56,1.648,0.1
 628,2026-10-24T09:01:46.166110+00:00,ATP,ATP Basel Qualification Round 1,Hard,2026-10-24T11:00:00Z,Miomir Kecmanovic,Rinky Hijikata,Rinky Hijikata,0.476,0.437,2.29,9.0,7.0,1.03,won,2026-10-24T13:29:59.703869+00:00,1.33,,
-629,2026-10-24T13:29:59.703869+00:00,WTA,WTA Ningbo Final,Hard,2026-10-25T12:00:00Z,Elena Rybakina,Leylah Fernandez,Elena Rybakina,0.917,0.773,1.29,18.7,63.5,7.9,open,,,,
+629,2026-10-24T13:29:59.703869+00:00,WTA,WTA Ningbo Final,Hard,2026-10-25T12:00:00Z,Elena Rybakina,Leylah Fernandez,Elena Rybakina,0.917,0.773,1.29,18.7,63.5,7.9,open,,,1.278,
+630,2026-10-24T16:53:54.844040+00:00,ATP,ATP Almaty Final,Hard,2026-10-25T13:00:00Z,Daniil Medvedev,Nikoloz Basilashvili,Daniil Medvedev,0.893,0.811,1.23,10.1,43.4,6.92,open,,,,
