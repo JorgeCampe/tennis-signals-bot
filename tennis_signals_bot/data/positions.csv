@@ -638,8 +638,9 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 637,2026-10-25T05:07:51.101216+00:00,WTA,WTA Guangzhou Qualification Final,Hard,2026-10-25T05:00:00Z,Tatiana Prozorova,Joanna Garland,Joanna Garland,0.589,0.447,2.24,31.6,25.6,1.93,lost,2026-10-25T10:02:25.408129+00:00,-1.93,,
 638,2026-10-25T10:02:25.408129+00:00,ATP,ATP Vienna Qualification Final,Hard,2026-10-25T16:30:00Z,Alex Molcan,Adrian Mannarino,Adrian Mannarino,0.53,0.437,2.29,21.1,16.4,1.82,won,2026-10-25T18:15:00.525576+00:00,2.35,4.735,-51.6
 639,2026-10-25T10:02:25.408129+00:00,ATP,ATP Vienna Round Of 32,Hard,2026-10-25T12:00:00Z,Jurij Rodionov,Nikoloz Basilashvili,Jurij Rodionov,0.524,0.457,2.19,14.7,12.4,1.94,open,,,2.14,
-640,2026-10-25T14:30:31.361105+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Holger Rune,Quentin Halys,Holger Rune,0.778,0.557,1.79,39.5,49.7,3.07,open,,,1.861,
+640,2026-10-25T14:30:31.361105+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Holger Rune,Quentin Halys,Holger Rune,0.778,0.557,1.79,39.5,49.7,3.07,open,,,1.932,
 641,2026-10-25T14:30:31.361105+00:00,WTA,WTA Guangzhou Round Of 32,Hard,2026-10-26T06:00:00Z,Simona Waltert,Jil Teichmann,Jil Teichmann,0.567,0.498,2.01,13.9,13.7,2.23,open,,,1.97,
 642,2026-10-25T14:30:31.361105+00:00,ATP,ATP Vienna Round Of 32,Hard,2026-10-25T12:00:00Z,Karen Khachanov,Carlos Alcaraz,Carlos Alcaraz,0.891,0.831,1.2,7.3,36.0,5.9,open,,,1.204,
 643,2026-10-25T14:30:31.361105+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Ugo Humbert,Novak Djokovic,Novak Djokovic,0.759,0.715,1.4,6.2,15.5,2.51,open,,,1.399,
-644,2026-10-25T21:07:18.318864+00:00,WTA,WTA Tokyo Round Of 32,Hard,2026-10-26T05:40:00Z,Daria Kasatkina,Talia Gibson,Talia Gibson,0.579,0.477,2.1,21.3,19.5,2.21,open,,,,
+644,2026-10-25T21:07:18.318864+00:00,WTA,WTA Tokyo Round Of 32,Hard,2026-10-26T05:40:00Z,Daria Kasatkina,Talia Gibson,Talia Gibson,0.579,0.477,2.1,21.3,19.5,2.21,open,,,2.095,
+645,2026-10-25T23:27:53.539784+00:00,ATP,ATP Vienna Round Of 32,Hard,2026-10-26T19:30:00Z,Arthur Fery,Jacob Fearnley,Arthur Fery,0.669,0.537,1.86,24.6,28.6,2.83,open,,,,
