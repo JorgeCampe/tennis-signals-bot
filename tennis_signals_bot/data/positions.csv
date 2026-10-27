@@ -646,7 +646,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 645,2026-10-25T23:27:53.539784+00:00,ATP,ATP Vienna Round Of 32,Hard,2026-10-26T19:30:00Z,Arthur Fery,Jacob Fearnley,Arthur Fery,0.669,0.537,1.86,24.6,28.6,2.83,won,2026-10-26T20:25:02.549702+00:00,2.43,2.095,-11.2
 646,2026-10-26T01:34:27.227688+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Stefanos Tsitsipas,Taylor Fritz,Taylor Fritz,0.72,0.627,1.6,14.9,25.0,4.03,open,,,1.418,
 647,2026-10-26T14:58:32.472032+00:00,WTA,WTA Tokyo Round Of 32,Hard,2026-10-27T04:30:00Z,Maya Joint,Sorana Cirstea,Sorana Cirstea,0.823,0.725,1.38,13.6,35.7,5.98,lost,2026-10-27T05:25:36.717319+00:00,-5.98,1.399,-1.4
-648,2026-10-26T20:25:02.549702+00:00,WTA,WTA Guangzhou Round Of 32,Hard,2026-10-27T06:00:00Z,Dayana Yastremska,Katie Volynets,Dayana Yastremska,0.625,0.467,2.14,33.8,29.6,2.28,open,,,2.095,
+648,2026-10-26T20:25:02.549702+00:00,WTA,WTA Guangzhou Round Of 32,Hard,2026-10-27T06:00:00Z,Dayana Yastremska,Katie Volynets,Dayana Yastremska,0.625,0.467,2.14,33.8,29.6,2.28,won,2026-10-27T10:49:22.275401+00:00,2.6,2.095,2.1
 649,2026-10-26T20:25:02.549702+00:00,ATP,ATP Basel Round Of 32,Hard,2026-10-25T12:00:00Z,Dominic Stricker,Casper Ruud,Casper Ruud,0.747,0.577,1.73,29.4,40.1,3.56,won,2026-10-27T00:01:07.271945+00:00,2.6,,
 650,2026-10-27T00:01:07.271945+00:00,WTA,WTA Guangzhou Round Of 32,Hard,2026-10-27T06:00:00Z,Anastasia Zakharova,Magda Linette,Magda Linette,0.625,0.537,1.86,16.2,18.8,3.12,won,2026-10-27T05:25:36.717319+00:00,2.68,,
-651,2026-10-27T05:25:36.717319+00:00,WTA,WTA Guangzhou Round Of 32,Hard,2026-10-26T06:00:00Z,Antonia Ruzic,Claire Liu,Antonia Ruzic,0.639,0.467,2.14,36.6,32.1,2.33,open,,,,
+651,2026-10-27T05:25:36.717319+00:00,WTA,WTA Guangzhou Round Of 32,Hard,2026-10-26T06:00:00Z,Antonia Ruzic,Claire Liu,Antonia Ruzic,0.639,0.467,2.14,36.6,32.1,2.33,lost,2026-10-27T10:49:22.275401+00:00,-2.33,,
