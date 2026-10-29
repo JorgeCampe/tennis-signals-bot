@@ -658,9 +658,9 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 657,2026-10-27T20:51:17.643044+00:00,WTA,WTA Guangzhou Round Of 16,Hard,2026-10-28T08:00:00Z,Sinja Kraus,Paula Badosa,Paula Badosa,0.776,0.734,1.36,5.6,15.5,2.72,won,2026-10-28T13:23:29.646131+00:00,0.98,1.438,-5.4
 658,2026-10-28T06:06:22.463766+00:00,WTA,WTA Tokyo Round Of 16,Hard,2026-10-29T04:30:00Z,Mia Pohankova,Naomi Osaka,Naomi Osaka,0.884,0.811,1.23,9.0,38.6,6.83,lost,2026-10-29T09:38:54.667103+00:00,-6.83,1.247,-1.4
 659,2026-10-28T06:06:22.463766+00:00,WTA,WTA Guangzhou Round Of 32,Hard,2026-10-26T06:00:00Z,Lanlana Tararudee,Katerina Siniakova,Katerina Siniakova,0.649,0.607,1.65,7.0,10.7,1.88,won,2026-10-28T13:23:29.646131+00:00,1.22,,
-660,2026-10-28T13:23:29.646131+00:00,ATP,ATP Basel Round Of 16,Hard,2026-10-29T13:00:00Z,Ben Shelton,Jerome Kym,Ben Shelton,0.823,0.754,1.33,9.3,28.4,4.82,open,,,1.294,
+660,2026-10-28T13:23:29.646131+00:00,ATP,ATP Basel Round Of 16,Hard,2026-10-29T13:00:00Z,Ben Shelton,Jerome Kym,Ben Shelton,0.823,0.754,1.33,9.3,28.4,4.82,open,,,1.263,
 661,2026-10-28T13:23:29.646131+00:00,ATP,ATP Vienna Round Of 32,Hard,2026-10-25T12:00:00Z,Frances Tiafoe,Lorenzo Musetti,Lorenzo Musetti,0.502,0.467,2.14,7.4,6.5,1.11,won,2026-10-28T19:00:26.673519+00:00,1.27,,
 662,2026-10-28T23:25:30.643996+00:00,WTA,WTA Guangzhou Round Of 16,Hard,2026-10-29T08:00:00Z,Katerina Siniakova,Claire Liu,Katerina Siniakova,0.708,0.617,1.62,14.8,23.8,4.1,lost,2026-10-29T09:38:54.667103+00:00,-4.1,1.571,3.1
-663,2026-10-28T23:25:30.643996+00:00,ATP,ATP Vienna Round Of 16,Hard,2026-10-29T15:30:00Z,Nikoloz Basilashvili,Carlos Alcaraz,Carlos Alcaraz,0.959,0.907,1.1,5.7,55.6,9.78,open,,,1.039,
-664,2026-10-29T02:42:27.612842+00:00,ATP,ATP Vienna Round Of 16,Hard,2026-10-29T15:30:00Z,Alexander Zverev,Tallon Griekspoor,Alexander Zverev,0.837,0.792,1.26,5.7,21.7,3.76,open,,,1.327,
-665,2026-10-29T16:45:46.226902+00:00,WTA,WTA Guangzhou Quarterfinal,Hard,2026-10-30T08:00:00Z,Jil Teichmann,Kaitlin Quevedo,Jil Teichmann,0.526,0.477,2.1,10.3,9.4,1.51,open,,,,
+663,2026-10-28T23:25:30.643996+00:00,ATP,ATP Vienna Round Of 16,Hard,2026-10-29T15:30:00Z,Nikoloz Basilashvili,Carlos Alcaraz,Carlos Alcaraz,0.959,0.907,1.1,5.7,55.6,9.78,won,2026-10-29T21:40:03.641168+00:00,0.98,1.039,5.9
+664,2026-10-29T02:42:27.612842+00:00,ATP,ATP Vienna Round Of 16,Hard,2026-10-29T15:30:00Z,Alexander Zverev,Tallon Griekspoor,Alexander Zverev,0.837,0.792,1.26,5.7,21.7,3.76,won,2026-10-29T21:40:03.641168+00:00,0.98,1.327,-5.0
+665,2026-10-29T16:45:46.226902+00:00,WTA,WTA Guangzhou Quarterfinal,Hard,2026-10-30T08:00:00Z,Jil Teichmann,Kaitlin Quevedo,Jil Teichmann,0.526,0.477,2.1,10.3,9.4,1.51,open,,,2.187,
