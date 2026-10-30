@@ -1,6 +1,5 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-10-30T08:20:02.499402+00:00,WTA,WTA Guangzhou Quarterfinal,Hard,2026-10-30T08:00:00Z,Jil Teichmann,Kaitlin Quevedo,Jil Teichmann,0.526,0.304,3.29,73.0,31.9,10.06,427653.69,KXWTAMATCH-26OCT30QUETEI
-2026-10-30T08:20:02.499402+00:00,WTA,WTA Tokyo Semifinal,Hard,2026-10-31T06:00:00Z,Kamilla Rakhimova,Leylah Fernandez,Kamilla Rakhimova,0.45,0.304,3.29,47.8,20.9,6.6,599.66,KXWTAMATCH-26OCT30FERRAK
-2026-10-30T08:20:02.499402+00:00,WTA,WTA Guangzhou Quarterfinal,Hard,2026-10-30T14:00:00Z,Lilli Tagger,Han Shi,Han Shi,0.357,0.294,3.4,21.2,8.8,2.79,38156.32,KXWTAMATCH-26OCT30TAGSHI
-2026-10-30T08:20:02.499402+00:00,WTA,WTA Tokyo Quarterfinal,Hard,2026-10-30T04:30:00Z,Diana Shnaider,Alexandra Eala,Alexandra Eala,0.535,0.457,2.19,17.1,14.4,4.54,521725.24,KXWTAMATCH-26OCT29EALSHN
-2026-10-30T08:20:02.499402+00:00,ATP,ATP Vienna Quarterfinal,Hard,2026-10-30T15:30:00Z,Tommy Paul,Carlos Alcaraz,Carlos Alcaraz,0.824,0.782,1.28,5.2,18.9,5.95,63479.02,KXATPMATCH-26OCT30PAUALC
+2026-10-30T15:12:42.229764+00:00,WTA,WTA Tokyo Semifinal,Hard,2026-10-31T06:00:00Z,Kamilla Rakhimova,Leylah Fernandez,Kamilla Rakhimova,0.45,0.273,3.66,64.6,24.3,7.57,3821.96,KXWTAMATCH-26OCT30FERRAK
+2026-10-30T15:12:42.229764+00:00,WTA,WTA Hong Kong Qualification Round 1,Hard,2026-10-31T05:00:00Z,Elena Pridankina,Ekaterine Gorgodze,Ekaterine Gorgodze,0.494,0.315,3.18,56.8,26.1,8.13,2061.86,KXWTAMATCH-26OCT30PRIGOR
+2026-10-30T15:12:42.229764+00:00,WTA,WTA Hong Kong Qualification Round 1,Hard,2026-10-31T05:00:00Z,Heather Watson,Emerson Jones,Heather Watson,0.406,0.304,3.29,33.5,14.7,4.57,1338.76,KXWTAMATCH-26OCT30JONWAT
+2026-10-30T15:12:42.229764+00:00,ATP,ATP Vienna Quarterfinal,Hard,2026-10-30T15:30:00Z,Tommy Paul,Carlos Alcaraz,Carlos Alcaraz,0.824,0.705,1.42,16.8,40.1,12.5,1391097.36,KXATPMATCH-26OCT30PAUALC
