@@ -675,7 +675,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 674,2026-10-31T20:11:20.993299+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Brandon Nakashima,Matteo Berrettini,Matteo Berrettini,0.494,0.437,2.29,13.0,10.1,1.58,open,,,2.236,
 675,2026-10-31T20:11:20.993299+00:00,WTA,WTA Hong Kong Qualification Final,Hard,2026-11-01T06:10:00Z,Himeno Sakatsume,Elena Pridankina,Himeno Sakatsume,0.587,0.527,1.9,11.4,12.7,1.99,won,2026-11-01T11:57:58.053559+00:00,1.79,1.648,15.3
 676,2026-10-31T23:34:17.290494+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Lorenzo Musetti,Hubert Hurkacz,Lorenzo Musetti,0.681,0.518,1.93,31.6,33.9,2.53,open,,,1.932,
-677,2026-10-31T23:34:17.290494+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Valentin Vacherot,Novak Djokovic,Novak Djokovic,0.756,0.715,1.4,5.8,14.4,2.27,open,,,1.399,
+677,2026-10-31T23:34:17.290494+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Valentin Vacherot,Novak Djokovic,Novak Djokovic,0.756,0.715,1.4,5.8,14.4,2.27,open,,,1.418,
 678,2026-11-01T05:12:19.857448+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Moise Kouame,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.8,0.754,1.33,6.2,18.8,2.95,open,,,1.31,
-679,2026-11-01T11:57:58.053559+00:00,WTA,WTA Hong Kong Round Of 32,Hard,2026-11-02T05:00:00Z,Maria Timofeeva,Sorana Cirstea,Sorana Cirstea,0.857,0.705,1.42,21.5,51.5,5.78,open,,,,
-680,2026-11-01T11:57:58.053559+00:00,ATP,ATP Paris Qualification Final,Hard,2026-11-01T13:00:00Z,Yannick Hanfmann,Benjamin Bonzi,Yannick Hanfmann,0.51,0.447,2.24,14.1,11.4,1.84,open,,,,
+679,2026-11-01T11:57:58.053559+00:00,WTA,WTA Hong Kong Round Of 32,Hard,2026-11-02T05:00:00Z,Maria Timofeeva,Sorana Cirstea,Sorana Cirstea,0.857,0.705,1.42,21.5,51.5,5.78,open,,,1.438,
+680,2026-11-01T11:57:58.053559+00:00,ATP,ATP Paris Qualification Final,Hard,2026-11-01T13:00:00Z,Yannick Hanfmann,Benjamin Bonzi,Yannick Hanfmann,0.51,0.447,2.24,14.1,11.4,1.84,lost,2026-11-01T17:52:20.701166+00:00,-1.84,,
