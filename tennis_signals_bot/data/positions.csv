@@ -670,18 +670,18 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 669,2026-10-31T05:20:05.032240+00:00,ATP,ATP Vienna Semifinal,Hard,2026-10-31T17:00:00Z,Daniil Medvedev,Carlos Alcaraz,Carlos Alcaraz,0.736,0.685,1.46,7.3,15.9,2.51,won,2026-10-31T16:14:47.435673+00:00,1.15,1.459,0.1
 670,2026-10-31T11:05:00.991060+00:00,WTA,WTA Tokyo Final,Hard,2026-11-01T06:00:00Z,Diana Shnaider,Leylah Fernandez,Diana Shnaider,0.689,0.607,1.65,13.5,20.8,3.28,won,2026-11-01T11:57:58.053559+00:00,2.13,2.052,-19.6
 671,2026-10-31T16:14:47.435673+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Quentin Halys,Arthur Fery,Arthur Fery,0.545,0.447,2.24,21.9,17.7,1.9,open,,,2.288,
-672,2026-10-31T16:14:47.435673+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Botic Van de Zandschulp,Ugo Humbert,Ugo Humbert,0.651,0.607,1.65,7.4,11.4,1.79,open,,,1.621,
+672,2026-10-31T16:14:47.435673+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Botic Van de Zandschulp,Ugo Humbert,Ugo Humbert,0.651,0.607,1.65,7.4,11.4,1.79,open,,,1.547,
 673,2026-10-31T20:11:20.993299+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Stefanos Tsitsipas,Learner Tien,Learner Tien,0.723,0.567,1.76,27.5,36.0,3.1,open,,,1.732,
-674,2026-10-31T20:11:20.993299+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Brandon Nakashima,Matteo Berrettini,Matteo Berrettini,0.494,0.437,2.29,13.0,10.1,1.58,open,,,2.236,
+674,2026-10-31T20:11:20.993299+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Brandon Nakashima,Matteo Berrettini,Matteo Berrettini,0.494,0.437,2.29,13.0,10.1,1.58,open,,,2.288,
 675,2026-10-31T20:11:20.993299+00:00,WTA,WTA Hong Kong Qualification Final,Hard,2026-11-01T06:10:00Z,Himeno Sakatsume,Elena Pridankina,Himeno Sakatsume,0.587,0.527,1.9,11.4,12.7,1.99,won,2026-11-01T11:57:58.053559+00:00,1.79,1.648,15.3
-676,2026-10-31T23:34:17.290494+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Lorenzo Musetti,Hubert Hurkacz,Lorenzo Musetti,0.681,0.518,1.93,31.6,33.9,2.53,open,,,1.932,
-677,2026-10-31T23:34:17.290494+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Valentin Vacherot,Novak Djokovic,Novak Djokovic,0.756,0.715,1.4,5.8,14.4,2.27,open,,,1.418,
-678,2026-11-01T05:12:19.857448+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Moise Kouame,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.8,0.754,1.33,6.2,18.8,2.95,open,,,1.344,
-679,2026-11-01T11:57:58.053559+00:00,WTA,WTA Hong Kong Round Of 32,Hard,2026-11-02T05:00:00Z,Maria Timofeeva,Sorana Cirstea,Sorana Cirstea,0.857,0.705,1.42,21.5,51.5,5.78,open,,,1.418,
+676,2026-10-31T23:34:17.290494+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Lorenzo Musetti,Hubert Hurkacz,Lorenzo Musetti,0.681,0.518,1.93,31.6,33.9,2.53,won,2026-11-02T18:43:02.707175+00:00,2.35,1.932,-0.1
+677,2026-10-31T23:34:17.290494+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Valentin Vacherot,Novak Djokovic,Novak Djokovic,0.756,0.715,1.4,5.8,14.4,2.27,open,,,1.438,
+678,2026-11-01T05:12:19.857448+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Moise Kouame,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.8,0.754,1.33,6.2,18.8,2.95,open,,,1.327,
+679,2026-11-01T11:57:58.053559+00:00,WTA,WTA Hong Kong Round Of 32,Hard,2026-11-02T05:00:00Z,Maria Timofeeva,Sorana Cirstea,Sorana Cirstea,0.857,0.705,1.42,21.5,51.5,5.78,open,,,1.438,
 680,2026-11-01T11:57:58.053559+00:00,ATP,ATP Paris Qualification Final,Hard,2026-11-01T13:00:00Z,Yannick Hanfmann,Benjamin Bonzi,Yannick Hanfmann,0.51,0.447,2.24,14.1,11.4,1.84,lost,2026-11-01T17:52:20.701166+00:00,-1.84,,
-681,2026-11-01T21:50:50.881720+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T17:30:00Z,Tomas Machac,Kyrian Jacquet,Tomas Machac,0.758,0.607,1.65,24.9,38.5,3.68,open,,,1.524,
+681,2026-11-01T21:50:50.881720+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T17:30:00Z,Tomas Machac,Kyrian Jacquet,Tomas Machac,0.758,0.607,1.65,24.9,38.5,3.68,won,2026-11-02T18:43:02.707175+00:00,2.39,1.524,8.3
 682,2026-11-01T21:50:50.881720+00:00,WTA,WTA Hong Kong Round Of 32,Hard,2026-11-02T05:00:00Z,Tatiana Prozorova,Claire Liu,Claire Liu,0.539,0.477,2.1,12.9,11.8,1.87,won,2026-11-02T08:02:22.237675+00:00,2.06,2.187,-4.0
-683,2026-11-01T21:50:50.881720+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T18:40:00Z,Alex Molcan,Titouan Droguet,Titouan Droguet,0.523,0.487,2.05,7.3,7.0,1.11,open,,,2.095,
-684,2026-11-02T01:22:10.906456+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T16:50:00Z,Lorenzo Sonego,Mattia Bellucci,Lorenzo Sonego,0.558,0.447,2.24,24.8,20.0,1.93,open,,,2.288,
-685,2026-11-02T08:02:22.237675+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Luca Van Assche,Mariano Navone,Mariano Navone,0.549,0.447,2.24,22.8,18.4,1.96,open,,,,
-686,2026-11-02T08:02:22.237675+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T13:00:00Z,Rinky Hijikata,Luciano Darderi,Luciano Darderi,0.51,0.467,2.14,9.2,8.1,1.31,open,,,,
+683,2026-11-01T21:50:50.881720+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T18:40:00Z,Alex Molcan,Titouan Droguet,Titouan Droguet,0.523,0.487,2.05,7.3,7.0,1.11,open,,,1.547,
+684,2026-11-02T01:22:10.906456+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T16:50:00Z,Lorenzo Sonego,Mattia Bellucci,Lorenzo Sonego,0.558,0.447,2.24,24.8,20.0,1.93,lost,2026-11-02T18:43:02.707175+00:00,-1.93,2.288,-2.1
+685,2026-11-02T08:02:22.237675+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Luca Van Assche,Mariano Navone,Mariano Navone,0.549,0.447,2.24,22.8,18.4,1.96,lost,2026-11-02T18:43:02.707175+00:00,-1.96,,
+686,2026-11-02T08:02:22.237675+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T13:00:00Z,Rinky Hijikata,Luciano Darderi,Luciano Darderi,0.51,0.467,2.14,9.2,8.1,1.31,lost,2026-11-02T18:43:02.707175+00:00,-1.31,,
