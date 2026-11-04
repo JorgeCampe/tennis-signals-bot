@@ -685,8 +685,8 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 684,2026-11-02T01:22:10.906456+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T16:50:00Z,Lorenzo Sonego,Mattia Bellucci,Lorenzo Sonego,0.558,0.447,2.24,24.8,20.0,1.93,lost,2026-11-02T18:43:02.707175+00:00,-1.93,2.288,-2.1
 685,2026-11-02T08:02:22.237675+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-01T13:00:00Z,Luca Van Assche,Mariano Navone,Mariano Navone,0.549,0.447,2.24,22.8,18.4,1.96,lost,2026-11-02T18:43:02.707175+00:00,-1.96,,
 686,2026-11-02T08:02:22.237675+00:00,ATP,ATP Paris Round Of 64,Hard,2026-11-02T13:00:00Z,Rinky Hijikata,Luciano Darderi,Luciano Darderi,0.51,0.467,2.14,9.2,8.1,1.31,lost,2026-11-02T18:43:02.707175+00:00,-1.31,,
-687,2026-11-03T16:28:57.656385+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Arthur Rinderknech,Mattia Bellucci,Arthur Rinderknech,0.641,0.457,2.19,40.3,33.9,2.09,open,,,2.187,
-688,2026-11-03T16:28:57.656385+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Frances Tiafoe,Quentin Halys,Frances Tiafoe,0.751,0.597,1.68,25.8,38.2,3.66,open,,,1.648,
-689,2026-11-03T16:28:57.656385+00:00,WTA,WTA Hong Kong Round Of 16,Hard,2026-11-04T09:00:00Z,Claire Liu,Katie Boulter,Katie Boulter,0.685,0.617,1.62,11.1,17.9,2.97,open,,,1.675,
-690,2026-11-03T21:55:39.048355+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Rinky Hijikata,Novak Djokovic,Novak Djokovic,0.896,0.811,1.23,10.5,45.2,7.57,open,,,1.247,
-691,2026-11-04T02:01:56.035301+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Ugo Humbert,Matteo Berrettini,Ugo Humbert,0.609,0.547,1.83,11.4,13.7,2.28,open,,,,
+687,2026-11-03T16:28:57.656385+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Arthur Rinderknech,Mattia Bellucci,Arthur Rinderknech,0.641,0.457,2.19,40.3,33.9,2.09,won,2026-11-04T17:51:20.007568+00:00,2.49,2.187,0.1
+688,2026-11-03T16:28:57.656385+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Frances Tiafoe,Quentin Halys,Frances Tiafoe,0.751,0.597,1.68,25.8,38.2,3.66,lost,2026-11-04T17:51:20.007568+00:00,-3.66,1.648,1.9
+689,2026-11-03T16:28:57.656385+00:00,WTA,WTA Hong Kong Round Of 16,Hard,2026-11-04T09:00:00Z,Claire Liu,Katie Boulter,Katie Boulter,0.685,0.617,1.62,11.1,17.9,2.97,lost,2026-11-04T17:51:20.007568+00:00,-2.97,1.675,-3.3
+690,2026-11-03T21:55:39.048355+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Rinky Hijikata,Novak Djokovic,Novak Djokovic,0.896,0.811,1.23,10.5,45.2,7.57,lost,2026-11-04T17:51:20.007568+00:00,-7.57,1.247,-1.4
+691,2026-11-04T02:01:56.035301+00:00,ATP,ATP Paris Round Of 32,Hard,2026-11-04T13:00:00Z,Ugo Humbert,Matteo Berrettini,Ugo Humbert,0.609,0.547,1.83,11.4,13.7,2.28,open,,,1.732,
