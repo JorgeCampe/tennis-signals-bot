@@ -1,4 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-05T11:59:40.150341+00:00,WTA,WTA Chennai Round Of 16,Hard,2026-11-05T12:30:00Z,Simona Waltert,Lucrezia Stefanini,Simona Waltert,0.555,0.417,2.4,33.1,23.7,7.22,75058.75,KXWTAMATCH-26NOV05WALSTE
-2026-11-05T11:59:40.150341+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T13:00:00Z,Ignacio Buse,Nuno Borges,Ignacio Buse,0.517,0.407,2.46,27.1,18.6,5.66,24378.4,KXATPMATCH-26NOV05BORBUS
-2026-11-05T11:59:40.150341+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T13:00:00Z,Luca Van Assche,Lorenzo Musetti,Lorenzo Musetti,0.793,0.754,1.33,5.3,16.2,4.93,11143.18,KXATPMATCH-26NOV05MUSVAN
+2026-11-05T19:51:35.730767+00:00,ATP,Paris Masters Quarter Finals,Hard,2026-11-06T17:30:00Z,Luca Van Assche,Rinky Hijikata,Rinky Hijikata,0.564,0.417,2.4,35.3,25.2,7.4,3464.55,KXATPMATCH-26NOV06VANAHIJ
+2026-11-05T19:51:35.730767+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Anastasia Zakharova,Lucrezia Stefanini,Anastasia Zakharova,0.611,0.487,2.05,25.5,24.2,7.1,6358.27,KXWTAMATCH-26NOV06ZAKSTE
+2026-11-05T19:51:35.730767+00:00,ATP,ATP Paris Quarterfinal,Hard,2026-11-06T12:00:00Z,Ben Shelton,Tommy Paul,Ben Shelton,0.583,0.467,2.14,24.7,21.6,6.34,45440.8,KXATPMATCH-26NOV06SHEPAU
+2026-11-05T19:51:35.730767+00:00,WTA,WTA Hong Kong Quarterfinal,Hard,2026-11-06T09:00:00Z,Zeynep Sonmez,Claire Liu,Zeynep Sonmez,0.633,0.508,1.97,24.7,25.5,7.46,5101.95,KXWTAMATCH-26NOV06SONLIU
+2026-11-05T19:51:35.730767+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Magda Linette,Mai Hontama,Magda Linette,0.769,0.725,1.38,6.1,16.1,4.72,1552.0,KXWTAMATCH-26NOV06HONLIN
