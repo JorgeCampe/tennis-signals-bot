@@ -1,3 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-04T23:25:20.013620+00:00,WTA,WTA Chennai Round Of 16,Hard,2026-11-05T12:30:00Z,Simona Waltert,Lucrezia Stefanini,Simona Waltert,0.555,0.366,2.73,51.7,29.8,8.85,1396.98,KXWTAMATCH-26NOV05WALSTE
-2026-11-04T23:25:20.013620+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T13:00:00Z,Ignacio Buse,Nuno Borges,Ignacio Buse,0.517,0.437,2.29,18.3,14.2,4.21,5769.21,KXATPMATCH-26NOV05BORBUS
+2026-11-05T03:39:23.539315+00:00,WTA,WTA Chennai Round Of 16,Hard,2026-11-05T12:30:00Z,Simona Waltert,Lucrezia Stefanini,Simona Waltert,0.555,0.376,2.66,47.6,28.7,8.51,2087.42,KXWTAMATCH-26NOV05WALSTE
+2026-11-05T03:39:23.539315+00:00,WTA,WTA Chennai Round Of 16,Hard,2026-11-04T12:30:00Z,Moyuka Uchijima,Magda Linette,Magda Linette,0.76,0.587,1.7,29.5,42.0,12.46,878.18,KXWTAMATCH-26NOV04UCHLIN
+2026-11-05T03:39:23.539315+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T13:00:00Z,Ignacio Buse,Nuno Borges,Ignacio Buse,0.517,0.437,2.29,18.3,14.2,4.21,9585.45,KXATPMATCH-26NOV05BORBUS
+2026-11-05T03:39:23.539315+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T13:00:00Z,Luca Van Assche,Lorenzo Musetti,Lorenzo Musetti,0.793,0.744,1.34,6.6,19.3,5.73,1519.2,KXATPMATCH-26NOV05MUSVAN
+2026-11-05T03:39:23.539315+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T21:00:00Z,Matteo Berrettini,Carlos Alcaraz,Carlos Alcaraz,0.889,0.84,1.19,5.9,31.1,9.23,15758.18,KXATPMATCH-26NOV05BERALC
