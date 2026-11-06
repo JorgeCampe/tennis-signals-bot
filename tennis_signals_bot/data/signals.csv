@@ -1,6 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-06T07:46:56.571938+00:00,ATP,Paris Masters Quarter Finals,Hard,2026-11-06T17:30:00Z,Luca Van Assche,Rinky Hijikata,Rinky Hijikata,0.564,0.407,2.46,38.7,26.5,7.62,28086.52,KXATPMATCH-26NOV06VANAHIJ
-2026-11-06T07:46:56.571938+00:00,ATP,ATP Paris Quarterfinal,Hard,2026-11-06T12:00:00Z,Ben Shelton,Tommy Paul,Ben Shelton,0.583,0.477,2.1,22.0,20.1,5.78,162685.57,KXATPMATCH-26NOV06SHEPAU
-2026-11-06T07:46:56.571938+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Anastasia Zakharova,Lucrezia Stefanini,Anastasia Zakharova,0.611,0.508,1.97,20.5,21.1,6.06,54990.75,KXWTAMATCH-26NOV06ZAKSTE
-2026-11-06T07:46:56.571938+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Magda Linette,Mai Hontama,Magda Linette,0.769,0.695,1.44,10.6,24.2,6.94,10568.76,KXWTAMATCH-26NOV06HONLIN
-2026-11-06T07:46:56.571938+00:00,ATP,Paris Masters Quarter Finals,Hard,2026-11-06T21:00:00Z,Taylor Fritz,Carlos Alcaraz,Carlos Alcaraz,0.803,0.754,1.33,6.6,20.1,5.76,31798.24,KXATPMATCH-26NOV06FRIALC
+2026-11-06T15:46:49.843307+00:00,ATP,Paris Masters Quarter Finals,Hard,2026-11-06T17:30:00Z,Luca Van Assche,Rinky Hijikata,Rinky Hijikata,0.564,0.345,2.9,63.3,33.4,9.78,1935719.38,KXATPMATCH-26NOV06VANAHIJ
+2026-11-06T15:46:49.843307+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Magda Linette,Mai Hontama,Magda Linette,0.769,0.498,2.01,54.6,54.0,15.82,2800730.78,KXWTAMATCH-26NOV06HONLIN
+2026-11-06T15:46:49.843307+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Anastasia Zakharova,Lucrezia Stefanini,Anastasia Zakharova,0.611,0.498,2.01,22.9,22.7,6.64,147370.27,KXWTAMATCH-26NOV06ZAKSTE
+2026-11-06T15:46:49.843307+00:00,ATP,ATP Paris Quarter Finals,Hard,2026-11-06T22:30:00Z,Casper Ruud,Nuno Borges,Nuno Borges,0.381,0.356,2.81,7.0,3.8,1.13,6345.73,KXATPMATCH-26NOV06RUUBOR
+2026-11-06T15:46:49.843307+00:00,ATP,Paris Masters Quarter Finals,Hard,2026-11-06T21:00:00Z,Taylor Fritz,Carlos Alcaraz,Carlos Alcaraz,0.803,0.754,1.33,6.6,20.1,5.87,181453.22,KXATPMATCH-26NOV06FRIALC
