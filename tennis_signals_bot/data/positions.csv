@@ -694,7 +694,8 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 693,2026-11-05T03:39:21.141856+00:00,WTA,WTA Chennai Round Of 16,Hard,2026-11-04T12:30:00Z,Moyuka Uchijima,Magda Linette,Magda Linette,0.76,0.587,1.7,29.5,42.0,3.18,won,2026-11-05T11:59:37.407468+00:00,2.23,,
 694,2026-11-05T03:39:21.141856+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T13:00:00Z,Luca Van Assche,Lorenzo Musetti,Lorenzo Musetti,0.793,0.744,1.34,6.6,19.3,2.88,lost,2026-11-05T19:51:31.783367+00:00,-2.88,1.327,1.0
 695,2026-11-05T03:39:21.141856+00:00,ATP,ATP Paris Round Of 16,Hard,2026-11-05T21:00:00Z,Matteo Berrettini,Carlos Alcaraz,Carlos Alcaraz,0.889,0.84,1.19,5.9,31.1,4.61,won,2026-11-05T11:59:37.407468+00:00,0.88,,
-696,2026-11-05T19:51:31.783367+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Anastasia Zakharova,Lucrezia Stefanini,Anastasia Zakharova,0.611,0.487,2.05,25.5,24.2,2.09,open,,,,
-697,2026-11-05T19:51:31.783367+00:00,ATP,ATP Paris Quarterfinal,Hard,2026-11-06T12:00:00Z,Ben Shelton,Tommy Paul,Ben Shelton,0.583,0.467,2.14,24.7,21.6,1.93,open,,,,
-698,2026-11-05T19:51:31.783367+00:00,WTA,WTA Hong Kong Quarterfinal,Hard,2026-11-06T09:00:00Z,Zeynep Sonmez,Claire Liu,Zeynep Sonmez,0.633,0.508,1.97,24.7,25.5,2.27,open,,,,
-699,2026-11-05T19:51:31.783367+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Magda Linette,Mai Hontama,Magda Linette,0.769,0.725,1.38,6.1,16.1,2.35,open,,,,
+696,2026-11-05T19:51:31.783367+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Anastasia Zakharova,Lucrezia Stefanini,Anastasia Zakharova,0.611,0.487,2.05,25.5,24.2,2.09,open,,,1.932,
+697,2026-11-05T19:51:31.783367+00:00,ATP,ATP Paris Quarterfinal,Hard,2026-11-06T12:00:00Z,Ben Shelton,Tommy Paul,Ben Shelton,0.583,0.467,2.14,24.7,21.6,1.93,open,,,2.095,
+698,2026-11-05T19:51:31.783367+00:00,WTA,WTA Hong Kong Quarterfinal,Hard,2026-11-06T09:00:00Z,Zeynep Sonmez,Claire Liu,Zeynep Sonmez,0.633,0.508,1.97,24.7,25.5,2.27,open,,,2.052,
+699,2026-11-05T19:51:31.783367+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Magda Linette,Mai Hontama,Magda Linette,0.769,0.725,1.38,6.1,16.1,2.35,open,,,1.399,
+700,2026-11-06T00:53:52.689548+00:00,ATP,Paris Masters Quarter Finals,Hard,2026-11-06T21:00:00Z,Taylor Fritz,Carlos Alcaraz,Carlos Alcaraz,0.803,0.744,1.34,7.9,23.0,3.4,open,,,,
