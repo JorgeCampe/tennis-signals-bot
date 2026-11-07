@@ -699,5 +699,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 698,2026-11-05T19:51:31.783367+00:00,WTA,WTA Hong Kong Quarterfinal,Hard,2026-11-06T09:00:00Z,Zeynep Sonmez,Claire Liu,Zeynep Sonmez,0.633,0.508,1.97,24.7,25.5,2.27,lost,2026-11-06T07:46:54.002973+00:00,-2.27,2.052,-4.0
 699,2026-11-05T19:51:31.783367+00:00,WTA,WTA Chennai Quarterfinal,Hard,2026-11-06T12:30:00Z,Magda Linette,Mai Hontama,Magda Linette,0.769,0.725,1.38,6.1,16.1,2.35,won,2026-11-06T21:22:40.148635+00:00,0.89,1.675,-17.6
 700,2026-11-06T00:53:52.689548+00:00,ATP,Paris Masters Quarter Finals,Hard,2026-11-06T21:00:00Z,Taylor Fritz,Carlos Alcaraz,Carlos Alcaraz,0.803,0.744,1.34,7.9,23.0,3.4,won,2026-11-07T01:04:00.838237+00:00,1.16,1.049,27.7
-701,2026-11-06T21:22:40.148635+00:00,WTA,WTA Hong Kong Semi Finals,Hard,2026-11-07T10:30:00Z,Maria Sakkari,Alexandra Eala,Alexandra Eala,0.62,0.577,1.73,7.4,10.1,1.52,open,,,1.732,
-702,2026-11-07T01:04:00.838237+00:00,ATP,ATP Paris Semi Finals,Hard,2026-11-07T16:30:00Z,Luca Van Assche,Ben Shelton,Ben Shelton,0.845,0.782,1.28,8.0,28.7,4.34,open,,,,
+701,2026-11-06T21:22:40.148635+00:00,WTA,WTA Hong Kong Semi Finals,Hard,2026-11-07T10:30:00Z,Maria Sakkari,Alexandra Eala,Alexandra Eala,0.62,0.577,1.73,7.4,10.1,1.52,open,,,1.763,
+702,2026-11-07T01:04:00.838237+00:00,ATP,ATP Paris Semi Finals,Hard,2026-11-07T16:30:00Z,Luca Van Assche,Ben Shelton,Ben Shelton,0.845,0.782,1.28,8.0,28.7,4.34,open,,,1.278,
