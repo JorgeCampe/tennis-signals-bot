@@ -702,4 +702,6 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 701,2026-11-06T21:22:40.148635+00:00,WTA,WTA Hong Kong Semi Finals,Hard,2026-11-07T10:30:00Z,Maria Sakkari,Alexandra Eala,Alexandra Eala,0.62,0.577,1.73,7.4,10.1,1.52,won,2026-11-07T14:46:29.147278+00:00,1.11,1.763,-1.9
 702,2026-11-07T01:04:00.838237+00:00,ATP,ATP Paris Semi Finals,Hard,2026-11-07T16:30:00Z,Luca Van Assche,Ben Shelton,Ben Shelton,0.845,0.782,1.28,8.0,28.7,4.34,won,2026-11-07T19:17:33.756317+00:00,1.22,1.932,-33.7
 703,2026-11-07T19:17:33.756317+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.725,1.38,6.3,16.5,2.56,lost,2026-11-07T22:54:38.569705+00:00,-2.56,1.399,-1.4
-704,2026-11-07T22:54:38.569705+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.715,1.4,7.7,19.4,2.92,open,,,,
+704,2026-11-07T22:54:38.569705+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.715,1.4,7.7,19.4,2.92,lost,2026-11-08T02:08:21.984745+00:00,-2.92,1.399,0.1
+705,2026-11-08T02:08:21.984745+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-08T23:00:00Z,Linda Noskova,Marta Kostyuk,Marta Kostyuk,0.583,0.477,2.1,22.1,20.2,2.02,open,,,,
+706,2026-11-08T02:08:21.984745+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.715,1.4,7.7,19.4,2.85,open,,,,

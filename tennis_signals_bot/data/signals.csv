@@ -1,3 +1,6 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-07T22:54:42.657726+00:00,WTA,WTA Chennai Final,Hard,2026-11-08T16:00:00Z,Janice Tjen,Magda Linette,Magda Linette,0.571,0.376,2.66,51.8,31.2,9.46,584.38,KXWTAMATCH-26NOV08TJELIN
-2026-11-07T22:54:42.657726+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.715,1.4,7.7,19.4,5.86,21601.36,KXWTAMATCH-26NOV08LIUEAL
+2026-11-08T02:08:25.609977+00:00,WTA,WTA Chennai Final,Hard,2026-11-08T16:00:00Z,Janice Tjen,Magda Linette,Magda Linette,0.571,0.376,2.66,51.8,31.2,9.23,3333.16,KXWTAMATCH-26NOV08TJELIN
+2026-11-08T02:08:25.609977+00:00,ATP,ATP Stockholm Final,Hard,2026-11-08T14:00:00Z,Borna Gojo,Nikoloz Basilashvili,Borna Gojo,0.501,0.386,2.59,29.7,18.7,5.53,562.58,KXATPMATCH-26NOV08BASGOJ
+2026-11-08T02:08:25.609977+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-08T23:00:00Z,Linda Noskova,Marta Kostyuk,Marta Kostyuk,0.583,0.477,2.1,22.1,20.2,5.98,6735.01,KXWTAMATCH-26NOV08KOSNOS
+2026-11-08T02:08:25.609977+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.715,1.4,7.7,19.4,5.72,41542.9,KXWTAMATCH-26NOV08LIUEAL
+2026-11-08T02:08:25.609977+00:00,ATP,ATP Stockholm Final,Hard,2026-11-08T15:30:00Z,Toby Samuel,Adrian Mannarino,Adrian Mannarino,0.549,0.518,1.93,6.2,6.6,1.95,1404.68,KXATPMATCH-26NOV08MANSAM
