@@ -1,5 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-08T16:12:59.312153+00:00,WTA,WTA Chennai Final,Hard,2026-11-08T16:00:00Z,Janice Tjen,Magda Linette,Magda Linette,0.571,0.366,2.73,56.1,32.3,9.33,77271.2,KXWTAMATCH-26NOV08TJELIN
-2026-11-08T16:12:59.312153+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Alex Michelsen,Yannick Hanfmann,Yannick Hanfmann,0.382,0.284,3.52,34.6,13.7,3.96,970.11,KXATPMATCH-26NOV09MICHAN
-2026-11-08T16:12:59.312153+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-08T23:00:00Z,Linda Noskova,Marta Kostyuk,Marta Kostyuk,0.583,0.447,2.24,30.4,24.6,7.09,51189.54,KXWTAMATCH-26NOV08KOSNOS
-2026-11-08T16:12:59.312153+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-09T00:30:00Z,Jessica Pegula,Coco Gauff,Jessica Pegula,0.571,0.457,2.19,24.9,21.0,6.05,17892.58,KXWTAMATCH-26NOV08GAUPEG
+2026-11-08T20:41:40.279088+00:00,WTA,WTA Chennai Final,Hard,2026-11-08T16:00:00Z,Janice Tjen,Magda Linette,Magda Linette,0.571,0.376,2.66,51.8,31.2,9.01,107434.91,KXWTAMATCH-26NOV08TJELIN
+2026-11-08T20:41:40.279088+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Alex Michelsen,Yannick Hanfmann,Yannick Hanfmann,0.382,0.284,3.52,34.6,13.7,3.96,1379.24,KXATPMATCH-26NOV09MICHAN
+2026-11-08T20:41:40.279088+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-09T00:30:00Z,Jessica Pegula,Coco Gauff,Jessica Pegula,0.571,0.457,2.19,24.9,21.0,6.05,32086.52,KXWTAMATCH-26NOV08GAUPEG
