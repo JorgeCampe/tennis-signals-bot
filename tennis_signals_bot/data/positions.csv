@@ -705,5 +705,7 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 704,2026-11-07T22:54:38.569705+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.715,1.4,7.7,19.4,2.92,lost,2026-11-08T02:08:21.984745+00:00,-2.92,1.399,0.1
 705,2026-11-08T02:08:21.984745+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-08T23:00:00Z,Linda Noskova,Marta Kostyuk,Marta Kostyuk,0.583,0.477,2.1,22.1,20.2,2.02,lost,2026-11-09T00:38:37.881776+00:00,-2.02,4.981,-57.8
 706,2026-11-08T02:08:21.984745+00:00,WTA,WTA Hong Kong Final,Hard,2026-11-08T11:00:00Z,Claire Liu,Alexandra Eala,Alexandra Eala,0.77,0.715,1.4,7.7,19.4,2.85,lost,2026-11-08T09:22:50.976760+00:00,-2.85,5.903,-76.3
-707,2026-11-08T09:22:50.976760+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-09T00:30:00Z,Jessica Pegula,Coco Gauff,Jessica Pegula,0.571,0.447,2.24,27.7,22.4,1.74,open,,,7.85,
-708,2026-11-09T00:38:37.881776+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Holger Rune,Zizou Bergs,Holger Rune,0.686,0.597,1.68,15.0,22.2,3.13,open,,,,
+707,2026-11-08T09:22:50.976760+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-09T00:30:00Z,Jessica Pegula,Coco Gauff,Jessica Pegula,0.571,0.447,2.24,27.7,22.4,1.74,lost,2026-11-09T07:44:50.908894+00:00,-1.74,7.85,-71.5
+708,2026-11-09T00:38:37.881776+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Holger Rune,Zizou Bergs,Holger Rune,0.686,0.597,1.68,15.0,22.2,3.13,open,,,1.648,
+709,2026-11-09T07:44:50.908894+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T15:20:00Z,Tomas Machac,Borna Gojo,Tomas Machac,0.806,0.744,1.34,8.3,24.0,3.41,open,,,,
+710,2026-11-09T07:44:50.908894+00:00,WTA,WTA Chennai Final,Hard,2026-11-08T16:00:00Z,Janice Tjen,Magda Linette,Magda Linette,0.571,0.537,1.86,6.3,7.3,1.02,open,,,,
