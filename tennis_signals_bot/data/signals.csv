@@ -1,6 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-09T18:31:20.155472+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-10T13:00:00Z,Luca Van Assche,Alexander Shevchenko,Alexander Shevchenko,0.549,0.437,2.29,25.7,20.0,5.45,2380.36,KXATPMATCH-26NOV10VANASHE
-2026-11-09T18:31:20.155472+00:00,WTA,WTA Finals (Women) Group Stage,Hard,2026-11-10T00:30:00Z,Elina Svitolina,Mirra Andreeva,Elina Svitolina,0.468,0.386,2.59,21.2,13.3,3.63,20377.92,KXWTAMATCH-26NOV09ANDSVI
-2026-11-09T18:31:20.155472+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-10T13:00:00Z,Lorenzo Sonego,Quentin Halys,Lorenzo Sonego,0.55,0.477,2.1,15.3,14.0,3.82,503.53,KXATPMATCH-26NOV10SONHAL
-2026-11-09T18:31:20.155472+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Holger Rune,Zizou Bergs,Holger Rune,0.686,0.607,1.65,13.1,20.3,5.53,22806.34,KXATPMATCH-26NOV09RUNBER
-2026-11-09T18:31:20.155472+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Arthur Rinderknech,Miomir Kecmanovic,Miomir Kecmanovic,0.393,0.356,2.81,10.6,5.9,1.6,23622.27,KXATPMATCH-26NOV09RINKEC
+2026-11-10T01:55:06.064966+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-10T13:00:00Z,Lorenzo Sonego,Quentin Halys,Lorenzo Sonego,0.55,0.477,2.1,15.3,14.0,3.82,2483.91,KXATPMATCH-26NOV10SONHAL
+2026-11-10T01:55:06.064966+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Holger Rune,Zizou Bergs,Holger Rune,0.686,0.627,1.6,9.6,16.0,4.38,31445.39,KXATPMATCH-26NOV09RUNBER
+2026-11-10T01:55:06.064966+00:00,ATP,ATP Stockholm 1/16 Finals,Hard,2026-11-09T14:00:00Z,Arthur Rinderknech,Miomir Kecmanovic,Miomir Kecmanovic,0.393,0.366,2.73,7.5,4.4,1.19,28264.88,KXATPMATCH-26NOV09RINKEC
