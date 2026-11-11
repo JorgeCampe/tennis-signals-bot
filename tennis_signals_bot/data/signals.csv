@@ -1,5 +1,3 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-11T09:45:18.694694+00:00,WTA,WTA Finals,Hard,2026-11-12T00:10:00Z,Aryna Sabalenka,Mirra Andreeva,Aryna Sabalenka,0.743,0.527,1.9,40.9,45.6,12.7,49980.24,KXWTAMATCH-26NOV11SABAND
-2026-11-11T09:45:18.694694+00:00,ATP,ATP Stockholm Round Of 16,Hard,2026-11-11T15:00:00Z,Alejandro Tabilo,Lorenzo Sonego,Alejandro Tabilo,0.518,0.437,2.29,18.4,14.3,3.98,66458.32,KXATPMATCH-26NOV11SONTAB
-2026-11-11T09:45:18.694694+00:00,ATP,ATP Stockholm Round Of 16,Hard,2026-11-11T15:00:00Z,Ugo Humbert,Borna Gojo,Ugo Humbert,0.818,0.695,1.44,17.6,40.2,11.21,8088.3,KXATPMATCH-26NOV11GOJHUM
-2026-11-11T09:45:18.694694+00:00,ATP,ATP Stockholm Round Of 16,Hard,2026-11-11T15:00:00Z,Cameron Norrie,Taylor Fritz,Cameron Norrie,0.313,0.273,3.66,14.5,5.4,1.52,53082.05,KXATPMATCH-26NOV11FRINOR
+2026-11-11T17:46:39.947343+00:00,WTA,WTA Finals,Hard,2026-11-12T00:10:00Z,Aryna Sabalenka,Mirra Andreeva,Aryna Sabalenka,0.743,0.527,1.9,40.9,45.6,13.19,72932.29,KXWTAMATCH-26NOV11SABAND
+2026-11-11T17:46:39.947343+00:00,ATP,ATP Stockholm Quarterfinal,Hard,2026-11-12T15:00:00Z,Alejandro Tabilo,Alex Michelsen,Alejandro Tabilo,0.361,0.284,3.52,27.2,10.8,3.12,525.81,KXATPMATCH-26NOV12MICTAB
