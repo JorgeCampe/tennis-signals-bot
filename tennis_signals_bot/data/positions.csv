@@ -715,4 +715,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 714,2026-11-10T22:29:06.912708+00:00,ATP,ATP Stockholm Round Of 16,Hard,2026-11-11T15:00:00Z,Ugo Humbert,Borna Gojo,Ugo Humbert,0.818,0.695,1.44,17.6,40.2,4.83,won,2026-11-11T17:46:37.680551+00:00,2.13,1.438,0.1
 715,2026-11-10T22:29:06.912708+00:00,ATP,ATP Stockholm Round Of 16,Hard,2026-11-11T15:00:00Z,Alejandro Tabilo,Lorenzo Sonego,Alejandro Tabilo,0.518,0.447,2.24,15.7,12.7,1.71,won,2026-11-11T17:46:37.680551+00:00,2.12,2.288,-2.1
 716,2026-11-10T22:29:06.912708+00:00,WTA,WTA Finals,Hard,2026-11-11T00:10:00Z,Linda Noskova,Coco Gauff,Coco Gauff,0.609,0.547,1.83,11.2,13.5,1.91,lost,2026-11-11T02:11:13.437919+00:00,-1.91,,
-717,2026-11-12T00:16:50.847225+00:00,WTA,WTA Finals,Hard,2026-11-13T00:10:00Z,Jessica Pegula,Linda Noskova,Jessica Pegula,0.674,0.487,2.05,38.3,36.4,2.02,open,,,1.794,
+717,2026-11-12T00:16:50.847225+00:00,WTA,WTA Finals,Hard,2026-11-13T00:10:00Z,Jessica Pegula,Linda Noskova,Jessica Pegula,0.674,0.487,2.05,38.3,36.4,2.02,won,2026-11-13T03:17:08.807439+00:00,2.12,1.794,14.3
+718,2026-11-13T03:17:08.807439+00:00,WTA,WTA Finals,Hard,2026-11-14T00:10:00Z,Elina Svitolina,Aryna Sabalenka,Aryna Sabalenka,0.766,0.656,1.52,16.8,32.1,4.16,open,,,,
