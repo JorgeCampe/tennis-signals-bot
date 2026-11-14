@@ -1,2 +1,3 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-13T18:41:09.186690+00:00,WTA,WTA Finals,Hard,2026-11-14T00:10:00Z,Elina Svitolina,Aryna Sabalenka,Aryna Sabalenka,0.766,0.685,1.46,11.8,25.8,7.43,56451.27,KXWTAMATCH-26NOV13SABSVI
+2026-11-14T00:15:08.016202+00:00,WTA,WTA Finals,Hard,2026-11-14T23:00:00Z,Jessica Pegula,Mirra Andreeva,Jessica Pegula,0.594,0.304,3.29,95.1,41.6,11.56,14519.79,KXWTAMATCH-26NOV14PEGAND
+2026-11-14T00:15:08.016202+00:00,ATP,ATP World Tour Finals,Hard,2026-11-15T16:00:00Z,Alexander Zverev,Rafael Jodar,Alexander Zverev,0.769,0.705,1.42,9.0,21.6,6.01,1574.35,KXATPMATCH-26NOV15ZVEJOD
