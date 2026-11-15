@@ -1,4 +1,4 @@
 ts,tour,tournament,surface,commence_time,player_a,player_b,pick,p_model,kalshi_prob,odds,edge_pct,kelly_pct,stake,volume,event_ticker
-2026-11-15T10:40:43.156378+00:00,WTA,WTA Finals,Hard,2026-11-15T21:00:00Z,Elina Svitolina,Mirra Andreeva,Elina Svitolina,0.468,0.304,3.29,53.7,23.5,6.53,35446.34,KXWTAMATCH-26NOV15SVIAND
-2026-11-15T10:40:43.156378+00:00,ATP,ATP World Tour Finals,Hard,2026-11-15T22:30:00Z,Ben Shelton,Arthur Fils,Arthur Fils,0.492,0.397,2.52,24.1,15.8,4.4,74842.39,KXATPMATCH-26NOV15SHEFIL
-2026-11-15T10:40:43.156378+00:00,ATP,ATP World Tour Finals,Hard,2026-11-16T22:30:00Z,Daniil Medvedev,Flavio Cobolli,Flavio Cobolli,0.282,0.253,3.96,11.8,4.0,1.1,885.84,KXATPMATCH-26NOV16MEDCOB
+2026-11-15T17:37:21.117877+00:00,WTA,WTA Finals,Hard,2026-11-15T21:00:00Z,Elina Svitolina,Mirra Andreeva,Elina Svitolina,0.468,0.294,3.4,59.1,24.6,6.92,76032.85,KXWTAMATCH-26NOV15SVIAND
+2026-11-15T17:37:21.117877+00:00,ATP,ATP World Tour Finals,Hard,2026-11-15T22:30:00Z,Ben Shelton,Arthur Fils,Arthur Fils,0.492,0.397,2.52,24.1,15.8,4.44,169134.78,KXATPMATCH-26NOV15SHEFIL
+2026-11-15T17:37:21.117877+00:00,ATP,ATP World Tour Finals,Hard,2026-11-16T22:30:00Z,Daniil Medvedev,Flavio Cobolli,Flavio Cobolli,0.282,0.253,3.96,11.8,4.0,1.12,1925.13,KXATPMATCH-26NOV16MEDCOB
