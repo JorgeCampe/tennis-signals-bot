@@ -719,5 +719,5 @@ id,opened_ts,tour,tournament,surface,commence_time,player_a,player_b,pick,model_
 718,2026-11-13T03:17:08.807439+00:00,WTA,WTA Finals,Hard,2026-11-14T00:10:00Z,Elina Svitolina,Aryna Sabalenka,Aryna Sabalenka,0.766,0.656,1.52,16.8,32.1,4.16,lost,2026-11-14T00:15:07.037172+00:00,-4.16,1.459,4.2
 719,2026-11-14T00:15:07.037172+00:00,ATP,ATP World Tour Finals,Hard,2026-11-15T16:00:00Z,Alexander Zverev,Rafael Jodar,Alexander Zverev,0.769,0.705,1.42,9.0,21.6,2.98,won,2026-11-15T17:37:17.942772+00:00,1.25,1.362,4.3
 720,2026-11-16T02:37:45.166926+00:00,ATP,ATP World Tour Finals,Hard,2026-11-17T13:30:00Z,Rafael Jodar,Arthur Fils,Arthur Fils,0.621,0.527,1.9,17.7,19.8,2.34,won,2026-11-17T21:35:43.266247+00:00,2.11,1.932,-1.7
-721,2026-11-17T03:31:30.833428+00:00,ATP,ATP World Tour Finals,Hard,2026-11-17T13:30:00Z,Frances Tiafoe,Flavio Cobolli,Frances Tiafoe,0.597,0.537,1.86,11.0,12.8,1.8,open,,,1.164,
+721,2026-11-17T03:31:30.833428+00:00,ATP,ATP World Tour Finals,Hard,2026-11-17T13:30:00Z,Frances Tiafoe,Flavio Cobolli,Frances Tiafoe,0.597,0.537,1.86,11.0,12.8,1.8,won,2026-11-19T02:23:23.888334+00:00,1.55,1.164,59.8
 722,2026-11-18T03:26:09.816782+00:00,ATP,ATP World Tour Finals,Hard,2026-11-17T13:30:00Z,Frances Tiafoe,Daniil Medvedev,Daniil Medvedev,0.633,0.587,1.7,7.7,11.0,1.57,open,,,1.38,
